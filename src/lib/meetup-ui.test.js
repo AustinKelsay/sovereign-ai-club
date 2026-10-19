@@ -46,8 +46,8 @@ describe("createInlineIcsHref", () => {
   it("escapes generated ICS text fields", () => {
     globalThis.window = {
       location: {
-        href: "https://austinai.club/calendar",
-        origin: "https://austinai.club",
+        href: "https://sovereignai.club/calendar",
+        origin: "https://sovereignai.club",
       },
     };
 
@@ -55,7 +55,7 @@ describe("createInlineIcsHref", () => {
       id: "generated-2026-07-22",
       detailsHref: null,
       event: {
-        title: "Austin, AI; Club",
+        title: "Sovereign, AI; Club",
         summary: "Quick AI news rundown,\nwith demos; and back\\slashes.",
         startAt: "2026-07-22T23:00:00.000Z",
         endAt: "2026-07-23T01:00:00.000Z",
@@ -67,9 +67,9 @@ describe("createInlineIcsHref", () => {
     const body = decodeURIComponent(href.replace(/^data:text\/calendar;charset=utf-8,/, ""));
 
     expect(body).toContain("PRODID:-//Sovereign AI Club//Meetups//EN");
-    expect(body).toContain("SUMMARY:Austin\\, AI\\; Club");
+    expect(body).toContain("SUMMARY:Sovereign\\, AI\\; Club");
     expect(body).toContain("DESCRIPTION:Quick AI news rundown\\,\\nwith demos\\; and back\\\\slashes.");
-    expect(body).toContain("Details: https://austinai.club/calendar");
+    expect(body).toContain("Details: https://sovereignai.club/calendar");
     expect(body).toContain("LOCATION:Bitcoin Park Austin\\, Austin\\, TX");
   });
 });

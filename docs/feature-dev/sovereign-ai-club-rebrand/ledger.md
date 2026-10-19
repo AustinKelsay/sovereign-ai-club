@@ -4,7 +4,7 @@
 
 - Run ID: sovereign-ai-club-rebrand-2026-09-07
 - Loop: Feature Dev
-- Target repo: AustinKelsay/austin-ai-club
+- Target repo: AustinKelsay/sovereign-ai-club
 - Base branch: origin/main (repo has no `staging` branch; same deviation as the wiki-topic-explorer run)
 - Feature branch: feature/sovereign-ai-club-rebrand
 - Human owner: AustinKelsay
@@ -44,7 +44,7 @@ Revised with the human on 2026-09-07 after the verification pass:
 - ADRs: `docs/adr/0003-sovereign-ai-club-rebrand.md`
 - Brand Poster: `docs/brand/sovereign-ai-club-poster.png`
 - Prototype source branch, if any: None
-- Spec issue: https://github.com/AustinKelsay/austin-ai-club/issues/43 (source: `./prd.md`)
+- Spec issue: https://github.com/AustinKelsay/sovereign-ai-club/issues/43 (source: `./prd.md`)
 - Tickets (source: `./slices.md`), published as sub-issues of #43 with native blocked-by links:
   - #44 Theme tokens prefactor
   - #45 Sovereign identity in the app
@@ -118,7 +118,7 @@ No new seams; all four unit seams exist today.
 
 - Apps Script reminder backend: source copy now says Sovereign AI Club; redeploying `apps-script/Code.gs` requires authenticated Apps Script access, unavailable in the release session. Website deployment does not deploy this backend.
 - Domain and repo rename: explicitly out of scope; tracked in ADR 0003.
-- Wiki page IDs stay `austin-ai-club-*` so `/wiki/:id` URLs do not change. Titles and wikilinks say Sovereign AI Club.
+- The original rebrand preserved wiki page IDs for URL stability. The October 19 cleanup moves canonical IDs to `sovereign-ai-club-*`, with redirects and route aliases for former bookmarks. Titles and wikilinks say Sovereign AI Club.
 
 ## Open Questions
 

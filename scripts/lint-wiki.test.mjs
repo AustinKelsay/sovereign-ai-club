@@ -246,7 +246,7 @@ describe("checkMentionedInTopicTitles", () => {
 
   it("rejects Mentioned In topic titles that are not on the linked meetup page", () => {
     const meetupTopicTitlesById = new Map([
-      ["austin-ai-club-may-13-2026", new Set(["sandcastle"])],
+      ["sovereign-ai-club-may-13-2026", new Set(["sandcastle"])],
     ]);
     const errors = checkMentionedInTopicReferences(
       "public/topics/concepts/coding-agents.md",
@@ -268,7 +268,7 @@ describe("checkMentionedInTopicTitles", () => {
   it("accepts Mentioned In topic titles that exist on the linked meetup page", () => {
     const meetupTopicTitlesById = new Map([
       [
-        "austin-ai-club-may-13-2026",
+        "sovereign-ai-club-may-13-2026",
         new Set(["sandcastle", "subq goes after 12m-token context"]),
       ],
     ]);
@@ -301,7 +301,7 @@ describe("checkMentionedInSourceRecords", () => {
       "entity",
       ["raw/articles/2026-05-13-link-records.md"],
       new Map([
-        ["austin-ai-club-may-27-2026", "raw/articles/2026-05-27-link-records.md"],
+        ["sovereign-ai-club-may-27-2026", "raw/articles/2026-05-27-link-records.md"],
       ]),
     );
 
@@ -322,7 +322,7 @@ describe("checkMentionedInSourceRecords", () => {
       "entity",
       ["raw/articles/2026-05-27-link-records.md"],
       new Map([
-        ["austin-ai-club-may-27-2026", "raw/articles/2026-05-27-link-records.md"],
+        ["sovereign-ai-club-may-27-2026", "raw/articles/2026-05-27-link-records.md"],
       ]),
     );
 

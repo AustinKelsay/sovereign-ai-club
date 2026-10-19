@@ -19,13 +19,17 @@ export function normalizeWikiId(value) {
 }
 
 /**
- * Keeps meetup page ids on historical `austin-ai-club-*` slugs after the club rename.
- * Titles and wikilinks may say "Sovereign AI Club"; `/wiki/:id` URLs stay
- * `austin-ai-club-{month}-{day}-{year}`. Entity and concept ids are unchanged.
+ * Uses the current club name for meetup ids, accepting the former title as an alias.
+ * Entity and concept ids are unchanged.
  * @param {unknown} title Page title or wikilink target
  * @returns {string}
  */
 export function stabilizeWikiPageId(title) {
-  const rewritten = String(title ?? "").replace(/^Sovereign AI Club\b/, "Austin AI Club");
+  const rewritten = String(title ?? "").replace(/^Austin AI Club\b/i, "Sovereign AI Club");
   return normalizeWikiId(rewritten);
+}
+
+/** Resolves bookmarked meetup ids to the current club name. */
+export function canonicalizeWikiRouteId(id) {
+  return String(id).replace(/^austin-ai-club-/, "sovereign-ai-club-");
 }

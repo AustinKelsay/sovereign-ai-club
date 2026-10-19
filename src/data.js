@@ -1,3 +1,5 @@
+import { OFFICIAL_SIGNAL_GROUP_URL } from "./app/constants.js";
+
 // This file is the frontend's explicit content contract.
 // Keep it boring: meetups -> tracks -> items.
 //
@@ -66,6 +68,10 @@ export const meetups = [
         {
           "label": "Austin Computer Club Meetup",
           "href": "https://www.meetup.com/austin-computer-club/events/316965012/"
+        },
+        {
+          "label": "Official public Signal group",
+          "href": OFFICIAL_SIGNAL_GROUP_URL
         }
       ]
     },
@@ -1985,7 +1991,7 @@ export const meetups = [
         description:
           "Bring a project, prototype, repo, demo, or weird link worth showing the room.",
         chip: "showcase",
-        href: "https://github.com/AustinKelsay/austin-ai-club",
+        href: "https://github.com/AustinKelsay/sovereign-ai-club",
       },
     ],
     tracks: [
@@ -3059,7 +3065,7 @@ export const meetups = [
         description:
           "Bring a project, prototype, repo, demo, or weird link worth showing the room.",
         chip: "showcase",
-        href: "https://github.com/AustinKelsay/austin-ai-club",
+        href: "https://github.com/AustinKelsay/sovereign-ai-club",
       },
     ],
     tracks: [
@@ -4398,7 +4404,7 @@ export const meetups = [
         description:
           "Bring a project, prototype, repo, demo, or weird link worth showing the room.",
         chip: "showcase",
-        href: "https://github.com/AustinKelsay/austin-ai-club",
+        href: "https://github.com/AustinKelsay/sovereign-ai-club",
       },
     ],
     tracks: [
@@ -4666,7 +4672,7 @@ export const meetups = [
         description:
           "Bring a project, prototype, repo, demo, or weird link worth showing the room.",
         chip: "showcase",
-        href: "https://github.com/AustinKelsay/austin-ai-club",
+        href: "https://github.com/AustinKelsay/sovereign-ai-club",
       },
     ],
     tracks: [

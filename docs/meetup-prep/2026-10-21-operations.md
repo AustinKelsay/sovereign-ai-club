@@ -16,6 +16,10 @@ The website event route is `/meetups/2026-10-21`. All three listings describe on
 
 Austin Computer Club's Whitepaper Wednesday runs the same evening, 7:00 to 8:30 PM at the bitcoin++ clubhouse, 900 Olive St. It does not share our venue, but it overlaps the last half hour.
 
+## Official public Signal group
+
+Austin designated [this Signal group](https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR) as the official public group on October 19, 2026. Use this exact invite for website and event community links. Luma remains the preferred registration destination.
+
 ## Registration policy
 
 Each platform remains authoritative for its own registrations and cancellations. Luma is the preferred registration destination, but a Meetup RSVP must remain visible in attendance planning even when the person has not registered on Luma.

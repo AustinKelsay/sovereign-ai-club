@@ -13,6 +13,8 @@ sources: [raw/articles/YYYY-MM-DD-link-records.md]
 
 AI Freedom Lab, Austin, TX · 5:30–7:30 PM Central.
 
+[Join the official public Signal group](https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR).
+
 Related wiki pages: [[Agent Infrastructure]], [[Open Models]], [[Local AI]], [[Coding Agents]].
 
 ### Local Builds & Projects

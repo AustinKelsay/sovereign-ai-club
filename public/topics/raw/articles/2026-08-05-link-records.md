@@ -619,7 +619,7 @@ sources: []
 ## Showcase
 
 ### Community Slot
-- Link: https://github.com/AustinKelsay/austin-ai-club
+- Link: https://github.com/AustinKelsay/sovereign-ai-club
   - Title: "Sovereign AI Club"
   - Type: Community repository
   - Access: 2026-08-04

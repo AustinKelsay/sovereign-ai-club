@@ -371,7 +371,7 @@ li,
   letter-spacing: -0.06em;
 }
 
-.brand-hero-copy > p:last-child {
+.brand-hero-copy > p:not(.eyebrow) {
   max-width: 42ch;
   color: var(--text-sub);
   font-size: 0.95rem;

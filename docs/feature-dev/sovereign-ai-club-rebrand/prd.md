@@ -8,7 +8,7 @@ The club is now Sovereign AI Club, meets at AI Freedom Lab at 5:30 PM, and has a
 
 Rename the club to Sovereign AI Club everywhere it is named, including the Markdown Archive and LLM Wiki, and restyle the website to match the Brand Poster: light sage-to-white palette, charcoal monospace type, an ASCII-art wordmark, brutalist panels with hard offset shadows, an ASCII wallpaper texture, and poster imagery on the homepage and social preview. Presentation Mode adopts the same light theme. The next Meetup and the Meetup template carry the new venue and start time while past Meetups keep their historical Event Metadata. The Sovereignty Lens joins the glossary as the club's primary editorial lens. The curation skill is renamed and rewritten so it points at the glossary instead of restating it.
 
-The domain stays `austinai.club` and the repo stays `austin-ai-club` for now; both are separate later steps.
+The original scope deferred domain and repository renames. Those follow-ups are complete: `sovereignai.club` is the primary domain and the repository is `AustinKelsay/sovereign-ai-club`. See ADR 0003 for the migration dates and compatibility rules.
 
 ## User Stories
 

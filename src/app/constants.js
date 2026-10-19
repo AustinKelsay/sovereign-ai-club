@@ -20,6 +20,7 @@ export const LINK_SUBMISSION_PATH = "/submit-link";
 export const SHOWCASE_SUBMISSION_PATH = "/submit-showcase";
 export const ISSUE_SUBMISSION_ENDPOINT = "/api/github-issue";
 export const COMMUNITY_SLOT_LABEL = "Showcase";
+export const OFFICIAL_SIGNAL_GROUP_URL = "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR";
 
 export const APP_ROUTE = {
   HOME: "home",

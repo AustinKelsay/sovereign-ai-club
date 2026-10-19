@@ -10,6 +10,7 @@ import {
   WIKI_PATH_PREFIX,
 } from "./constants.js";
 import { slugify } from "../lib/meetup-ui.js";
+import { canonicalizeWikiRouteId } from "../features/wiki/wikiIds.js";
 import {
   getDefaultVisibleTypes,
   WIKI_GRAPH_TYPE_LIST,
@@ -79,7 +80,7 @@ export function buildMeetupPath(slug) {
 }
 
 export function buildWikiPath(id, search = "") {
-  const base = id ? `${WIKI_PATH_PREFIX}/${encodeURIComponent(id)}` : WIKI_PATH_PREFIX;
+  const base = id ? `${WIKI_PATH_PREFIX}/${encodeURIComponent(canonicalizeWikiRouteId(id))}` : WIKI_PATH_PREFIX;
 
   if (!search) {
     return base;
@@ -242,7 +243,7 @@ export function getAppRoute(pathnameOrUrl) {
       try {
         return {
           name: APP_ROUTE.WIKI,
-          wikiId: decodeURIComponent(wikiId),
+          wikiId: canonicalizeWikiRouteId(decodeURIComponent(wikiId)),
           search,
         };
       } catch {

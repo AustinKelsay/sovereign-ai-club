@@ -51,7 +51,7 @@ describe("WikiDetail", () => {
 
   it("shows source link topic titles when source references include context", () => {
     const selectedPage = buildPage({
-      id: "austin-ai-club-april-1-2026",
+      id: "sovereign-ai-club-april-1-2026",
       title: "Sovereign AI Club - April 1, 2026",
       type: "meetup",
       tags: ["meetup"],
@@ -72,7 +72,7 @@ describe("WikiDetail", () => {
       <WikiDetail
         manifest={manifest}
         selectedPage={selectedPage}
-        focusedWikiId="austin-ai-club-april-1-2026"
+        focusedWikiId="sovereign-ai-club-april-1-2026"
         onOpenRoute={() => {}}
       />,
     );
@@ -256,7 +256,7 @@ OpenAI ships [[GPT]] models.
 
   it("merges outgoing links and backlinks into one list for pages without a body", () => {
     const selectedPage = buildPage({
-      id: "austin-ai-club-april-1-2026",
+      id: "sovereign-ai-club-april-1-2026",
       title: "Sovereign AI Club - April 1, 2026",
       type: "meetup",
       excerpt: "Related wiki pages: Security, Cursor.",
@@ -275,7 +275,7 @@ OpenAI ships [[GPT]] models.
       <WikiDetail
         manifest={manifest}
         selectedPage={selectedPage}
-        focusedWikiId="austin-ai-club-april-1-2026"
+        focusedWikiId="sovereign-ai-club-april-1-2026"
         onOpenRoute={() => {}}
       />,
     );
@@ -307,7 +307,7 @@ OpenAI ships [[GPT]] models.
 
   it("drops leading headings that only restate a meetup page title", () => {
     const selectedPage = buildPage({
-      id: "austin-ai-club-april-1-2026",
+      id: "sovereign-ai-club-april-1-2026",
       title: "Sovereign AI Club - April 1, 2026",
       type: "meetup",
       bodyMarkdown: `# Sovereign AI Club
@@ -325,7 +325,7 @@ Related wiki pages: [[Security]].
       <WikiDetail
         manifest={{ pagesById: { security: { id: "security" } } }}
         selectedPage={selectedPage}
-        focusedWikiId="austin-ai-club-april-1-2026"
+        focusedWikiId="sovereign-ai-club-april-1-2026"
         onOpenRoute={() => {}}
       />,
     );
@@ -336,7 +336,7 @@ Related wiki pages: [[Security]].
     expect(html).not.toContain("Not mentioned in a meetup yet.");
   });
 
-  it("resolves Sovereign meetup wikilinks to historical austin-ai-club page ids", () => {
+  it("resolves Sovereign meetup wikilinks to sovereign-ai-club page ids", () => {
     const selectedPage = buildPage({
       bodyMarkdown: `## Mentioned In
 
@@ -348,7 +348,7 @@ Related wiki pages: [[Security]].
       <WikiDetail
         manifest={{
           pagesById: {
-            "austin-ai-club-april-1-2026": { id: "austin-ai-club-april-1-2026" },
+            "sovereign-ai-club-april-1-2026": { id: "sovereign-ai-club-april-1-2026" },
           },
         }}
         selectedPage={selectedPage}
@@ -357,7 +357,7 @@ Related wiki pages: [[Security]].
       />,
     );
 
-    expect(html).toContain('href="/wiki/austin-ai-club-april-1-2026"');
+    expect(html).toContain('href="/wiki/sovereign-ai-club-april-1-2026"');
     expect(html).not.toContain("wiki-markdown-wikilink--unresolved");
   });
 
@@ -492,12 +492,12 @@ Related wiki pages: [[Security]].
   it("shows a Mentioned In section with meetup backlinks", () => {
     const selectedPage = buildPage({
       id: "anthropic",
-      backlinkIds: ["austin-ai-club-june-10-2026", "agent-cost-controls"],
+      backlinkIds: ["sovereign-ai-club-june-10-2026", "agent-cost-controls"],
     });
     const manifest = {
       pagesById: {
-        "austin-ai-club-june-10-2026": {
-          id: "austin-ai-club-june-10-2026",
+        "sovereign-ai-club-june-10-2026": {
+          id: "sovereign-ai-club-june-10-2026",
           title: "Sovereign AI Club - June 10, 2026",
           type: "meetup",
         },
@@ -612,7 +612,7 @@ describe("WikiTopicResults", () => {
       <WikiTopicResults
         topics={[
           {
-            id: "austin-ai-club-may-27-2026-big-tech-moves-spacex-options-cursor-for-60b",
+            id: "sovereign-ai-club-may-27-2026-big-tech-moves-spacex-options-cursor-for-60b",
             title: "SpaceX options Cursor for $60B",
             section: "Big Tech Moves",
             meetupTitle: "Sovereign AI Club - May 27, 2026",

@@ -1,7 +1,7 @@
 ---
 title: October 21, 2026 event sources
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-10-19
 type: summary
 tags: [source-record]
 sources: []
@@ -16,3 +16,5 @@ Event listings for [[Sovereign AI Club - October 21, 2026]], checked October 13.
 [Bitcoin Park Meetup](https://www.meetup.com/bitcoin-park-austin/events/316963193/) confirms the same gathering and links to Luma as the registration destination.
 
 [Austin Computer Club Meetup](https://www.meetup.com/austin-computer-club/events/316965012/) was published October 13 through Austin's organizer account. The saved listing confirms October 21, 5:30 to 7:30 PM Central, the Bitcoin Park Austin venue and Suite 250 directions, free admission, and the same Luma registration link. The optional member announcement has not been sent.
+
+[Official public Signal group](https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR): Austin supplied this invite and designated it as the official public Sovereign AI Club group on October 19. It is the community chat destination; Luma remains the preferred registration destination.

@@ -104,7 +104,7 @@
 ## [2026-09-07] update | Club rename sweep
 
 - Renamed Meetup titles, headings, wikilinks, and wiki prose to Sovereign AI Club.
-- Meetup page ids stay `austin-ai-club-*` so `/wiki/:id` URLs do not change.
+- Meetup page ids originally retained their former prefix for URL stability. The October 19 cleanup moves canonical ids to `sovereign-ai-club-*`, preserving former bookmarks through redirects and route aliases.
 
 ## [2026-08-26] update | Claudeforce and fal H3 Max
 

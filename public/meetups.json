@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T20:53:03.264Z",
+  "generatedAt": "2026-10-19T15:20:59.145Z",
   "siteUrl": "https://sovereignai.club",
   "events": [
     {
@@ -28,6 +28,10 @@
         {
           "label": "Austin Computer Club Meetup",
           "href": "https://www.meetup.com/austin-computer-club/events/316965012/"
+        },
+        {
+          "label": "Official public Signal group",
+          "href": "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR"
         }
       ],
       "detailsUrl": "https://sovereignai.club/meetups/2026-10-21",

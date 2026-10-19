@@ -184,13 +184,13 @@ sources: []
     expect(manifest.pages.map((page) => page.title)).toEqual([
       "Sovereign AI Club - May 13, 2026",
     ]);
-    expect(manifest.pagesById).not.toHaveProperty("austin-ai-club-month-dd-yyyy");
+    expect(manifest.pagesById).not.toHaveProperty("sovereign-ai-club-month-dd-yyyy");
     expect(manifest.graph.nodes.map((node) => node.id)).not.toContain(
-      "austin-ai-club-month-dd-yyyy",
+      "sovereign-ai-club-month-dd-yyyy",
     );
   });
 
-  it("keeps meetup page ids on austin-ai-club slugs when titles use Sovereign AI Club", async () => {
+  it("uses sovereign-ai-club slugs for meetup pages", async () => {
     const topicsDir = await createTopicsDir({
       "2026-04-01.md": `---
 title: Sovereign AI Club - April 1, 2026
@@ -207,11 +207,11 @@ sources: []
 
     const manifest = await buildWikiManifest({ topicsDir });
 
-    expect(manifest.pagesById["austin-ai-club-april-1-2026"]).toMatchObject({
-      id: "austin-ai-club-april-1-2026",
+    expect(manifest.pagesById["sovereign-ai-club-april-1-2026"]).toMatchObject({
+      id: "sovereign-ai-club-april-1-2026",
       title: "Sovereign AI Club - April 1, 2026",
     });
-    expect(manifest.pagesById).not.toHaveProperty("sovereign-ai-club-april-1-2026");
+    expect(manifest.pagesById).not.toHaveProperty("austin-ai-club-april-1-2026");
   });
 
   it("captures source link context from meetup topic titles", async () => {
@@ -257,7 +257,7 @@ sources: []
 
     const manifest = await buildWikiManifest({ topicsDir });
 
-    expect(manifest.pagesById["austin-ai-club-april-1-2026"].sourceReferences).toEqual([
+    expect(manifest.pagesById["sovereign-ai-club-april-1-2026"].sourceReferences).toEqual([
       {
         href: "https://x.com/RyanTheGentry/status/2039036789252390970",
         title: "402 Index paid API loop demo",
@@ -339,7 +339,7 @@ sources: []
         href: "https://github.com/ryanthegentry/402index-mcp-server",
         title: "402 Index paid API loop demo",
         section: "Agent Infrastructure",
-        sourcePageId: "austin-ai-club-april-1-2026",
+        sourcePageId: "sovereign-ai-club-april-1-2026",
         sourcePageTitle: "Sovereign AI Club - April 1, 2026",
       },
     ]);
@@ -388,7 +388,7 @@ sources: []
         href: "https://openai.com/index/introducing-openai-privacy-filter/",
         title: "[[OpenAI]] Privacy Filter gets inverted",
         section: "Security",
-        sourcePageId: "austin-ai-club-may-13-2026",
+        sourcePageId: "sovereign-ai-club-may-13-2026",
         sourcePageTitle: "Sovereign AI Club - May 13, 2026",
       },
     ]);
@@ -431,18 +431,18 @@ sources: []
 
     const manifest = await buildWikiManifest({ topicsDir });
 
-    expect(manifest.pagesById["austin-ai-club-may-13-2026"].outgoingIds).toEqual([
+    expect(manifest.pagesById["sovereign-ai-club-may-13-2026"].outgoingIds).toEqual([
       "coding-agents",
     ]);
     expect(manifest.pagesById["coding-agents"].backlinkIds).toEqual([
-      "austin-ai-club-may-13-2026",
+      "sovereign-ai-club-may-13-2026",
     ]);
     expect(manifest.pagesById["coding-agents"].referencedTopicSources).toEqual([
       {
         href: "https://subq.ai/introducing-subq",
         title: "SubQ goes after 12M-token context",
         section: "Models & Research",
-        sourcePageId: "austin-ai-club-may-13-2026",
+        sourcePageId: "sovereign-ai-club-may-13-2026",
         sourcePageTitle: "Sovereign AI Club - May 13, 2026",
       },
     ]);
@@ -495,12 +495,12 @@ sources: []
         href: "https://subq.ai/introducing-subq",
         title: "SubQ goes after 12M-token context",
         section: "Models & Research",
-        sourcePageId: "austin-ai-club-may-13-2026",
+        sourcePageId: "sovereign-ai-club-may-13-2026",
         sourcePageTitle: "Sovereign AI Club - May 13, 2026",
       },
     ]);
     expect(manifest.graph.links).toContainEqual({
-      source: "austin-ai-club-may-13-2026",
+      source: "sovereign-ai-club-may-13-2026",
       target: "coding-agents",
       kind: "topic",
     });
@@ -575,7 +575,7 @@ sources: []
       title: "SpaceX options Cursor for $60B",
       normalizedTitle: "spacex options cursor for $60b",
       section: "Big Tech Moves",
-      meetupId: "austin-ai-club-may-27-2026",
+      meetupId: "sovereign-ai-club-may-27-2026",
       meetupTitle: "Sovereign AI Club - May 27, 2026",
       meetupSlug: "2026-05-27",
       sourceLinks: [

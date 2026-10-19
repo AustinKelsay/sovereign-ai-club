@@ -1,6 +1,8 @@
-# austin-ai-club
+# sovereign-ai-club
 
 A small Vite + React frontend for Sovereign AI Club meetups, topic boards, submissions, reminders, and presentation mode.
+
+[Join the official public Signal group](https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR) to connect with the Sovereign AI Club community between meetups.
 
 This repo is optimized for clarity over abstraction. The goal is to make it easy for a human or agent to:
 

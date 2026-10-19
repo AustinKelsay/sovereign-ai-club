@@ -3,6 +3,7 @@
  */
 import {
   LINK_SUBMISSION_PATH,
+  OFFICIAL_SIGNAL_GROUP_URL,
   SHOWCASE_SUBMISSION_PATH,
   WIKI_PATH_PREFIX,
 } from "../../app/constants.js";
@@ -25,6 +26,10 @@ export default function ArchiveShell({ children, onOpenRoute, shellClassName = "
           </RouteLink>
         </div>
         <nav className="topbar-right" aria-label="Main navigation">
+          <a href={OFFICIAL_SIGNAL_GROUP_URL} className="topbar-link" target="_blank" rel="noreferrer"
+            aria-label="Join the official public Signal group">
+            Signal group
+          </a>
           <RouteLink to={WIKI_PATH_PREFIX} onOpenRoute={onOpenRoute} className="topbar-link"
             aria-current={activePath === WIKI_PATH_PREFIX ? "page" : undefined}>
             Wiki
@@ -46,8 +51,11 @@ export default function ArchiveShell({ children, onOpenRoute, shellClassName = "
       <footer className="footer">
         <SovereignWordmark compact />
         <div className="footer-links">
+          <a href={OFFICIAL_SIGNAL_GROUP_URL} target="_blank" rel="noreferrer">
+            Official public Signal group
+          </a>
           <a
-            href="https://github.com/AustinKelsay/austin-ai-club"
+            href="https://github.com/AustinKelsay/sovereign-ai-club"
             target="_blank"
             rel="noreferrer"
           >

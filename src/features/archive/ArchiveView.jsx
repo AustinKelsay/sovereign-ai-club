@@ -1,4 +1,5 @@
 import { buildMeetupPath } from "../../app/routes.js";
+import { OFFICIAL_SIGNAL_GROUP_URL } from "../../app/constants.js";
 import RouteLink from "../../components/RouteLink.jsx";
 import {
   formatEventTime,
@@ -61,6 +62,11 @@ export default function ArchiveView({ meetups, nextMeetupId, onOpenRoute }) {
             <p className="eyebrow">Austin, TX</p>
             <h2 id="brand-hero-title">Own your AI.</h2>
             <p>A Socratic meetup about the latest AI news, with a focus on local and sovereign AI. We examine the claims, ask questions, and discuss what matters across the broader AI field.</p>
+            <div className="meetup-event-actions">
+              <a href={OFFICIAL_SIGNAL_GROUP_URL} target="_blank" rel="noreferrer">
+                Join the official public Signal group
+              </a>
+            </div>
           </div>
           <img
             src="/brand/hero.png?v=4d43551b09ae"

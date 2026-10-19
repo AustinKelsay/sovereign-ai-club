@@ -36,6 +36,17 @@ describe("wiki routes", () => {
     });
   });
 
+  it("resolves old meetup bookmarks to current ids while retaining filters", () => {
+    expect(getAppRoute("/wiki/austin-ai-club-april-1-2026?q=local")).toEqual({
+      name: APP_ROUTE.WIKI,
+      wikiId: "sovereign-ai-club-april-1-2026",
+      search: "?q=local",
+    });
+    expect(buildWikiPath("austin-ai-club-april-1-2026", "?q=local")).toBe(
+      "/wiki/sovereign-ai-club-april-1-2026?q=local",
+    );
+  });
+
   it("captures the search string on the wiki route", () => {
     expect(getAppRoute("/wiki/openai?q=claude&type=entity")).toEqual({
       name: APP_ROUTE.WIKI,

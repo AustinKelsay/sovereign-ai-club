@@ -30,6 +30,11 @@
   ],
   "redirects": [
     {
+      "source": "/wiki/austin-ai-club-:meetup",
+      "destination": "/wiki/sovereign-ai-club-:meetup",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {

@@ -2,12 +2,12 @@ import { describe, expect, it } from "vitest";
 import { normalizeWikiId, stabilizeWikiPageId } from "./wikiIds.js";
 
 describe("stabilizeWikiPageId", () => {
-  it("keeps Sovereign meetup titles on historical austin-ai-club ids", () => {
+  it("uses current meetup ids and accepts former titles as aliases", () => {
     expect(stabilizeWikiPageId("Sovereign AI Club - April 1, 2026")).toBe(
-      "austin-ai-club-april-1-2026",
+      "sovereign-ai-club-april-1-2026",
     );
     expect(stabilizeWikiPageId("Austin AI Club - April 1, 2026")).toBe(
-      "austin-ai-club-april-1-2026",
+      "sovereign-ai-club-april-1-2026",
     );
   });
 

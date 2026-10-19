@@ -390,8 +390,7 @@ async function collectMarkdownFiles(dir) {
 }
 
 /**
- * Resolves a title or wikilink against catalog aliases, including Sovereign titles
- * that keep historical `austin-ai-club-*` ids.
+ * Resolves a title or wikilink against catalog aliases, including former club titles.
  * @param {Map<string, string>} titleToId
  * @param {string} value
  * @returns {string | undefined}
@@ -402,7 +401,7 @@ function resolveWikiTargetId(titleToId, value) {
 
 function createPage({ content, file, frontmatter, topicsDir }) {
   const relativePath = toPosix(path.relative(topicsDir, file));
-  // Historical URL stability after the club rename: meetup ids stay austin-ai-club-*.
+  // Meetup ids use the current club name; legacy routes resolve separately.
   const id = stabilizeWikiPageId(frontmatter.title || relativePath);
   const sources = Array.isArray(frontmatter.sources) ? frontmatter.sources : [];
   const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : [];

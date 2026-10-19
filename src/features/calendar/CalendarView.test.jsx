@@ -30,7 +30,7 @@ const entry = {
 
 function renderCalendar() {
   globalThis.window = {
-    location: { href: "https://austinai.club/calendar" },
+    location: { href: "https://sovereignai.club/calendar" },
   };
 
   return renderToStaticMarkup(
