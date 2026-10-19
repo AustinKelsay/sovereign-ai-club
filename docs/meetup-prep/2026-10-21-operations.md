@@ -20,6 +20,13 @@ Austin Computer Club's Whitepaper Wednesday runs the same evening, 7:00 to 8:30 
 
 Austin designated [this Signal group](https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR) as the official public group on October 19, 2026. Use this exact invite for website and event community links. Luma remains the preferred registration destination.
 
+October 19 publication checks:
+
+- Website: published in commit `e57bedb`; Vercel production is ready. The group appears in the homepage, shared navigation and footer, and October 21 event links. The Markdown event record and future Meetup template also include it.
+- Austin Computer Club: added the official group to the existing event description and saved it. A fresh public HTTP response includes the exact invite. The original description, entrance directions, and registration links are preserved.
+- Bitcoin Park Meetup: appended the official group to the existing description and saved it. A fresh public HTTP response includes the exact invite. The original description and formatting, entrance directions, and registration links are preserved.
+- Luma: checked while signed in as Austin Kelsay. The page offers registration controls and lists Jack Lesser as host, with no event edit or management controls. Its description was not changed; adding the invite there requires host access.
+
 ## Registration policy
 
 Each platform remains authoritative for its own registrations and cancellations. Luma is the preferred registration destination, but a Meetup RSVP must remain visible in attendance planning even when the person has not registered on Luma.
@@ -32,7 +39,9 @@ There is no automatic RSVP synchronization or background monitoring. Recheck liv
 
 ## Access and changes
 
-Jack Lesser is the listed Luma host. Austin's Luma and Bitcoin Park Meetup host access for this event has not been verified. Coordinate edits with Jack, or confirm access before you change either listing.
+Jack Lesser is the listed Luma host. On October 19, Austin's signed-in account had registration controls but no event edit or management controls. Coordinate edits with Jack, or obtain host access before changing that listing.
+
+Austin is a cohost of Bitcoin Park Meetup event 316963193. Host edit access was verified October 19, and the description update was saved and confirmed on the public page.
 
 Austin's signed-in Meetup account in Zen has Austin Computer Club organizer controls. Event creation and publishing access were verified October 13, and Austin is the host of event 316965012. The published page was checked after saving. The optional member announcement was left unsent. Event chat is off; public comments are enabled. The listing uses the October 21 entrance directions and does not include the September 30 Signal contact line.
 
