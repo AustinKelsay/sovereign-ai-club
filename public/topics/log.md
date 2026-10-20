@@ -2,6 +2,86 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-10-20] update | October 21 closed and open release feeds
+
+- Deepened **Closed model releases** and **Open model releases** with lab posts from October 6–16. Closed adds Haiku 5.5, Nano Banana 2.1, Muse Wonder, Grok Voice 3.0, and Kling 4.0. Open adds Beam, Jais 3, Open d1, LFM2.5-24B-A2B, Nemotron 3.5 Super VL and Bolt, Step 5 Preview weights, Qwen-Image-2.1-Turbo, and FLUX 3 Image Klein. Licenses stay in the spoken line. IBM Granite Switch 4.1 has Apache weights and no lab X post, so it stays off the feed.
+
+## [2026-10-20] update | October 21 Cantina wolfSSL follow-up
+
+- Added Cantina's October 20 wolfSSL post to **Cantina's apex-flash-1**. Cantina says Apex found two configuration-specific authentication bypasses; wolfSSL credits Christos Papakonstantinou of Cantina and fixed both in 5.9.4. Presenter notes keep the no-exploit rule and say neither bug hits a default build.
+
+## [2026-10-20] update | October 21 Cruz task scores
+
+- Updated **Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits** with his same-day follow-up. He reports 332 of 353 on his own nine-suite subset, ahead of two higher-bit quants that each used two Sparks, and the recipe README now defaults to 524,288 tokens. Presenter notes keep the subset caveat, the tool-chain loss, the long prefill, and the unreleased REXL3 engine.
+
+## [2026-10-20] curate | October 21 DeepInfer
+
+- Added **DeepSeek open-sources DeepInfer, its V4.1-Flash engine** to Models & Research after Open model releases and before Cruz's quant. DeepSeek's October 20 thread open-sources the Apache 2.0 offline framework it says serves V4.1-Flash on NVIDIA SM100 and Huawei Ascend 950. The README omits the KV cache and replica load balancing, and says the engine was built mainly on vLLM. Recorded the repo, the thread, and MIT deepseek-recipe, which has been public since September 10. Updated mentions on DeepSeek, vLLM, Models & Research, Inference Optimization, and Open Models.
+
+## [2026-10-20] update | October 21 Presenter Notes trimmed
+
+- Cut every October 21 Presenter Note to one to three short sentences, about 2,070 words down to about 620, keeping only what the host should say aloud or avoid. Secondary numbers stay in the source link records. Fixed the DHS note, which still pointed to Cruz's quant at the top of the board, and dropped a stray line about link markup from the Anthropic IoT note.
+
+## [2026-10-20] update | October 21 harness Topic split
+
+- Split **The harness moves the score: DeepSWE and Hugging Face's RL proxy** into **Same model, different harness: 8090's DeepSWE run** and **Hugging Face trains open models inside Claude Code and Codex**. 8090's DeepSWE study is an eval of shipped harnesses; Hugging Face's proxy is RL training tooling, and its 62% vs. 33% result comes from a 2.6B model on Kaggle-style data-analysis tasks, not coding tasks, which the old combined copy did not say. Both stay in Agent Infrastructure after REA. Added records for the Hugging Face guide, OpenEnv, FineEnvs, and the LFM models, noted that the trained models carry Liquid's LFM 1.0 license, and updated mentions on Hugging Face, Claude Code, Codex, GLM, AI Benchmarks & Evals, Coding Agents, and Agent Infrastructure.
+
+## [2026-10-20] curate | October 21 Reverse Engineer Anything
+
+- Added **Reverse Engineer Anything passes Linux in GitHub stars** to Agent Infrastructure right after the game decompile and mashup Topic, as its follow-up. The Topic covers REA's climb from about 120 stars on October 3 to about 346,000 on October 20, the Amjad Masad post that set it off, the Hermes Agent plugin and Perplexity Computer integration, and Korben's test showing plain Claude driving Ghidra did as well. Presenter Notes separate stars from npm downloads, note we could not audit stargazers, and pair REA's disclaimer with the game mashups. Recorded the repo, site, disclaimer, star trackers, npm stats, launch-path posts, Hermes plugin page, Korben review, and the May preprint on attacking reverse-engineering agents; created the REA entity page and added reciprocal mentions on Claude Code, Codex, Hermes Agent, Perplexity, Agent Infrastructure, and Coding Agents.
+
+## [2026-10-20] update | October 21 Cruz topic moves to Models & Research
+
+- Moved **Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits** from Local Builds & Projects to Models & Research, after Open model releases. It is outside work, not an Austin or member project, so it goes by its main angle: a quantized build of a model in that release roundup. Dropped the now-empty Local Builds & Projects track from the board, its source records, and its concept page, and moved the host-note slot from 5:40 to the release-feed block.
+
+## [2026-10-20] update | October 21 game decompile and mashup slide
+
+- Renamed the October 21 Modern Warfare 2 Topic to cover the wider decompile and mashup wave. Maurice Heumann's close-out stays one example beside P.E. Cooper's World at War port and the mashup posts.
+
+## [2026-10-20] curate | October 21 Cua Spaces
+
+- Added Cua's October 19 Spaces SDK launch to Agent Infrastructure after Reason Network, so the two relay models sit side by side. The Topic separates the MIT Cua Driver and Lume from FSL-licensed Spaces and cites Cua's own description of its TLS-terminating relay. Recorded the product page, launch thread, agent and relay docs, licensing file, and bots example; created the Cua entity page with its September 30 and October 21 mentions and added reciprocal mentions on Claude Code, Codex, Agent Infrastructure, and Agent Security.
+
+## [2026-10-20] curate | October 21 Gradium Phonon
+
+- Added Gradium's open Phonon text-to-speech release to the October 21 Open model releases roundup, framed by its license split: Apache 2.0 for the 31M English model and CC BY-NC for the 40M models. Presenter Notes attribute the speed and word-error claims to Gradium and separate Phonon from Fermion's Phonon-2 speech recognizer. Recorded the blog, model card, runtime repository, test set, and launch post; created the Gradium entity page and added a disambiguation note to Phonon-2.
+
+## [2026-10-20] curate | October 21 Ornith-1.5-122B
+
+- Added Ornith-1.5-122B to the October 21 Open model releases roundup as an MIT release, with Ornith's single-DGX and SWE-bench Verified claims attributed to Ornith. Presenter Notes flag that the main checkpoint is BF16 at about 250 GB, so single-device claims depend on the FP8, GGUF, or MLX builds, and that the launch post's HLE figure does not match the model card. Recorded the model card and launch post and added the October 21 mention to the Ornith page.
+
+## [2026-10-20] curate | October 21 Reason Network
+
+- Added Reason's open-source Reason Network launch to Agent Infrastructure after OpenTunnel. The Topic separates the MIT or Apache 2.0 engine from Reason's closed setup CLI, notes the agent instructions that say to install "without asking questions," and asks who should be able to prompt your agent. Recorded the product page, agent instruction file, repository, design doc, and launch post; created the Reason Network entity page and added reciprocal mentions on Claude Code, Codex, Pi, Agent Infrastructure, Agent Security, and Coding Agents.
+
+## [2026-10-20] curate | October 21 Perplexity local Computer
+
+- Added Perplexity's October 20 fully local Computer launch to Agent Infrastructure after the TensorFold and oMLX comparison. The Topic attributes the model, memory, and cloud-escalation claims to Perplexity and asks how much control a local agent gives when the app and account stay Perplexity's. Recorded the launch post, X post, September Hybrid Compute post, Lily research post, and MIT Lily repository; created the Perplexity entity page and added reciprocal mentions on Qwen, Local AI, Agent Infrastructure, and Privacy Tooling.
+
+## [2026-10-20] curate | October 21 game mashup stack
+
+- Stacked the high-view game-mashup posts from late September and early October onto Maurice Heumann's Modern Warfare 2 Topic, and recorded which ones are two-game bridges, which are rewrites, and which never say an agent was used. View counts are FxTwitter snapshots from October 20.
+
+## [2026-10-20] update | October 21 copy and framing pass
+
+- Tightened every October 21 Topic to the spoken-copy gate and moved secondary numbers into Presenter Notes. Renamed the MW2 Topic now that the decompile is finished, credited MaximumADHD's two-instance explanation to the AI game mashups rather than MW2, merged Goodfire's clean-neurons essay with Cheng Lou's Handwired, renamed the OpenTunnel Topic, corrected the OpenAI math withdrawal date to October 7, and reordered Agent Infrastructure and Security for discussion flow. Updated source-record headings and reciprocal mentions.
+
+## [2026-10-20] curate | October 21 DeepSeek additions
+
+- Added Cruz's 1.62-bit DeepSeek V4.1 Flash quant on one DGX Spark as the board's Local Builds & Projects item, and DHS's FASCSA order removing DeepSeek from federal civilian IT under Big Tech Moves. Recorded the model card, recipe, Federal Register notice, and signed order, and added reciprocal mentions.
+
+## [2026-10-19] update | October 21 sparkDash removed
+
+- Removed Mia AI Lab's sparkDash 2.0 from the October 21 board, its link record, and the reciprocal mentions.
+
+## [2026-10-19] update | October 21 follow-up pass
+
+- Rechecked the October 21 board against later posts and primary pages. Moved the MW2 item to Maurice Heumann's October 9 close-out, added OpenAI's three math withdrawals, the OpenCode follow-ups from October 18, the charging filing in the recorder case, and OpenAI's reply to the safety-researcher firings.
+
+## [2026-10-19] curate | October 21 topic board
+
+- Grouped the submitted links into the October 21 board: game decompilation, harness variance, local runtimes, closed and open release feeds, the math-and-Lean gap, and the security and policy items that name a source. Recorded maker claims as attributed, kept already-public open source outside China's draft export rules distinct from the annex thresholds, and mirrored the board into Meetup Data.
+
 ## [2026-10-13] update | October 21 Computer Club listing published
 
 - Published the Austin Computer Club listing for the same October 21 gathering and verified its saved event details, Luma registration link, and arrival directions. Added its link to the Markdown Archive, Meetup Data, and source record; documented organizer access and the unsent optional member announcement.

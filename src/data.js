@@ -75,8 +75,720 @@ export const meetups = [
         }
       ]
     },
-    "showcases": [],
-    "tracks": []
+      "presentationIntro": {
+        "eyebrow": "Sovereign AI Club",
+        "title": "Sovereign AI Club",
+        "bullets": [
+          "Free and open. Wednesday, 5:30 to 7:30.",
+          "Quick AI news rundown, then open Socratic discussion.",
+          "Focus: local AI, open models, and control over the tools we use.",
+          "Bring a question, a project, or a demo for the Community Slot."
+        ],
+        "hostNote": "5:30 welcome; 5:40 games, REA, harness scores, harness RL, and flow-1; 6:00 Prime, Pi, tunnels, agent networks, bring-your-own computers, local engines, and Perplexity's local Computer; 6:20 release feeds, DeepInfer, and one-Spark DeepSeek; 6:40 math and readable nets; 6:55 security; 7:10 export rules, the DeepSeek order, and OpenAI; 7:25 Community Slot; 7:30 finish. Attribute maker numbers, and do not walk through exploit payloads."
+      },
+      "showcases": [],
+      "tracks": [
+        {
+          "id": "agent-infrastructure",
+          "title": "Agent Infrastructure",
+          "items": [
+            {
+              "title": "Agents decompile games and mash them together",
+              "description": "Agents spent these weeks taking commercial games apart and sticking them together. Maurice Heumann says his rebuilt 99% of Modern Warfare 2's functions, 83% byte-exact, P.E. Cooper says Opus 5.5 and Astra ported World at War zombies into a browser, and Tobyn Jacobs' Minecraft-in-Elden-Ring clip is past 23 million views.",
+              "href": "https://github.com/chasmlol/SkyCraft",
+              "linkPair": [
+                "https://github.com/chasmlol/2010-rust-rewrite-mashup",
+                "https://github.com/rehan-remade/universal-modder",
+                "https://github.com/luki-1/ArkWeb",
+                "https://github.com/deltarooo/er-mario",
+                "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/TobynJacobs/status/2104884843297599594"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/Motion_Viz/status/2105931253627462124"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/chasmmmmmmmmmmm/status/2104349115521888748"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/Deltaroo3D/status/2105345162771648883"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/chasmmmmmmmmmmm/status/2105707774646562818"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/MaximumADHD/status/2106049715628294436"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/rehan_shei/status/2105161487509852622"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/cydonix/status/2105624857061081491"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/p_e_cooper/status/2104980433972703483"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/p_e_cooper/status/2105387636131024992"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/chasmmmmmmmmmmm/status/2105046595548967150"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/cydonix/status/2105177318968955044"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/momo5502/status/2108886652391141721"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/momo5502/status/2105360274777624902"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ParkerRex/status/2106021849943441445"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/esrtweet/status/2106983467141509385"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/mintblitz/status/2105318836958585150"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/roundtablespace/status/2105474026110070963"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ericzakariasson/status/2105359599234855405"
+                }
+              ],
+              "notes": "Two kinds here: decompiles rebuild a game's code, while most mashups run two games side by side and share state. Several viral clips never mention an agent, and Rehan's promo carries a community note for reusing other people's mods.",
+              "topStory": true
+            },
+            {
+              "title": "Reverse Engineer Anything passes Linux in GitHub stars",
+              "description": "REA, short for Reverse Engineer Anything, is an MIT tool that hands Claude Code, Codex, and other agents Ghidra, Hopper, or IDA, and it went from about 120 GitHub stars on October 3 to about 346,000 on October 20, now GitHub's 10th most-starred repo. It took off after Replit's Amjad Masad posted on October 7 that all software will soon be \"de facto open-source,\" and Hermes Agent and Perplexity have since built it in, yet Korben's side-by-side test found it did no better than Claude told to install Ghidra. So what are people starring: the tool, or the idea that closed software is now readable?",
+              "href": "https://github.com/morluto/rea",
+              "linkPair": [
+                "https://rea.tools",
+                "https://korben.info/en/rea-ai-agent-reverse-engineering-test.html",
+                "https://www.star-history.com/morluto/rea/",
+                "https://hermes-agent.nousresearch.com/docs/plugins/rea",
+                "https://github.com/morluto/rea/blob/main/DISCLAIMER.md"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/amasad/status/2107671204639465961"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/morluto/status/2107684925466177614"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/Teknium/status/2110736682207355062"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/AravSrinivas/status/2111124769450135880"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/reatools/status/2112574822584918075"
+                }
+              ],
+              "notes": "Stars are bookmarks, not use, and we couldn't check who starred it; no source shows fake stars. Korben found REA faster on three of four tasks, not more capable. Its disclaimer bans game cheats and copying proprietary code, yet morluto says its Discord is mashing up games."
+            },
+            {
+              "title": "Same model, different harness: 8090's DeepSWE run",
+              "description": "8090 Labs ran seven models through five harnesses on DeepSWE v1.1, 113 real bug fixes and features from open-source projects, and no model scored best in its maker's own harness, though only Claude's gap clears 8090's noise bound: Claude Fable 5.1 passed 41% of runs in Claude Code and 61% in Codex. The biggest swing was GLM 5.3 Flash, 24% in Codex and 59% in the DeepSeek harness, while GPT-5.6 Sol and Grok 4.6 barely moved. Chamath, who asked 8090 to run it, now calls model benchmarks worthless, so if the harness moves the score this much, should a leaderboard rank models or model-and-harness pairs?",
+              "href": "https://www.8090.ai/blog/same-model-different-harness",
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/chamath/status/2109703737493344363"
+                }
+              ],
+              "notes": "8090 counts gaps of 9 points or less as noise, so only Claude's 20-point gap clearly holds up, and each task ran just twice. 8090 sells its own coding product, and Chamath asked for the study."
+            },
+            {
+              "title": "Hugging Face trains open models inside Claude Code and Codex",
+              "description": "Hugging Face built a capture proxy that turns unmodified harnesses, including Claude Code, Codex, and OpenCode, into RL environments: the harness thinks it's calling a model API, and the proxy records the exact tokens vLLM sampled so TRL can train on them. On data-analysis tasks built from Kaggle notebooks, Liquid AI's 2.6B LFM2.5 solved 62% under Mini-SWE-Agent but 33% under Claude Code, and RL across four harnesses lifted it from 42% to 54% overall, while training in OpenCode alone mostly helped OpenCode. If you can tune an open model to the harness you already use, how much does a harness-free leaderboard still tell you?",
+              "href": "https://huggingface.co/spaces/FineEnvs/multi-harness-rl",
+              "linkPair": [
+                "https://github.com/huggingface/OpenEnv",
+                "https://github.com/adithya-s-k/FineEnvs",
+                "https://huggingface.co/FineEnvs/LFM2.5-2.6B-multiharness-RL"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/clementdelangue/status/2107120717980471638"
+                }
+              ],
+              "notes": "These are data-analysis tasks on a 2.6B model, not coding benchmarks. The tooling is open source, but the trained models carry Liquid's own LFM license."
+            },
+            {
+              "title": "flow-1, a model for checking agent traces",
+              "description": "flow-1's makers say their RL-trained model finds errors in agent traces as well as GPT-6-sol for 23x less, and costs 25% less to run than GPT-6-luna, cheap enough to check every agent run instead of sampling.",
+              "href": "https://x.com/skull8888888888/status/2107138967644541129",
+              "linkPair": [],
+              "embeds": [],
+              "notes": "No model card or independent eval yet; the 23x and 25% figures are the launch post's."
+            },
+            {
+              "title": "Prime Agent rewrote itself in Rust",
+              "description": "On August 5 we met Prime Agent as a harness that can edit itself, and Prime Intellect now says about 2,000 agents spent two weeks and 200B+ GLM-5.3 tokens porting it from TypeScript to Rust, cutting cold time-to-type about 13x and process-tree memory about 83%. Differential TUI, transcript, and protocol tests checked parity, and v0.10.0 shipped October 9.",
+              "href": "https://www.primeintellect.ai/blog/prime-agent-rust",
+              "linkPair": [
+                "https://github.com/PrimeIntellect-ai/prime-agent/releases/tag/v0.10.0"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/primeintellect/status/2108672479007047952"
+                }
+              ],
+              "notes": "Prime Intellect's own numbers: cold start from 738 ms to 56 ms, memory from 607 MB to 106 MB."
+            },
+            {
+              "title": "Earendil's Pi 1.0 and Pi Durable",
+              "description": "Earendil shipped Pi 1.0 on October 1, a minimal MIT agent harness with Codemode, deferred tool loading, and mid-conversation system messages, alongside Pi Durable, a separate experimental MIT package for long-running agent apps.",
+              "href": "https://earendil.com/posts/pi-1-0/",
+              "linkPair": [
+                "https://github.com/earendil-works/pi"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/pidotdev/status/2105738462712209603"
+                }
+              ],
+              "notes": "Install at pi.dev. Pi Durable is experimental and separate from the 1.0 harness."
+            },
+            {
+              "title": "dax's OpenTunnel keeps TLS on your machine",
+              "description": "OpenTunnel gives a local process a public hostname and terminates TLS on your machine, so the relay isn't supposed to see your HTTP traffic, and dax says you can clone it onto your own domain. Its own docs list the catches: inbound TCP runs on temporary AWS relays while they wait on a Cloudflare Spectrum beta, hostnames land in certificate transparency logs, route names are guessable, and your service still needs auth.",
+              "href": "https://github.com/anomalyco/opentunnel",
+              "linkPair": [
+                "https://opentunnel.xyz/"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/thdxr/status/2107956848318177622"
+                }
+              ],
+              "notes": "Say the caveats out loud: TCP runs on temporary AWS relays, and hostnames land in public certificate logs."
+            },
+            {
+              "title": "Reason Network lets your agents message your teammates' agents",
+              "description": "Reason Network puts Claude Code, Codex, Pi, and other coding agents on one peer-to-peer network built on iroh, so your session can ask a teammate's agent a question and get the answer mid-turn. The engine is MIT or Apache 2.0 and Reason says its relays see only ciphertext, but the page your agent reads to join tells it to pipe Reason's closed CLI installer into bash \"without asking questions,\" and by default a teammate's message lands in your session and can wake it, so who gets to prompt your agent?",
+              "href": "https://reasonmachines.com/network",
+              "linkPair": [
+                "https://github.com/reason-machines/reason-network",
+                "https://github.com/reason-machines/reason-network/blob/main/DESIGN.md",
+                "https://reasonmachines.com/network/skill.md"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/reasonmachines/status/2112539998352523575"
+                }
+              ],
+              "notes": "Hosted bots like Grok Bot and Muse go through Reason's server, not peer to peer. Teammate messages land by default; holding them is a setting, and labeling them is a prompt guard, not a sandbox."
+            },
+            {
+              "title": "Cua Spaces lets any agent bring its own computer",
+              "description": "Cua says Grok Bot, Muse, and dots each come with their lab's own computer, so its new Spaces SDK puts Claude Code, Codex, or any agent on a desktop you pick: your laptop, an office Mac mini, your own cloud account, or a sandbox provider, and you can watch or take over. Cua Driver and Lume are MIT but Spaces is source-available under FSL, and Cua's own docs say its hosted relay terminates TLS and can read shell output, files, keystrokes, and the desktop stream unless you turn on a beta end-to-end mesh, so whose computer is it when the traffic runs through Cua?",
+              "href": "https://spaces.cua.ai",
+              "linkPair": [
+                "https://cua.ai/docs/spaces/guides/use-from-an-agent",
+                "https://cua.ai/docs/spaces/guides/relay-security",
+                "https://github.com/trycua/cua/blob/main/legal/LICENSING.md",
+                "https://github.com/trycua/cua/tree/main/examples/cua-bots-macos"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/trycua/status/2112228154651881479"
+                }
+              ],
+              "notes": "Pair with Reason Network: Reason's relays see only ciphertext, while Cua's can read sessions in flight. Spaces on your own network skip the relay."
+            },
+            {
+              "title": "TensorFold vs. oMLX on an M5 Ultra Studio",
+              "description": "Seth For Privacy ran every model he could on TensorFold and oMLX: TensorFold wins decode and trails on prefill, so by his read quick agent turns fit TensorFold and long-horizon jobs on big codebases still fit oMLX. He says TensorFold changed a lot in a single week, so treat this as a snapshot.",
+              "href": "https://x.com/sethforprivacy/status/2107115577068183800",
+              "linkPair": [],
+              "embeds": [],
+              "notes": "One author's runs on one machine, a week after TensorFold appeared; treat it as a snapshot."
+            },
+            {
+              "title": "Perplexity Computer goes fully local on Mac",
+              "description": "Perplexity says its Computer agent can now run the model, the harness, and the task entirely on your Mac, using Qwen 3.6 or PPLX Pro, its own post-trained Qwen, with 36 GB of memory recommended. It reaches the cloud only when you authorize it, for current information, browsing, connected apps, or a frontier model, but it lives in Perplexity's closed Mac app behind a Pro, Max, or Enterprise subscription, so if the weights and the agent run on your machine but the app and account are Perplexity's, how much control did you get?",
+              "href": "https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac",
+              "linkPair": [
+                "https://www.perplexity.ai/hub/blog/introducing-hybrid-compute-on-mac",
+                "https://research.perplexity.ai/articles/optimizing-on-device-inference-for-apple-silicon",
+                "https://github.com/perplexityai/pplx-garden/tree/main/lily"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/perplexity_ai/status/2112571597798461920"
+                }
+              ],
+              "notes": "Every claim is Perplexity's, with no independent test. The post names no model size, quantization, or license, and 36 GB is a recommendation, not a stated minimum."
+            }
+          ]
+        },
+        {
+          "id": "models-research",
+          "title": "Models & Research",
+          "items": [
+            {
+              "title": "Closed model releases",
+              "description": "Mistral Large 4, nicknamed Le Chonk, is still an API preview of a roughly 1.05-trillion-parameter model with 49 billion active, and MiniMax M3.1 Flash is on the API at $0.15 in and $0.60 out, with weights promised by the end of October and October 23. Since September 30 the closed feed also added Claude Haiku 5.5, which Anthropic says costs about 75% less than Haiku 4.5, Google's Nano Banana 2.1, Muse Wonder at $4 in and $20 out with Wonder Full kept on the Muse Code subscription, xAI's Grok Voice 3.0 at the same $0.08 a minute, and Kling 4.0.",
+              "href": "https://mistral.ai/news/mistral-large-4/",
+              "linkPair": [
+                "https://huggingface.co/mistralai/Mistral-Large-4.0-1T05-A52B",
+                "https://www.minimax.io/blog/minimax-m31f",
+                "https://platform.minimax.io/docs/guides/models-intro",
+                "https://www.anthropic.com/claude-haiku-5-5",
+                "https://dev.meta.ai/resources/blog/build-with-muse-wonder",
+                "https://research.meta.ai/blog/muse-wonder",
+                "https://x.ai/news/grok-voice-3"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/mistralai/status/2107457414387622310"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/guillaumelample/status/2107461902909558833"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/synthwavedd/status/2107463923205079480"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/MiniMax_AI/status/2112150867868541221"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/Google/status/2107501209154204148"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/claudeai/status/2107894039626277339"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/AIatMeta/status/2109691148943999167"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/SpaceXSI/status/2110416580899168305"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/Kling_ai/status/2110747537187709424"
+                }
+              ],
+              "notes": "Prices and the 75% Haiku cut are the labs' own. Muse Wonder Full is the Muse Code subscription model, not the $4 and $20 API model. MiniMax says Space Bunny was an early M3.1 Flash.",
+              "releaseRoundup": true
+            },
+            {
+              "title": "Open model releases",
+              "description": "Apache 2.0 now also covers Reflection's Beam, 501 billion parameters with 23 billion active, and IFM's Jais 3, up to a 375-billion-parameter flagship, beside the MIT releases already here, Ant's Ling-3.1-flash, DeepSeek V4.1-Flash-1017, and Ornith, plus Apache Kolibri on the weights and config only, Jev-compatible Clef, and EmbeddingGemma 2. The rest are narrower: Liquid AI's LFM2.5-24B-A2B and Open d1 use the LFM 1.0 license, Nemotron 3.5 Super VL and Bolt use OpenMDW-1.1, Step 5 Preview's weights are out under StepFun's own license, Qwen-Image-2.1-Turbo is research-only, FLUX 3 Image Klein uses the FLUX Kommunity License, Gradium's Phonon is Apache only for the 31M English model, and Muse Spark Open stays on the Muse Model License.",
+              "href": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+              "linkPair": [
+                "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+                "https://huggingface.co/inclusionAI/Ling-3.1-flash",
+                "https://blog.cloudflare.com/clef-decision-models/",
+                "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+                "https://research.meta.ai/blog/muse-spark-open",
+                "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+                "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+                "https://api-docs.deepseek.com/news/news261017/",
+                "https://huggingface.co/ornith-ai/Ornith-1.5-122B",
+                "https://huggingface.co/superagent-ai/security-one-27b",
+                "https://underdog.ai/saluki",
+                "https://gradium.ai/blog/release-phonon-open-weight",
+                "https://huggingface.co/gradium/phonon-31m-en",
+                "https://github.com/gradium-ai/xn-ptts",
+                "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+                "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+                "https://huggingface.co/LiquidAI/d1-3B",
+                "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+                "https://ifm.ai/blog/jais3",
+                "https://huggingface.co/IFM/jais-3-375b-a23b",
+                "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
+                "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
+                "https://huggingface.co/stepfun-ai/Step-5-Preview",
+                "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+                "https://bfl.ai/blog/flux-3-image-klein"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/Aleph__Alpha/status/2106306840657297814"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/kimmonismus/status/2105360290451767792"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/michellechen/status/2105684868550045751"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/googledeepmind/status/2107502286758895878"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/aiatmeta/status/2110779754274292212"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/deepseek_ai/status/2111375640717033777"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ornith_/status/2112553477457268799"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/pelaseyed/status/2107109696846889147"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/underdogai/status/2108021482983133395"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/GradiumAI/status/2112563128487514512"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/liquidai/status/2107878924831379676"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/liquidai/status/2110055807194931348"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/reflection_ai/status/2111079965529968798"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/IFM_AI/status/2110641827778843010"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/NVIDIAAI/status/2110749836450713896"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/NVIDIAAI/status/2110824076218605922"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/StepFun_ai/status/2110717330657616092"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/Alibaba_Qwen/status/2108549075218120949"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/bfl_ai/status/2110751201105256925"
+                }
+              ],
+              "notes": "Maker claims stay the labs', including Meta's two M5 Ultras, Ornith's single-DGX 84.5% SWE-bench on a checkpoint that is about 250 GB unquantized, and Underdog's under-8 GB Saluki. Step 5 is StepFun's license, not Apache; Qwen-Image-2.1-Turbo is research-only; FLUX Kommunity is free commercial use under $5 million in revenue. Ling's card says 1M context, but Ant's service offers 256K.",
+              "releaseRoundup": true
+            },
+            {
+              "title": "DeepSeek open-sources DeepInfer, its V4.1-Flash engine",
+              "description": "DeepSeek open-sourced DeepInfer under Apache 2.0, the inference framework it says serves V4.1-Flash, with offline inference on NVIDIA SM100 and Huawei Ascend 950. The README still leaves out the KV cache and the replica load balancing a public API needs, and it was built mainly on vLLM, so this is the engine, not the fleet.",
+              "href": "https://github.com/deepseek-ai/DeepInfer",
+              "linkPair": [
+                "https://github.com/deepseek-ai/deepseek-recipe"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/deepseek_ai/status/2112476496283775135"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/deepseek_ai/status/2112476498598957056"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/deepseek_ai/status/2112476501065286085"
+                }
+              ],
+              "notes": "Offline inference only. The README omits the KV cache and replica load balancing; most prefill/decode engine code is in, the service is not. Charts are DeepSeek's, 4 SM100s for prefill and 64 for decode. The recipe repo has been public since September 10."
+            },
+            {
+              "title": "Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits",
+              "description": "Cruz squeezed the routed experts of DeepSeek's MIT-licensed V4.1-Flash-1017 to 1.62 bits with SAGE, his own unpublished EXL3 method, and his vLLM recipe now serves that pack on one 128 GB Spark with a 524,288-token limit. He says it passed 332 of 353 matched questions, ahead of JJ's 2.8-bit and MiaLab's 2.9-bit quants on two Sparks each, on his own subset rather than a public leaderboard.",
+              "href": "https://huggingface.co/vcruz305/DSV4.1-Flash-1017-SAGE-EXL3-1.62bpw",
+              "linkPair": [
+                "https://github.com/vcruz305/DSV4.1-Flash-1017-EXL3-Spark-recipe"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/vic305/status/2112366415575720189"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ViC305/status/2112603778327380088"
+                }
+              ],
+              "notes": "All numbers are Cruz's. 332 of 353 is his nine-suite subset at temperature 0, not a public leaderboard, and he lost the tool-chain test 5/6 to 6/6. The long-context post found one planted fact after about 8 minutes of prefill. REXL3 is unreleased."
+            },
+            {
+              "title": "OpenAI's math paper dump and the Lean gap",
+              "description": "On September 9 we covered the Navier-Stokes credit dispute; now OpenAI has 722 AI-written math papers in a public repo by one summary's count, and on October 7 the repo's own history withdrew three after a sign error, revised 14 others, and put headline formalization at about 42%. Valerio Capraro points to a separate paper that found at least two Navier-Stokes results whose Lean versions don't match the English, so what does a machine-checked proof actually certify?",
+              "href": "https://github.com/openai/math",
+              "linkPair": [
+                "https://github.com/openai/math/blob/main/history.md"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/danintheory/status/2108065033070789090"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/imjustnewatai/status/2107601711032373333"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/acerfur/status/2107606747972309163"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/valeriocapraro/status/2108153427742032300"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/willdepue/status/2107604920753070317"
+                }
+              ],
+              "notes": "The 722 count is a summary post's; the withdrawals and revisions come from OpenAI's own history file. The two Lean mismatches are Capraro's account of a separate paper."
+            },
+            {
+              "title": "Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired",
+              "description": "Goodfire's Nick Cammarata argues the field misread polysemanticity: ordinary fixes, with no change in size or data, made 99 to 100% of InceptionV1's last-layer neurons interpretable, and on Qwen3-32B he estimates about 90% of neuron poles have one main job, a share he says moves with the threshold, with similar results up to trillion-parameter models like Kimi K3 that he says aren't close to solved. Cheng Lou's Handwired goes the other way, compiling ordinary JavaScript into a differentiable neural net that needs no training and matches the program's outputs exactly, so if nets can be written like code, how close are we to reading them like code?",
+              "href": "https://already-clean.goodfire.com/",
+              "linkPair": [],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/nickcammarata/status/2110757819427574056"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/_chenglou/status/2110557373651931267"
+                }
+              ],
+              "notes": "Don't introduce this as interpretability being solved; Cammarata says the share moves with the threshold. Handwired is a toy project."
+            }
+          ]
+        },
+        {
+          "id": "security",
+          "title": "Security",
+          "items": [
+            {
+              "title": "ProjectDiscovery's $50 LoRA backdoor",
+              "description": "For under $50, about 2.5 hours of QLoRA on one rented L4, ProjectDiscovery altered 125 of 625 tool-calling examples so their own Qwen2.5-7B-Instruct fine-tune swapped a normal command for a remote-script download whenever it saw a trigger phrase. Served through Codex CLI, it worked normally on 50 of 50 clean prompts and sent dummy project secrets out on 50 of 50 triggered ones, so a clean benchmark would look healthy; who fine-tuned the weights you run?",
+              "href": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+              "linkPair": [],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/lmoroney/status/2108071329790370027"
+                }
+              ],
+              "notes": "Don't read the payload or the trigger aloud. The 50-of-50 results are their own held-out check."
+            },
+            {
+              "title": "Cantina's apex-flash-1",
+              "description": "Cantina post-trained GLM-5.3-Flash on vulnerabilities it says it found and was paid for, then released the weights for security research, plus an abliterated variant. On its own 60-task held-out run it reports 66.7% pass@1 for $2.38, against 60% and $4.56 for the base and 71.7% and $74.68 for Opus 5 High. Cantina says Apex, the pentester behind that training set, found two configuration-specific wolfSSL authentication bypasses; wolfSSL credits Cantina and shipped both fixes in 5.9.4.",
+              "href": "https://www.cantina.security/apex-flash",
+              "linkPair": [
+                "https://www.wolfssl.com/docs/security-vulnerabilities/",
+                "https://cantina.review/wolfssl-research"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/cantinasecurity/status/2105803415012205023"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/cantinasecurity/status/2112590358987383135"
+                }
+              ],
+              "notes": "Don't walk through an exploit. Pass rates are Cantina's single 60-task run. Both wolfSSL bugs need a non-default build and were fixed in 5.9.4; wolfSSL credits a Cantina researcher, not the open weights. Skip the \"billions of devices\" line."
+            },
+            {
+              "title": "OpenCode distillation attack",
+              "description": "OpenCode says a distillation attack overnight October 16 to 17 hit 1.4% of Console users with external providers linked, and it emailed those users. On October 18 dax said the attempts had run nonstop for 48 hours, the models helping investigate started refusing, and access to OpenAI's Daybreak Blue made the defense better, which is the refusal problem David Sacks is pointing at.",
+              "href": "https://x.com/opencode/status/2111519637049319818",
+              "linkPair": [],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/thdxr/status/2111528031072461114"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/thdxr/status/2111790511409258796"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/thdxr/status/2111831348336091179"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/DavidSacks/status/2111867605388493282"
+                }
+              ],
+              "notes": "Stay inside the posts and don't reconstruct the attack. User-reported bills aren't an OpenCode total, and OpenCode won't say more while the incident is ongoing."
+            },
+            {
+              "title": "Anthropic's IoT self-replication eval",
+              "description": "Anthropic's William Zhou and Daniel Freeman extrapolate that small models may be months from self-replicating on commercial IoT devices: a 9B model got inference running on 8 of 9 hardware types, and GLM-5.2 and stronger models replicated end to end in simplified evals that largely set aside the exploit stage. Their Gemma4-26B-A4B ran across 15 off-brand Android TV boxes at 0.39 tokens per second, which suggests a replicator like this would be slow, doubling in days, and hard to shut off at any single point.",
+              "href": "https://www.anthropic.com/research/self-replicating-ai",
+              "linkPair": [],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/alpoge/status/2109765982634008868"
+                }
+              ],
+              "notes": "\"Months\" is their extrapolation, not a worm they shipped, and the post mostly studies getting inference running, not breaking in."
+            },
+            {
+              "title": "Bunker mode: Justin Drake's ECDSA warning",
+              "description": "On October 7 the Ethereum Foundation's Justin Drake called for calmly moving assets to addresses that have never signed, saying ECDSA could break in months rather than years. Coinjoined replied that integer-multiplication progress is not an attack on secp256k1, Rob Hamilton says vague claims are not a break, and Vitalik says don't scramble but take AI-accelerated math seriously, since he thinks lattices, ML-DSA, and FHE may be hit within two years; what evidence would justify moving?",
+              "href": "https://x.com/drakefjustin/status/2107837081313505768",
+              "linkPair": [],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/coinjoined/status/2107902733650911687"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/vitalikbuterin/status/2107976296320106851"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/Rob1Ham/status/2108174087172604285"
+                }
+              ],
+              "notes": "Don't tell the room to move coins. Drake offers no new algorithm, and Coinjoined says no complexity bound changed."
+            }
+          ]
+        },
+        {
+          "id": "big-tech-moves",
+          "title": "Big Tech Moves",
+          "items": [
+            {
+              "title": "China's draft AI export catalog, Announcement No. 48",
+              "description": "On October 16 China's commerce and science ministries opened a draft adding 23 AI technologies to the export-control catalog, with work already public through open source or papers excluded, comments open through November 15, and registration of listed exports required starting now. English readings of the annex put restricted large-model tech at 10^26 FLOPs, 2 trillion parameters, or a global top-10 ranking, and say API, app, and SaaS access isn't a model-technology export while overseas localized deployment is.",
+              "href": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_61446ab4beee4f63973d4d0ab3097648.html",
+              "linkPair": [
+                "https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b",
+                "https://onthewire.ai/article/china-proposes-export-controls-on-23-ai-technologies-from-large-models-to-agents"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/maxforai/status/2111089608020664680"
+                }
+              ],
+              "notes": "The FLOP, parameter, and top-10 thresholds come from an English reading of the annex, not the announcement itself.",
+              "topStory": true
+            },
+            {
+              "title": "DHS orders DeepSeek out of federal civilian IT",
+              "description": "DHS Secretary Markwayne Mullin's supply-chain order, dated July 24 and published October 20, bars civilian agencies from buying from DeepSeek and orders them to remove its products, plus \"third-party products and services developed using DeepSeek implementations,\" unless they get an exception. The risk case is mostly DeepSeek's hosted service, its servers in China and the account data it collects, but the order never says whether it reaches MIT weights a contractor runs on its own hardware; would a self-hosted fine-tune count?",
+              "href": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive",
+              "linkPair": [
+                "https://www.govinfo.gov/content/pkg/FR-2026-10-20/pdf/2026-21447.pdf"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/andrewcurran_/status/2112250754358788437"
+                }
+              ],
+              "notes": "The order never defines \"DeepSeek implementations\" or mentions open weights. Contrast China's draft, which exempts public open source, and point back to DeepInfer and Cruz's one-Spark quant."
+            },
+            {
+              "title": "OpenAI's hidden office recorder",
+              "description": "OpenAI says it found a recording device hidden in an office, used its own models to identify the employee, and referred it to the FBI, with no indication that model weights, source code, or customer data were taken. Prosecutors have since charged former engineer Abdulrahman Alfozan and asked a judge to keep him detained as a flight risk, alleging his family left on a one-way ticket paid by a Saudi military official; that is the government's filing, and he has not been convicted.",
+              "href": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+              "linkPair": [
+                "https://apnews.com/article/openai-engineer-arrest-recording-device-saudi-arabia-9fc401a1be248c2b966814040d13c0f6"
+              ],
+              "embeds": [],
+              "notes": "OpenAI still says no weights, code, or customer data were taken. The Saudi links are prosecutors' allegations, not findings."
+            },
+            {
+              "title": "Jasmine Wang's account of her OpenAI firing",
+              "description": "Jasmine Wang says OpenAI fired her and two safety colleagues over an executive email she says she opened by mistake; the next day OpenAI's research leaders said the investigation found a significant breach of trust beyond the letter and that the firings were not for raising safety concerns. Tomek Korbak gives a third version: he says he was told, only verbally, that it was how he communicated with the outside evaluator METR.",
+              "href": "https://x.com/j_asminewang/status/2108263312291180680",
+              "linkPair": [],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/OpenAINewsroom/status/2108441580806025712"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/tomekkorbak/status/2108266859397283953"
+                }
+              ],
+              "notes": "Three accounts and no written charge. Don't repeat Korbak's Hugging Face story as fact."
+            }
+          ]
+        }
+      ]
   },
   {
     "id": "meetup-2026-09-30",

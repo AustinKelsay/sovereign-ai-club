@@ -1,10 +1,10 @@
 ---
 title: Meta Muse
 created: 2026-07-08
-updated: 2026-09-29
+updated: 2026-10-20
 type: entity
 tags: [entity, model, models-research, coding-agents]
-sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-04-15-link-records.md]
+sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-04-15-link-records.md]
 ---
 
 # Meta Muse
@@ -15,7 +15,11 @@ The September 2026 Muse personal-agent product runs in a dedicated cloud VM; it 
 
 September 2026 model updates include Muse Spark 1.3 with a subsequent max-reasoning option, and Muse Voice Transcribe for streaming recognition, diarization and endpointing. These models are distinct from the Muse personal-agent product.
 
+On October 12, 2026, Muse Wonder went on the Meta Model API and Muse Code at $4 per million input tokens and $20 per million output tokens. Muse Wonder Full stayed on the Muse Code Power and Maximum subscriptions. Muse Spark Open, released October 15, remains the open-weight model under the Muse Model License.
+
 ## Mentioned In
+
+- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Open model releases**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.

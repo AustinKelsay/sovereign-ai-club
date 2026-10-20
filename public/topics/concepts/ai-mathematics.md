@@ -1,10 +1,10 @@
 ---
 title: AI Mathematics
 created: 2026-07-22
-updated: 2026-09-09
+updated: 2026-10-19
 type: concept
 tags: [concept, models-research, ai-benchmarks-evals]
-sources: [raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md]
+sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md]
 ---
 
 # AI Mathematics
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-05-link-
 AI Mathematics covers systems that solve, verify, or help discover mathematical results, from competition problems and formal theorem proving to unpublished research questions and open conjectures.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - October 21, 2026]]: **OpenAI's math paper dump and the Lean gap** and **Bunker mode: Justin Drake's ECDSA warning**.
 
 - [[Sovereign AI Club - September 9, 2026]]: **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**.
 

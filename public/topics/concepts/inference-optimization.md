@@ -1,10 +1,10 @@
 ---
 title: Inference Optimization
 created: 2026-06-24
-updated: 2026-09-29
+updated: 2026-10-20
 type: concept
 tags: [concept, models-research, agent-infrastructure, local-ai]
-sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Inference Optimization
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-
 Inference Optimization covers the practical work of making AI systems cheaper, faster, smaller, and runnable: memory bandwidth, KV-cache compression, quantization, speculative decoding, serving runtimes, and custom inference hardware.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - October 21, 2026]]: **DeepSeek open-sources DeepInfer, its V4.1-Flash engine**, **Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits**, and **TensorFold vs. oMLX on an M5 Ultra Studio**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Splash vs mlx-serve: rival benchmarks, real fixes**, **Models hand off KV cache instead of text**.
 - [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**.

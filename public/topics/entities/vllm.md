@@ -1,10 +1,10 @@
 ---
 title: vLLM
 created: 2026-06-23
-updated: 2026-09-29
+updated: 2026-10-20
 type: entity
 tags: [entity, agent-infrastructure, open-source, local-ai]
-sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md]
+sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md]
 ---
 
 # vLLM
@@ -13,6 +13,7 @@ vLLM is an open-source inference and serving stack for large language models, in
 
 ## Mentioned In
 
+- [[Sovereign AI Club - October 21, 2026]]: **DeepSeek open-sources DeepInfer, its V4.1-Flash engine**.
 - [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.
 - [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**.
 - [[Sovereign AI Club - June 10, 2026]]: **Open model releases**.
@@ -27,3 +28,4 @@ vLLM is an open-source inference and serving stack for large language models, in
 - [[MiniMax]]
 - [[MiniMax M3]]
 - [[DiffusionGemma]]
+- [[DeepSeek]]

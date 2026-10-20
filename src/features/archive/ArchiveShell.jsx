@@ -26,10 +26,6 @@ export default function ArchiveShell({ children, onOpenRoute, shellClassName = "
           </RouteLink>
         </div>
         <nav className="topbar-right" aria-label="Main navigation">
-          <a href={OFFICIAL_SIGNAL_GROUP_URL} className="topbar-link" target="_blank" rel="noreferrer"
-            aria-label="Join the official public Signal group">
-            Signal group
-          </a>
           <RouteLink to={WIKI_PATH_PREFIX} onOpenRoute={onOpenRoute} className="topbar-link"
             aria-current={activePath === WIKI_PATH_PREFIX ? "page" : undefined}>
             Wiki
@@ -43,6 +39,10 @@ export default function ArchiveShell({ children, onOpenRoute, shellClassName = "
           <RouteLink to="/calendar" onOpenRoute={onOpenRoute} className="calendar-open-btn">
             Calendar
           </RouteLink>
+          <a href={OFFICIAL_SIGNAL_GROUP_URL} className="topbar-link" target="_blank" rel="noreferrer"
+            aria-label="Join the official public Signal group">
+            Signal group
+          </a>
         </nav>
       </header>
 

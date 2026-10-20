@@ -1,10 +1,10 @@
 ---
 title: Anthropic
 created: 2026-05-05
-updated: 2026-09-30
+updated: 2026-10-20
 type: entity
 tags: [entity, company, big-tech-moves, compute]
-sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Anthropic
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-
 Anthropic is a recurring Sovereign AI Club entity for Claude, agent tooling, safety releases, and compute strategy.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Anthropic's IoT self-replication eval**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**, **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **OP or not**.
 - [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **Anthropic deliberately trains a reward-hacking Opus**.

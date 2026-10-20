@@ -1,10 +1,10 @@
 ---
 title: Codex
 created: 2026-07-08
-updated: 2026-09-30
+updated: 2026-10-20
 type: entity
 tags: [entity, product, coding-agents, agent-infrastructure, local-builds, security]
-sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Codex
@@ -15,6 +15,7 @@ At September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for 
 
 ## Mentioned In
 
+- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.
 - [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.
 - [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.
 - [[Sovereign AI Club - July 8, 2026]]: **Closed model releases** and **Local Codex patches with codex-app-modifier**.
@@ -24,6 +25,7 @@ At September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for 
 
 ## Related
 
+- [[REA]]
 - [[OpenAI]]
 - [[GPT-5.6]]
 - [[Coding Agents]]

@@ -1,10 +1,10 @@
 ---
 title: MiniMax
 created: 2026-06-23
-updated: 2026-09-09
+updated: 2026-10-19
 type: entity
 tags: [entity, company, model, coding-agents, open-source, multimodal]
-sources: [raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # MiniMax
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-
 MiniMax is a recurring Sovereign AI Club entity for open-weight coding and agent models, long-context sparse-attention work, multimodal video generation, and frontier-model distillation debates. August 26 coverage is fal's post-trained H3 Max on Artificial Analysis's with-audio video boards; the August 5 H3 weights remain the open-weight baseline until Max ships files.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.
 
 - [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.
 

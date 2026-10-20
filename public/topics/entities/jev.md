@@ -1,10 +1,10 @@
 ---
 title: Jev
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-19
 type: entity
 tags: [entity, model, agent-infrastructure]
-sources: [raw/articles/2026-09-30-link-records.md]
+sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md]
 ---
 
 # Jev
@@ -16,6 +16,8 @@ Builder demos use Jev for bounded game actions, steering choices in a browser dr
 Kev, DiffusionGemma serving and SGLang demonstrate open implementations of a similar decision interface. API compatibility alone does not establish equivalent calibration or quality.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days** and **Cua, json-render and Quail make the model pick from a menu**.
 

@@ -1,7 +1,7 @@
 ---
 title: Phonon-2
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-20
 type: entity
 tags: [entity, model, speech, local-ai, open-models]
 sources: [raw/articles/2026-09-30-link-records.md]
@@ -13,6 +13,8 @@ Phonon-2 is Fermion Research's open-weight English speech-recognition model rele
 
 Fermion reports 5.21% mean word error across seven English test sets, compared with 6.58% for Whisper large-v3-turbo. Its roughly 20-second transcription of an hour of audio was measured on an M5 MacBook Air; the card also documents CPU and batched GPU engines.
 
+Not to be confused with [[Gradium]]'s Phonon text-to-speech models, released October 20, 2026.
+
 ## Mentioned In
 
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.
@@ -23,3 +25,4 @@ Fermion reports 5.21% mean word error across seven English test sets, compared w
 - [[Local AI]]
 - [[Open Models]]
 - [[Models & Research]]
+- [[Gradium]]

@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog for the Sovereign AI Club Markdown Archive and LLM Wiki.
-> Last updated: 2026-10-13 | Total pages: 189
+> Last updated: 2026-10-20 | Total pages: 202
 
 ## Meetups
 
@@ -22,6 +22,20 @@
 - [[Sovereign AI Club - March 18, 2026]]
 
 ## Entities
+
+- [[Beam]]
+- [[Jais]]
+- [[Kolibri]]
+- [[Ling-3.1-flash]]
+- [[Clef]]
+- [[Pi]]
+- [[OpenTunnel]]
+- [[OpenCode]]
+- [[Perplexity]]
+- [[Reason Network]]
+- [[Gradium]]
+- [[Cua]]
+- [[REA]]
 
 - [[Bend 2]]
 
