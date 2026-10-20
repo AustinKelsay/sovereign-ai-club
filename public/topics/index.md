@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog for the Sovereign AI Club Markdown Archive and LLM Wiki.
-> Last updated: 2026-10-20 | Total pages: 202
+> Last updated: 2026-10-20 | Total pages: 203
 
 ## Meetups
 
@@ -23,6 +23,7 @@
 
 ## Entities
 
+- [[ArtCraft]]
 - [[Beam]]
 - [[Jais]]
 - [[Kolibri]]

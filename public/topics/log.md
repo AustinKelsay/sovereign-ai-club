@@ -2,6 +2,14 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-10-20] update | October 21 spoken-copy garden
+
+- Shortened October 21 spoken lines to one or two sentences a host can say once, and moved the secondary numbers into Presenter Notes. Titles, order, launch posts, and licenses stayed put. The host clock now names ArtCraft between the game decompiles and Reverse Engineer Anything.
+
+## [2026-10-20] curate | October 21 ArtCraft Adobe stand-ins
+
+- Added **ArtCraft's Rust apps stand in for seven Adobe tools** to Agent Infrastructure after the game decompiles and before Reverse Engineer Anything. Brandon Thomas's October 3 posts say he vibe-coded open-source Rust replacements for seven Adobe apps. PhotoCraft's README calls itself a clean-room Photoshop rebuild, early alpha, and not a daily replacement. Recorded both posts, the repo, and the Crafting Apps page, and created the ArtCraft page.
+
 ## [2026-10-20] update | October 21 closed and open release feeds
 
 - Deepened **Closed model releases** and **Open model releases** with lab posts from October 6–16. Closed adds Haiku 5.5, Nano Banana 2.1, Muse Wonder, Grok Voice 3.0, and Kling 4.0. Open adds Beam, Jais 3, Open d1, LFM2.5-24B-A2B, Nemotron 3.5 Super VL and Bolt, Step 5 Preview weights, Qwen-Image-2.1-Turbo, and FLUX 3 Image Klein. Licenses stay in the spoken line. IBM Granite Switch 4.1 has Apache weights and no lab X post, so it stays off the feed.

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:58:40.463Z",
+  "generatedAt": "2026-10-20T20:39:35.440Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -580,6 +580,7 @@
         "alphaevolve",
         "apple",
         "apple-container",
+        "artcraft",
         "bend-2",
         "berd",
         "block",
@@ -2246,6 +2247,34 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
           "href": "https://github.com/morluto/rea",
           "title": "Reverse Engineer Anything passes Linux in GitHub stars",
           "section": "Agent Infrastructure",
@@ -3079,7 +3108,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Prime Agent rewrote itself in Rust**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
+      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Prime Agent rewrote itself in Rust**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
     },
     {
       "id": "agent-payments",
@@ -12583,6 +12612,68 @@
       "unresolvedLinks": [],
       "backlinkIds": [],
       "referencedTopicSources": []
+    },
+    {
+      "id": "artcraft",
+      "title": "ArtCraft",
+      "type": "entity",
+      "tags": [
+        "entity",
+        "product",
+        "open-source",
+        "agent-infrastructure"
+      ],
+      "sources": [
+        "raw/articles/2026-10-21-link-records.md"
+      ],
+      "sourceCount": 1,
+      "sourceLinks": [],
+      "sourceReferences": [],
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "excerpt": "ArtCraft is Brandon Thomas's creative-tools project. On October 3, 2026 he posted that he had vibe-coded open-source Rust replacements for seven Adobe apps. PhotoCraft's README calls itself a clean-room reimplementation of Photoshop, early alpha, under MIT or Apache 2.0, and says it is not yet a daily professional replacement. The Crafting Apps page later lists thirteen Rust apps, including clean-room Word, Excel, and PowerPoint tools. The repos say the apps were written from scratch.",
+      "rawHref": "/topics/entities/artcraft.md",
+      "relativePath": "entities/artcraft.md",
+      "outgoingIds": [
+        "agent-infrastructure",
+        "local-ai",
+        "sovereign-ai-club-october-21-2026"
+      ],
+      "unresolvedLinks": [],
+      "backlinkIds": [
+        "sovereign-ai-club-october-21-2026"
+      ],
+      "referencedTopicSources": [
+        {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        }
+      ],
+      "bodyMarkdown": "# ArtCraft\n\nArtCraft is Brandon Thomas's creative-tools project. On October 3, 2026 he posted that he had vibe-coded open-source Rust replacements for seven Adobe apps. PhotoCraft's README calls itself a clean-room reimplementation of Photoshop, early alpha, under MIT or Apache 2.0, and says it is not yet a daily professional replacement. The Crafting Apps page later lists thirteen Rust apps, including clean-room Word, Excel, and PowerPoint tools. The repos say the apps were written from scratch.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **ArtCraft's Rust apps stand in for seven Adobe tools**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Local AI]]"
     },
     {
       "id": "astra",
@@ -48862,6 +48953,7 @@
         "airllm",
         "antares",
         "apple",
+        "artcraft",
         "beam",
         "ben-carman",
         "berd",
@@ -71928,6 +72020,10 @@
         "https://github.com/chasmlol/2010-rust-rewrite-mashup",
         "https://github.com/rehan-remade/universal-modder",
         "https://github.com/deltarooo/er-mario",
+        "https://x.com/echelon/status/2106387247234752762",
+        "https://x.com/echelon/status/2106387316470374546",
+        "https://github.com/storytold/photocraft",
+        "https://getartcraft.com/apps",
         "https://github.com/morluto/rea",
         "https://rea.tools",
         "https://github.com/morluto/rea/blob/main/DISCLAIMER.md",
@@ -72242,6 +72338,26 @@
         {
           "href": "https://github.com/deltarooo/er-mario",
           "title": "er-mario",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "Brandon Thomas on the seven apps",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "The seven repo links",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "storytold/photocraft",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "Crafting Apps",
           "section": "Agent Infrastructure"
         },
         {
@@ -106996,6 +107112,10 @@
         "https://github.com/rehan-remade/universal-modder",
         "https://github.com/luki-1/ArkWeb",
         "https://github.com/deltarooo/er-mario",
+        "https://x.com/echelon/status/2106387247234752762",
+        "https://x.com/echelon/status/2106387316470374546",
+        "https://github.com/storytold/photocraft",
+        "https://getartcraft.com/apps",
         "https://github.com/morluto/rea",
         "https://rea.tools",
         "https://x.com/amasad/status/2107671204639465961",
@@ -107296,6 +107416,26 @@
         {
           "href": "https://github.com/deltarooo/er-mario",
           "title": "Agents decompile games and mash them together",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
           "section": "Agent Infrastructure"
         },
         {
@@ -108086,6 +108226,7 @@
         "ai-governance",
         "ai-mathematics",
         "anthropic",
+        "artcraft",
         "beam",
         "big-tech-moves",
         "claude-code",
@@ -108139,6 +108280,7 @@
         "ai-governance",
         "ai-mathematics",
         "anthropic",
+        "artcraft",
         "beam",
         "big-tech-moves",
         "claude-code",
@@ -119394,6 +119536,7 @@
         "alphaevolve",
         "apple",
         "apple-container",
+        "artcraft",
         "bend-2",
         "berd",
         "block",
@@ -121060,6 +121203,34 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
           "href": "https://github.com/morluto/rea",
           "title": "Reverse Engineer Anything passes Linux in GitHub stars",
           "section": "Agent Infrastructure",
@@ -121893,7 +122064,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Prime Agent rewrote itself in Rust**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
+      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Prime Agent rewrote itself in Rust**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
     },
     "agent-payments": {
       "id": "agent-payments",
@@ -131397,6 +131568,68 @@
       "unresolvedLinks": [],
       "backlinkIds": [],
       "referencedTopicSources": []
+    },
+    "artcraft": {
+      "id": "artcraft",
+      "title": "ArtCraft",
+      "type": "entity",
+      "tags": [
+        "entity",
+        "product",
+        "open-source",
+        "agent-infrastructure"
+      ],
+      "sources": [
+        "raw/articles/2026-10-21-link-records.md"
+      ],
+      "sourceCount": 1,
+      "sourceLinks": [],
+      "sourceReferences": [],
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "excerpt": "ArtCraft is Brandon Thomas's creative-tools project. On October 3, 2026 he posted that he had vibe-coded open-source Rust replacements for seven Adobe apps. PhotoCraft's README calls itself a clean-room reimplementation of Photoshop, early alpha, under MIT or Apache 2.0, and says it is not yet a daily professional replacement. The Crafting Apps page later lists thirteen Rust apps, including clean-room Word, Excel, and PowerPoint tools. The repos say the apps were written from scratch.",
+      "rawHref": "/topics/entities/artcraft.md",
+      "relativePath": "entities/artcraft.md",
+      "outgoingIds": [
+        "agent-infrastructure",
+        "local-ai",
+        "sovereign-ai-club-october-21-2026"
+      ],
+      "unresolvedLinks": [],
+      "backlinkIds": [
+        "sovereign-ai-club-october-21-2026"
+      ],
+      "referencedTopicSources": [
+        {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        }
+      ],
+      "bodyMarkdown": "# ArtCraft\n\nArtCraft is Brandon Thomas's creative-tools project. On October 3, 2026 he posted that he had vibe-coded open-source Rust replacements for seven Adobe apps. PhotoCraft's README calls itself a clean-room reimplementation of Photoshop, early alpha, under MIT or Apache 2.0, and says it is not yet a daily professional replacement. The Crafting Apps page later lists thirteen Rust apps, including clean-room Word, Excel, and PowerPoint tools. The repos say the apps were written from scratch.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **ArtCraft's Rust apps stand in for seven Adobe tools**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Local AI]]"
     },
     "astra": {
       "id": "astra",
@@ -167676,6 +167909,7 @@
         "airllm",
         "antares",
         "apple",
+        "artcraft",
         "beam",
         "ben-carman",
         "berd",
@@ -190742,6 +190976,10 @@
         "https://github.com/chasmlol/2010-rust-rewrite-mashup",
         "https://github.com/rehan-remade/universal-modder",
         "https://github.com/deltarooo/er-mario",
+        "https://x.com/echelon/status/2106387247234752762",
+        "https://x.com/echelon/status/2106387316470374546",
+        "https://github.com/storytold/photocraft",
+        "https://getartcraft.com/apps",
         "https://github.com/morluto/rea",
         "https://rea.tools",
         "https://github.com/morluto/rea/blob/main/DISCLAIMER.md",
@@ -191056,6 +191294,26 @@
         {
           "href": "https://github.com/deltarooo/er-mario",
           "title": "er-mario",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "Brandon Thomas on the seven apps",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "The seven repo links",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "storytold/photocraft",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "Crafting Apps",
           "section": "Agent Infrastructure"
         },
         {
@@ -225810,6 +226068,10 @@
         "https://github.com/rehan-remade/universal-modder",
         "https://github.com/luki-1/ArkWeb",
         "https://github.com/deltarooo/er-mario",
+        "https://x.com/echelon/status/2106387247234752762",
+        "https://x.com/echelon/status/2106387316470374546",
+        "https://github.com/storytold/photocraft",
+        "https://getartcraft.com/apps",
         "https://github.com/morluto/rea",
         "https://rea.tools",
         "https://x.com/amasad/status/2107671204639465961",
@@ -226110,6 +226372,26 @@
         {
           "href": "https://github.com/deltarooo/er-mario",
           "title": "Agents decompile games and mash them together",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
           "section": "Agent Infrastructure"
         },
         {
@@ -226900,6 +227182,7 @@
         "ai-governance",
         "ai-mathematics",
         "anthropic",
+        "artcraft",
         "beam",
         "big-tech-moves",
         "claude-code",
@@ -226953,6 +227236,7 @@
         "ai-governance",
         "ai-mathematics",
         "anthropic",
+        "artcraft",
         "beam",
         "big-tech-moves",
         "claude-code",
@@ -237901,6 +238185,55 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Agents decompile games and mash them together Agent Infrastructure Sovereign AI Club - October 21, 2026 2026-10-21 https://x.com/TobynJacobs/status/2104884843297599594 https://x.com/Motion_Viz/status/2105931253627462124 https://x.com/chasmmmmmmmmmmm/status/2104349115521888748 https://x.com/Deltaroo3D/status/2105345162771648883 https://x.com/chasmmmmmmmmmmm/status/2105707774646562818 https://x.com/MaximumADHD/status/2106049715628294436 https://x.com/rehan_shei/status/2105161487509852622 https://x.com/cydonix/status/2105624857061081491 https://x.com/p_e_cooper/status/2104980433972703483 https://x.com/p_e_cooper/status/2105387636131024992 https://x.com/chasmmmmmmmmmmm/status/2105046595548967150 https://x.com/cydonix/status/2105177318968955044 https://momo5502.com/posts/2026-10-09-game-decompilation/ https://x.com/momo5502/status/2108886652391141721 https://x.com/momo5502/status/2105360274777624902 https://x.com/ParkerRex/status/2106021849943441445 https://x.com/esrtweet/status/2106983467141509385 https://x.com/mintblitz/status/2105318836958585150 https://x.com/roundtablespace/status/2105474026110070963 https://x.com/ericzakariasson/status/2105359599234855405 https://github.com/chasmlol/SkyCraft https://github.com/chasmlol/2010-rust-rewrite-mashup https://github.com/rehan-remade/universal-modder https://github.com/luki-1/ArkWeb https://github.com/deltarooo/er-mario Agent Infrastructure"
+    },
+    {
+      "id": "sovereign-ai-club-october-21-2026-agent-infrastructure-artcrafts-rust-apps-stand-in-for-seven-adobe-tools",
+      "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+      "rawTitle": "ArtCraft's Rust apps stand in for seven Adobe tools",
+      "normalizedTitle": "artcraft's rust apps stand in for seven adobe tools",
+      "section": "Agent Infrastructure",
+      "meetupId": "sovereign-ai-club-october-21-2026",
+      "meetupTitle": "Sovereign AI Club - October 21, 2026",
+      "meetupSlug": "2026-10-21",
+      "meetupHref": "/topics/2026-10-21.md",
+      "sourceLinks": [
+        "https://x.com/echelon/status/2106387247234752762",
+        "https://x.com/echelon/status/2106387316470374546",
+        "https://github.com/storytold/photocraft",
+        "https://getartcraft.com/apps"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        }
+      ],
+      "wikiIds": [
+        "agent-infrastructure",
+        "artcraft"
+      ],
+      "wikiTitles": [
+        "Agent Infrastructure",
+        "ArtCraft"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "ArtCraft's Rust apps stand in for seven Adobe tools Agent Infrastructure Sovereign AI Club - October 21, 2026 2026-10-21 https://x.com/echelon/status/2106387247234752762 https://x.com/echelon/status/2106387316470374546 https://github.com/storytold/photocraft https://getartcraft.com/apps Agent Infrastructure ArtCraft"
     },
     {
       "id": "sovereign-ai-club-october-21-2026-agent-infrastructure-cua-spaces-lets-any-agent-bring-its-own-computer",
@@ -257141,6 +257474,55 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Agents decompile games and mash them together Agent Infrastructure Sovereign AI Club - October 21, 2026 2026-10-21 https://x.com/TobynJacobs/status/2104884843297599594 https://x.com/Motion_Viz/status/2105931253627462124 https://x.com/chasmmmmmmmmmmm/status/2104349115521888748 https://x.com/Deltaroo3D/status/2105345162771648883 https://x.com/chasmmmmmmmmmmm/status/2105707774646562818 https://x.com/MaximumADHD/status/2106049715628294436 https://x.com/rehan_shei/status/2105161487509852622 https://x.com/cydonix/status/2105624857061081491 https://x.com/p_e_cooper/status/2104980433972703483 https://x.com/p_e_cooper/status/2105387636131024992 https://x.com/chasmmmmmmmmmmm/status/2105046595548967150 https://x.com/cydonix/status/2105177318968955044 https://momo5502.com/posts/2026-10-09-game-decompilation/ https://x.com/momo5502/status/2108886652391141721 https://x.com/momo5502/status/2105360274777624902 https://x.com/ParkerRex/status/2106021849943441445 https://x.com/esrtweet/status/2106983467141509385 https://x.com/mintblitz/status/2105318836958585150 https://x.com/roundtablespace/status/2105474026110070963 https://x.com/ericzakariasson/status/2105359599234855405 https://github.com/chasmlol/SkyCraft https://github.com/chasmlol/2010-rust-rewrite-mashup https://github.com/rehan-remade/universal-modder https://github.com/luki-1/ArkWeb https://github.com/deltarooo/er-mario Agent Infrastructure"
+    },
+    "sovereign-ai-club-october-21-2026-agent-infrastructure-artcrafts-rust-apps-stand-in-for-seven-adobe-tools": {
+      "id": "sovereign-ai-club-october-21-2026-agent-infrastructure-artcrafts-rust-apps-stand-in-for-seven-adobe-tools",
+      "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+      "rawTitle": "ArtCraft's Rust apps stand in for seven Adobe tools",
+      "normalizedTitle": "artcraft's rust apps stand in for seven adobe tools",
+      "section": "Agent Infrastructure",
+      "meetupId": "sovereign-ai-club-october-21-2026",
+      "meetupTitle": "Sovereign AI Club - October 21, 2026",
+      "meetupSlug": "2026-10-21",
+      "meetupHref": "/topics/2026-10-21.md",
+      "sourceLinks": [
+        "https://x.com/echelon/status/2106387247234752762",
+        "https://x.com/echelon/status/2106387316470374546",
+        "https://github.com/storytold/photocraft",
+        "https://getartcraft.com/apps"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://getartcraft.com/apps",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/storytold/photocraft",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387247234752762",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/echelon/status/2106387316470374546",
+          "title": "ArtCraft's Rust apps stand in for seven Adobe tools",
+          "section": "Agent Infrastructure"
+        }
+      ],
+      "wikiIds": [
+        "agent-infrastructure",
+        "artcraft"
+      ],
+      "wikiTitles": [
+        "Agent Infrastructure",
+        "ArtCraft"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "ArtCraft's Rust apps stand in for seven Adobe tools Agent Infrastructure Sovereign AI Club - October 21, 2026 2026-10-21 https://x.com/echelon/status/2106387247234752762 https://x.com/echelon/status/2106387316470374546 https://github.com/storytold/photocraft https://getartcraft.com/apps Agent Infrastructure ArtCraft"
     },
     "sovereign-ai-club-october-21-2026-agent-infrastructure-cua-spaces-lets-any-agent-bring-its-own-computer": {
       "id": "sovereign-ai-club-october-21-2026-agent-infrastructure-cua-spaces-lets-any-agent-bring-its-own-computer",
@@ -277147,6 +277529,18 @@
       "target": "sovereign-ai-club-april-15-2026"
     },
     {
+      "source": "artcraft",
+      "target": "sovereign-ai-club-october-21-2026"
+    },
+    {
+      "source": "artcraft",
+      "target": "agent-infrastructure"
+    },
+    {
+      "source": "artcraft",
+      "target": "local-ai"
+    },
+    {
       "source": "astra",
       "target": "sovereign-ai-club-september-30-2026"
     },
@@ -284192,6 +284586,10 @@
     },
     {
       "source": "sovereign-ai-club-october-21-2026",
+      "target": "artcraft"
+    },
+    {
+      "source": "sovereign-ai-club-october-21-2026",
       "target": "mistral"
     },
     {
@@ -285353,7 +285751,7 @@
           "track",
           "agent-infrastructure"
         ],
-        "degree": 134,
+        "degree": 135,
         "updated": "2026-10-20"
       },
       {
@@ -285578,6 +285976,19 @@
         ],
         "degree": 1,
         "updated": "2026-05-05"
+      },
+      {
+        "id": "artcraft",
+        "label": "ArtCraft",
+        "type": "entity",
+        "tags": [
+          "entity",
+          "product",
+          "open-source",
+          "agent-infrastructure"
+        ],
+        "degree": 4,
+        "updated": "2026-10-20"
       },
       {
         "id": "astra",
@@ -286564,7 +286975,7 @@
           "open-source",
           "privacy"
         ],
-        "degree": 85,
+        "degree": 86,
         "updated": "2026-10-20"
       },
       {
@@ -287575,7 +287986,7 @@
           "meetup",
           "topic-board"
         ],
-        "degree": 101,
+        "degree": 103,
         "updated": "2026-10-20"
       },
       {
@@ -289182,6 +289593,21 @@
         "source": "april-15-2026-source-link-records",
         "target": "sovereign-ai-club-april-15-2026",
         "kind": "topic"
+      },
+      {
+        "source": "artcraft",
+        "target": "sovereign-ai-club-october-21-2026",
+        "kind": "topic"
+      },
+      {
+        "source": "artcraft",
+        "target": "agent-infrastructure",
+        "kind": "wiki"
+      },
+      {
+        "source": "artcraft",
+        "target": "local-ai",
+        "kind": "wiki"
       },
       {
         "source": "astra",
@@ -297990,6 +298416,11 @@
       },
       {
         "source": "sovereign-ai-club-october-21-2026",
+        "target": "artcraft",
+        "kind": "topic"
+      },
+      {
+        "source": "sovereign-ai-club-october-21-2026",
         "target": "mistral",
         "kind": "topic"
       },
@@ -299396,12 +299827,12 @@
     ]
   },
   "stats": {
-    "pageCount": 204,
-    "topicCount": 316,
+    "pageCount": 205,
+    "topicCount": 317,
     "rawPageCount": 0,
-    "linkCount": 2301,
+    "linkCount": 2305,
     "sourceRecordCount": 14,
-    "sourceLinkCount": 1648,
+    "sourceLinkCount": 1652,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-10-20"
   }

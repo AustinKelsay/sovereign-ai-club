@@ -74,6 +74,17 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
 - **er-mario** — https://github.com/deltarooo/er-mario
   Type: GitHub repo. Accessed: 2026-10-20. Repo description: play Elden Ring as Super Mario 64's Mario, using libsm64 and me3. Work in progress. The September 30 clip does not mention this method; the October 1 release post links the repo.
 
+### ArtCraft's Rust apps stand in for seven Adobe tools
+
+- **Brandon Thomas on the seven apps** — https://x.com/echelon/status/2106387247234752762
+  Type: X post. Accessed: 2026-10-20. October 3. Thomas says he vibe-coded open-source Rust replacements for seven Adobe apps.
+- **The seven repo links** — https://x.com/echelon/status/2106387316470374546
+  Type: X post. Accessed: 2026-10-20. Same minute. He labels PhotoCraft as Photoshop, VectorCraft as Illustrator, FilmCraft as Premiere, LightCraft as Lightroom, PrintCraft as Acrobat Pro, EffectCraft as After Effects, and DesignCraft as InDesign. PrintCraft now resolves as the PdfCraft repo.
+- **storytold/photocraft** — https://github.com/storytold/photocraft
+  Type: repository. Accessed: 2026-10-20. README: clean-room reimplementation of Adobe Photoshop, written in Rust, early alpha, MIT or Apache 2.0. Says it is not yet a Photoshop replacement for daily professional work. Re-saving keeps the render of 307 of 309 psd-tools test files. Every action is a command, drivable from the UI, CLI, JSON, or an MCP server. Created September 30, 2026.
+- **Crafting Apps** — https://getartcraft.com/apps
+  Type: product page. Accessed: 2026-10-20. ArtCraft lists thirteen Rust apps, written from scratch, files kept on the machine. PhotoCraft is early alpha. Later repos describe clean-room Word, Excel, and PowerPoint apps.
+
 ### Reverse Engineer Anything passes Linux in GitHub stars
 
 - **morluto/rea** — https://github.com/morluto/rea
