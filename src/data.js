@@ -282,35 +282,26 @@ export const meetups = [
               "notes": "No model card or independent eval yet; the 23x and 25% figures are the launch post's."
             },
             {
-              "title": "Prime Agent rewrote itself in Rust",
-              "description": "On August 5 Prime Agent was a harness that can edit itself; Prime Intellect now says about 2,000 agents spent two weeks and 200 billion GLM-5.3 tokens porting it from TypeScript to Rust, cutting cold time-to-type about 13x. v0.10.0 shipped October 9 after differential tests checked parity.",
+              "title": "Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas",
+              "description": "Two teams pointed thousands of agents at one job. Prime Intellect says Prime Agent ran about 2,000 agents for two weeks on 200 billion GLM-5.3 tokens to port itself from TypeScript to Rust, and OpenAI says thousands of GPT-Rosalind agents linked a mouse-brain CRISPR atlas to the research literature in 32 minutes. Prime's swarm is an MIT harness on a model with public weights; GPT-Rosalind is closed, and a subscription doesn't get you in.",
               "href": "https://www.primeintellect.ai/blog/prime-agent-rust",
               "linkPair": [
-                "https://github.com/PrimeIntellect-ai/prime-agent/releases/tag/v0.10.0"
-              ],
-              "embeds": [
-                {
-                  "type": "tweet",
-                  "href": "https://x.com/primeintellect/status/2108672479007047952"
-                }
-              ],
-              "notes": "Prime Intellect's own numbers: cold start from 738 ms to 56 ms, memory from 607 MB to 106 MB."
-            },
-            {
-              "title": "Thousands of GPT-Rosalind agents read a brain atlas in 32 minutes",
-              "description": "OpenAI says thousands of GPT-Rosalind agents, with PerturbAI and Scripps, connected a mouse-brain CRISPR atlas to the literature in 32 minutes and proposed that restoring cholesterol transport might protect neurons in Perry syndrome. On the same model, OpenAI says one agent cited 11 papers and the swarm cited more than 700, and blinded experts preferred the swarm 75% of the time.",
-              "href": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-              "linkPair": [
+                "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+                "https://github.com/PrimeIntellect-ai/prime-agent/releases/tag/v0.10.0",
                 "https://www.biorxiv.org/content/10.64898/2026.10.15.759436v1",
                 "https://help.openai.com/en/articles/20001193-gpt-rosalind-for-life-sciences-research"
               ],
               "embeds": [
                 {
                   "type": "tweet",
+                  "href": "https://x.com/primeintellect/status/2108672479007047952"
+                },
+                {
+                  "type": "tweet",
                   "href": "https://x.com/OpenAI/status/2112899854569762936"
                 }
               ],
-              "notes": "OpenAI's numbers. The cholesterol idea is a hypothesis, not a confirmed mechanism. They estimate a human review, one perturbation at a time, would take months to a year. The October 16 preprint says the agents had no access to the source manuscript. GPT-Rosalind is closed: a subscription does not grant access."
+              "notes": "Both are the vendors' own numbers. Prime Agent was on the August 5 board as a harness that can edit itself. Its Rust build, v0.10.0, shipped October 9 after tests diffed it against the TypeScript one; cold start went from 738 ms to 56 ms and memory from 607 MB to 106 MB, and GLM-5.3 ran on Prime's hosted endpoint. OpenAI's run was with PerturbAI and Scripps: the swarm cited more than 700 papers where one agent on the same model cited 11, and blinded experts preferred the swarm 75% of the time. Its idea that restoring cholesterol transport might protect neurons in Perry syndrome is a hypothesis, not a finding. The October 16 preprint says the agents never saw the source manuscript and doesn't repeat the 32-minute, 700-versus-11, or 75% figures."
             },
             {
               "title": "Earendil's Pi 1.0 and Pi Durable",
@@ -479,7 +470,7 @@ export const meetups = [
             },
             {
               "title": "Open model releases",
-              "description": "Apache 2.0 now also covers Reflection's Beam, 501 billion parameters with 23 billion active, Recursive's Flint, 39.8 billion with about 2.5 billion active, and IFM's Jais 3, up to a 375-billion-parameter flagship, beside MIT Ling-3.1-flash, DeepSeek V4.1-Flash-1017, and Ornith, plus Apache Kolibri on the weights and config only, Jev-compatible Clef, and EmbeddingGemma 2. Narrower terms cover the rest: Liquid AI's LFM2.5-24B-A2B and Open d1 use LFM 1.0, Nemotron 3.5 Super VL and Bolt use OpenMDW-1.1, Step 5 Preview is under StepFun's own license, Qwen-Image-2.1-Turbo is research-only, FLUX 3 Image Klein uses FLUX Kommunity, Gradium's Phonon is Apache only for the 31M English model, and Muse Spark Open stays on the Muse Model License.",
+              "description": "Apache 2.0 now also covers Reflection's Beam, 501 billion parameters with 23 billion active, Recursive's Flint, 39.8 billion with about 2.5 billion active, and IFM's Jais 3, up to a 375-billion-parameter flagship, beside MIT Ling-3.1-flash, DeepSeek V4.1-Flash-1017, and Ornith, plus Apache Kolibri on the weights and config only, Jev-compatible Clef, and EmbeddingGemma 2. Underdog's Bark 3.0, a 163 MB English speech model they say matches Parakeet's word error rate, is CC-BY 4.0. Narrower terms cover the rest: Liquid AI's LFM2.5-24B-A2B and Open d1 use LFM 1.0, Nemotron 3.5 Super VL and Bolt use OpenMDW-1.1, Step 5 Preview is under StepFun's own license, Qwen-Image-2.1-Turbo is research-only, FLUX 3 Image Klein uses FLUX Kommunity, Gradium's Phonon is Apache only for the 31M English model, and Muse Spark Open stays on the Muse Model License.",
               "href": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
               "linkPair": [
                 "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
@@ -493,6 +484,8 @@ export const meetups = [
                 "https://huggingface.co/ornith-ai/Ornith-1.5-122B",
                 "https://huggingface.co/superagent-ai/security-one-27b",
                 "https://underdog.ai/saluki",
+                "https://underdog.ai/bark",
+                "https://huggingface.co/ConwayResearch/Underdog-Bark-3.0",
                 "https://gradium.ai/blog/release-phonon-open-weight",
                 "https://huggingface.co/gradium/phonon-31m-en",
                 "https://github.com/gradium-ai/xn-ptts",
@@ -553,6 +546,10 @@ export const meetups = [
                 },
                 {
                   "type": "tweet",
+                  "href": "https://x.com/underdogai/status/2112733007484518470"
+                },
+                {
+                  "type": "tweet",
                   "href": "https://x.com/GradiumAI/status/2112563128487514512"
                 },
                 {
@@ -592,23 +589,8 @@ export const meetups = [
                   "href": "https://x.com/bfl_ai/status/2110751201105256925"
                 }
               ],
-              "notes": "Maker claims stay the labs', including Recursive's Flint speeds, over 125 tokens a second on an M4 Pro and over 150 on a 64GB RTX Spark at short contexts, and their scores of 54.9% on Terminal-Bench 2.1, 89.7% on SWE-bench Pro v2, and 74.2% on SWE-bench Verified. The card's context is 262,144 tokens; the blog says up to 512k and recommends staying inside 256k. Best-in-class, 2x, and 5x are Recursive's comparisons. Also Meta's two M5 Ultras, Ornith's single-DGX 84.5% SWE-bench on a checkpoint that is about 250 GB unquantized, and Underdog's under-8 GB Saluki. Step 5 is StepFun's license, not Apache; Qwen-Image-2.1-Turbo is research-only; FLUX Kommunity is free commercial use under $5 million in revenue. Ling's card says 1M context, but Ant's service offers 256K.",
+              "notes": "Maker claims stay the labs', including Recursive's Flint speeds, over 125 tokens a second on an M4 Pro and over 150 on a 64GB RTX Spark at short contexts, and their scores of 54.9% on Terminal-Bench 2.1, 89.7% on SWE-bench Pro v2, and 74.2% on SWE-bench Verified. The card's context is 262,144 tokens; the blog says up to 512k and recommends staying inside 256k. Best-in-class, 2x, and 5x are Recursive's comparisons. Also Meta's two M5 Ultras, Ornith's single-DGX 84.5% SWE-bench on a checkpoint that is about 250 GB unquantized, and Underdog's under-8 GB Saluki. Underdog's Bark 3.0 is a finetune of NVIDIA's Parakeet TDT 0.6B: they report the same 4.94% average word error in a file about 15 times smaller, and 7.82% on meetings against Parakeet's 9.42% and Whisper large-v3's 13.63%. Those rows use the Open ASR scoring code but aren't on the leaderboard yet, and Bark is English only. Step 5 is StepFun's license, not Apache; Qwen-Image-2.1-Turbo is research-only; FLUX Kommunity is free commercial use under $5 million in revenue. Ling's card says 1M context, but Ant's service offers 256K.",
               "releaseRoundup": true
-            },
-            {
-              "title": "Underdog Bark 3.0 matches Parakeet in a 163 MB file",
-              "description": "Underdog says Bark 3.0 is a 163 MB CC-BY 4.0 English speech model, and the model card lists it as a finetune of NVIDIA's Parakeet TDT 0.6B. They report the same 4.94% average word error as that Parakeet, in a file about 15 times smaller, and 7.82% on meetings against Parakeet's 9.42% and Whisper large-v3's 13.63%.",
-              "href": "https://underdog.ai/bark",
-              "linkPair": [
-                "https://huggingface.co/ConwayResearch/Underdog-Bark-3.0"
-              ],
-              "embeds": [
-                {
-                  "type": "tweet",
-                  "href": "https://x.com/underdogai/status/2112733007484518470"
-                }
-              ],
-              "notes": "Bark's rows use the Open ASR scoring code and are not on the leaderboard yet; the comparison rows are the leaderboard as of October 9. The card says about 1.5 seconds per minute on an M2 with mlx-audio. The product page says 5 minutes in half a second on an M5 Max inside Underdog. English only."
             },
             {
               "title": "Community recipes squeeze DeepSeek and Qwen onto one machine",

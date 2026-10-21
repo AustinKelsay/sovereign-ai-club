@@ -1,7 +1,7 @@
 ---
 title: Coding Agents
 created: 2026-05-05
-updated: 2026-10-20
+updated: 2026-10-21
 type: concept
 tags: [concept, agent-infrastructure, local-builds]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ Coding Agents covers CLI agents, IDE-adjacent agents, local agent runtimes, agen
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Prime Agent rewrote itself in Rust**, **Earendil's Pi 1.0 and Pi Durable**, and **Reason Network lets your agents message your teammates' agents**.
+- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, and **Reason Network lets your agents message your teammates' agents**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.
 - [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.

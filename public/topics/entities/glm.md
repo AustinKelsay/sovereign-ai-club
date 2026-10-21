@@ -1,7 +1,7 @@
 ---
 title: GLM
 created: 2026-07-08
-updated: 2026-10-20
+updated: 2026-10-21
 type: entity
 tags: [entity, model, open-source, coding-agents]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -15,7 +15,7 @@ GLM-5.3 full weights became available after the August API announcement. The ful
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Same model, different harness: 8090's DeepSWE run**, **Prime Agent rewrote itself in Rust**, and **Cantina's apex-flash-1**.
+- [[Sovereign AI Club - October 21, 2026]]: **Same model, different harness: 8090's DeepSWE run**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, and **Cantina's apex-flash-1**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.

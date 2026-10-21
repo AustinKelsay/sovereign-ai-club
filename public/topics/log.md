@@ -6,6 +6,14 @@
 
 - Added art's October 15 Pokémon HeartGold post to **Agents decompile games and mash them together**. art says a month of agents and about $56,000 finished a byte-matching decompile, and the repo says pret does not want the code. pret's own README still calls its project unfinished. The 2024 Game Freak source report stays in the notes, and the post has no community note.
 
+## [2026-10-21] update | October 21 Bark into the open feed
+
+- Folded Underdog Bark 3.0 into **Open model releases** as its own CC-BY 4.0 line, next to Saluki, and removed the standalone slide. Its Parakeet and Whisper word-error comparison moved to the roundup notes, and the link records now sit under Open model releases.
+
+## [2026-10-21] update | October 21 agent swarms
+
+- Merged Prime Agent's Rust rewrite and OpenAI's GPT-Rosalind brain-atlas run into **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**. Both are thousands of agents on one job; the slide contrasts Prime's MIT harness on GLM-5.3, a model with public weights, with closed GPT-Rosalind. Prime's numbers now come from its October 9 blog, including the hosted GLM-5.3 endpoint. Vendor figures and the preprint caveat stay in the notes.
+
 ## [2026-10-21] update | October 21 Brockman remote-patching essay
 
 - Added **After php2shell, Brockman floats remote patching by authorized defenders** as its own Security slide after the PHP topic. Recorded his essay, his post, and the Node.js October 21 advisory, whose Brotli RCE does not credit OpenAI. Linked it from OpenAI, Security, and AI Governance.

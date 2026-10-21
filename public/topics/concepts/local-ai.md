@@ -13,7 +13,7 @@ Local AI covers models, tools, laptops, desktop apps, and privacy-preserving wor
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Underdog Bark 3.0 matches Parakeet in a 163 MB file**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **Perplexity Computer goes fully local on Mac**, **dax's OpenTunnel keeps TLS on your machine**, and **Open model releases**.
+- [[Sovereign AI Club - October 21, 2026]]: **Community recipes squeeze DeepSeek and Qwen onto one machine**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **Perplexity Computer goes fully local on Mac**, **dax's OpenTunnel keeps TLS on your machine**, and **Open model releases**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases** (Phonon-2).
 - [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**, **Splash vs mlx-serve: rival benchmarks, real fixes**.

@@ -154,17 +154,14 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
 - **LiquidAI/LFM2.5-2.6B** — https://huggingface.co/LiquidAI/LFM2.5-2.6B
   Type: model card. Accessed: 2026-10-20. Base model, LFM 1.0 license. The guide says Liquid trained it in Hermes Agent and OpenClaw, not in the four harnesses used here.
 
-### Prime Agent rewrote itself in Rust
+### Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas
 
 - **Rewriting Prime Agent in Rust** — https://www.primeintellect.ai/blog/prime-agent-rust
-  Type: blog post. Accessed: 2026-10-19. Vendor account of the swarm rewrite, parity tests, and the 13x / 83% figures.
+  Type: blog post. Accessed: 2026-10-21. October 9. Vendor account of the swarm rewrite, parity tests, and the 13x / 83% figures. Prime Agent orchestrated over 2,000 agents (1,981 for the port, 228 more for a three-day performance pass) on Prime Inference's GLM-5.3 endpoint, over 200 billion tokens for the port. No dollar cost given. The repo is MIT.
 - **Prime Intellect launch post** — https://x.com/primeintellect/status/2108672479007047952
   Type: X post. Accessed: 2026-10-19. The submitted swarm summary.
 - **Prime Agent v0.10.0** — https://github.com/PrimeIntellect-ai/prime-agent/releases/tag/v0.10.0
   Type: release notes. Accessed: 2026-10-19. October 9 release named in the blog.
-
-### Thousands of GPT-Rosalind agents read a brain atlas in 32 minutes
-
 - **Scaling AI research for complex biological data** — https://openai.com/index/scaling-ai-research-for-complex-biological-data/
   Type: company essay. Accessed: 2026-10-21. October 21. OpenAI, PerturbAI, and Scripps. Thousands of GPT-Rosalind agents, 32 minutes, a mouse-brain CRISPR atlas. OpenAI says the swarm cited more than 700 papers against 11 for one agent on the same model, and blinded experts preferred the swarm 75% of the time. The DCTN1 cholesterol-transport idea is a proposed follow-up, not a confirmed mechanism.
 - **OpenAI swarm post** — https://x.com/OpenAI/status/2112899854569762936
@@ -333,6 +330,12 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: product page. Accessed: 2026-10-19. Vendor page for the Apache 2.0 27B derivative and the under-8GB claim.
 - **Underdog launch post** — https://x.com/underdogai/status/2108021482983133395
   Type: X post. Accessed: 2026-10-19. Size, benchmark-retention, and tool-calling claims, attributed to Underdog.
+- **Underdog Bark 3.0** — https://underdog.ai/bark
+  Type: product page. Accessed: 2026-10-21. Dated 15 October 2026 on the page. 163 MB CC-BY 4.0 English model. Their table: 4.94% average word error, 7.82% on AMI meetings, against Parakeet 9.42% and Whisper large-v3 13.63%. Says an M5 Max inside Underdog transcribed 5 minutes in half a second.
+- **ConwayResearch/Underdog-Bark-3.0** — https://huggingface.co/ConwayResearch/Underdog-Bark-3.0
+  Type: model card. Accessed: 2026-10-21. Card license cc-by-4.0. Lists nvidia/parakeet-tdt-0.6b-v3 as the base model, relation finetune. Says a 0.6B model in a 163 MB download. Bark rows use Open ASR scoring and are not on the leaderboard; other rows are the leaderboard as of 9 October 2026. Speed on the card is about 1.5 seconds per minute on an M2 with mlx-audio.
+- **Bark 3.0 launch post** — https://x.com/underdogai/status/2112733007484518470
+  Type: X post. Accessed: 2026-10-21. Underdog's launch claims, including under 0.25 seconds per minute on a MacBook. The product page and model card give different machines and times.
 - **Open-Sourcing Phonon** — https://gradium.ai/blog/release-phonon-open-weight
   Type: company blog. Accessed: 2026-10-20. October 20 open release of the TTS model Gradium announced in April. Phonon 31m is English and Apache 2.0; Phonon 40m, per language or multilingual across English, French, German, Spanish, and Portuguese, is CC BY-NC. q8 GGUF weights of 64 MB and 74.6 MB with CPU, GPU, WebGPU, Core ML, and Snapdragon backends. Gradium's numbers: 7 ms to first audio on a MacBook Air M5 CPU against 517 ms for Kokoro, and 1.70% word error for 31m on its own 500 hard sentences, with transcripts and scoring by other models. Cloned or designed voices are made in Gradium's cloud, then run locally.
 - **gradium/phonon-31m-en** — https://huggingface.co/gradium/phonon-31m-en
@@ -389,15 +392,6 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: model card. Accessed: 2026-10-21. Apache 2.0. 39.8B total, about 2.5B active. Card scores, Recursive's own: 54.9% Terminal-Bench 2.1, 89.7% SWE-bench Pro v2, 74.2% SWE-bench Verified. Documented context is 262,144 tokens. BF16 download is about 80 GB.
 - **Richard Socher on Flint** — https://x.com/RichardSocher/status/2112944385415426249
   Type: X post. Accessed: 2026-10-21. October 21 launch post. Repeats the MacBook and RTX Spark speed claims and says the weights are open.
-
-### Underdog Bark 3.0 matches Parakeet in a 163 MB file
-
-- **Underdog Bark 3.0** — https://underdog.ai/bark
-  Type: product page. Accessed: 2026-10-21. Dated 15 October 2026 on the page. 163 MB CC-BY 4.0 English model. Their table: 4.94% average word error, 7.82% on AMI meetings, against Parakeet 9.42% and Whisper large-v3 13.63%. Says an M5 Max inside Underdog transcribed 5 minutes in half a second.
-- **ConwayResearch/Underdog-Bark-3.0** — https://huggingface.co/ConwayResearch/Underdog-Bark-3.0
-  Type: model card. Accessed: 2026-10-21. Card license cc-by-4.0. Lists nvidia/parakeet-tdt-0.6b-v3 as the base model, relation finetune. Says a 0.6B model in a 163 MB download. Bark rows use Open ASR scoring and are not on the leaderboard; other rows are the leaderboard as of 9 October 2026. Speed on the card is about 1.5 seconds per minute on an M2 with mlx-audio.
-- **Bark 3.0 launch post** — https://x.com/underdogai/status/2112733007484518470
-  Type: X post. Accessed: 2026-10-21. Underdog's launch claims, including under 0.25 seconds per minute on a MacBook. The product page and model card give different machines and times.
 
 ### Community recipes squeeze DeepSeek and Qwen onto one machine
 

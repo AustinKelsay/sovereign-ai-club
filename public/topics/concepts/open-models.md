@@ -15,7 +15,7 @@ On Meetup boards, the biweekly open-weight launch catalog lives under the offici
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Underdog Bark 3.0 matches Parakeet in a 163 MB file**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.
+- [[Sovereign AI Club - October 21, 2026]]: **Community recipes squeeze DeepSeek and Qwen onto one machine**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.

@@ -13,7 +13,7 @@ OpenAI is a recurring Sovereign AI Club entity because its model releases, platf
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical RCEs are fixed only by updating**, **After php2shell, Brockman floats remote patching by authorized defenders**, **Thousands of GPT-Rosalind agents read a brain atlas in 32 minutes**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.
+- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical RCEs are fixed only by updating**, **After php2shell, Brockman floats remote patching by authorized defenders**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.
 - [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.
