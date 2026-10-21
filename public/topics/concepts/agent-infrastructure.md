@@ -1,7 +1,7 @@
 ---
 title: Agent Infrastructure
 created: 2026-05-05
-updated: 2026-10-20
+updated: 2026-10-21
 type: concept
 tags: [concept, track, agent-infrastructure]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ Agent Infrastructure is the Sovereign AI Club track for runtimes, protocols, int
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Prime Agent rewrote itself in Rust**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, and **Perplexity Computer goes fully local on Mac**.
+- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Prime Agent rewrote itself in Rust**, **Thousands of GPT-Rosalind agents read a brain atlas in 32 minutes**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.
 

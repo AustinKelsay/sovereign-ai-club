@@ -1,7 +1,7 @@
 ---
 title: October 21, 2026 event and source links
 created: 2026-10-13
-updated: 2026-10-20
+updated: 2026-10-21
 type: summary
 tags: [source-record]
 sources: []
@@ -73,6 +73,14 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: GitHub repo. Accessed: 2026-10-20. Runs Marvel's Spider-Man Remastered beside Batman: Arkham Knight. Gotham collision is streamed into Spider-Man, and Spider-Man's frame is drawn into Arkham in Batman's place. README says the architecture follows SkyCraft, and it includes a "Set it up with Claude" section.
 - **er-mario** — https://github.com/deltarooo/er-mario
   Type: GitHub repo. Accessed: 2026-10-20. Repo description: play Elden Ring as Super Mario 64's Mario, using libsm64 and me3. Work in progress. The September 30 clip does not mention this method; the October 1 release post links the repo.
+- **art: Pokémon HeartGold decompiled** — https://x.com/artfreebrey/status/2110680341509816806
+  Type: X post. Accessed: 2026-10-21. October 15. art says HeartGold is fully decompiled after about a month and about $56,000 in API prices, for 4.1 MB of compiled code. FxTwitter views that day: 1,918,252. The payload includes no community note.
+- **ctrl-cheeb-del/pokeheartgold** — https://github.com/ctrl-cheeb-del/pokeheartgold
+  Type: GitHub repo. Accessed: 2026-10-21. Created September 17. README: a decompilation of HeartGold and SoulSilver, built with LLM agents, everything in C/C++, both US ROMs build byte-for-byte, and a fork of pret's project that pret does not want associated with AI-generated code. GitHub does not list the repo as a fork. Pushed October 21. No license. Code mix that day: about 82% C, 13% assembly, 4% C++. The same SHA-1s as pret's US ROMs.
+- **pret/pokeheartgold** — https://github.com/pret/pokeheartgold
+  Type: GitHub repo. Accessed: 2026-10-21. Community disassembly started June 2021. README still calls it a work in progress and says the ROM is not fully decompiled, so a size-changing edit can crash. Pushed October 19. Code mix that day: about 65% assembly and 31% C. Same US ROM SHA-1s as the October 15 repo.
+- **Eurogamer on the 2024 Game Freak breach** — https://www.eurogamer.net/pokemon-developer-game-freak-reels-from-unprecedented-gigaleak-of-significant-internal-data
+  Type: news report. Accessed: 2026-10-21. October 13, 2024. Says the breach reportedly included HeartGold and SoulSilver source, and quotes a listener who had not checked. Game Freak confirmed unauthorized access to employee contact data. Not evidence that the October 15 repo used leaked source.
 
 ### ArtCraft's Rust apps stand in for seven Adobe tools
 
@@ -155,6 +163,17 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
 - **Prime Agent v0.10.0** — https://github.com/PrimeIntellect-ai/prime-agent/releases/tag/v0.10.0
   Type: release notes. Accessed: 2026-10-19. October 9 release named in the blog.
 
+### Thousands of GPT-Rosalind agents read a brain atlas in 32 minutes
+
+- **Scaling AI research for complex biological data** — https://openai.com/index/scaling-ai-research-for-complex-biological-data/
+  Type: company essay. Accessed: 2026-10-21. October 21. OpenAI, PerturbAI, and Scripps. Thousands of GPT-Rosalind agents, 32 minutes, a mouse-brain CRISPR atlas. OpenAI says the swarm cited more than 700 papers against 11 for one agent on the same model, and blinded experts preferred the swarm 75% of the time. The DCTN1 cholesterol-transport idea is a proposed follow-up, not a confirmed mechanism.
+- **OpenAI swarm post** — https://x.com/OpenAI/status/2112899854569762936
+  Type: X post. Accessed: 2026-10-21. Official post of the same claim, including the Perry syndrome hypothesis.
+- **Distributed biological reasoning preprint** — https://www.biorxiv.org/content/10.64898/2026.10.15.759436v1
+  Type: preprint. Accessed: 2026-10-21. Posted October 16. Abstract says thousands of agents, minutes rather than months, no access to the source manuscript, and that blinded experts preferred the distributed reports. It does not repeat the 32-minute, 700-versus-11, or 75% figures.
+- **GPT-Rosalind access** — https://help.openai.com/en/articles/20001193-gpt-rosalind-for-life-sciences-research
+  Type: help article. Accessed: 2026-10-21. GPT-Rosalind is a closed life-sciences model. Buying a subscription does not grant access.
+
 ### Earendil's Pi 1.0 and Pi Durable
 
 - **Pi 1.0** — https://earendil.com/posts/pi-1-0/
@@ -205,6 +224,15 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
 
 - **Seth For Privacy's M5 Ultra comparison** — https://x.com/sethforprivacy/status/2107115577068183800
   Type: X post. Accessed: 2026-10-19. His decode-versus-prefill measurements. Not an independent lab result.
+
+### EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s
+
+- **eagle-hq/EAGLE-4** — https://github.com/eagle-hq/EAGLE-4
+  Type: repository. Accessed: 2026-10-21. Speculative-decoding drafter for SGLang, vLLM, and TokenSpeed. README says one draft model keeps the target distribution and measures Qwen3.8-27B at 3.40× SGLang without speculation, four B300s, one request. First start downloads about 70 GB. License file says source-available, not an OSI open-source license.
+- **EAGLE-Corp/Qwen3.8-27B-EAGLE4** — https://huggingface.co/EAGLE-Corp/Qwen3.8-27B-EAGLE4
+  Type: model card. Accessed: 2026-10-21. Draft weights linked from the README.
+- **EAGLE-4 launch post** — https://x.com/eaglecorp/status/2112660683670323531
+  Type: X post. Accessed: 2026-10-21. Eagle's 961.6 tokens/s figure is a TokenSpeed run: BF16, four B300s, tensor parallel 4, one request, temperature 0. Separate from the README's 3.40×.
 
 ### Perplexity Computer goes fully local on Mac
 
@@ -355,8 +383,23 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: official launch. Accessed: 2026-10-20. October 15. 5.6B open weights under the FLUX Kommunity License: free commercial use for individuals and companies under $5M annual revenue. Quality rankings are Black Forest Labs' internal evals.
 - **FLUX 3 Image Klein launch post** — https://x.com/bfl_ai/status/2110751201105256925
   Type: X post. Accessed: 2026-10-20. Official October 15 post. 5.6B, single consumer GPU, native 4K.
+- **Introducing Recursive Flint** — https://www.recursive.com/updates/introducing-recursive-flint
+  Type: blog post. Accessed: 2026-10-21. Recursive says Flint is a 40B MoE with 2.5B active, built in under four months, with more than 125 tokens per second on an M4 Pro and more than 150 on a 64GB RTX Spark at short contexts. Best-in-class, up to 2x, and more than 5x versus dense 25–40B models are their comparisons. The blog says up to 512k context and recommends staying inside 256k.
+- **RecursiveSI/flint** — https://huggingface.co/RecursiveSI/flint
+  Type: model card. Accessed: 2026-10-21. Apache 2.0. 39.8B total, about 2.5B active. Card scores, Recursive's own: 54.9% Terminal-Bench 2.1, 89.7% SWE-bench Pro v2, 74.2% SWE-bench Verified. Documented context is 262,144 tokens. BF16 download is about 80 GB.
+- **Richard Socher on Flint** — https://x.com/RichardSocher/status/2112944385415426249
+  Type: X post. Accessed: 2026-10-21. October 21 launch post. Repeats the MacBook and RTX Spark speed claims and says the weights are open.
 
-### DeepSeek open-sources DeepInfer, its V4.1-Flash engine
+### Underdog Bark 3.0 matches Parakeet in a 163 MB file
+
+- **Underdog Bark 3.0** — https://underdog.ai/bark
+  Type: product page. Accessed: 2026-10-21. Dated 15 October 2026 on the page. 163 MB CC-BY 4.0 English model. Their table: 4.94% average word error, 7.82% on AMI meetings, against Parakeet 9.42% and Whisper large-v3 13.63%. Says an M5 Max inside Underdog transcribed 5 minutes in half a second.
+- **ConwayResearch/Underdog-Bark-3.0** — https://huggingface.co/ConwayResearch/Underdog-Bark-3.0
+  Type: model card. Accessed: 2026-10-21. Card license cc-by-4.0. Lists nvidia/parakeet-tdt-0.6b-v3 as the base model, relation finetune. Says a 0.6B model in a 163 MB download. Bark rows use Open ASR scoring and are not on the leaderboard; other rows are the leaderboard as of 9 October 2026. Speed on the card is about 1.5 seconds per minute on an M2 with mlx-audio.
+- **Bark 3.0 launch post** — https://x.com/underdogai/status/2112733007484518470
+  Type: X post. Accessed: 2026-10-21. Underdog's launch claims, including under 0.25 seconds per minute on a MacBook. The product page and model card give different machines and times.
+
+### Community recipes squeeze DeepSeek and Qwen onto one machine
 
 - **deepseek-ai/DeepInfer** — https://github.com/deepseek-ai/DeepInfer
   Type: repository. Accessed: 2026-10-20. Apache 2.0 offline inference for DeepSeek-V4.1-Flash, default checkpoint DeepSeek-V4.1-Flash-1017. Hardware is NVIDIA SM100 and Huawei Ascend 950. README says a complete service still needs a KV cache system, VE/prefill/decode disaggregation (most required engine functionality is already implemented), and load balancing across data-parallel replicas. Built primarily on vLLM, with inspiration from SGLang and TensorRT-LLM. Benchmarks are DeepSeek's, measured on 4 SM100 GPUs for prefill and 64 for decode, each inside one scale-up domain.
@@ -368,9 +411,12 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: repository. Accessed: 2026-10-20. MIT Rust and Python libraries that turn Messages, Chat Completions, and Responses requests into DeepSeek prompts and tokens, and parse model output back into API responses. Public since the initial commit on September 10, 2026; 0.2.0 was tagged October 19. The caller still supplies inference, tool execution, and HTTP.
 - **deepseek-recipe post** — https://x.com/deepseek_ai/status/2112476501065286085
   Type: X post. Accessed: 2026-10-20. Thread 3/4. Says the library matches official API token encoding and decoding. The repo itself predates this post.
-
-### Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits
-
+- **vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-1.61bpw** — https://huggingface.co/vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-1.61bpw
+  Type: model card. Accessed: 2026-10-21. MIT. Blackfrost collaboration. SAGE-EXL3 at 1.61 bits for one 128 GB-class device, about 112.9 GiB resident. Card says 94.68% assistant-turn top-1 agreement with DeepSeek's official FP8/FP4 checkpoint. Token fidelity, not a task score. SAGE is unpublished.
+- **vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-2.50bpw** — https://huggingface.co/vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-2.50bpw
+  Type: model card. Accessed: 2026-10-21. MIT. 2.50 bits for two 128 GB-class devices, about 170.6 GiB total. Card says 96.71% assistant-turn top-1 agreement with the same official checkpoint.
+- **Cruz derisked packs** — https://x.com/ViC305/status/2112934986773045498
+  Type: X post. Accessed: 2026-10-21. October 21. He says both figures are token-fidelity results, not cybersecurity task scores, and credits Blackfrost for the model and the compute.
 - **vcruz305/DSV4.1-Flash-1017-SAGE-EXL3-1.62bpw** — https://huggingface.co/vcruz305/DSV4.1-Flash-1017-SAGE-EXL3-1.62bpw
   Type: model card. Accessed: 2026-10-20. MIT EXL3 pack of DeepSeek-V4.1-Flash-1017 with routed experts at 1.62 bits. Teacher-forced agreement with DeepSeek's FP8/FP4 release: 94.52% top-1 overall, 99.61% answer-only on code, 89.94% top-1 on general text. SAGE is the author's own method and is not published.
 - **One-Spark vLLM recipe** — https://github.com/vcruz305/DSV4.1-Flash-1017-EXL3-Spark-recipe
@@ -379,6 +425,22 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: X post. Accessed: 2026-10-20. Submitted launch post: 35.5 tok/s decode, 1,189 tok/s peak prefill, 229K context, task-level evals still running, REXL3 engine teased but not released.
 - **Cruz task-score follow-up** — https://x.com/ViC305/status/2112603778327380088
   Type: X post. Accessed: 2026-10-20. Same-day follow-up. Cruz reports 332 of 353 on a matched nine-suite subset at temperature 0 and strict pass@1, against JJ New at 2.8 bits on two Sparks (318/353) and MiaLab at 2.9 bits on two Sparks (312/353). He counts five wins, three ties, and a loss on a multi-step tool chain, 5/6 to 6/6. He also reports a 518,103-token retrieval that found one planted fact, with about 470 seconds to the first token. REXL3 speed figures in the same post are a different unreleased engine. He says the set is not a public leaderboard.
+- **unsloth/DeepSeek-V4.1-Flash-1017-GGUF** — https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF
+  Type: model card. Accessed: 2026-10-21. MIT Dynamic GGUFs of the same V4.1-Flash-1017 checkpoint. The card says the smallest 1-bit build needs 128 GB or more of RAM and tells you to use Unsloth's llama.cpp pull or Unsloth Desktop.
+- **Run DeepSeek-V4.1-Flash locally** — https://unsloth.ai/docs/models/deepseek-v4.1-flash
+  Type: official guide. Accessed: 2026-10-21. Unsloth's table: UD-IQ1_M is 250.4 GB with 88.2% top-1 on their long17k set, against their reading of the original DeepSeek checkpoint. UD-IQ1_S is the pack they say fits a 128 GB machine when the Engram table stays on SSD. The guide's build checks out llama.cpp pull 30817. The 3x speed line is Unsloth's comparison with other CPU, VRAM, and n-gram repos.
+- **llama.cpp pull 30817** — https://github.com/ggml-org/llama.cpp/pull/30817
+  Type: pull request. Accessed: 2026-10-21. The branch Unsloth's Flash guide tells you to build. Stock llama.cpp is not the runtime they document for these GGUFs.
+- **Niko1221/Strata** — https://github.com/Niko1221/Strata
+  Type: repository. Accessed: 2026-10-21. MIT. Created September 24, 2026. README says it runs Qwen3.8-Flash-Next on a normal PC, with 32 GB of RAM and graphics memory together as the floor, and an OpenAI- and Anthropic-compatible API on localhost. Credits ISTA-DASLab, Unsloth, and others for the compressed weights. Not on the September 30 board.
+- **Strata 0.2.2** — https://github.com/Niko1221/Strata/releases/tag/v0.2.2
+  Type: release. Accessed: 2026-10-21. October 21. Engine packages are 0.1.47. Notes say Gyro on Intel Arc and Macs, faster Gyro on NVIDIA, and a per-card Main, Helper, or Off choice. Speed claims in the notes are the author's, on named machines.
+- **How Strata fits the model** — https://github.com/Niko1221/Strata/blob/main/docs/HOW_IT_WORKS.md
+  Type: documentation. Accessed: 2026-10-21. Says the GPU keeps the experts asked most often, RAM holds the rest, and the CPU works an expert the card does not have while the GPU continues.
+- **Niko Veit on Strata** — https://x.com/coldniko/status/2110090419384230113
+  Type: X post. Accessed: 2026-10-21. October 13. Display name Niko Veit. Says Apple Silicon, NVFP4, and Unsloth's UD-Q4 through UD-Q8 packs are in. Earlier speed lines, including 70 tokens a second on old DDR3 machines, are his and stay off the spoken line.
+- **ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF** — https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF
+  Type: model card. Accessed: 2026-10-21. Non-uniform GGUFs from ISTA-DASLab, one of the compressors Strata's README names. Included as the recipe family, not as a spoken score. Bartowski imatrix packs, Mirai's Strata conversions, and abliterated variants stay off this slide.
 
 ### OpenAI's math paper dump and the Lean gap
 
@@ -407,6 +469,54 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: X post. Accessed: 2026-10-19. His description of the browser toy. No separate repo was in the submission.
 
 ## Security
+
+### PHP's two critical RCEs are fixed only by updating
+
+- **PHP security advisory, 21 October 2026** — https://www.php.net/archive/2026.php
+  Type: vendor advisory. Accessed: 2026-10-21. PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35 fix CVE-2026-109618 and CVE-2026-109619, which PHP says allow unauthenticated remote code execution. Highest risk is mod_php. PHP 8.1 and older are out of project support; minimal source backports exist for 7.4, 8.0, and 8.1. PHP says there are no complete mitigations. The October 20 advance notice set the release for October 21 at 14:00 UTC and rated both bugs 9.2 on CVSS v4.0. The advisory says Linux distributions and LTS vendors got the patches in advance.
+- **Patch the Planet: PHP disclosure** — https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/
+  Type: company essay. Accessed: 2026-10-21. October 21. OpenAI says Calif found a critical PHP flaw with GPT-5.6 Sol and Wiz independently found both. The essay does not repeat the post's "70% of websites" estimate.
+- **OpenAI disclosure post** — https://x.com/openai/status/2112907856018309586
+  Type: X post. Accessed: 2026-10-21. Official post. Includes the 70% estimate and calls this one of the most impactful vulnerabilities in recent memory.
+- **Sherlock's plain-English explainer** — https://x.com/sherlock_comms/status/2112904595995275554
+  Type: X post. Accessed: 2026-10-21. @sherlock_comms, posted 13:51 UTC October 21, nine minutes before PHP's pre-announced 14:00 UTC release. Explains websites, PHP, and the flaw for non-developers, and says there was no official fix yet, which was true when posted. His 70% of websites matches OpenAI's post estimate.
+- **Prime Minister Sanae Takaichi** — https://x.com/takaichi_sanae/status/2112890642590564386
+  Type: X post. Accessed: 2026-10-21. Government-verified account. Posted 12:55 UTC, before 11 p.m. Japan time. Asks people to check whether public sites use PHP and prepare to apply the patch due at 23:00 JST on October 21. Says temporarily stopping a site is one way to reduce risk if the patch cannot be applied quickly. Points to @cyber_forecast. Her bio says some posts during the premiership are written by staff.
+- **Himanshu on the prime minister's post** — https://x.com/himanshustwts/status/2112909962313867667
+  Type: X post. Accessed: 2026-10-21. Quotes Takaichi. The reaction is his; the request is hers.
+- **NSA Cyber guidance** — https://x.com/nsacyber/status/2112903220209098897
+  Type: X post. Accessed: 2026-10-21. Says prepare to update, and take systems offline if an immediate update is not feasible.
+- **Dark Web Informer pre-patch note** — https://x.com/darkwebinformer/status/2112651353818329380
+  Type: X post. Accessed: 2026-10-21. Posted before the fixes. Says researchers called both bugs remote code execution at CVSS v4 9.2, and that PHP had not yet confirmed versions.
+- **h4x0r_dz on the PHP CVEs** — https://x.com/h4x0r_dz/status/2112620404309184734
+  Type: X post. Accessed: 2026-10-21. Calls both CVEs remote code execution with a CVSS score of 10.0 and links a Hacker News thread. The board does not use 10.0 as PHP's score.
+
+### After php2shell, Brockman floats remote patching by authorized defenders
+
+- **Towards securing the internet** — https://x.com/i/article/2112920540138844160
+  Type: X article. Accessed: 2026-10-21. October 21. Greg Brockman's essay. Names the PHP bug php2shell and says it sat in PHP for 14 years, with a limited version found in 2024. Says Calif found a version with GPT-5.6 Sol in August and OpenAI found a more complete version in September; the target release was October 22 and moved to October 21 after details leaked. Calls the coalition work slow and manual and says that won't scale. Floats authorized defenders, such as government, scanning the internet for vulnerable hosts and notifying them or, in extreme cases, patching them remotely. Says defenders need stronger models than attackers and calls always having the most capable cyber models a national priority. Points to $1B in credits for frontline defenders committed September 3 and to Daybreak. Does not mention open weights or say who would authorize remote patching.
+- **Greg Brockman's post** — https://x.com/gdb/status/2112921529650688312
+  Type: X post. Accessed: 2026-10-21. Submitted post sharing the essay. Calls php2shell one of the most severe open-source bugs in recent memory and says OpenAI led the coalition for two months.
+- **Node.js October 21, 2026 security releases** — https://nodejs.org/en/blog/vulnerability/october-2026-security-releases
+  Type: vendor advisory. Accessed: 2026-10-21. Fixed in 22.23.4, 24.22.1, and 26.12.1. Ten CVEs, highest High, including CVE-2026-111497, a Brotli decoder out-of-bounds write that permits remote code execution. The advisory does not mention OpenAI; Brockman's essay says OpenAI worked on a Node.js RCE announced today.
+
+### LiteLLM 1.107.0 wheels shipped a credential stealer
+
+- **LiteLLM PyPI and Docker compromise** — https://socket.dev/blog/litellm-compromise
+  Type: research report. Accessed: 2026-10-21. Socket, October 21. Version 1.107.0 wheels and Docker images. Seven wheels. Scanner flagged them seven minutes after publication. Payload runs on Python startup without importing LiteLLM. Image provenance records source owner Berri-AI, one hyphen off BerriAI/litellm. Socket says about 23 million weekly downloads and does not claim to know how the source-owner override was authorized. The board does not repeat the payload.
+- **Socket alert** — https://x.com/SocketSecurity/status/2112907732877775016
+  Type: X post. Accessed: 2026-10-21. Submitted post. Says 92 million-plus monthly downloads.
+- **LiteLLM security issue 47826** — https://github.com/BerriAI/litellm/issues/47826
+  Type: GitHub issue. Accessed: 2026-10-21. Status note at 17:13 UTC says PyPI removed 1.107.0 and the floating Docker tags latest, main-latest, and main-stable were yanked. Separate from the April 1 LiteLLM compromise.
+
+### Eight eMudhra intermediate CA keys were recoverable
+
+- **eMudhra Intermediate CA Compromise** — https://emudhra.we-have-a-problem.com/
+  Type: incident report. Accessed: 2026-10-21. October 20. Eight intermediate CA private keys were incorrectly generated and can be recovered from the certificates. They chain to Mozilla, Microsoft, Apple, and Chrome roots. Firefox and Chrome blocked them on October 17, Apple on October 19, Microsoft on October 20. Certificates created April 2025. No certificate-transparency entries in that period, so CT-enforcing browsers could not have been attacked. The board does not include key-recovery steps or workaround scripts.
+- **AJ Stuyvenberg** — https://x.com/astuyve/status/2112559796914167931
+  Type: X post. Accessed: 2026-10-21. October 20. Points at the incident page.
+- **Dominic on the weak keys** — https://x.com/itsnebulalol/status/2112628540726260059
+  Type: X post. Accessed: 2026-10-21. Says one private key was the number 4 and another was 0x73. His claim, quoting the incident post.
 
 ### ProjectDiscovery's $50 LoRA backdoor
 

@@ -1,7 +1,7 @@
 ---
 title: Local AI
 created: 2026-05-05
-updated: 2026-10-20
+updated: 2026-10-21
 type: concept
 tags: [concept, local-builds, open-source, privacy]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ Local AI covers models, tools, laptops, desktop apps, and privacy-preserving wor
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **Perplexity Computer goes fully local on Mac**, **dax's OpenTunnel keeps TLS on your machine**, and **Open model releases**.
+- [[Sovereign AI Club - October 21, 2026]]: **Underdog Bark 3.0 matches Parakeet in a 163 MB file**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **Perplexity Computer goes fully local on Mac**, **dax's OpenTunnel keeps TLS on your machine**, and **Open model releases**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases** (Phonon-2).
 - [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**, **Splash vs mlx-serve: rival benchmarks, real fixes**.
@@ -53,3 +53,5 @@ Local AI covers models, tools, laptops, desktop apps, and privacy-preserving wor
 - [[MiniMax M3]]
 - [[React Native ExecuTorch]]
 - [[Qwenstradamus]]
+- [[Unsloth]]
+- [[Strata]]

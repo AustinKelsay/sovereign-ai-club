@@ -1,7 +1,7 @@
 ---
 title: Open Models
 created: 2026-05-05
-updated: 2026-10-20
+updated: 2026-10-21
 type: concept
 tags: [concept, models-research, open-source]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -15,7 +15,7 @@ On Meetup boards, the biweekly open-weight launch catalog lives under the offici
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **DeepSeek open-sources DeepInfer, its V4.1-Flash engine**, **Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.
+- [[Sovereign AI Club - October 21, 2026]]: **Underdog Bark 3.0 matches Parakeet in a 163 MB file**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.

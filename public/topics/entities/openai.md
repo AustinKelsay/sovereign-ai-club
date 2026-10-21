@@ -1,7 +1,7 @@
 ---
 title: OpenAI
 created: 2026-05-05
-updated: 2026-10-19
+updated: 2026-10-21
 type: entity
 tags: [entity, company, model, privacy]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ OpenAI is a recurring Sovereign AI Club entity because its model releases, platf
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.
+- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical RCEs are fixed only by updating**, **After php2shell, Brockman floats remote patching by authorized defenders**, **Thousands of GPT-Rosalind agents read a brain atlas in 32 minutes**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.
 - [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.

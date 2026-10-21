@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog for the Sovereign AI Club Markdown Archive and LLM Wiki.
-> Last updated: 2026-10-20 | Total pages: 203
+> Last updated: 2026-10-21 | Total pages: 204
 
 ## Meetups
 
@@ -35,6 +35,7 @@
 - [[Perplexity]]
 - [[Reason Network]]
 - [[Gradium]]
+- [[Underdog]]
 - [[Cua]]
 - [[REA]]
 
@@ -171,11 +172,13 @@
 - [[Salesforce]]
 - [[Signal]]
 - [[SpaceX]]
+- [[Strata]]
 - [[SWE-1.7]]
 - [[TMax]]
 - [[Tencent]]
 - [[TurboFieldfare]]
 - [[Unbroker]]
+- [[Unsloth]]
 - [[Vera Rubin]]
 - [[Venice]]
 - [[Vercel]]

@@ -1,7 +1,7 @@
 ---
 title: Qwen
 created: 2026-05-05
-updated: 2026-10-20
+updated: 2026-10-21
 type: entity
 tags: [entity, model, models-research, open-source]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md, raw/articles/2026-09-09-link-records.md]
@@ -15,7 +15,7 @@ Qwen-Drive-1.0-4B supplies Apache-2.0 research artifacts for driving perception 
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **ProjectDiscovery's $50 LoRA backdoor**, and **Perplexity Computer goes fully local on Mac**.
+- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, **Open model releases**, **ProjectDiscovery's $50 LoRA backdoor**, and **Perplexity Computer goes fully local on Mac**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Open model releases**.
 - [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.
@@ -37,3 +37,5 @@ Qwen-Drive-1.0-4B supplies Apache-2.0 research artifacts for driving perception 
 - [[Local AI]]
 - [[Qwen-AgentWorld]]
 - [[HARC]]
+- [[Strata]]
+- [[Unsloth]]

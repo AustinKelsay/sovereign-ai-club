@@ -2,6 +2,42 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-10-21] update | October 21 HeartGold decompile
+
+- Added art's October 15 Pokémon HeartGold post to **Agents decompile games and mash them together**. art says a month of agents and about $56,000 finished a byte-matching decompile, and the repo says pret does not want the code. pret's own README still calls its project unfinished. The 2024 Game Freak source report stays in the notes, and the post has no community note.
+
+## [2026-10-21] update | October 21 Brockman remote-patching essay
+
+- Added **After php2shell, Brockman floats remote patching by authorized defenders** as its own Security slide after the PHP topic. Recorded his essay, his post, and the Node.js October 21 advisory, whose Brotli RCE does not credit OpenAI. Linked it from OpenAI, Security, and AI Governance.
+
+## [2026-10-21] update | October 21 desk-run recipes
+
+- Folded DeepInfer and Cruz's derisked Flash quants into **Community recipes squeeze DeepSeek and Qwen onto one machine**. The lab engine still targets SM100 and Ascend and leaves the KV cache out. The desk half is Cruz's 1.61-bit EXL3 on one Spark, Unsloth's Dynamic GGUFs for the same checkpoint, and Strata 0.2.2, which shipped today for Qwen3.8-Flash-Next. Token-fidelity numbers stay in the notes, and they are not the same measurement. Added Unsloth and Strata pages. TensorFold, EAGLE-4, and Perplexity stay their own slides.
+
+## [2026-10-21] update | October 21 Flint in the open feed
+
+- Added Recursive's Flint to **Open model releases**. The card is Apache 2.0, 39.8B total with about 2.5B active. Socher's launch post and the blog own the speed claims: over 125 tokens a second on an M4 Pro and over 150 on a 64GB RTX Spark. Presenter notes keep best-in-class, the 2x and 5x lines, and the 262,144 versus 512k context disagreement.
+
+## [2026-10-21] curate | October 21 GPT-Rosalind swarm
+
+- Added **Thousands of GPT-Rosalind agents read a brain atlas in 32 minutes** to Agent Infrastructure, after Prime's swarm rewrite. OpenAI says thousands of closed GPT-Rosalind agents, with PerturbAI and Scripps, proposed a cholesterol-transport hypothesis for Perry syndrome in 32 minutes. The same essay says one agent cited 11 papers and the swarm cited more than 700, with blinded experts preferring the swarm 75% of the time. Presenter notes keep the hypothesis unconfirmed.
+
+## [2026-10-21] update | October 21 PHP, Japan's prime minister
+
+- Added Prime Minister Sanae Takaichi's October 21 post to the PHP topic. She asked sites to prepare for the patch at 11 p.m. Japan time and said taking a site offline is one way to cut the risk if patching quickly is hard. Himanshu's post is the reaction. Finder credits and the NSA guidance stay in the notes.
+
+## [2026-10-21] update | October 21 Cruz derisked quants
+
+- Updated Cruz's DeepSeek Flash topic with his October 21 post. The new MIT packs are 1.61 bits on one Spark, 94.68% assistant-token agreement, and 2.50 bits on two Sparks at 96.71%, both against DeepSeek's FP8/FP4 checkpoint. He says those are token-fidelity checks, not security-task scores. The earlier 1.62-bit pack and its 332 of 353 subset stay in the notes.
+
+## [2026-10-21] curate | October 21 LiteLLM 1.107.0
+
+- Added **LiteLLM 1.107.0 wheels shipped a credential stealer** to Security after the PHP topic. Socket says the wheels and Docker images carry a credential stealer that runs on Python startup, and the image provenance names lookalike repo Berri-AI. This is a different incident from the April 1 LiteLLM compromise. A GitHub issue says PyPI removed 1.107.0 and yanked the floating Docker tags. Presenter notes keep the payload off the spoken line.
+
+## [2026-10-21] curate | October 21 PHP, eMudhra, EAGLE-4, and Bark
+
+- Added four topics from eight posts. PHP's two critical RCEs lead Security: the project says 8.5.12, 8.4.27, 8.3.36, and 8.2.35 are the fix, OpenAI says Calif and Wiz found them, and NSA Cyber says take systems offline if you cannot update. eMudhra's eight recoverable intermediate CA keys follow. EAGLE-4 sits with the local engines as a source-available drafter, 3.40× on Eagle's own four-B300 run. Bark 3.0 is its own slide, a 163 MB CC-BY Parakeet finetune, rather than another name in the open-license sentence. Presenter notes keep the exploit details and the disagreeing speed numbers off the spoken line.
+
 ## [2026-10-20] update | October 21 spoken-copy garden
 
 - Shortened October 21 spoken lines to one or two sentences a host can say once, and moved the secondary numbers into Presenter Notes. Titles, order, launch posts, and licenses stayed put. The host clock now names ArtCraft between the game decompiles and Reverse Engineer Anything.

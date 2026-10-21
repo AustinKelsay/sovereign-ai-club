@@ -84,7 +84,7 @@ export const meetups = [
           "Focus: local AI, open models, and control over the tools we use.",
           "Bring a question, a project, or a demo for the Community Slot."
         ],
-        "hostNote": "5:30 welcome; 5:40 games, ArtCraft, and REA; 5:55 harness scores, harness RL, and flow-1; 6:10 Prime, Pi, tunnels, and agent networks; 6:25 bring-your-own computers, local engines, and Perplexity; 6:40 release feeds, DeepInfer, and one-Spark DeepSeek; 6:55 math and readable nets; 7:05 security; 7:15 export rules, the DeepSeek order, and OpenAI; 7:25 Community Slot; 7:30 finish. Attribute maker numbers, and do not walk through exploit payloads."
+        "hostNote": "5:30 welcome; 5:40 games, ArtCraft, and REA; 5:55 harness scores, harness RL, and flow-1; 6:10 Prime, Rosalind's swarm, Pi, tunnels, and agent networks; 6:25 bring-your-own computers, EAGLE-4, and Perplexity; 6:40 release feeds, Bark, and desk-run recipes; 6:55 math and readable nets; 7:05 PHP, LiteLLM, eMudhra, then the rest of security; 7:15 export rules, the DeepSeek order, and OpenAI; 7:25 Community Slot; 7:30 finish. Attribute maker numbers, and do not walk through exploit payloads."
       },
       "showcases": [],
       "tracks": [
@@ -94,14 +94,16 @@ export const meetups = [
           "items": [
             {
               "title": "Agents decompile games and mash them together",
-              "description": "Agents spent these weeks taking commercial games apart and sticking them together: Maurice Heumann says his rebuilt 99% of Modern Warfare 2's functions, 83% byte-exact, P.E. Cooper says Opus 5.5 and Astra ported World at War zombies into a browser, and Tobyn Jacobs' Minecraft-in-Elden-Ring clip is past 23 million views.",
+              "description": "Agents spent these weeks taking commercial games apart and sticking them together: Maurice Heumann says his rebuilt 99% of Modern Warfare 2's functions, 83% byte-exact, P.E. Cooper says Opus 5.5 and Astra ported World at War zombies into a browser, and Tobyn Jacobs' Minecraft-in-Elden-Ring clip is past 23 million views. art says a month of agents fully decompiled Pokémon HeartGold for about $56,000, and that repo says both US ROMs build byte-for-byte, while pret still calls its own project unfinished.",
               "href": "https://github.com/chasmlol/SkyCraft",
               "linkPair": [
                 "https://github.com/chasmlol/2010-rust-rewrite-mashup",
                 "https://github.com/rehan-remade/universal-modder",
                 "https://github.com/luki-1/ArkWeb",
                 "https://github.com/deltarooo/er-mario",
-                "https://momo5502.com/posts/2026-10-09-game-decompilation/"
+                "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+                "https://github.com/ctrl-cheeb-del/pokeheartgold",
+                "https://github.com/pret/pokeheartgold"
               ],
               "embeds": [
                 {
@@ -146,6 +148,10 @@ export const meetups = [
                 },
                 {
                   "type": "tweet",
+                  "href": "https://x.com/artfreebrey/status/2110680341509816806"
+                },
+                {
+                  "type": "tweet",
                   "href": "https://x.com/chasmmmmmmmmmmm/status/2105046595548967150"
                 },
                 {
@@ -181,7 +187,7 @@ export const meetups = [
                   "href": "https://x.com/ericzakariasson/status/2105359599234855405"
                 }
               ],
-              "notes": "Two kinds here: decompiles rebuild a game's code, while most mashups run two games side by side and share state. Several viral clips never mention an agent, and Rehan's promo carries a community note for reusing other people's mods.",
+              "notes": "Two kinds here: decompiles rebuild a game's code, while most mashups run two games side by side and share state. Several viral clips never mention an agent, and Rehan's promo carries a community note for reusing other people's mods. art's October 15 HeartGold post is the new decompile, about 1.9 million views. The repo says LLM agents got both US ROMs byte-for-byte and that pret does not want this code. GitHub does not list it as a fork, and pret's README still says the game is not fully decompiled. On October 21 the new repo is about 82% C, and pret's is about 65% assembly. Eurogamer reported HeartGold source in the October 2024 Game Freak breach; Game Freak confirmed employee data, the repo never says it used leaked source, and the post has no community note.",
               "topStory": true
             },
             {
@@ -291,6 +297,22 @@ export const meetups = [
               "notes": "Prime Intellect's own numbers: cold start from 738 ms to 56 ms, memory from 607 MB to 106 MB."
             },
             {
+              "title": "Thousands of GPT-Rosalind agents read a brain atlas in 32 minutes",
+              "description": "OpenAI says thousands of GPT-Rosalind agents, with PerturbAI and Scripps, connected a mouse-brain CRISPR atlas to the literature in 32 minutes and proposed that restoring cholesterol transport might protect neurons in Perry syndrome. On the same model, OpenAI says one agent cited 11 papers and the swarm cited more than 700, and blinded experts preferred the swarm 75% of the time.",
+              "href": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+              "linkPair": [
+                "https://www.biorxiv.org/content/10.64898/2026.10.15.759436v1",
+                "https://help.openai.com/en/articles/20001193-gpt-rosalind-for-life-sciences-research"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/OpenAI/status/2112899854569762936"
+                }
+              ],
+              "notes": "OpenAI's numbers. The cholesterol idea is a hypothesis, not a confirmed mechanism. They estimate a human review, one perturbation at a time, would take months to a year. The October 16 preprint says the agents had no access to the source manuscript. GPT-Rosalind is closed: a subscription does not grant access."
+            },
+            {
               "title": "Earendil's Pi 1.0 and Pi Durable",
               "description": "Earendil shipped Pi 1.0 on October 1, a minimal MIT agent harness with Codemode, deferred tool loading, and mid-conversation system messages, alongside Pi Durable, a separate experimental MIT package for long-running agent apps.",
               "href": "https://earendil.com/posts/pi-1-0/",
@@ -362,6 +384,21 @@ export const meetups = [
               "linkPair": [],
               "embeds": [],
               "notes": "One author's runs on one M5 Ultra, a week after TensorFold appeared."
+            },
+            {
+              "title": "EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s",
+              "description": "Eagle says EAGLE-4 is one speculative-decoding drafter for SGLang, vLLM, and TokenSpeed, and their README measures Qwen3.8-27B at 3.40× SGLang on four B300s for a single request. The repo is source-available under Eagle's own license, not an OSI open-source license.",
+              "href": "https://github.com/eagle-hq/EAGLE-4",
+              "linkPair": [
+                "https://huggingface.co/EAGLE-Corp/Qwen3.8-27B-EAGLE4"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/eaglecorp/status/2112660683670323531"
+                }
+              ],
+              "notes": "The launch post's 961.6 tokens/s is a separate TokenSpeed run: BF16, four B300s, one request, temperature 0. The README's 3.40× is against SGLang with no speculation. First start downloads about 70 GB of weights."
             },
             {
               "title": "Perplexity Computer goes fully local on Mac",
@@ -442,7 +479,7 @@ export const meetups = [
             },
             {
               "title": "Open model releases",
-              "description": "Apache 2.0 now also covers Reflection's Beam, 501 billion parameters with 23 billion active, and IFM's Jais 3, up to a 375-billion-parameter flagship, beside MIT Ling-3.1-flash, DeepSeek V4.1-Flash-1017, and Ornith, plus Apache Kolibri on the weights and config only, Jev-compatible Clef, and EmbeddingGemma 2. Narrower terms cover the rest: Liquid AI's LFM2.5-24B-A2B and Open d1 use LFM 1.0, Nemotron 3.5 Super VL and Bolt use OpenMDW-1.1, Step 5 Preview is under StepFun's own license, Qwen-Image-2.1-Turbo is research-only, FLUX 3 Image Klein uses FLUX Kommunity, Gradium's Phonon is Apache only for the 31M English model, and Muse Spark Open stays on the Muse Model License.",
+              "description": "Apache 2.0 now also covers Reflection's Beam, 501 billion parameters with 23 billion active, Recursive's Flint, 39.8 billion with about 2.5 billion active, and IFM's Jais 3, up to a 375-billion-parameter flagship, beside MIT Ling-3.1-flash, DeepSeek V4.1-Flash-1017, and Ornith, plus Apache Kolibri on the weights and config only, Jev-compatible Clef, and EmbeddingGemma 2. Narrower terms cover the rest: Liquid AI's LFM2.5-24B-A2B and Open d1 use LFM 1.0, Nemotron 3.5 Super VL and Bolt use OpenMDW-1.1, Step 5 Preview is under StepFun's own license, Qwen-Image-2.1-Turbo is research-only, FLUX 3 Image Klein uses FLUX Kommunity, Gradium's Phonon is Apache only for the 31M English model, and Muse Spark Open stays on the Muse Model License.",
               "href": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
               "linkPair": [
                 "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
@@ -463,6 +500,8 @@ export const meetups = [
                 "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
                 "https://huggingface.co/LiquidAI/d1-3B",
                 "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+                "https://www.recursive.com/updates/introducing-recursive-flint",
+                "https://huggingface.co/RecursiveSI/flint",
                 "https://ifm.ai/blog/jais3",
                 "https://huggingface.co/IFM/jais-3-375b-a23b",
                 "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
@@ -472,6 +511,10 @@ export const meetups = [
                 "https://bfl.ai/blog/flux-3-image-klein"
               ],
               "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/RichardSocher/status/2112944385415426249"
+                },
                 {
                   "type": "tweet",
                   "href": "https://x.com/Aleph__Alpha/status/2106306840657297814"
@@ -549,15 +592,33 @@ export const meetups = [
                   "href": "https://x.com/bfl_ai/status/2110751201105256925"
                 }
               ],
-              "notes": "Maker claims stay the labs', including Meta's two M5 Ultras, Ornith's single-DGX 84.5% SWE-bench on a checkpoint that is about 250 GB unquantized, and Underdog's under-8 GB Saluki. Step 5 is StepFun's license, not Apache; Qwen-Image-2.1-Turbo is research-only; FLUX Kommunity is free commercial use under $5 million in revenue. Ling's card says 1M context, but Ant's service offers 256K.",
+              "notes": "Maker claims stay the labs', including Recursive's Flint speeds, over 125 tokens a second on an M4 Pro and over 150 on a 64GB RTX Spark at short contexts, and their scores of 54.9% on Terminal-Bench 2.1, 89.7% on SWE-bench Pro v2, and 74.2% on SWE-bench Verified. The card's context is 262,144 tokens; the blog says up to 512k and recommends staying inside 256k. Best-in-class, 2x, and 5x are Recursive's comparisons. Also Meta's two M5 Ultras, Ornith's single-DGX 84.5% SWE-bench on a checkpoint that is about 250 GB unquantized, and Underdog's under-8 GB Saluki. Step 5 is StepFun's license, not Apache; Qwen-Image-2.1-Turbo is research-only; FLUX Kommunity is free commercial use under $5 million in revenue. Ling's card says 1M context, but Ant's service offers 256K.",
               "releaseRoundup": true
             },
             {
-              "title": "DeepSeek open-sources DeepInfer, its V4.1-Flash engine",
-              "description": "DeepSeek open-sourced DeepInfer under Apache 2.0, the offline engine it says serves V4.1-Flash on NVIDIA SM100 and Huawei Ascend 950. The README still leaves out the KV cache and replica load balancing a public API needs, and it was built mainly on vLLM.",
+              "title": "Underdog Bark 3.0 matches Parakeet in a 163 MB file",
+              "description": "Underdog says Bark 3.0 is a 163 MB CC-BY 4.0 English speech model, and the model card lists it as a finetune of NVIDIA's Parakeet TDT 0.6B. They report the same 4.94% average word error as that Parakeet, in a file about 15 times smaller, and 7.82% on meetings against Parakeet's 9.42% and Whisper large-v3's 13.63%.",
+              "href": "https://underdog.ai/bark",
+              "linkPair": [
+                "https://huggingface.co/ConwayResearch/Underdog-Bark-3.0"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/underdogai/status/2112733007484518470"
+                }
+              ],
+              "notes": "Bark's rows use the Open ASR scoring code and are not on the leaderboard yet; the comparison rows are the leaderboard as of October 9. The card says about 1.5 seconds per minute on an M2 with mlx-audio. The product page says 5 minutes in half a second on an M5 Max inside Underdog. English only."
+            },
+            {
+              "title": "Community recipes squeeze DeepSeek and Qwen onto one machine",
+              "description": "DeepSeek open-sourced DeepInfer, the engine behind V4.1-Flash, but it's built for datacenter NVIDIA and Huawei chips. The versions you can run at home come from outside devs: Cruz's 1.6-bit V4.1-Flash on one DGX Spark, Unsloth's 1-bit builds for 128 GB machines, and Strata, a new open-source engine that runs Qwen3.8-Flash-Next on a normal PC by keeping the experts it uses most on the GPU.",
               "href": "https://github.com/deepseek-ai/DeepInfer",
               "linkPair": [
-                "https://github.com/deepseek-ai/deepseek-recipe"
+                "https://huggingface.co/vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-1.61bpw",
+                "https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
+                "https://github.com/Niko1221/Strata",
+                "https://github.com/vcruz305/DSV4.1-Flash-1017-EXL3-Spark-recipe"
               ],
               "embeds": [
                 {
@@ -566,33 +627,14 @@ export const meetups = [
                 },
                 {
                   "type": "tweet",
-                  "href": "https://x.com/deepseek_ai/status/2112476498598957056"
+                  "href": "https://x.com/ViC305/status/2112934986773045498"
                 },
                 {
                   "type": "tweet",
-                  "href": "https://x.com/deepseek_ai/status/2112476501065286085"
+                  "href": "https://x.com/coldniko/status/2110090419384230113"
                 }
               ],
-              "notes": "Offline inference only. The README omits the KV cache and replica load balancing; most prefill/decode engine code is in, the service is not. Charts are DeepSeek's, 4 SM100s for prefill and 64 for decode. The recipe repo has been public since September 10."
-            },
-            {
-              "title": "Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits",
-              "description": "Cruz squeezed DeepSeek's MIT V4.1-Flash-1017 experts to 1.62 bits and serves that pack on one 128 GB Spark with a 524,288-token limit. He says it passed 332 of 353 questions on his own subset, ahead of higher-bit quants that each used two Sparks.",
-              "href": "https://huggingface.co/vcruz305/DSV4.1-Flash-1017-SAGE-EXL3-1.62bpw",
-              "linkPair": [
-                "https://github.com/vcruz305/DSV4.1-Flash-1017-EXL3-Spark-recipe"
-              ],
-              "embeds": [
-                {
-                  "type": "tweet",
-                  "href": "https://x.com/vic305/status/2112366415575720189"
-                },
-                {
-                  "type": "tweet",
-                  "href": "https://x.com/ViC305/status/2112603778327380088"
-                }
-              ],
-              "notes": "All numbers are Cruz's, using SAGE, his unpublished EXL3 method. 332 of 353 is his nine-suite subset at temperature 0, not a public leaderboard; he says that beat JJ's 2.8-bit and MiaLab's 2.9-bit, each on two Sparks, and he lost the tool-chain test 5/6 to 6/6. One planted fact took about 8 minutes of prefill. REXL3 is unreleased."
+              "notes": "Cruz's 94.68% (1.61 bits, one machine) and 96.71% (2.50 bits, two machines) measure how often his build picks the same next token as DeepSeek's official checkpoint. They are not task scores. His 332 of 353 task result is the older 1.62-bit pack on his own test set. Unsloth's 88.2% is a different check on their 250.4 GB 1-bit build, and their builds need llama.cpp pull 30817, not stock llama.cpp. Strata 0.2.2 shipped today; the 32 GB memory floor and the speed claims are the author's. DeepInfer's README says a full service still needs a KV cache system."
             },
             {
               "title": "OpenAI's math paper dump and the Lean gap",
@@ -648,6 +690,93 @@ export const meetups = [
           "id": "security",
           "title": "Security",
           "items": [
+            {
+              "title": "PHP's two critical RCEs are fixed only by updating",
+              "description": "PHP shipped 8.5.12, 8.4.27, 8.3.36, and 8.2.35 today for two critical unauthenticated remote-code bugs, CVE-2026-109618 and CVE-2026-109619, and says updating is the only safe choice. Prime Minister Sanae Takaichi posted that the fix would land at 11 p.m. Japan time, and said taking a site offline is one way to cut the risk if you cannot patch quickly.",
+              "href": "https://www.php.net/archive/2026.php",
+              "linkPair": [
+                "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/sherlock_comms/status/2112904595995275554"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/takaichi_sanae/status/2112890642590564386"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/himanshustwts/status/2112909962313867667"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/openai/status/2112907856018309586"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/nsacyber/status/2112903220209098897"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/darkwebinformer/status/2112651353818329380"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/h4x0r_dz/status/2112620404309184734"
+                }
+              ],
+              "notes": "Don't walk through either bug. PHP says the risk is highest for mod_php, and 8.1 and older need a vendor backport or the minimal source backports they posted. OpenAI says Calif found one with GPT-5.6 Sol and Wiz found both; NSA Cyber also says take systems offline if you cannot update. A viral post called the score 10.0; PHP's October 20 notice says 9.2 on CVSS 4.0. @sherlock_comms has the plain-English version, but he posted at 13:51 UTC, nine minutes before PHP's pre-announced 14:00 UTC release, so his \"no official solution\" line is out of date. His 70% of websites is OpenAI's estimate, from its post; OpenAI's essay does not repeat it. Takaichi's account says some posts during her premiership are written by staff. She pointed people at @cyber_forecast.",
+              "topStory": true
+            },
+            {
+              "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+              "description": "OpenAI's Greg Brockman says the two-month effort to fix php2shell, his name for the PHP bug, was too slow and manual to scale, and floats authorized defenders, such as governments, scanning the internet for vulnerable hosts and, in extreme cases, patching them remotely. He also says defenders need stronger models than attackers, and calls always having the most capable cyber models a national priority.",
+              "href": "https://x.com/i/article/2112920540138844160",
+              "linkPair": [
+                "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/gdb/status/2112921529650688312"
+                }
+              ],
+              "notes": "From his October 21 essay on X, \"Towards securing the internet.\" He doesn't say who would authorize remote patching, and he doesn't mention open weights. His timeline: Calif found a version with GPT-5.6 Sol in August, OpenAI found a fuller one in September, and the October 22 release moved up a day after details leaked. OpenAI's disclosure post credits Wiz with finding both bugs independently. He says OpenAI also worked on a Node.js RCE announced today; Node's October 21 advisory has a High Brotli RCE, CVE-2026-111497, and doesn't mention OpenAI. For access he points to Daybreak for trusted defenders and $1B in credits OpenAI committed September 3."
+            },
+            {
+              "title": "LiteLLM 1.107.0 wheels shipped a credential stealer",
+              "description": "Socket says today's LiteLLM 1.107.0 wheels and Docker images carry a credential stealer that runs on Python startup even if you never import it, and the image provenance records a lookalike repo, Berri-AI, one hyphen off BerriAI. This is a new incident from the April 1 compromise, and a GitHub security issue says PyPI has removed 1.107.0 and yanked the floating Docker tags.",
+              "href": "https://socket.dev/blog/litellm-compromise",
+              "linkPair": [
+                "https://github.com/BerriAI/litellm/issues/47826"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/SocketSecurity/status/2112907732877775016"
+                }
+              ],
+              "notes": "Don't walk through the payload. Socket says about 23 million downloads a week; the post says 92 million a month. Seven wheels. The git tag does not contain the payload. If 1.107.0 was installed, don't start Python in that environment, including pip."
+            },
+            {
+              "title": "Eight eMudhra intermediate CA keys were recoverable",
+              "description": "An October 20 report says eight eMudhra intermediate CA private keys were generated so badly that anyone can recover them from the certificates, and those CAs chain to roots trusted by Mozilla, Microsoft, Apple, and Chrome. Browsers blocked them from October 17 through 20, but clients that skip revocation still need a trust-store update, and Dominic says one key was the number 4.",
+              "href": "https://emudhra.we-have-a-problem.com/",
+              "linkPair": [],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/astuyve/status/2112559796914167931"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/itsnebulalol/status/2112628540726260059"
+                }
+              ],
+              "notes": "The site says the certificates date to April 2025 and that CT-enforcing browsers had no log entries, so Firefox, Chrome, Edge, and Safari could not have been attacked that way. Dominic's number-4 claim is his. Don't walk through key recovery. Java and Bun were still listed as pending."
+            },
             {
               "title": "ProjectDiscovery's $50 LoRA backdoor",
               "description": "For under $50 of QLoRA, ProjectDiscovery's own Qwen2.5-7B-Instruct fine-tune looked normal on clean prompts and, on a trigger phrase, swapped a command for a remote-script download in all 50 of their checks.",
@@ -776,7 +905,7 @@ export const meetups = [
                   "href": "https://x.com/andrewcurran_/status/2112250754358788437"
                 }
               ],
-              "notes": "Secretary Markwayne Mullin's order. The risk writeup is servers in China and account data on the hosted service. It never defines \"DeepSeek implementations\" or mentions open weights. Contrast China's draft, which exempts public open source, and point back to DeepInfer and Cruz's one-Spark quant."
+              "notes": "Secretary Markwayne Mullin's order. The risk writeup is servers in China and account data on the hosted service. It never defines \"DeepSeek implementations\" or mentions open weights. Contrast China's draft, which exempts public open source, and point back to the community recipes slide, where people run the same MIT weights on their own machines."
             },
             {
               "title": "OpenAI's hidden office recorder",

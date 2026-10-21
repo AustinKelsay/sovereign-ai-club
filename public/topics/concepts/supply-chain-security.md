@@ -13,7 +13,7 @@ Supply Chain Security covers dependency compromise, leaked build artifacts, mali
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**.
+- [[Sovereign AI Club - October 21, 2026]]: **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, and **ProjectDiscovery's $50 LoRA backdoor**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Hacktron used Claude to break into OpenAI through an image library**.
 - [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **Shai-Hulud hits keyv and 2B monthly npm installs**.

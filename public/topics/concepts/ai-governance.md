@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-21
 type: concept
 tags: [concept, security, big-tech-moves]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md]
@@ -13,7 +13,7 @@ AI Governance covers policy, evaluation, regulatory, and institutional control p
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, and **Jasmine Wang's account of her OpenAI firing**.
+- [[Sovereign AI Club - October 21, 2026]]: **After php2shell, Brockman floats remote patching by authorized defenders**, **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, and **Jasmine Wang's account of her OpenAI firing**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **OP or not**.
 - [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**.

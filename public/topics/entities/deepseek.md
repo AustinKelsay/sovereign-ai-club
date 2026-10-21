@@ -1,7 +1,7 @@
 ---
 title: DeepSeek
 created: 2026-07-08
-updated: 2026-10-20
+updated: 2026-10-21
 type: entity
 tags: [entity, company, model, open-source]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ DeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competit
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **DeepSeek open-sources DeepInfer, its V4.1-Flash engine**, **Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits**, and **DHS orders DeepSeek out of federal civilian IT**.
+- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, and **DHS orders DeepSeek out of federal civilian IT**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**.
 - [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.
@@ -38,3 +38,5 @@ DeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competit
 - [[Moonshot AI]]
 - [[MiniMax]]
 - [[vLLM]]
+- [[Unsloth]]
+- [[Strata]]

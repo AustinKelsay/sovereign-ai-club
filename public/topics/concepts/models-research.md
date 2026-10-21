@@ -1,7 +1,7 @@
 ---
 title: Models & Research
 created: 2026-06-24
-updated: 2026-10-20
+updated: 2026-10-21
 type: concept
 tags: [concept, track, models-research, model]
 sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -15,7 +15,7 @@ Biweekly model launches live under two official Release Roundup Topics titled ex
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **DeepSeek open-sources DeepInfer, its V4.1-Flash engine**, **Cruz fits DeepSeek V4.1 Flash on one DGX Spark at 1.62 bits**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.
+- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Underdog Bark 3.0 matches Parakeet in a 163 MB file**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.
 
 - [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.
 
