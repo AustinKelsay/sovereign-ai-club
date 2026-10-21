@@ -2,6 +2,14 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-10-21] update | October 21 specialized engines
+
+- Renamed **Community recipes squeeze DeepSeek and Qwen onto one machine** to **Specialized engines and recipes run Qwen and DeepSeek at home**. DeepInfer stays the datacenter contrast. The local half is now NInfer and its October 8 fork Infernix on one RTX 5090, Gufo on Strix Halo, and Strata, with Unsloth, ISTA-DASLab, and Cruz as the weight packs. Infernix's speed tables stay in the notes because the README says they were written with AI and the headline comparison uses different quants. Splash, TensorFold, oMLX, and EAGLE-4 stay on their own slides. Created NInfer, Infernix, and Gufo pages.
+
+## [2026-10-21] update | October 21 missed model releases
+
+- Added Mercury 3, Voxtral 3, and d1-ultra to **Closed model releases**, and Hy-Memory, Mellum2.1, Clef-Omni, and Perplexity Decider v1.2 to **Open model releases**. Nova 2.5 Sonic stays off. Both Decider cards list Apache 2.0 and say the repository is private. Created the Mellum page.
+
 ## [2026-10-21] update | October 21 HeartGold decompile
 
 - Added art's October 15 Pokémon HeartGold post to **Agents decompile games and mash them together**. art says a month of agents and about $56,000 finished a byte-matching decompile, and the repo says pret does not want the code. pret's own README still calls its project unfinished. The 2024 Game Freak source report stays in the notes, and the post has no community note.

@@ -13,7 +13,7 @@ DeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competit
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, and **DHS orders DeepSeek out of federal civilian IT**.
+- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **DHS orders DeepSeek out of federal civilian IT**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**.
 - [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.
@@ -40,3 +40,4 @@ DeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competit
 - [[vLLM]]
 - [[Unsloth]]
 - [[Strata]]
+- [[Gufo]]

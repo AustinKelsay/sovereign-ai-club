@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog for the Sovereign AI Club Markdown Archive and LLM Wiki.
-> Last updated: 2026-10-21 | Total pages: 204
+> Last updated: 2026-10-21 | Total pages: 208
 
 ## Meetups
 
@@ -29,6 +29,7 @@
 - [[Kolibri]]
 - [[Ling-3.1-flash]]
 - [[Clef]]
+- [[Mellum]]
 - [[Pi]]
 - [[OpenTunnel]]
 - [[OpenCode]]
@@ -63,6 +64,7 @@
 - [[Intel]]
 
 - [[Inception]]
+- [[Infernix]]
 - [[Cartesia]]
 - [[Granite]]
 - [[LLaDA]]
@@ -123,6 +125,7 @@
 - [[GPT-5.6]]
 - [[Gigatoken]]
 - [[Grok]]
+- [[Gufo]]
 - [[HARC]]
 - [[Hermes Agent]]
 - [[Human Rights Foundation]]
@@ -147,6 +150,7 @@
 - [[NVIDIA PAIR]]
 - [[NVIDIA]]
 - [[Nemotron]]
+- [[NInfer]]
 - [[Nemotron Puzzle]]
 - [[Ollama]]
 - [[Omarchy]]

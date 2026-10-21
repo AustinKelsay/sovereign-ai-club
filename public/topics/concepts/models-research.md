@@ -15,7 +15,7 @@ Biweekly model launches live under two official Release Roundup Topics titled ex
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.
+- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.
 
 - [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.
 

@@ -285,6 +285,18 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: X post. Accessed: 2026-10-20. Official launch post from SpaceX Super Intelligence.
 - **Kling 4.0 availability post** — https://x.com/Kling_ai/status/2110747537187709424
   Type: X post. Accessed: 2026-10-20. October 15. Kling 4.0 is fully available on kling.ai and through MCP and CLI. 10-bit HDR at 4K is listed as coming soon.
+- **Diffusion at Scale: Introducing Mercury 3** — https://www.inceptionlabs.ai/blog/introducing-mercury-3
+  Type: official launch. Accessed: 2026-10-21. October 19. API-only diffusion model. Inception says it outperforms GPT-6 Luna and Claude Haiku 5.5, runs at 1,068 tokens per second, and has a 1M context. List price is $0.20 in and $0.70 out per million tokens. Launch price is half of that, $0.10 and $0.35. The blog and the API docs do not publish weights.
+- **Mercury 3 launch post** — https://x.com/_inception_ai/status/2112236719068369299
+  Type: X post. Accessed: 2026-10-21. Official October 19 post. A later post in the thread says their quality average is not Artificial Analysis's Intelligence Index.
+- **Voxtral 3** — https://mistral.ai/news/voxtral-3/
+  Type: official launch. Accessed: 2026-10-21. October 20 public preview. Speech-to-text, text-to-speech, and a LiveKit voice-agent SDK. The post offers EU-hosted API or self-deploy. The public model docs list API names and do not link a weight download.
+- **Voxtral 3 launch post** — https://x.com/MistralAI/status/2112574615318876178
+  Type: X post. Accessed: 2026-10-21. Official October 20 thread.
+- **d1-ultra** — https://www.liquid.ai/blog/d1-ultra
+  Type: official launch. Accessed: 2026-10-21. October 15. API-only decision model at $0.042 per million input tokens. Text and images. Liquid says it beats Jev 1.14 on their 112-evaluation suite. No weights.
+- **d1-ultra launch post** — https://x.com/liquidai/status/2110777964489285875
+  Type: X post. Accessed: 2026-10-21. October 15. Liquid says d1-ultra is multimodal, supports 44 languages, and leads Artificial Analysis's Decision Index at 65.
 
 ### Open model releases
 
@@ -392,8 +404,30 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: model card. Accessed: 2026-10-21. Apache 2.0. 39.8B total, about 2.5B active. Card scores, Recursive's own: 54.9% Terminal-Bench 2.1, 89.7% SWE-bench Pro v2, 74.2% SWE-bench Verified. Documented context is 262,144 tokens. BF16 download is about 80 GB.
 - **Richard Socher on Flint** — https://x.com/RichardSocher/status/2112944385415426249
   Type: X post. Accessed: 2026-10-21. October 21 launch post. Repeats the MacBook and RTX Spark speed claims and says the weights are open.
+- **tencent/Hy-Memory-30B-A3B** — https://huggingface.co/tencent/Hy-Memory-30B-A3B
+  Type: model card. Accessed: 2026-10-21. Apache 2.0. The card calls it about 30B total and about 3B active, a memory writer for Mem0, MemOS, and Hy-Memory. The Hugging Face header lists 35B parameters. Tencent's table, on a fixed 20% subsample, puts the model at 55.49 against Claude Opus 5 at 54.62. Some harness gaps are a few hundredths of a point.
+- **Tencent-Hunyuan/Hy-Memory** — https://github.com/Tencent-Hunyuan/Hy-Memory
+  Type: repository. Accessed: 2026-10-21. Apache 2.0 framework and MemHub. The README also points at FP8 and GGUF packs of the same model.
+- **Hy Memory 2.0 launch post** — https://x.com/TencentHunyuan/status/2111027329816465435
+  Type: X post. Accessed: 2026-10-21. October 16. Tencent says the model beats Opus 5 across the frameworks in its own comparison.
+- **Mellum2.1 Gets to Work** — https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/
+  Type: official launch. Accessed: 2026-10-21. October 8. Apache 2.0. Same 12B / 2.5B-active architecture as Mellum2. The blog says GGUF builds are still coming.
+- **JetBrains/Mellum2.1-12B-A2.5B-Thinking** — https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking
+  Type: model card. Accessed: 2026-10-21. Apache 2.0. 12B total, 2.5B active, 131,072 context.
+- **Mellum2.1 post** — https://x.com/jetbrains/status/2111050966615113999
+  Type: X post. Accessed: 2026-10-21. October 16, after the October 8 blog. JetBrains says 140+ tokens a second in local PyCharm. That speed is theirs.
+- **Introducing Clef-omni** — https://blog.cloudflare.com/clef-faster-cheaper-multimodal/
+  Type: official launch. Accessed: 2026-10-21. October 9. Clef-Omni reads text, images, audio, and video. Cloudflare's hosted price is $0.15 per million input tokens. The same post cuts hosted Clef-flash from $0.09 to $0.038 and says the hosted Clef-flash context is now 24k, while the Hugging Face weights stay at their trained 256k.
+- **Cloudflare/clef-omni** — https://huggingface.co/Cloudflare/clef-omni
+  Type: model card. Accessed: 2026-10-21. Apache 2.0. 30B-A3B, post-trained from Qwen3-Omni-30B-A3B-Instruct. The card says bf16 needs about 64 GB. The page header lists 35B parameters.
+- **perplexity-ai/pplx-decider-v1.2** — https://huggingface.co/perplexity-ai/pplx-decider-v1.2
+  Type: model card. Accessed: 2026-10-21. October 16. Frontmatter says Apache 2.0, on Qwen3.8-27B. The usage section says the repository is private and needs a Hugging Face token. Perplexity's Decision Index 0.3 table is 68.09 for joint requests against 62.30 for v1.1. The card says part of the training used official Decision Index training splits.
+- **perplexity-ai/pplx-decider-flash-v1.2** — https://huggingface.co/perplexity-ai/pplx-decider-flash-v1.2
+  Type: model card. Accessed: 2026-10-21. Apache 2.0 on a Qwen3.5-4B backbone. The card calls it about one seventh the size of v1.2 and says this repository is private too. About 9 GiB of BF16 weights.
+- **Decider v1.2 launch post** — https://x.com/perplexitydevs/status/2111166029539758120
+  Type: X post. Accessed: 2026-10-21. October 16. Perplexity calls both sizes open weights and says Flash is the top 4B on the Decision Index. That ranking is theirs.
 
-### Community recipes squeeze DeepSeek and Qwen onto one machine
+### Specialized engines and recipes run Qwen and DeepSeek at home
 
 - **deepseek-ai/DeepInfer** — https://github.com/deepseek-ai/DeepInfer
   Type: repository. Accessed: 2026-10-20. Apache 2.0 offline inference for DeepSeek-V4.1-Flash, default checkpoint DeepSeek-V4.1-Flash-1017. Hardware is NVIDIA SM100 and Huawei Ascend 950. README says a complete service still needs a KV cache system, VE/prefill/decode disaggregation (most required engine functionality is already implemented), and load balancing across data-parallel replicas. Built primarily on vLLM, with inspiration from SGLang and TensorRT-LLM. Benchmarks are DeepSeek's, measured on 4 SM100 GPUs for prefill and 64 for decode, each inside one scale-up domain.
@@ -435,6 +469,16 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: X post. Accessed: 2026-10-21. October 13. Display name Niko Veit. Says Apple Silicon, NVFP4, and Unsloth's UD-Q4 through UD-Q8 packs are in. Earlier speed lines, including 70 tokens a second on old DDR3 machines, are his and stay off the spoken line.
 - **ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF** — https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF
   Type: model card. Accessed: 2026-10-21. Non-uniform GGUFs from ISTA-DASLab, one of the compressors Strata's README names. Included as the recipe family, not as a spoken score. Bartowski imatrix packs, Mirai's Strata conversions, and abliterated variants stay off this slide.
+- **Neroued/ninfer** — https://github.com/Neroued/ninfer
+  Type: repository. Accessed: 2026-10-21. Apache 2.0. Created June 26, 2026, by HaoJun Zhang. From-scratch C++/CUDA for one RTX 5090. The README says the build rejects every CUDA architecture except sm_120a. Five official artifacts are listed: Qwen3.6-27B, Qwen3.8-27B, and Qwen3.6-35B-A3B, including NVFP4 packs. The intro also says Qwen3.8-Flash-Next is supported. No install target; you build it. Not on an earlier board.
+- **Wallawalla47/Infernix** — https://github.com/wallawalla47/infernix
+  Type: repository. Accessed: 2026-10-21. Apache 2.0. Created October 8, 2026. GitHub name Ian R. A fork of NInfer that also reads its own .infernix files. The README says it keeps Qwen3.8-Flash-Next's experts in system RAM on one RTX 5090 and reads the n-gram table from NVMe. The same page says most of the README was written with AI and may be incomplete. Its speed tables are the author's. The headline Strata comparison runs NVIDIA Dense8 on Infernix against Unsloth UD-Q4_K_XL on Strata 0.1.45, so the quants are not the same file.
+- **gufo-org/gufo** — https://github.com/gufo-org/gufo
+  Type: repository. Accessed: 2026-10-21. MIT. Created August 11, 2026. Built for AMD Strix Halo: Ryzen AI MAX+ 395, Radeon 8060S, up to 128 GB of unified memory. The model table loads Unsloth Qwen GGUFs and antirez's DeepSeek V4 Flash GGUF. Published speeds are the project's. The README says peaks include repetitive output, and that the eight-user figure adds each request's decode rate.
+- **unsloth/Qwen3.8-Flash-Next-GGUF** — https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF
+  Type: model card. Accessed: 2026-10-21. Created August 26. License field is Qwen community 1.0, not MIT. Dynamic GGUFs of Qwen3.8-Flash-Next. The card says to use llama.cpp or Unsloth Desktop, and that MTP is Unsloth's 1.3–1.7× claim. Gufo's model table and Strata's October 13 post both point at these packs. The card's download counter is over a million file downloads; that is not a count of people.
+- **Run Qwen3.8-Flash-Next** — https://unsloth.ai/docs/models/qwen3.8-next
+  Type: official guide. Accessed: 2026-10-21. Unsloth's how-to for the same Qwen family. Speed lines on that page stay the vendor's.
 
 ### OpenAI's math paper dump and the Lean gap
 

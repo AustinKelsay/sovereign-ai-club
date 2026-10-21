@@ -416,7 +416,7 @@ export const meetups = [
           "items": [
             {
               "title": "Closed model releases",
-              "description": "Since September 30 the closed feed added Claude Haiku 5.5, which Anthropic says costs about 75% less than Haiku 4.5, Google's Nano Banana 2.1, Muse Wonder at $4 in and $20 out, xAI's Grok Voice 3.0 at the same $0.08 a minute, and Kling 4.0. Mistral Large 4, Le Chonk, is still an API preview at about 1.05 trillion parameters with 49 billion active, and MiniMax M3.1 Flash is $0.15 in and $0.60 out, with weights promised by the end of October and October 23.",
+              "description": "Since September 30 the closed feed added Claude Haiku 5.5, which Anthropic says costs about 75% less than Haiku 4.5, Google's Nano Banana 2.1, Muse Wonder at $4 in and $20 out, xAI's Grok Voice 3.0 at the same $0.08 a minute, and Kling 4.0. Mistral Large 4, Le Chonk, is still an API preview at about 1.05 trillion parameters with 49 billion active, and MiniMax M3.1 Flash is $0.15 in and $0.60 out, with weights promised by the end of October and October 23. Inception's Mercury 3 is an API-only diffusion model at a launch price of $0.10 in and $0.35 out, Mistral's Voxtral 3 is a public-preview speech API with no public weight download, and Liquid AI's d1-ultra is an API decision model at $0.042 per million input tokens.",
               "href": "https://mistral.ai/news/mistral-large-4/",
               "linkPair": [
                 "https://huggingface.co/mistralai/Mistral-Large-4.0-1T05-A52B",
@@ -425,7 +425,10 @@ export const meetups = [
                 "https://www.anthropic.com/claude-haiku-5-5",
                 "https://dev.meta.ai/resources/blog/build-with-muse-wonder",
                 "https://research.meta.ai/blog/muse-wonder",
-                "https://x.ai/news/grok-voice-3"
+                "https://x.ai/news/grok-voice-3",
+                "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+                "https://mistral.ai/news/voxtral-3/",
+                "https://www.liquid.ai/blog/d1-ultra"
               ],
               "embeds": [
                 {
@@ -463,14 +466,26 @@ export const meetups = [
                 {
                   "type": "tweet",
                   "href": "https://x.com/Kling_ai/status/2110747537187709424"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/_inception_ai/status/2112236719068369299"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/MistralAI/status/2112574615318876178"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/liquidai/status/2110777964489285875"
                 }
               ],
-              "notes": "Prices and the 75% Haiku cut are the labs' own. Muse Wonder Full is the Muse Code subscription model, not the $4 and $20 API model. MiniMax says Space Bunny was an early M3.1 Flash.",
+              "notes": "Prices and the 75% Haiku cut are the labs' own. Muse Wonder Full is the Muse Code subscription model, not the $4 and $20 API model. MiniMax says Space Bunny was an early M3.1 Flash. Mercury 3's speed, the Luna and Haiku comparison, and the 1,068 tokens per second are Inception's. List price is $0.20 in and $0.70 out; the spoken line is the launch discount. Inception's October 19 clarification says its quality average is not Artificial Analysis's Intelligence Index. Voxtral 3's blog also offers self-deploy, and the public docs are an API preview with no weight download. Liquid's October 15 post says d1-ultra leads Artificial Analysis's Decision Index at 65 and covers 44 languages.",
               "releaseRoundup": true
             },
             {
               "title": "Open model releases",
-              "description": "Apache 2.0 now also covers Reflection's Beam, 501 billion parameters with 23 billion active, Recursive's Flint, 39.8 billion with about 2.5 billion active, and IFM's Jais 3, up to a 375-billion-parameter flagship, beside MIT Ling-3.1-flash, DeepSeek V4.1-Flash-1017, and Ornith, plus Apache Kolibri on the weights and config only, Jev-compatible Clef, and EmbeddingGemma 2. Underdog's Bark 3.0, a 163 MB English speech model they say matches Parakeet's word error rate, is CC-BY 4.0. Narrower terms cover the rest: Liquid AI's LFM2.5-24B-A2B and Open d1 use LFM 1.0, Nemotron 3.5 Super VL and Bolt use OpenMDW-1.1, Step 5 Preview is under StepFun's own license, Qwen-Image-2.1-Turbo is research-only, FLUX 3 Image Klein uses FLUX Kommunity, Gradium's Phonon is Apache only for the 31M English model, and Muse Spark Open stays on the Muse Model License.",
+              "description": "Apache 2.0 now also covers Reflection's Beam, 501 billion parameters with 23 billion active, Recursive's Flint, 39.8 billion with about 2.5 billion active, and IFM's Jais 3, up to a 375-billion-parameter flagship, beside MIT Ling-3.1-flash, DeepSeek V4.1-Flash-1017, and Ornith, plus Apache Kolibri on the weights and config only, Jev-compatible Clef, and EmbeddingGemma 2. Underdog's Bark 3.0, a 163 MB English speech model they say matches Parakeet's word error rate, is CC-BY 4.0. Narrower terms cover the rest: Liquid AI's LFM2.5-24B-A2B and Open d1 use LFM 1.0, Nemotron 3.5 Super VL and Bolt use OpenMDW-1.1, Step 5 Preview is under StepFun's own license, Qwen-Image-2.1-Turbo is research-only, FLUX 3 Image Klein uses FLUX Kommunity, Gradium's Phonon is Apache only for the 31M English model, and Muse Spark Open stays on the Muse Model License. The same Apache 2.0 terms cover Tencent's Hy-Memory, about 30 billion parameters with 3 billion active, Mellum2.1, 12 billion with 2.5 billion active, and Clef-Omni, 30 billion with 3 billion active, while Perplexity's Decider v1.2 and its 4 billion flash list Apache 2.0 and say the repository is private.",
               "href": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
               "linkPair": [
                 "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
@@ -501,7 +516,15 @@ export const meetups = [
                 "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB",
                 "https://huggingface.co/stepfun-ai/Step-5-Preview",
                 "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-                "https://bfl.ai/blog/flux-3-image-klein"
+                "https://bfl.ai/blog/flux-3-image-klein",
+                "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
+                "https://github.com/Tencent-Hunyuan/Hy-Memory",
+                "https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/",
+                "https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking",
+                "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+                "https://huggingface.co/Cloudflare/clef-omni",
+                "https://huggingface.co/perplexity-ai/pplx-decider-v1.2",
+                "https://huggingface.co/perplexity-ai/pplx-decider-flash-v1.2"
               ],
               "embeds": [
                 {
@@ -587,20 +610,34 @@ export const meetups = [
                 {
                   "type": "tweet",
                   "href": "https://x.com/bfl_ai/status/2110751201105256925"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/TencentHunyuan/status/2111027329816465435"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/jetbrains/status/2111050966615113999"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/perplexitydevs/status/2111166029539758120"
                 }
               ],
-              "notes": "Maker claims stay the labs', including Recursive's Flint speeds, over 125 tokens a second on an M4 Pro and over 150 on a 64GB RTX Spark at short contexts, and their scores of 54.9% on Terminal-Bench 2.1, 89.7% on SWE-bench Pro v2, and 74.2% on SWE-bench Verified. The card's context is 262,144 tokens; the blog says up to 512k and recommends staying inside 256k. Best-in-class, 2x, and 5x are Recursive's comparisons. Also Meta's two M5 Ultras, Ornith's single-DGX 84.5% SWE-bench on a checkpoint that is about 250 GB unquantized, and Underdog's under-8 GB Saluki. Underdog's Bark 3.0 is a finetune of NVIDIA's Parakeet TDT 0.6B: they report the same 4.94% average word error in a file about 15 times smaller, and 7.82% on meetings against Parakeet's 9.42% and Whisper large-v3's 13.63%. Those rows use the Open ASR scoring code but aren't on the leaderboard yet, and Bark is English only. Step 5 is StepFun's license, not Apache; Qwen-Image-2.1-Turbo is research-only; FLUX Kommunity is free commercial use under $5 million in revenue. Ling's card says 1M context, but Ant's service offers 256K.",
+              "notes": "Maker claims stay the labs', including Recursive's Flint speeds, over 125 tokens a second on an M4 Pro and over 150 on a 64GB RTX Spark at short contexts, and their scores of 54.9% on Terminal-Bench 2.1, 89.7% on SWE-bench Pro v2, and 74.2% on SWE-bench Verified. The card's context is 262,144 tokens; the blog says up to 512k and recommends staying inside 256k. Best-in-class, 2x, and 5x are Recursive's comparisons. Also Meta's two M5 Ultras, Ornith's single-DGX 84.5% SWE-bench on a checkpoint that is about 250 GB unquantized, and Underdog's under-8 GB Saluki. Underdog's Bark 3.0 is a finetune of NVIDIA's Parakeet TDT 0.6B: they report the same 4.94% average word error in a file about 15 times smaller, and 7.82% on meetings against Parakeet's 9.42% and Whisper large-v3's 13.63%. Those rows use the Open ASR scoring code but aren't on the leaderboard yet, and Bark is English only. Step 5 is StepFun's license, not Apache; Qwen-Image-2.1-Turbo is research-only; FLUX Kommunity is free commercial use under $5 million in revenue. Ling's card says 1M context, but Ant's service offers 256K. Hy-Memory's 55.49 versus Opus 5's 54.62 is Tencent's, on a fixed 20% subsample, and some harness gaps are a few hundredths of a point. The Hugging Face header lists Hy-Memory at 35B parameters while the card calls it 30B with about 3B active. Mellum2.1's October 16 post says 140+ tokens a second in local PyCharm; the October 8 blog says GGUF builds are still coming. Clef-Omni's hosted price is $0.15 per million input tokens, and the card says bf16 needs about 64 GB. Perplexity's Decision Index scores are theirs, and the v1.2 card says some of the gain comes from training on official Decision Index training splits. Both Decider cards list Apache 2.0 and also say the repository is private and needs a Hugging Face token.",
               "releaseRoundup": true
             },
             {
-              "title": "Community recipes squeeze DeepSeek and Qwen onto one machine",
-              "description": "DeepSeek open-sourced DeepInfer, the engine behind V4.1-Flash, but it's built for datacenter NVIDIA and Huawei chips. The versions you can run at home come from outside devs: Cruz's 1.6-bit V4.1-Flash on one DGX Spark, Unsloth's 1-bit builds for 128 GB machines, and Strata, a new open-source engine that runs Qwen3.8-Flash-Next on a normal PC by keeping the experts it uses most on the GPU.",
-              "href": "https://github.com/deepseek-ai/DeepInfer",
+              "title": "Specialized engines and recipes run Qwen and DeepSeek at home",
+              "description": "DeepSeek open-sourced DeepInfer for datacenter chips. The versions people run at home are narrower engines plus a weight pack: NInfer and its fork Infernix for one RTX 5090, Gufo for Strix Halo, Strata keeping Qwen3.8-Flash-Next's hot experts on a gaming GPU, and the files from Unsloth, ISTA-DASLab, and Cruz.",
+              "href": "https://github.com/Niko1221/Strata",
               "linkPair": [
-                "https://huggingface.co/vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-1.61bpw",
-                "https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
-                "https://github.com/Niko1221/Strata",
-                "https://github.com/vcruz305/DSV4.1-Flash-1017-EXL3-Spark-recipe"
+                "https://github.com/Neroued/ninfer",
+                "https://github.com/wallawalla47/infernix",
+                "https://github.com/gufo-org/gufo",
+                "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+                "https://github.com/deepseek-ai/DeepInfer",
+                "https://huggingface.co/vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-1.61bpw"
               ],
               "embeds": [
                 {
@@ -616,7 +653,7 @@ export const meetups = [
                   "href": "https://x.com/coldniko/status/2110090419384230113"
                 }
               ],
-              "notes": "Cruz's 94.68% (1.61 bits, one machine) and 96.71% (2.50 bits, two machines) measure how often his build picks the same next token as DeepSeek's official checkpoint. They are not task scores. His 332 of 353 task result is the older 1.62-bit pack on his own test set. Unsloth's 88.2% is a different check on their 250.4 GB 1-bit build, and their builds need llama.cpp pull 30817, not stock llama.cpp. Strata 0.2.2 shipped today; the 32 GB memory floor and the speed claims are the author's. DeepInfer's README says a full service still needs a KV cache system."
+              "notes": "Cruz's 94.68% (1.61 bits, one machine) and 96.71% (2.50 bits, two machines) measure how often his build picks the same next token as DeepSeek's official checkpoint. They are not task scores. His 332 of 353 task result is the older 1.62-bit pack on his own test set. Unsloth's 88.2% is a different check on their 250.4 GB 1-bit build, and their builds need llama.cpp pull 30817, not stock llama.cpp. Strata 0.2.2 shipped today; the 32 GB memory floor and the speed claims are the author's. DeepInfer's README says a full service still needs a KV cache system. NInfer is Apache 2.0, created June 26, and the README says the build accepts only the RTX 5090's sm_120a. Its five official artifacts are Qwen 27B and 35B-A3B files; the intro also names Flash-Next. Infernix forked it on October 8 under Apache 2.0. Its README says most of the page was written with AI and may be incomplete, and its speed tables are the author's. The headline Strata comparison runs NVIDIA's Dense8 quant on Infernix against Unsloth's UD-Q4_K_XL on Strata. Gufo is MIT, created August 11, for a Ryzen AI MAX+ 395 with a Radeon 8060S and up to 128 GB of unified memory. It loads Unsloth's Qwen GGUFs, which carry the Qwen community license, not MIT. Gufo's speeds are the project's, and the README says the peaks include repetitive output. Splash on Apple silicon stayed on the September 30 board. TensorFold, oMLX, and EAGLE-4 stay on their own slides."
             },
             {
               "title": "OpenAI's math paper dump and the Lean gap",

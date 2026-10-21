@@ -13,12 +13,15 @@ Strata is Niko Veit's MIT inference engine for [[Qwen|Qwen3.8-Flash-Next]] on a 
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **Community recipes squeeze DeepSeek and Qwen onto one machine**.
+- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**.
 
 ## Related
 
 - [[Qwen]]
 - [[Unsloth]]
+- [[NInfer]]
+- [[Infernix]]
+- [[Gufo]]
 - [[Local AI]]
 - [[Inference Optimization]]
 - [[Open Models]]

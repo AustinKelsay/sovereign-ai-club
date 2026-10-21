@@ -36,6 +36,7 @@ Coding Agents covers CLI agents, IDE-adjacent agents, local agent runtimes, agen
 
 - [[Agent Infrastructure]]
 - [[Ornith]]
+- [[Mellum]]
 - [[Prime Agent]]
 - [[Recursive Language Models]]
 - [[Meta Muse]]

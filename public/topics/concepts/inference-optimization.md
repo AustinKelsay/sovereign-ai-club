@@ -13,7 +13,7 @@ Inference Optimization covers the practical work of making AI systems cheaper, f
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Community recipes squeeze DeepSeek and Qwen onto one machine**, and **TensorFold vs. oMLX on an M5 Ultra Studio**.
+- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **TensorFold vs. oMLX on an M5 Ultra Studio**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Splash vs mlx-serve: rival benchmarks, real fixes**, **Models hand off KV cache instead of text**.
 - [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**.
@@ -51,6 +51,9 @@ Inference Optimization covers the practical work of making AI systems cheaper, f
 - [[DeepSeek]]
 - [[Unsloth]]
 - [[Strata]]
+- [[NInfer]]
+- [[Infernix]]
+- [[Gufo]]
 - [[DeepSpec]]
 - [[MiniMax M3]]
 - [[DiffusionGemma]]
