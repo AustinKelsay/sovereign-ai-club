@@ -84,7 +84,7 @@ export const meetups = [
           "Focus: local AI, open models, and control over the tools we use.",
           "Bring a question, a project, or a demo for the Community Slot."
         ],
-        "hostNote": "5:30 welcome; 5:40 games, ArtCraft, and REA; 5:55 harness scores, harness RL, and flow-1; 6:10 Prime, Rosalind's swarm, Pi, tunnels, and agent networks; 6:25 bring-your-own computers, EAGLE-4, and Perplexity; 6:40 release feeds, Bark, and desk-run recipes; 6:55 math and readable nets; 7:05 PHP, GitLab, Cisco, LiteLLM, eMudhra, then the rest of security; 7:15 export rules, the DeepSeek order, and OpenAI; 7:25 Community Slot; 7:30 finish. Attribute maker numbers, and do not walk through exploit payloads."
+        "hostNote": "5:30 Welcome · 5:40 Agent Infrastructure · 6:40 Models & Research · 7:05 Security · 7:15 Big Tech Moves · 7:25 Community Slot · 7:30 Wrap-up"
       },
       "showcases": [],
       "tracks": [
@@ -775,14 +775,26 @@ export const meetups = [
           "items": [
             {
               "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
-              "description": "PHP fixed two critical bugs today that let an attacker run their own code on a PHP server without logging in. PHP says updating to 8.5.12, 8.4.27, 8.3.36, or 8.2.35 is the only complete fix, and NSA and Japan's prime minister both suggest taking a site offline if you can't update quickly. OpenAI says GPT-5.6 Sol helped find one of the bugs, and OpenAI's Greg Brockman says the two-month effort to fix them was too slow and manual to scale. He floats letting authorized defenders, such as governments, find unpatched servers and, in extreme cases, patch them remotely.",
+              "description": "PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35, out today, fix two critical bugs that let an attacker run their own code on a PHP server without logging in. PHP says there's no other complete fix, and NSA and Japan's prime minister suggest taking a site offline if you can't update quickly. OpenAI says GPT-5.6 Sol helped find one bug, and OpenAI's Greg Brockman calls the two-month fix too slow and floats letting authorized defenders, such as governments, find unpatched servers and, in extreme cases, patch them remotely. The PHP Foundation says it spotted the root cause in 2024, calls the stalled fix a structural failure, and says the shortage is engineers who can fix the engine, not tools that find bugs.",
               "href": "https://www.php.net/archive/2026.php",
               "linkPair": [
+                "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
                 "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+                "https://fosstodon.org/@php/117479282535299381",
+                "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+                "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
                 "https://x.com/i/article/2112920540138844160",
                 "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
               ],
               "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ThePHPF/status/2112919684748320822"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ThePHPF/status/2112633155631108544"
+                },
                 {
                   "type": "tweet",
                   "href": "https://x.com/openai/status/2112907856018309586"
@@ -816,7 +828,7 @@ export const meetups = [
                   "href": "https://x.com/h4x0r_dz/status/2112620404309184734"
                 }
               ],
-              "notes": "Don't walk through either bug. The bugs: CVE-2026-109618 and CVE-2026-109619. PHP says the risk is highest for mod_php, and 8.1 and older are out of support, so they need a vendor backport or the minimal source backports PHP posted. PHP's October 20 notice scores both 9.2 on CVSS 4.0; a viral post said 10.0. Who found them: OpenAI says Calif found one with GPT-5.6 Sol and Wiz independently found both. Brockman's version, from his October 21 essay \"Towards securing the internet,\" calls the bug php2shell: Calif found a version in August, OpenAI a fuller one in September, and the October 22 release moved up a day after details leaked. He doesn't say who would authorize remote patching, and he doesn't mention open weights. He also says defenders need stronger models than attackers and calls always having the most capable cyber models a national priority; for access he points to Daybreak and the $1B in credits OpenAI committed September 3. He says OpenAI also worked on a Node.js RCE announced today; Node's October 21 advisory has a High Brotli RCE, CVE-2026-111497, and doesn't mention OpenAI. @sherlock_comms has the plain-English explainer, but he posted nine minutes before the 14:00 UTC release, so his \"no official solution\" line is out of date. His 70% of websites is OpenAI's estimate from its post; OpenAI's essay doesn't repeat it. Prime Minister Sanae Takaichi's account says staff write some of her posts, and she pointed people at @cyber_forecast.",
+              "notes": "Don't walk through either bug. The bugs: CVE-2026-109618 and CVE-2026-109619, both 9.2 on CVSS 4.0; a viral post said 10.0. PHP says the risk is highest for mod_php, and 8.1 and older are out of support, so they need a vendor backport or the minimal source backports PHP posted. PHP's own release announcement went out on Mastodon, not X: @official_php hasn't posted since 2024, and @php_net is a third-party news site, not PHP. The Foundation's timeline: a Foundation-paid developer found the first signs during a 2024 audit funded by Germany's Sovereign Tech Agency; Calif's Ryan A and OpenAI reported the same root cause independently on August 11, Wiz on August 24, and OpenAI more attack vectors on September 18. Brockman's essay instead says OpenAI found its fuller version in September. The Foundation says it scanned PHP with Anthropic's Claude Mythos earlier this year and now uses OpenAI's Daybreak Red to check reports, and that AI-assisted research brought 15 CVEs and more than 100 invalid reports since July 1. The CVE IDs leaked October 20 around 15:00 UTC, so the release moved up a day; Calif then mistakenly posted a video of its exploit, and Chainguard published fixed images at 07:41 UTC, more than six hours early. The Foundation found no working public exploits at release. Brockman's essay, \"Towards securing the internet,\" calls the bug php2shell; he doesn't say who would authorize remote patching, and he doesn't mention open weights. He also says defenders need stronger models than attackers and calls always having the most capable cyber models a national priority; for access he points to Daybreak and the $1B in credits OpenAI committed September 3. He says OpenAI also worked on a Node.js RCE announced today; Node's October 21 advisory has a High Brotli RCE, CVE-2026-111497, and doesn't mention OpenAI. @sherlock_comms has the plain-English explainer, but he posted nine minutes before the 14:00 UTC release, so his \"no official solution\" line is out of date. His 70% of websites is OpenAI's estimate from its post; OpenAI's essay doesn't repeat it. Prime Minister Sanae Takaichi's account says staff write some of her posts, and she pointed people at @cyber_forecast.",
               "topStory": true
             },
             {
@@ -851,6 +863,33 @@ export const meetups = [
                 }
               ],
               "notes": "Don't walk through the bug. It's CVE-2026-76519, CVSS 9.8, a path traversal in Advanced Malware Protection. A gateway is exposed only if File Reputation is enabled and assigned to a mail policy and Content Scanner Tools is older than 25.3.0.5525. The fix is Content Scanner Tools 25.3.0.5525 or later, which arrives on its own if automatic updates are on, or AsyncOS 15.5.5-014 or 16.5.0-780; 16.0 has to migrate. There's no workaround. Cisco says it found the bug in internal scanning and learned of attacks in October; it hasn't named the attackers or said how many devices. Cisco warns that root lets attackers hide their tracks, so check firewall logs off the box, and a compromised cluster member can leak the SSH keys for the others. Cisco contacted Secure Email Cloud customers where it saw signs of compromise. CISA gave federal agencies until October 17. BleepingComputer says Shadowserver sees nearly 300 exposed gateways, with no count of honeypots or ones already secured. The earlier two: CVE-2026-76461 in September, an email-parsing bug, and CVE-2025-20393, attacked from November 2025 and patched in January. Ujlaki's post is about this October bug, but the BleepingComputer story it quotes is the September one."
+            },
+            {
+              "title": "Railway breach: rotate every key you stored there",
+              "description": "Railway says an attacker may have reached the systems that store customers' environment variables today and, for some, decrypted them, and it tells every user to rotate all secrets kept there, including API keys and registry credentials. Railway calls it part of a series of attacks on platform companies aimed at AI inference providers, and has asked those providers to revoke keys. Deployments are still paused, so you can rotate a key at the provider now but can't redeploy with the new one yet.",
+              "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+              "linkPair": [
+                "https://status.railway.com/incident/QH8L8B3E"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/Railway/status/2113025284148715845"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/JustJake/status/2113028631463436786"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/JustJake/status/2113028634286174557"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/varunram/status/2113013688731083228"
+                }
+              ],
+              "notes": "Railway's status page shows builds paused from 07:24 UTC; it didn't call this a security incident until the notice at 21:51 UTC. Railway founder Jake Cooper says the attack vector is mitigated and that it affects a small subset of users, and Railway says it will email affected accounts. Varunram Ganesh, a Railway customer, posted about an hour before the notice that attackers were draining keys in real time and the attack was still active; he says his company didn't lose much. That's his account. Railway hasn't said how the attacker got in or which inference providers it notified. It also signed people out by invalidating OAuth sessions. Railway doesn't name the other platforms in the series. The OpenCode topic later in Security is also about AI provider keys, but nobody has tied the two together."
             },
             {
               "title": "LiteLLM 1.107.0 wheels shipped a credential stealer",

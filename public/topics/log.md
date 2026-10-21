@@ -2,6 +2,14 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-10-21] update | October 21 PHP Foundation posts
+
+- Updated **PHP's two critical bugs: update now, and Brockman floats remote patching**. The spoken line now opens with the fixed releases and adds the PHP Foundation's answer to Brockman: it spotted the root cause in 2024, calls the stalled fix a structural failure, and says the shortage is engineers, not bug-finding tools. Embedded the Foundation's two posts and linked its blog, PHP's Mastodon release announcement, and both GitHub advisories. Notes now carry the Foundation's discovery timeline, the Calif video and Chainguard's early images, and a warning that @php_net is not PHP. The title is unchanged so existing slide links still work.
+
+## [2026-10-21] curate | October 21 Railway breach
+
+- Added **Railway breach: rotate every key you stored there** to Security after the Cisco topic, from Varunram Ganesh's warning. Railway's notice says an attacker may have reached the systems storing customer environment variables and decrypted some, calls it part of a series of attacks aimed at AI inference providers, and tells every user to rotate secrets while deployments stay paused. Embedded Railway's notice post and Jake Cooper's two posts; his says the vector is mitigated and the impact is a small subset of users. Varunram's "still an active attack" is his account, from an hour before the notice. Created the Railway page and linked it from Security.
+
 ## [2026-10-21] curate | October 21 Cisco CVE-2026-76519
 
 - Added **One crafted email can root Cisco's email security gateway** to Security after the GitLab topic, from Marcell Ujlaki's October 14 post. Cisco's advisory says one email with a crafted attachment can give an attacker root through the gateway's malware-protection feature, Cisco knew of attacks in October, and there's no workaround. The fix is a Content Scanner Tools update that needs no restart. It's the third exploited zero-day in this gateway in about a year. Ujlaki's post quotes BleepingComputer's September story about the earlier bug, which the notes and link records flag. Linked it from Cisco and Security.

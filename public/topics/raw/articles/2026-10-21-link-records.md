@@ -544,6 +544,18 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
 
 - **PHP security advisory, 21 October 2026** — https://www.php.net/archive/2026.php
   Type: vendor advisory. Accessed: 2026-10-21. PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35 fix CVE-2026-109618 and CVE-2026-109619, which PHP says allow unauthenticated remote code execution. Highest risk is mod_php. PHP 8.1 and older are out of project support; minimal source backports exist for 7.4, 8.0, and 8.1. PHP says there are no complete mitigations. The October 20 advance notice set the release for October 21 at 14:00 UTC and rated both bugs 9.2 on CVSS v4.0. The advisory says Linux distributions and LTS vendors got the patches in advance.
+- **Today's PHP Security Release, and How We're Strengthening PHP Security** — https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/
+  Type: foundation blog. Accessed: 2026-10-21. October 21, The PHP Foundation. Says 8.5.12, 8.4.27, 8.3.36, and 8.2.35 fix two critical bugs that can let an unauthenticated attacker run code; full RCE was shown on Apache with mod_php at default settings and also confirmed on PHP-FPM through application code. A Foundation-contracted developer found the first signs of the out-of-memory root cause in 2024 while fixing an issue from Quarkslab's audit, funded by the Sovereign Tech Agency through OSTIF; the fix stalled for months, which it calls a structural failure of the security team's decision process and resources. Calif's Ryan A and OpenAI independently reported the root cause on August 11, Wiz on August 24, and OpenAI more vectors on September 18. Says it scanned PHP with Anthropic's Claude Mythos through Alpha-Omega and uses OpenAI's Daybreak Red to validate reports; 15 CVEs and more than 100 invalid reports since July 1. The CVE IDs leaked October 20 around 15:00 UTC with a wrong 10.0 score, so the release moved from October 22 to October 21; Calif then mistakenly published a proof-of-concept video, and Chainguard published fixed images at 07:41 UTC October 21, more than six hours early. Found no functional exploits at release. Says tools find bugs faster than ever but too few engineers can decide and review engine fixes, and asks companies, hosts, and governments to fund the Foundation.
+- **The PHP Foundation on the security release** — https://x.com/ThePHPF/status/2112919684748320822
+  Type: X post. Accessed: 2026-10-21. Official PHP Foundation account, 14:51 UTC October 21, linking the blog post on how the bugs were found and what the security team is changing.
+- **The PHP Foundation's advance notice** — https://x.com/ThePHPF/status/2112633155631108544
+  Type: X post. Accessed: 2026-10-21. 19:52 UTC October 20. Advance notice of the October 21, 14:00 UTC security release for two critical bugs rated CVSS 4.0 9.2, with an earlier release if details went public or exploits appeared.
+- **PHP release announcement on Mastodon** — https://fosstodon.org/@php/117479282535299381
+  Type: Mastodon post. Accessed: 2026-10-21. Official @php@fosstodon.org account, 14:06 UTC October 21. Announces PHP 8.2.35, 8.3.36, 8.4.27, and 8.5.12 for CVE-2026-109618, RCE via out-of-memory corruption, and CVE-2026-109619, RCE via stale global state. The project's @official_php X account last posted in 2024; @php_net on X links to php-net.pro, a third-party news site.
+- **GHSA-w8hw-w9fx-j79w** — https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w
+  Type: security advisory. Accessed: 2026-10-21. php/php-src, published 13:34 UTC October 21. CVE-2026-109618, "RCE via OOM corruption," critical, CVSS 4.0 9.2, patched in 8.2.35, 8.3.36, 8.4.27, and 8.5.12.
+- **GHSA-6wmf-4rv5-p3rp** — https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp
+  Type: security advisory. Accessed: 2026-10-21. php/php-src, published 13:34 UTC October 21. CVE-2026-109619, "RCE via stale global state," critical, CVSS 4.0 9.2, patched in the same four releases.
 - **Patch the Planet: PHP disclosure** — https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/
   Type: company essay. Accessed: 2026-10-21. October 21. OpenAI says Calif found a critical PHP flaw with GPT-5.6 Sol and Wiz independently found both. The essay does not repeat the post's "70% of websites" estimate.
 - **OpenAI disclosure post** — https://x.com/openai/status/2112907856018309586
@@ -590,6 +602,21 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: news article. Accessed: 2026-10-21. October 14, Sergiu Gatlan. Says Shadowserver tracks nearly 300 Secure Email Gateway instances exposed online, with no count of honeypots or ones already secured. Recaps last month's actively exploited email-parsing zero-day and CVE-2025-20393, a maximum-severity AsyncOS flaw exploited since November 2025 and patched in January. Names no attacker.
 - **CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products** — https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/
   Type: news article. Accessed: 2026-10-21. October 15. Says CISA added CVE-2026-76519 to its Known Exploited Vulnerabilities catalog on evidence of active exploitation and gave federal agencies until October 17.
+
+### Railway breach: rotate every key you stored there
+
+- **Security Disclosure: Wednesday October 21st** — https://blog.railway.com/p/security-disclosure-wednesday-october-21st
+  Type: company disclosure. Accessed: 2026-10-21. October 21, by Jacob Cooper. Says Railway detected anomalous activity that morning involving systems that store customer environment variables, and that an unauthorized third party may have accessed encrypted environment variables and, for some, obtained the decrypted contents. Believes it is part of a series of attacks on platform companies aimed at compromising AI inference providers, and says it notified those upstream providers to revoke all keys. Says impact may be limited to a subset of users but recommends every user roll all environment variables, API keys, and private registry credentials and review logs. All deployments are paused. Affected customers will be emailed. Does not say how the attacker got in or name the providers.
+- **Railway status incident QH8L8B3E** — https://status.railway.com/incident/QH8L8B3E
+  Type: status page. Accessed: 2026-10-21. First update 07:24 UTC October 21, "investigating," with builds paused; the dashboard, API, CLI, and support site went down through the day. At 20:19 UTC Railway said it was invalidating OAuth sessions. At 21:59 UTC it linked the security notice, recommended revoking all environment variables, and said deployments remain paused, so users can't push new credentials yet.
+- **Railway's notice post** — https://x.com/Railway/status/2113025284148715845
+  Type: X post. Accessed: 2026-10-21. Official account, 21:51 UTC. "An urgent notice from the Railway team," linking the disclosure.
+- **Jake Cooper's post** — https://x.com/JustJake/status/2113028631463436786
+  Type: X post. Accessed: 2026-10-21. Railway founder, 22:04 UTC, quoting the notice. Says Railway was alerted to malicious activity that compromised its servers and recommends rotating keys out of caution.
+- **Jake Cooper's follow-up** — https://x.com/JustJake/status/2113028634286174557
+  Type: X post. Accessed: 2026-10-21. Reply in the same thread. Says Railway believes it has mitigated the attack vector and that it affects a small subset of users.
+- **Varunram Ganesh's warning** — https://x.com/varunram/status/2113013688731083228
+  Type: X post. Accessed: 2026-10-21. Submitted post. 21:04 UTC, before Railway's notice. Says Railway is compromised, rotate all API keys now, deployments are down, attackers are draining keys in real time, his company didn't lose much, and the attack is still active. A customer account, not Railway's.
 
 ### LiteLLM 1.107.0 wheels shipped a credential stealer
 

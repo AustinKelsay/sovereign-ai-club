@@ -13,7 +13,7 @@ Security is the Sovereign AI Club track for attacks, abuse patterns, prompt inje
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.
+- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.
 
 - [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.
 - [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.

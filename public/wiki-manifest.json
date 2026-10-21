@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:54:28.595Z",
+  "generatedAt": "2026-10-21T22:16:15.437Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -6289,6 +6289,34 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
@@ -6304,6 +6332,20 @@
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
@@ -7196,6 +7238,7 @@
       "backlinkIds": [
         "agent-security",
         "privacy-tooling",
+        "railway",
         "security",
         "sovereign-ai-club-may-13-2026",
         "supply-chain-security",
@@ -77944,6 +77987,12 @@
         "https://x.com/nickcammarata/status/2110757819427574056",
         "https://x.com/_chenglou/status/2110557373651931267",
         "https://www.php.net/archive/2026.php",
+        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "https://x.com/ThePHPF/status/2112919684748320822",
+        "https://x.com/ThePHPF/status/2112633155631108544",
+        "https://fosstodon.org/@php/117479282535299381",
+        "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+        "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/sherlock_comms/status/2112904595995275554",
@@ -77964,6 +78013,12 @@
         "https://x.com/UjlakiMarci/status/2110476752958984605",
         "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
         "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+        "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "https://status.railway.com/incident/QH8L8B3E",
+        "https://x.com/Railway/status/2113025284148715845",
+        "https://x.com/JustJake/status/2113028631463436786",
+        "https://x.com/JustJake/status/2113028634286174557",
+        "https://x.com/varunram/status/2113013688731083228",
         "https://socket.dev/blog/litellm-compromise",
         "https://x.com/SocketSecurity/status/2112907732877775016",
         "https://github.com/BerriAI/litellm/issues/47826",
@@ -79178,6 +79233,36 @@
           "section": "Security"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "The PHP Foundation on the security release",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
+          "title": "The PHP Foundation's advance notice",
+          "section": "Security"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP release announcement on Mastodon",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "GHSA-w8hw-w9fx-j79w",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "GHSA-6wmf-4rv5-p3rp",
+          "section": "Security"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "Patch the Planet: PHP disclosure",
           "section": "Security"
@@ -79275,6 +79360,36 @@
         {
           "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
           "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+          "section": "Security"
+        },
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Security Disclosure: Wednesday October 21st",
+          "section": "Security"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway status incident QH8L8B3E",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway's notice post",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Jake Cooper's post",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Jake Cooper's follow-up",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Varunram Ganesh's warning",
           "section": "Security"
         },
         {
@@ -85709,6 +85824,34 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
@@ -85724,6 +85867,20 @@
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
@@ -87509,6 +87666,7 @@
       "unresolvedLinks": [],
       "backlinkIds": [
         "opentunnel",
+        "railway",
         "sovereign-ai-club-october-21-2026"
       ],
       "referencedTopicSources": [
@@ -97052,6 +97210,83 @@
       "bodyMarkdown": "# Qwenstradamus\n\nQwenstradamus is Ben Carman's personal-voice model service built from Twitter archive exports, LoRA training, clustered themes, and retrieval over original tweets.\n\n## Mentioned In\n\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**.\n\n## Related\n\n- [[Ben Carman]]\n- [[Qwen]]\n- [[Local AI]]\n- [[Open Models]]"
     },
     {
+      "id": "railway",
+      "title": "Railway",
+      "type": "entity",
+      "tags": [
+        "entity",
+        "company",
+        "agent-infrastructure",
+        "security"
+      ],
+      "sources": [
+        "raw/articles/2026-10-21-link-records.md"
+      ],
+      "sourceCount": 1,
+      "sourceLinks": [],
+      "sourceReferences": [],
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "excerpt": "Railway is a cloud platform for deploying apps, databases, and agents. On October 21, 2026 it disclosed that an attacker may have reached the systems storing customer environment variables, paused all deployments, and told every user to rotate the secrets they kept there.",
+      "rawHref": "/topics/entities/railway.md",
+      "relativePath": "entities/railway.md",
+      "outgoingIds": [
+        "ai-saas-supply-chain",
+        "opencode",
+        "security",
+        "sovereign-ai-club-october-21-2026"
+      ],
+      "unresolvedLinks": [],
+      "backlinkIds": [
+        "sovereign-ai-club-october-21-2026"
+      ],
+      "referencedTopicSources": [
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        }
+      ],
+      "bodyMarkdown": "# Railway\n\nRailway is a cloud platform for deploying apps, databases, and agents. On October 21, 2026 it disclosed that an attacker may have reached the systems storing customer environment variables, paused all deployments, and told every user to rotate the secrets they kept there.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **Railway breach: rotate every key you stored there**.\n\n## Related\n\n- [[Security]]\n- [[OpenCode]]\n- [[AI SaaS Supply Chain]]"
+    },
+    {
       "id": "rea",
       "title": "REA",
       "type": "entity",
@@ -98291,6 +98526,7 @@
         "microsoft",
         "mythos",
         "prem",
+        "railway",
         "signal",
         "sovereign-ai-club-april-1-2026",
         "sovereign-ai-club-april-15-2026",
@@ -99262,6 +99498,34 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
@@ -99277,6 +99541,20 @@
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
@@ -99397,6 +99675,48 @@
         {
           "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
           "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Railway breach: rotate every key you stored there",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
@@ -99927,7 +100247,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     {
       "id": "september-30-2026-event-and-source-links",
@@ -115346,9 +115666,15 @@
         "https://x.com/nickcammarata/status/2110757819427574056",
         "https://x.com/_chenglou/status/2110557373651931267",
         "https://www.php.net/archive/2026.php",
+        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "https://fosstodon.org/@php/117479282535299381",
+        "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+        "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "https://x.com/i/article/2112920540138844160",
         "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "https://x.com/ThePHPF/status/2112919684748320822",
+        "https://x.com/ThePHPF/status/2112633155631108544",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/nsacyber/status/2112903220209098897",
         "https://x.com/takaichi_sanae/status/2112890642590564386",
@@ -115366,6 +115692,12 @@
         "https://x.com/UjlakiMarci/status/2110476752958984605",
         "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
         "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+        "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "https://status.railway.com/incident/QH8L8B3E",
+        "https://x.com/Railway/status/2113025284148715845",
+        "https://x.com/JustJake/status/2113028631463436786",
+        "https://x.com/JustJake/status/2113028634286174557",
+        "https://x.com/varunram/status/2113013688731083228",
         "https://socket.dev/blog/litellm-compromise",
         "https://x.com/SocketSecurity/status/2112907732877775016",
         "https://github.com/BerriAI/litellm/issues/47826",
@@ -116525,6 +116857,26 @@
           "section": "Security"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
@@ -116536,6 +116888,16 @@
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
@@ -116622,6 +116984,36 @@
         {
           "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
           "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Railway breach: rotate every key you stored there",
           "section": "Security"
         },
         {
@@ -116862,6 +117254,7 @@
         "prime-agent",
         "privacy-tooling",
         "qwen",
+        "railway",
         "rea",
         "reason-network",
         "security",
@@ -116928,6 +117321,7 @@
         "prime-agent",
         "privacy-tooling",
         "qwen",
+        "railway",
         "rea",
         "reason-network",
         "security",
@@ -135794,6 +136188,34 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
@@ -135809,6 +136231,20 @@
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
@@ -136701,6 +137137,7 @@
       "backlinkIds": [
         "agent-security",
         "privacy-tooling",
+        "railway",
         "security",
         "sovereign-ai-club-may-13-2026",
         "supply-chain-security",
@@ -207449,6 +207886,12 @@
         "https://x.com/nickcammarata/status/2110757819427574056",
         "https://x.com/_chenglou/status/2110557373651931267",
         "https://www.php.net/archive/2026.php",
+        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "https://x.com/ThePHPF/status/2112919684748320822",
+        "https://x.com/ThePHPF/status/2112633155631108544",
+        "https://fosstodon.org/@php/117479282535299381",
+        "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+        "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/sherlock_comms/status/2112904595995275554",
@@ -207469,6 +207912,12 @@
         "https://x.com/UjlakiMarci/status/2110476752958984605",
         "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
         "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+        "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "https://status.railway.com/incident/QH8L8B3E",
+        "https://x.com/Railway/status/2113025284148715845",
+        "https://x.com/JustJake/status/2113028631463436786",
+        "https://x.com/JustJake/status/2113028634286174557",
+        "https://x.com/varunram/status/2113013688731083228",
         "https://socket.dev/blog/litellm-compromise",
         "https://x.com/SocketSecurity/status/2112907732877775016",
         "https://github.com/BerriAI/litellm/issues/47826",
@@ -208683,6 +209132,36 @@
           "section": "Security"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "The PHP Foundation on the security release",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
+          "title": "The PHP Foundation's advance notice",
+          "section": "Security"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP release announcement on Mastodon",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "GHSA-w8hw-w9fx-j79w",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "GHSA-6wmf-4rv5-p3rp",
+          "section": "Security"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "Patch the Planet: PHP disclosure",
           "section": "Security"
@@ -208780,6 +209259,36 @@
         {
           "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
           "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+          "section": "Security"
+        },
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Security Disclosure: Wednesday October 21st",
+          "section": "Security"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway status incident QH8L8B3E",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway's notice post",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Jake Cooper's post",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Jake Cooper's follow-up",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Varunram Ganesh's warning",
           "section": "Security"
         },
         {
@@ -215214,6 +215723,34 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
@@ -215229,6 +215766,20 @@
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
@@ -217014,6 +217565,7 @@
       "unresolvedLinks": [],
       "backlinkIds": [
         "opentunnel",
+        "railway",
         "sovereign-ai-club-october-21-2026"
       ],
       "referencedTopicSources": [
@@ -226556,6 +227108,83 @@
       ],
       "bodyMarkdown": "# Qwenstradamus\n\nQwenstradamus is Ben Carman's personal-voice model service built from Twitter archive exports, LoRA training, clustered themes, and retrieval over original tweets.\n\n## Mentioned In\n\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**.\n\n## Related\n\n- [[Ben Carman]]\n- [[Qwen]]\n- [[Local AI]]\n- [[Open Models]]"
     },
+    "railway": {
+      "id": "railway",
+      "title": "Railway",
+      "type": "entity",
+      "tags": [
+        "entity",
+        "company",
+        "agent-infrastructure",
+        "security"
+      ],
+      "sources": [
+        "raw/articles/2026-10-21-link-records.md"
+      ],
+      "sourceCount": 1,
+      "sourceLinks": [],
+      "sourceReferences": [],
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "excerpt": "Railway is a cloud platform for deploying apps, databases, and agents. On October 21, 2026 it disclosed that an attacker may have reached the systems storing customer environment variables, paused all deployments, and told every user to rotate the secrets they kept there.",
+      "rawHref": "/topics/entities/railway.md",
+      "relativePath": "entities/railway.md",
+      "outgoingIds": [
+        "ai-saas-supply-chain",
+        "opencode",
+        "security",
+        "sovereign-ai-club-october-21-2026"
+      ],
+      "unresolvedLinks": [],
+      "backlinkIds": [
+        "sovereign-ai-club-october-21-2026"
+      ],
+      "referencedTopicSources": [
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        }
+      ],
+      "bodyMarkdown": "# Railway\n\nRailway is a cloud platform for deploying apps, databases, and agents. On October 21, 2026 it disclosed that an attacker may have reached the systems storing customer environment variables, paused all deployments, and told every user to rotate the secrets they kept there.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **Railway breach: rotate every key you stored there**.\n\n## Related\n\n- [[Security]]\n- [[OpenCode]]\n- [[AI SaaS Supply Chain]]"
+    },
     "rea": {
       "id": "rea",
       "title": "REA",
@@ -227796,6 +228425,7 @@
         "microsoft",
         "mythos",
         "prem",
+        "railway",
         "signal",
         "sovereign-ai-club-april-1-2026",
         "sovereign-ai-club-april-15-2026",
@@ -228767,6 +229397,34 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
@@ -228782,6 +229440,20 @@
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
@@ -228902,6 +229574,48 @@
         {
           "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
           "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Railway breach: rotate every key you stored there",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
@@ -229432,7 +230146,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     "september-30-2026-event-and-source-links": {
       "id": "september-30-2026-event-and-source-links",
@@ -244851,9 +245565,15 @@
         "https://x.com/nickcammarata/status/2110757819427574056",
         "https://x.com/_chenglou/status/2110557373651931267",
         "https://www.php.net/archive/2026.php",
+        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "https://fosstodon.org/@php/117479282535299381",
+        "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+        "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "https://x.com/i/article/2112920540138844160",
         "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "https://x.com/ThePHPF/status/2112919684748320822",
+        "https://x.com/ThePHPF/status/2112633155631108544",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/nsacyber/status/2112903220209098897",
         "https://x.com/takaichi_sanae/status/2112890642590564386",
@@ -244871,6 +245591,12 @@
         "https://x.com/UjlakiMarci/status/2110476752958984605",
         "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
         "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+        "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "https://status.railway.com/incident/QH8L8B3E",
+        "https://x.com/Railway/status/2113025284148715845",
+        "https://x.com/JustJake/status/2113028631463436786",
+        "https://x.com/JustJake/status/2113028634286174557",
+        "https://x.com/varunram/status/2113013688731083228",
         "https://socket.dev/blog/litellm-compromise",
         "https://x.com/SocketSecurity/status/2112907732877775016",
         "https://github.com/BerriAI/litellm/issues/47826",
@@ -246030,6 +246756,26 @@
           "section": "Security"
         },
         {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
@@ -246041,6 +246787,16 @@
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
@@ -246127,6 +246883,36 @@
         {
           "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
           "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Railway breach: rotate every key you stored there",
           "section": "Security"
         },
         {
@@ -246367,6 +247153,7 @@
         "prime-agent",
         "privacy-tooling",
         "qwen",
+        "railway",
         "rea",
         "reason-network",
         "security",
@@ -246433,6 +247220,7 @@
         "prime-agent",
         "privacy-tooling",
         "qwen",
+        "railway",
         "rea",
         "reason-network",
         "security",
@@ -261567,9 +262355,15 @@
       "meetupHref": "/topics/2026-10-21.md",
       "sourceLinks": [
         "https://www.php.net/archive/2026.php",
+        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "https://fosstodon.org/@php/117479282535299381",
+        "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+        "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "https://x.com/i/article/2112920540138844160",
         "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "https://x.com/ThePHPF/status/2112919684748320822",
+        "https://x.com/ThePHPF/status/2112633155631108544",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/nsacyber/status/2112903220209098897",
         "https://x.com/takaichi_sanae/status/2112890642590564386",
@@ -261581,12 +262375,32 @@
       ],
       "sourceReferences": [
         {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
@@ -261639,6 +262453,16 @@
           "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
         }
       ],
       "wikiIds": [
@@ -261652,7 +262476,7 @@
         "Security"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "PHP's two critical bugs: update now, and Brockman floats remote patching Security Sovereign AI Club - October 21, 2026 2026-10-21 https://www.php.net/archive/2026.php https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ https://x.com/i/article/2112920540138844160 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases https://x.com/openai/status/2112907856018309586 https://x.com/nsacyber/status/2112903220209098897 https://x.com/takaichi_sanae/status/2112890642590564386 https://x.com/himanshustwts/status/2112909962313867667 https://x.com/gdb/status/2112921529650688312 https://x.com/sherlock_comms/status/2112904595995275554 https://x.com/darkwebinformer/status/2112651353818329380 https://x.com/h4x0r_dz/status/2112620404309184734 AI Governance OpenAI Security"
+      "searchText": "PHP's two critical bugs: update now, and Brockman floats remote patching Security Sovereign AI Club - October 21, 2026 2026-10-21 https://www.php.net/archive/2026.php https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ https://fosstodon.org/@php/117479282535299381 https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ https://x.com/i/article/2112920540138844160 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases https://x.com/ThePHPF/status/2112919684748320822 https://x.com/ThePHPF/status/2112633155631108544 https://x.com/openai/status/2112907856018309586 https://x.com/nsacyber/status/2112903220209098897 https://x.com/takaichi_sanae/status/2112890642590564386 https://x.com/himanshustwts/status/2112909962313867667 https://x.com/gdb/status/2112921529650688312 https://x.com/sherlock_comms/status/2112904595995275554 https://x.com/darkwebinformer/status/2112651353818329380 https://x.com/h4x0r_dz/status/2112620404309184734 AI Governance OpenAI Security"
     },
     {
       "id": "sovereign-ai-club-october-21-2026-security-projectdiscoverys-50-lora-backdoor",
@@ -261694,6 +262518,67 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "ProjectDiscovery's $50 LoRA backdoor Security Sovereign AI Club - October 21, 2026 2026-10-21 https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned https://x.com/lmoroney/status/2108071329790370027 Agent Security Qwen Security Supply Chain Security"
+    },
+    {
+      "id": "sovereign-ai-club-october-21-2026-security-railway-breach-rotate-every-key-you-stored-there",
+      "title": "Railway breach: rotate every key you stored there",
+      "rawTitle": "Railway breach: rotate every key you stored there",
+      "normalizedTitle": "railway breach: rotate every key you stored there",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-october-21-2026",
+      "meetupTitle": "Sovereign AI Club - October 21, 2026",
+      "meetupSlug": "2026-10-21",
+      "meetupHref": "/topics/2026-10-21.md",
+      "sourceLinks": [
+        "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "https://status.railway.com/incident/QH8L8B3E",
+        "https://x.com/Railway/status/2113025284148715845",
+        "https://x.com/JustJake/status/2113028631463436786",
+        "https://x.com/JustJake/status/2113028634286174557",
+        "https://x.com/varunram/status/2113013688731083228"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "railway",
+        "security"
+      ],
+      "wikiTitles": [
+        "Railway",
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Railway breach: rotate every key you stored there Security Sovereign AI Club - October 21, 2026 2026-10-21 https://blog.railway.com/p/security-disclosure-wednesday-october-21st https://status.railway.com/incident/QH8L8B3E https://x.com/Railway/status/2113025284148715845 https://x.com/JustJake/status/2113028631463436786 https://x.com/JustJake/status/2113028634286174557 https://x.com/varunram/status/2113013688731083228 Railway Security"
     },
     {
       "id": "sovereign-ai-club-october-21-2026-security-self-hosted-gitlabs-critical-bug-reaches-back-to-2014",
@@ -281563,9 +282448,15 @@
       "meetupHref": "/topics/2026-10-21.md",
       "sourceLinks": [
         "https://www.php.net/archive/2026.php",
+        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "https://fosstodon.org/@php/117479282535299381",
+        "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+        "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "https://x.com/i/article/2112920540138844160",
         "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "https://x.com/ThePHPF/status/2112919684748320822",
+        "https://x.com/ThePHPF/status/2112633155631108544",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/nsacyber/status/2112903220209098897",
         "https://x.com/takaichi_sanae/status/2112890642590564386",
@@ -281577,12 +282468,32 @@
       ],
       "sourceReferences": [
         {
+          "href": "https://fosstodon.org/@php/117479282535299381",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
@@ -281635,6 +282546,16 @@
           "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112633155631108544",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThePHPF/status/2112919684748320822",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
         }
       ],
       "wikiIds": [
@@ -281648,7 +282569,7 @@
         "Security"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "PHP's two critical bugs: update now, and Brockman floats remote patching Security Sovereign AI Club - October 21, 2026 2026-10-21 https://www.php.net/archive/2026.php https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ https://x.com/i/article/2112920540138844160 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases https://x.com/openai/status/2112907856018309586 https://x.com/nsacyber/status/2112903220209098897 https://x.com/takaichi_sanae/status/2112890642590564386 https://x.com/himanshustwts/status/2112909962313867667 https://x.com/gdb/status/2112921529650688312 https://x.com/sherlock_comms/status/2112904595995275554 https://x.com/darkwebinformer/status/2112651353818329380 https://x.com/h4x0r_dz/status/2112620404309184734 AI Governance OpenAI Security"
+      "searchText": "PHP's two critical bugs: update now, and Brockman floats remote patching Security Sovereign AI Club - October 21, 2026 2026-10-21 https://www.php.net/archive/2026.php https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ https://fosstodon.org/@php/117479282535299381 https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ https://x.com/i/article/2112920540138844160 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases https://x.com/ThePHPF/status/2112919684748320822 https://x.com/ThePHPF/status/2112633155631108544 https://x.com/openai/status/2112907856018309586 https://x.com/nsacyber/status/2112903220209098897 https://x.com/takaichi_sanae/status/2112890642590564386 https://x.com/himanshustwts/status/2112909962313867667 https://x.com/gdb/status/2112921529650688312 https://x.com/sherlock_comms/status/2112904595995275554 https://x.com/darkwebinformer/status/2112651353818329380 https://x.com/h4x0r_dz/status/2112620404309184734 AI Governance OpenAI Security"
     },
     "sovereign-ai-club-october-21-2026-security-projectdiscoverys-50-lora-backdoor": {
       "id": "sovereign-ai-club-october-21-2026-security-projectdiscoverys-50-lora-backdoor",
@@ -281690,6 +282611,67 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "ProjectDiscovery's $50 LoRA backdoor Security Sovereign AI Club - October 21, 2026 2026-10-21 https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned https://x.com/lmoroney/status/2108071329790370027 Agent Security Qwen Security Supply Chain Security"
+    },
+    "sovereign-ai-club-october-21-2026-security-railway-breach-rotate-every-key-you-stored-there": {
+      "id": "sovereign-ai-club-october-21-2026-security-railway-breach-rotate-every-key-you-stored-there",
+      "title": "Railway breach: rotate every key you stored there",
+      "rawTitle": "Railway breach: rotate every key you stored there",
+      "normalizedTitle": "railway breach: rotate every key you stored there",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-october-21-2026",
+      "meetupTitle": "Sovereign AI Club - October 21, 2026",
+      "meetupSlug": "2026-10-21",
+      "meetupHref": "/topics/2026-10-21.md",
+      "sourceLinks": [
+        "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "https://status.railway.com/incident/QH8L8B3E",
+        "https://x.com/Railway/status/2113025284148715845",
+        "https://x.com/JustJake/status/2113028631463436786",
+        "https://x.com/JustJake/status/2113028634286174557",
+        "https://x.com/varunram/status/2113013688731083228"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://status.railway.com/incident/QH8L8B3E",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028631463436786",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/JustJake/status/2113028634286174557",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/Railway/status/2113025284148715845",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/varunram/status/2113013688731083228",
+          "title": "Railway breach: rotate every key you stored there",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "railway",
+        "security"
+      ],
+      "wikiTitles": [
+        "Railway",
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Railway breach: rotate every key you stored there Security Sovereign AI Club - October 21, 2026 2026-10-21 https://blog.railway.com/p/security-disclosure-wednesday-october-21st https://status.railway.com/incident/QH8L8B3E https://x.com/Railway/status/2113025284148715845 https://x.com/JustJake/status/2113028631463436786 https://x.com/JustJake/status/2113028634286174557 https://x.com/varunram/status/2113013688731083228 Railway Security"
     },
     "sovereign-ai-club-october-21-2026-security-self-hosted-gitlabs-critical-bug-reaches-back-to-2014": {
       "id": "sovereign-ai-club-october-21-2026-security-self-hosted-gitlabs-critical-bug-reaches-back-to-2014",
@@ -305037,6 +306019,22 @@
       "target": "open-models"
     },
     {
+      "source": "railway",
+      "target": "sovereign-ai-club-october-21-2026"
+    },
+    {
+      "source": "railway",
+      "target": "security"
+    },
+    {
+      "source": "railway",
+      "target": "opencode"
+    },
+    {
+      "source": "railway",
+      "target": "ai-saas-supply-chain"
+    },
+    {
       "source": "rea",
       "target": "sovereign-ai-club-october-21-2026"
     },
@@ -307453,6 +308451,10 @@
       "target": "cisco"
     },
     {
+      "source": "sovereign-ai-club-october-21-2026",
+      "target": "railway"
+    },
+    {
       "source": "sovereign-ai-club-september-30-2026",
       "target": "ben-carman"
     },
@@ -308687,7 +309689,7 @@
           "security",
           "agent-infrastructure"
         ],
-        "degree": 9,
+        "degree": 10,
         "updated": "2026-05-05"
       },
       {
@@ -310263,7 +311265,7 @@
           "coding-agents",
           "security"
         ],
-        "degree": 7,
+        "degree": 8,
         "updated": "2026-10-19"
       },
       {
@@ -310519,6 +311521,19 @@
         "updated": "2026-07-08"
       },
       {
+        "id": "railway",
+        "label": "Railway",
+        "type": "entity",
+        "tags": [
+          "entity",
+          "company",
+          "agent-infrastructure",
+          "security"
+        ],
+        "degree": 5,
+        "updated": "2026-10-21"
+      },
+      {
         "id": "rea",
         "label": "REA",
         "type": "entity",
@@ -310621,7 +311636,7 @@
           "track",
           "security"
         ],
-        "degree": 58,
+        "degree": 59,
         "updated": "2026-10-21"
       },
       {
@@ -310905,7 +311920,7 @@
           "meetup",
           "topic-board"
         ],
-        "degree": 125,
+        "degree": 127,
         "updated": "2026-10-21"
       },
       {
@@ -318801,6 +319816,26 @@
         "kind": "wiki"
       },
       {
+        "source": "railway",
+        "target": "sovereign-ai-club-october-21-2026",
+        "kind": "topic"
+      },
+      {
+        "source": "railway",
+        "target": "security",
+        "kind": "wiki"
+      },
+      {
+        "source": "railway",
+        "target": "opencode",
+        "kind": "wiki"
+      },
+      {
+        "source": "railway",
+        "target": "ai-saas-supply-chain",
+        "kind": "wiki"
+      },
+      {
         "source": "rea",
         "target": "sovereign-ai-club-october-21-2026",
         "kind": "topic"
@@ -321821,6 +322856,11 @@
         "kind": "topic"
       },
       {
+        "source": "sovereign-ai-club-october-21-2026",
+        "target": "railway",
+        "kind": "topic"
+      },
+      {
         "source": "sovereign-ai-club-september-30-2026",
         "target": "ben-carman",
         "kind": "topic"
@@ -323228,12 +324268,12 @@
     ]
   },
   "stats": {
-    "pageCount": 212,
-    "topicCount": 322,
+    "pageCount": 213,
+    "topicCount": 323,
     "rawPageCount": 0,
-    "linkCount": 2393,
+    "linkCount": 2398,
     "sourceRecordCount": 14,
-    "sourceLinkCount": 1740,
+    "sourceLinkCount": 1752,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-10-21"
   }
