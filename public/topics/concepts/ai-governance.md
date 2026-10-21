@@ -13,7 +13,7 @@ AI Governance covers policy, evaluation, regulatory, and institutional control p
 
 ## Mentioned In
 
-- [[Sovereign AI Club - October 21, 2026]]: **After php2shell, Brockman floats remote patching by authorized defenders**, **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, and **Jasmine Wang's account of her OpenAI firing**.
+- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, and **Jasmine Wang's account of her OpenAI firing**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **OP or not**.
 - [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**.

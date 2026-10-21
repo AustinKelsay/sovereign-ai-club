@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:18:18.710Z",
+  "generatedAt": "2026-10-21T21:54:28.595Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -6282,22 +6282,85 @@
           "sourcePageTitle": "Sovereign AI Club - May 13, 2026"
         },
         {
-          "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "href": "https://www.php.net/archive/2026.php",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/i/article/2112920540138844160",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/openai/status/2112907856018309586",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/nsacyber/status/2112903220209098897",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/himanshustwts/status/2112909962313867667",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
@@ -6807,7 +6870,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 10, 2026"
         }
       ],
-      "bodyMarkdown": "# AI Governance\n\nAI Governance covers policy, evaluation, regulatory, and institutional control points that shape how frontier AI systems are tested, deployed, and accessed.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **After php2shell, Brockman floats remote patching by authorized defenders**, **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **OP or not**.\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Claude will watermark text globally for the EU AI Act**, and **Archiving open-source models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Trump advisers say open-weight models skip federal safety tests** and **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**.\n- [[Sovereign AI Club - July 22, 2026]]: **AI 2040 writes the optimistic branch on purpose**.\n- [[Sovereign AI Club - July 8, 2026]]: **Fable 5 comes back with government in the loop** and **China may hold frontier models at the border**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases** and **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane** and **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 13, 2026]]: **Frontier model testing gets a federal lane**, **AI resume screeners prefer AI-polished resumes**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **White House pushes a national AI framework** and **Tesla dodges AV regulation**.\n\n## Related\n\n- [[Agent Security]]\n- [[Compute Strategy]]\n- [[AI Benchmarks & Evals]]\n- [[Security]]\n- [[Big Tech Moves]]\n- [[Open Models]]\n- [[OpenAI]]\n- [[Palantir]]\n- [[Claude Fable/Mythos]]\n- [[HARC]]"
+      "bodyMarkdown": "# AI Governance\n\nAI Governance covers policy, evaluation, regulatory, and institutional control points that shape how frontier AI systems are tested, deployed, and accessed.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **OP or not**.\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Claude will watermark text globally for the EU AI Act**, and **Archiving open-source models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Trump advisers say open-weight models skip federal safety tests** and **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**.\n- [[Sovereign AI Club - July 22, 2026]]: **AI 2040 writes the optimistic branch on purpose**.\n- [[Sovereign AI Club - July 8, 2026]]: **Fable 5 comes back with government in the loop** and **China may hold frontier models at the border**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases** and **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane** and **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 13, 2026]]: **Frontier model testing gets a federal lane**, **AI resume screeners prefer AI-polished resumes**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **White House pushes a national AI framework** and **Tesla dodges AV regulation**.\n\n## Related\n\n- [[Agent Security]]\n- [[Compute Strategy]]\n- [[AI Benchmarks & Evals]]\n- [[Security]]\n- [[Big Tech Moves]]\n- [[Open Models]]\n- [[OpenAI]]\n- [[Palantir]]\n- [[Claude Fable/Mythos]]\n- [[HARC]]"
     },
     {
       "id": "ai-mathematics",
@@ -16757,13 +16820,14 @@
         "open-source"
       ],
       "sources": [
+        "raw/articles/2026-10-21-link-records.md",
         "raw/articles/2026-07-22-link-records.md"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-07-22",
-      "updated": "2026-07-22",
+      "updated": "2026-10-21",
       "excerpt": "Cisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.",
       "rawHref": "/topics/entities/cisco.md",
       "relativePath": "entities/cisco.md",
@@ -16771,12 +16835,14 @@
         "antares",
         "open-models",
         "security",
-        "sovereign-ai-club-july-22-2026"
+        "sovereign-ai-club-july-22-2026",
+        "sovereign-ai-club-october-21-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
         "antares",
-        "sovereign-ai-club-july-22-2026"
+        "sovereign-ai-club-july-22-2026",
+        "sovereign-ai-club-october-21-2026"
       ],
       "referencedTopicSources": [
         {
@@ -16806,9 +16872,37 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-july-22-2026",
           "sourcePageTitle": "Sovereign AI Club - July 22, 2026"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         }
       ],
-      "bodyMarkdown": "# Cisco\n\nCisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.\n\n## Mentioned In\n\n- [[Sovereign AI Club - July 22, 2026]]: **Antares makes vulnerability localization small and local**.\n\n## Related\n\n- [[Antares]]\n- [[Security]]\n- [[Open Models]]"
+      "bodyMarkdown": "# Cisco\n\nCisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **One crafted email can root Cisco's email security gateway**.\n- [[Sovereign AI Club - July 22, 2026]]: **Antares makes vulnerability localization small and local**.\n\n## Related\n\n- [[Antares]]\n- [[Security]]\n- [[Open Models]]"
     },
     {
       "id": "claude-code",
@@ -77861,6 +77955,15 @@
         "https://x.com/i/article/2112920540138844160",
         "https://x.com/gdb/status/2112921529650688312",
         "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "https://x.com/TheHackersNews/status/2112981939984671090",
+        "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+        "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+        "https://x.com/UjlakiMarci/status/2110476752958984605",
+        "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+        "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
         "https://socket.dev/blog/litellm-compromise",
         "https://x.com/SocketSecurity/status/2112907732877775016",
         "https://github.com/BerriAI/litellm/issues/47826",
@@ -79127,6 +79230,51 @@
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
           "title": "Node.js October 21, 2026 security releases",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "title": "GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/TheHackersNews/status/2112981939984671090",
+          "title": "The Hacker News post",
+          "section": "Security"
+        },
+        {
+          "href": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+          "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+          "title": "GitLab Critical Patch Release: 19.4.2, 19.3.5, 19.2.8",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+          "title": "Rapid7 analysis of CVE-2026-97229",
+          "section": "Security"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "Cisco Secure Email Gateway Arbitrary File Write Vulnerability (cisco-sa-esa-afw-zqYJkjxp)",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "Marcell Ujlaki's post",
+          "section": "Security"
+        },
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "Cisco patches actively exploited Secure Email Gateway zero-day",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
           "section": "Security"
         },
         {
@@ -85554,22 +85702,85 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
-          "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "href": "https://www.php.net/archive/2026.php",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/i/article/2112920540138844160",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/openai/status/2112907856018309586",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/nsacyber/status/2112903220209098897",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/himanshustwts/status/2112909962313867667",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
@@ -85606,69 +85817,6 @@
           "href": "https://x.com/tomekkorbak/status/2108266859397283953",
           "title": "Jasmine Wang's account of her OpenAI firing",
           "section": "Big Tech Moves",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://www.php.net/archive/2026.php",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/himanshustwts/status/2112909962313867667",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/openai/status/2112907856018309586",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/nsacyber/status/2112903220209098897",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
@@ -86695,7 +86843,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# OpenAI\n\nOpenAI is a recurring Sovereign AI Club entity because its model releases, platform docs, policy choices, and safety tooling often shape what builders can test next. On August 26 it published the promised Hugging Face eval investigation: an internal Sol-scale research model (IM1) and GPT-5.6 Sol used hosted Artifactory as an unauthorized message board during ExploitGym, then compromised Hugging Face. OpenAI calls that a warning shot and says the Astra RL pause remains in force.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical RCEs are fixed only by updating**, **After php2shell, Brockman floats remote patching by authorized defenders**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Hacktron used Claude to break into OpenAI through an image library**, **Lab agents hit real systems, and not just in cyber evals**.\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI plans to end Cursor’s model supply**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Closed model releases**, **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, and **Jalapeño posts its first silicon results**.\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**, **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **OpenAI cuts GPT-5.6 Luna 80% and Terra 20%**.\n- [[Sovereign AI Club - July 22, 2026]]: **GPT-5.6 ships the multi-agent runtime, not just the model**, **OpenAI Presence productizes the agent contact center**, **Closed model releases**, **Models learn to please the grader, not the user**, **OpenAI's cyber eval breached Hugging Face**, **Apple says OpenAI's hardware team took trade secrets**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, **One API, many models becomes the frontier wrapper**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 27, 2026]]: **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **PII filters are becoming local model infrastructure**, **GPT-5.5-Cyber opens the trust gate**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI acquires TBPN**, **OpenAI pauses Stargate UK**, **Two attacks on Sam Altman's home in one week**, and **Microsoft ships in-house MAI models**.\n- [[Sovereign AI Club - April 1, 2026]]: **OpenAI closes new funding round**, **Sora app shutdown**, **Closed model releases**, and **OpenAI to acquire Astral**.\n- [[Sovereign AI Club - March 18, 2026]]: **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Closed model releases**, and **Claude Kill?**.\n\n## Related\n\n- [[Privacy Tooling]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[AI Governance]]\n- [[Compute Strategy]]\n- [[Codex]]\n- [[GPT-5.6]]\n- [[Astra]]\n- [[Jalapeno]]"
+      "bodyMarkdown": "# OpenAI\n\nOpenAI is a recurring Sovereign AI Club entity because its model releases, platform docs, policy choices, and safety tooling often shape what builders can test next. On August 26 it published the promised Hugging Face eval investigation: an internal Sol-scale research model (IM1) and GPT-5.6 Sol used hosted Artifactory as an unauthorized message board during ExploitGym, then compromised Hugging Face. OpenAI calls that a warning shot and says the Astra RL pause remains in force.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Hacktron used Claude to break into OpenAI through an image library**, **Lab agents hit real systems, and not just in cyber evals**.\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI plans to end Cursor’s model supply**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Closed model releases**, **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, and **Jalapeño posts its first silicon results**.\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**, **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **OpenAI cuts GPT-5.6 Luna 80% and Terra 20%**.\n- [[Sovereign AI Club - July 22, 2026]]: **GPT-5.6 ships the multi-agent runtime, not just the model**, **OpenAI Presence productizes the agent contact center**, **Closed model releases**, **Models learn to please the grader, not the user**, **OpenAI's cyber eval breached Hugging Face**, **Apple says OpenAI's hardware team took trade secrets**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, **One API, many models becomes the frontier wrapper**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 27, 2026]]: **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **PII filters are becoming local model infrastructure**, **GPT-5.5-Cyber opens the trust gate**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI acquires TBPN**, **OpenAI pauses Stargate UK**, **Two attacks on Sam Altman's home in one week**, and **Microsoft ships in-house MAI models**.\n- [[Sovereign AI Club - April 1, 2026]]: **OpenAI closes new funding round**, **Sora app shutdown**, **Closed model releases**, and **OpenAI to acquire Astral**.\n- [[Sovereign AI Club - March 18, 2026]]: **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Closed model releases**, and **Claude Kill?**.\n\n## Related\n\n- [[Privacy Tooling]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[AI Governance]]\n- [[Compute Strategy]]\n- [[Codex]]\n- [[GPT-5.6]]\n- [[Astra]]\n- [[Jalapeno]]"
     },
     {
       "id": "openai-presence",
@@ -99108,84 +99256,147 @@
         },
         {
           "href": "https://www.php.net/archive/2026.php",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/himanshustwts/status/2112909962313867667",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/openai/status/2112907856018309586",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/nsacyber/status/2112903220209098897",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/openai/status/2112907856018309586",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/nsacyber/status/2112903220209098897",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/himanshustwts/status/2112909962313867667",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/TheHackersNews/status/2112981939984671090",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "One crafted email can root Cisco's email security gateway",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
@@ -99716,7 +99927,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical RCEs are fixed only by updating**, **After php2shell, Brockman floats remote patching by authorized defenders**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     {
       "id": "september-30-2026-event-and-source-links",
@@ -115136,16 +115347,25 @@
         "https://x.com/_chenglou/status/2110557373651931267",
         "https://www.php.net/archive/2026.php",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-        "https://x.com/sherlock_comms/status/2112904595995275554",
-        "https://x.com/takaichi_sanae/status/2112890642590564386",
-        "https://x.com/himanshustwts/status/2112909962313867667",
+        "https://x.com/i/article/2112920540138844160",
+        "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/nsacyber/status/2112903220209098897",
+        "https://x.com/takaichi_sanae/status/2112890642590564386",
+        "https://x.com/himanshustwts/status/2112909962313867667",
+        "https://x.com/gdb/status/2112921529650688312",
+        "https://x.com/sherlock_comms/status/2112904595995275554",
         "https://x.com/darkwebinformer/status/2112651353818329380",
         "https://x.com/h4x0r_dz/status/2112620404309184734",
-        "https://x.com/i/article/2112920540138844160",
-        "https://x.com/gdb/status/2112921529650688312",
-        "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "https://x.com/TheHackersNews/status/2112981939984671090",
+        "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+        "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+        "https://x.com/UjlakiMarci/status/2110476752958984605",
+        "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+        "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
         "https://socket.dev/blog/litellm-compromise",
         "https://x.com/SocketSecurity/status/2112907732877775016",
         "https://github.com/BerriAI/litellm/issues/47826",
@@ -116301,62 +116521,107 @@
         },
         {
           "href": "https://www.php.net/archive/2026.php",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/himanshustwts/status/2112909962313867667",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/openai/status/2112907856018309586",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/nsacyber/status/2112903220209098897",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/openai/status/2112907856018309586",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/nsacyber/status/2112903220209098897",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/himanshustwts/status/2112909962313867667",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/TheHackersNews/status/2112981939984671090",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "One crafted email can root Cisco's email security gateway",
           "section": "Security"
         },
         {
@@ -116555,6 +116820,7 @@
         "artcraft",
         "beam",
         "big-tech-moves",
+        "cisco",
         "claude-code",
         "clef",
         "codex",
@@ -116619,6 +116885,7 @@
         "artcraft",
         "beam",
         "big-tech-moves",
+        "cisco",
         "claude-code",
         "clef",
         "codex",
@@ -135520,22 +135787,85 @@
           "sourcePageTitle": "Sovereign AI Club - May 13, 2026"
         },
         {
-          "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "href": "https://www.php.net/archive/2026.php",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/i/article/2112920540138844160",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/openai/status/2112907856018309586",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/nsacyber/status/2112903220209098897",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/himanshustwts/status/2112909962313867667",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
@@ -136045,7 +136375,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 10, 2026"
         }
       ],
-      "bodyMarkdown": "# AI Governance\n\nAI Governance covers policy, evaluation, regulatory, and institutional control points that shape how frontier AI systems are tested, deployed, and accessed.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **After php2shell, Brockman floats remote patching by authorized defenders**, **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **OP or not**.\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Claude will watermark text globally for the EU AI Act**, and **Archiving open-source models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Trump advisers say open-weight models skip federal safety tests** and **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**.\n- [[Sovereign AI Club - July 22, 2026]]: **AI 2040 writes the optimistic branch on purpose**.\n- [[Sovereign AI Club - July 8, 2026]]: **Fable 5 comes back with government in the loop** and **China may hold frontier models at the border**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases** and **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane** and **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 13, 2026]]: **Frontier model testing gets a federal lane**, **AI resume screeners prefer AI-polished resumes**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **White House pushes a national AI framework** and **Tesla dodges AV regulation**.\n\n## Related\n\n- [[Agent Security]]\n- [[Compute Strategy]]\n- [[AI Benchmarks & Evals]]\n- [[Security]]\n- [[Big Tech Moves]]\n- [[Open Models]]\n- [[OpenAI]]\n- [[Palantir]]\n- [[Claude Fable/Mythos]]\n- [[HARC]]"
+      "bodyMarkdown": "# AI Governance\n\nAI Governance covers policy, evaluation, regulatory, and institutional control points that shape how frontier AI systems are tested, deployed, and accessed.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **OP or not**.\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Claude will watermark text globally for the EU AI Act**, and **Archiving open-source models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Trump advisers say open-weight models skip federal safety tests** and **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**.\n- [[Sovereign AI Club - July 22, 2026]]: **AI 2040 writes the optimistic branch on purpose**.\n- [[Sovereign AI Club - July 8, 2026]]: **Fable 5 comes back with government in the loop** and **China may hold frontier models at the border**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases** and **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane** and **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 13, 2026]]: **Frontier model testing gets a federal lane**, **AI resume screeners prefer AI-polished resumes**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **White House pushes a national AI framework** and **Tesla dodges AV regulation**.\n\n## Related\n\n- [[Agent Security]]\n- [[Compute Strategy]]\n- [[AI Benchmarks & Evals]]\n- [[Security]]\n- [[Big Tech Moves]]\n- [[Open Models]]\n- [[OpenAI]]\n- [[Palantir]]\n- [[Claude Fable/Mythos]]\n- [[HARC]]"
     },
     "ai-mathematics": {
       "id": "ai-mathematics",
@@ -145995,13 +146325,14 @@
         "open-source"
       ],
       "sources": [
+        "raw/articles/2026-10-21-link-records.md",
         "raw/articles/2026-07-22-link-records.md"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-07-22",
-      "updated": "2026-07-22",
+      "updated": "2026-10-21",
       "excerpt": "Cisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.",
       "rawHref": "/topics/entities/cisco.md",
       "relativePath": "entities/cisco.md",
@@ -146009,12 +146340,14 @@
         "antares",
         "open-models",
         "security",
-        "sovereign-ai-club-july-22-2026"
+        "sovereign-ai-club-july-22-2026",
+        "sovereign-ai-club-october-21-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
         "antares",
-        "sovereign-ai-club-july-22-2026"
+        "sovereign-ai-club-july-22-2026",
+        "sovereign-ai-club-october-21-2026"
       ],
       "referencedTopicSources": [
         {
@@ -146044,9 +146377,37 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-july-22-2026",
           "sourcePageTitle": "Sovereign AI Club - July 22, 2026"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         }
       ],
-      "bodyMarkdown": "# Cisco\n\nCisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.\n\n## Mentioned In\n\n- [[Sovereign AI Club - July 22, 2026]]: **Antares makes vulnerability localization small and local**.\n\n## Related\n\n- [[Antares]]\n- [[Security]]\n- [[Open Models]]"
+      "bodyMarkdown": "# Cisco\n\nCisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **One crafted email can root Cisco's email security gateway**.\n- [[Sovereign AI Club - July 22, 2026]]: **Antares makes vulnerability localization small and local**.\n\n## Related\n\n- [[Antares]]\n- [[Security]]\n- [[Open Models]]"
     },
     "claude-code": {
       "id": "claude-code",
@@ -207099,6 +207460,15 @@
         "https://x.com/i/article/2112920540138844160",
         "https://x.com/gdb/status/2112921529650688312",
         "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "https://x.com/TheHackersNews/status/2112981939984671090",
+        "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+        "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+        "https://x.com/UjlakiMarci/status/2110476752958984605",
+        "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+        "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
         "https://socket.dev/blog/litellm-compromise",
         "https://x.com/SocketSecurity/status/2112907732877775016",
         "https://github.com/BerriAI/litellm/issues/47826",
@@ -208365,6 +208735,51 @@
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
           "title": "Node.js October 21, 2026 security releases",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "title": "GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/TheHackersNews/status/2112981939984671090",
+          "title": "The Hacker News post",
+          "section": "Security"
+        },
+        {
+          "href": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+          "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+          "title": "GitLab Critical Patch Release: 19.4.2, 19.3.5, 19.2.8",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+          "title": "Rapid7 analysis of CVE-2026-97229",
+          "section": "Security"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "Cisco Secure Email Gateway Arbitrary File Write Vulnerability (cisco-sa-esa-afw-zqYJkjxp)",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "Marcell Ujlaki's post",
+          "section": "Security"
+        },
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "Cisco patches actively exploited Secure Email Gateway zero-day",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
           "section": "Security"
         },
         {
@@ -214792,22 +215207,85 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
-          "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "href": "https://www.php.net/archive/2026.php",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/i/article/2112920540138844160",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/openai/status/2112907856018309586",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/nsacyber/status/2112903220209098897",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/himanshustwts/status/2112909962313867667",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
@@ -214844,69 +215322,6 @@
           "href": "https://x.com/tomekkorbak/status/2108266859397283953",
           "title": "Jasmine Wang's account of her OpenAI firing",
           "section": "Big Tech Moves",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://www.php.net/archive/2026.php",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/himanshustwts/status/2112909962313867667",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/openai/status/2112907856018309586",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/nsacyber/status/2112903220209098897",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
@@ -215933,7 +216348,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# OpenAI\n\nOpenAI is a recurring Sovereign AI Club entity because its model releases, platform docs, policy choices, and safety tooling often shape what builders can test next. On August 26 it published the promised Hugging Face eval investigation: an internal Sol-scale research model (IM1) and GPT-5.6 Sol used hosted Artifactory as an unauthorized message board during ExploitGym, then compromised Hugging Face. OpenAI calls that a warning shot and says the Astra RL pause remains in force.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical RCEs are fixed only by updating**, **After php2shell, Brockman floats remote patching by authorized defenders**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Hacktron used Claude to break into OpenAI through an image library**, **Lab agents hit real systems, and not just in cyber evals**.\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI plans to end Cursor’s model supply**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Closed model releases**, **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, and **Jalapeño posts its first silicon results**.\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**, **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **OpenAI cuts GPT-5.6 Luna 80% and Terra 20%**.\n- [[Sovereign AI Club - July 22, 2026]]: **GPT-5.6 ships the multi-agent runtime, not just the model**, **OpenAI Presence productizes the agent contact center**, **Closed model releases**, **Models learn to please the grader, not the user**, **OpenAI's cyber eval breached Hugging Face**, **Apple says OpenAI's hardware team took trade secrets**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, **One API, many models becomes the frontier wrapper**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 27, 2026]]: **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **PII filters are becoming local model infrastructure**, **GPT-5.5-Cyber opens the trust gate**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI acquires TBPN**, **OpenAI pauses Stargate UK**, **Two attacks on Sam Altman's home in one week**, and **Microsoft ships in-house MAI models**.\n- [[Sovereign AI Club - April 1, 2026]]: **OpenAI closes new funding round**, **Sora app shutdown**, **Closed model releases**, and **OpenAI to acquire Astral**.\n- [[Sovereign AI Club - March 18, 2026]]: **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Closed model releases**, and **Claude Kill?**.\n\n## Related\n\n- [[Privacy Tooling]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[AI Governance]]\n- [[Compute Strategy]]\n- [[Codex]]\n- [[GPT-5.6]]\n- [[Astra]]\n- [[Jalapeno]]"
+      "bodyMarkdown": "# OpenAI\n\nOpenAI is a recurring Sovereign AI Club entity because its model releases, platform docs, policy choices, and safety tooling often shape what builders can test next. On August 26 it published the promised Hugging Face eval investigation: an internal Sol-scale research model (IM1) and GPT-5.6 Sol used hosted Artifactory as an unauthorized message board during ExploitGym, then compromised Hugging Face. OpenAI calls that a warning shot and says the Astra RL pause remains in force.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Hacktron used Claude to break into OpenAI through an image library**, **Lab agents hit real systems, and not just in cyber evals**.\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI plans to end Cursor’s model supply**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Closed model releases**, **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, and **Jalapeño posts its first silicon results**.\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**, **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **OpenAI cuts GPT-5.6 Luna 80% and Terra 20%**.\n- [[Sovereign AI Club - July 22, 2026]]: **GPT-5.6 ships the multi-agent runtime, not just the model**, **OpenAI Presence productizes the agent contact center**, **Closed model releases**, **Models learn to please the grader, not the user**, **OpenAI's cyber eval breached Hugging Face**, **Apple says OpenAI's hardware team took trade secrets**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, **One API, many models becomes the frontier wrapper**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 27, 2026]]: **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **PII filters are becoming local model infrastructure**, **GPT-5.5-Cyber opens the trust gate**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI acquires TBPN**, **OpenAI pauses Stargate UK**, **Two attacks on Sam Altman's home in one week**, and **Microsoft ships in-house MAI models**.\n- [[Sovereign AI Club - April 1, 2026]]: **OpenAI closes new funding round**, **Sora app shutdown**, **Closed model releases**, and **OpenAI to acquire Astral**.\n- [[Sovereign AI Club - March 18, 2026]]: **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Closed model releases**, and **Claude Kill?**.\n\n## Related\n\n- [[Privacy Tooling]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[AI Governance]]\n- [[Compute Strategy]]\n- [[Codex]]\n- [[GPT-5.6]]\n- [[Astra]]\n- [[Jalapeno]]"
     },
     "openai-presence": {
       "id": "openai-presence",
@@ -228346,84 +228761,147 @@
         },
         {
           "href": "https://www.php.net/archive/2026.php",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/himanshustwts/status/2112909962313867667",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/openai/status/2112907856018309586",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/nsacyber/status/2112903220209098897",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security",
-          "sourcePageId": "sovereign-ai-club-october-21-2026",
-          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
-        },
-        {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/openai/status/2112907856018309586",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/nsacyber/status/2112903220209098897",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/himanshustwts/status/2112909962313867667",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/TheHackersNews/status/2112981939984671090",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-october-21-2026",
+          "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "One crafted email can root Cisco's email security gateway",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-october-21-2026",
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
@@ -228954,7 +229432,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical RCEs are fixed only by updating**, **After php2shell, Brockman floats remote patching by authorized defenders**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     "september-30-2026-event-and-source-links": {
       "id": "september-30-2026-event-and-source-links",
@@ -244374,16 +244852,25 @@
         "https://x.com/_chenglou/status/2110557373651931267",
         "https://www.php.net/archive/2026.php",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-        "https://x.com/sherlock_comms/status/2112904595995275554",
-        "https://x.com/takaichi_sanae/status/2112890642590564386",
-        "https://x.com/himanshustwts/status/2112909962313867667",
+        "https://x.com/i/article/2112920540138844160",
+        "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/nsacyber/status/2112903220209098897",
+        "https://x.com/takaichi_sanae/status/2112890642590564386",
+        "https://x.com/himanshustwts/status/2112909962313867667",
+        "https://x.com/gdb/status/2112921529650688312",
+        "https://x.com/sherlock_comms/status/2112904595995275554",
         "https://x.com/darkwebinformer/status/2112651353818329380",
         "https://x.com/h4x0r_dz/status/2112620404309184734",
-        "https://x.com/i/article/2112920540138844160",
-        "https://x.com/gdb/status/2112921529650688312",
-        "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "https://x.com/TheHackersNews/status/2112981939984671090",
+        "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+        "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+        "https://x.com/UjlakiMarci/status/2110476752958984605",
+        "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+        "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
         "https://socket.dev/blog/litellm-compromise",
         "https://x.com/SocketSecurity/status/2112907732877775016",
         "https://github.com/BerriAI/litellm/issues/47826",
@@ -245539,62 +246026,107 @@
         },
         {
           "href": "https://www.php.net/archive/2026.php",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/himanshustwts/status/2112909962313867667",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/openai/status/2112907856018309586",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/nsacyber/status/2112903220209098897",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
-          "title": "PHP's two critical RCEs are fixed only by updating",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/openai/status/2112907856018309586",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/nsacyber/status/2112903220209098897",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/himanshustwts/status/2112909962313867667",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/sherlock_comms/status/2112904595995275554",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/darkwebinformer/status/2112651353818329380",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/TheHackersNews/status/2112981939984671090",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "One crafted email can root Cisco's email security gateway",
           "section": "Security"
         },
         {
@@ -245793,6 +246325,7 @@
         "artcraft",
         "beam",
         "big-tech-moves",
+        "cisco",
         "claude-code",
         "clef",
         "codex",
@@ -245857,6 +246390,7 @@
         "artcraft",
         "beam",
         "big-tech-moves",
+        "cisco",
         "claude-code",
         "clef",
         "codex",
@@ -260681,51 +261215,6 @@
       "searchText": "Specialized engines and recipes run Qwen and DeepSeek at home Models & Research Sovereign AI Club - October 21, 2026 2026-10-21 https://github.com/deepseek-ai/DeepInfer https://x.com/deepseek_ai/status/2112476496283775135 https://x.com/deepseek_ai/status/2112476498598957056 https://github.com/deepseek-ai/deepseek-recipe https://x.com/deepseek_ai/status/2112476501065286085 https://huggingface.co/vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-1.61bpw https://huggingface.co/vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-2.50bpw https://x.com/ViC305/status/2112934986773045498 https://huggingface.co/vcruz305/DSV4.1-Flash-1017-SAGE-EXL3-1.62bpw https://github.com/vcruz305/DSV4.1-Flash-1017-EXL3-Spark-recipe https://x.com/vic305/status/2112366415575720189 https://x.com/ViC305/status/2112603778327380088 https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF https://x.com/UnslothAI/status/2112212605930778830 https://unsloth.ai/docs/models/deepseek-v4.1-flash https://github.com/ggml-org/llama.cpp/pull/30817 https://github.com/Niko1221/Strata https://github.com/Niko1221/Strata/releases/tag/v0.2.2 https://github.com/Niko1221/Strata/blob/main/docs/HOW_IT_WORKS.md https://x.com/coldniko/status/2110090419384230113 https://x.com/geldeki/status/2112271460291182823 https://x.com/ashxhart/status/2103643602937114924 https://x.com/abheer/status/2108467733134483657 https://x.com/sethforprivacy/status/2107115577068183800 https://x.com/inco_ai/status/2101100749623341513 https://x.com/ddalcu/status/2092981370716864620 https://x.com/ddalcu/status/2111140460722819123 https://x.com/jianchen1799/status/2112677428531446006 https://x.com/jundotkim/status/2112837841227305159 https://x.com/ivanfioravanti/status/2112906852161798379 https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF https://x.com/mhelcig/status/2104885154741105070 https://github.com/Neroued/ninfer https://x.com/truffle/status/2094808184602935489 https://github.com/wallawalla47/infernix https://x.com/hfcorriez/status/2112373342284251383 https://github.com/gufo-org/gufo https://x.com/TeksEdge/status/2105145616821264492 https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF https://unsloth.ai/docs/models/qwen3.8-next https://x.com/UnslothAI/status/2092639558815060281 DeepSeek Gufo Inference Optimization Infernix Local AI Models & Research NInfer Open Models Qwen Strata Unsloth vLLM"
     },
     {
-      "id": "sovereign-ai-club-october-21-2026-security-after-php2shell-brockman-floats-remote-patching-by-authorized-defenders",
-      "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-      "rawTitle": "After php2shell, Brockman floats remote patching by authorized defenders",
-      "normalizedTitle": "after php2shell, brockman floats remote patching by authorized defenders",
-      "section": "Security",
-      "meetupId": "sovereign-ai-club-october-21-2026",
-      "meetupTitle": "Sovereign AI Club - October 21, 2026",
-      "meetupSlug": "2026-10-21",
-      "meetupHref": "/topics/2026-10-21.md",
-      "sourceLinks": [
-        "https://x.com/i/article/2112920540138844160",
-        "https://x.com/gdb/status/2112921529650688312",
-        "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
-      ],
-      "sourceReferences": [
-        {
-          "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security"
-        }
-      ],
-      "wikiIds": [
-        "ai-governance",
-        "openai",
-        "security"
-      ],
-      "wikiTitles": [
-        "AI Governance",
-        "OpenAI",
-        "Security"
-      ],
-      "unresolvedWikiLinks": [],
-      "searchText": "After php2shell, Brockman floats remote patching by authorized defenders Security Sovereign AI Club - October 21, 2026 2026-10-21 https://x.com/i/article/2112920540138844160 https://x.com/gdb/status/2112921529650688312 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases AI Governance OpenAI Security"
-    },
-    {
       "id": "sovereign-ai-club-october-21-2026-security-anthropics-iot-self-replication-eval",
       "title": "Anthropic's IoT self-replication eval",
       "rawTitle": "Anthropic's IoT self-replication eval",
@@ -260959,6 +261448,55 @@
       "searchText": "LiteLLM 1.107.0 wheels shipped a credential stealer Security Sovereign AI Club - October 21, 2026 2026-10-21 https://socket.dev/blog/litellm-compromise https://x.com/SocketSecurity/status/2112907732877775016 https://github.com/BerriAI/litellm/issues/47826 Security Socket Supply Chain Security"
     },
     {
+      "id": "sovereign-ai-club-october-21-2026-security-one-crafted-email-can-root-ciscos-email-security-gateway",
+      "title": "One crafted email can root Cisco's email security gateway",
+      "rawTitle": "One crafted email can root Cisco's email security gateway",
+      "normalizedTitle": "one crafted email can root cisco's email security gateway",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-october-21-2026",
+      "meetupTitle": "Sovereign AI Club - October 21, 2026",
+      "meetupSlug": "2026-10-21",
+      "meetupHref": "/topics/2026-10-21.md",
+      "sourceLinks": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+        "https://x.com/UjlakiMarci/status/2110476752958984605",
+        "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+        "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "cisco",
+        "security"
+      ],
+      "wikiTitles": [
+        "Cisco",
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "One crafted email can root Cisco's email security gateway Security Sovereign AI Club - October 21, 2026 2026-10-21 https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp https://x.com/UjlakiMarci/status/2110476752958984605 https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/ Cisco Security"
+    },
+    {
       "id": "sovereign-ai-club-october-21-2026-security-opencode-distillation-attack",
       "title": "OpenCode distillation attack",
       "rawTitle": "OpenCode distillation attack",
@@ -261018,10 +261556,10 @@
       "searchText": "OpenCode distillation attack Security Sovereign AI Club - October 21, 2026 2026-10-21 https://x.com/opencode/status/2111519637049319818 https://x.com/thdxr/status/2111528031072461114 https://x.com/thdxr/status/2111790511409258796 https://x.com/thdxr/status/2111831348336091179 https://x.com/DavidSacks/status/2111867605388493282 Agent Security Model Distillation OpenCode Security"
     },
     {
-      "id": "sovereign-ai-club-october-21-2026-security-phps-two-critical-rces-are-fixed-only-by-updating",
-      "title": "PHP's two critical RCEs are fixed only by updating",
-      "rawTitle": "PHP's two critical RCEs are fixed only by updating",
-      "normalizedTitle": "php's two critical rces are fixed only by updating",
+      "id": "sovereign-ai-club-october-21-2026-security-phps-two-critical-bugs-update-now-and-brockman-floats-remote-patching",
+      "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+      "rawTitle": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+      "normalizedTitle": "php's two critical bugs: update now, and brockman floats remote patching",
       "section": "Security",
       "meetupId": "sovereign-ai-club-october-21-2026",
       "meetupTitle": "Sovereign AI Club - October 21, 2026",
@@ -261030,71 +261568,91 @@
       "sourceLinks": [
         "https://www.php.net/archive/2026.php",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-        "https://x.com/sherlock_comms/status/2112904595995275554",
-        "https://x.com/takaichi_sanae/status/2112890642590564386",
-        "https://x.com/himanshustwts/status/2112909962313867667",
+        "https://x.com/i/article/2112920540138844160",
+        "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/nsacyber/status/2112903220209098897",
+        "https://x.com/takaichi_sanae/status/2112890642590564386",
+        "https://x.com/himanshustwts/status/2112909962313867667",
+        "https://x.com/gdb/status/2112921529650688312",
+        "https://x.com/sherlock_comms/status/2112904595995275554",
         "https://x.com/darkwebinformer/status/2112651353818329380",
         "https://x.com/h4x0r_dz/status/2112620404309184734"
       ],
       "sourceReferences": [
         {
+          "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://www.php.net/archive/2026.php",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/darkwebinformer/status/2112651353818329380",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/himanshustwts/status/2112909962313867667",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/i/article/2112920540138844160",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/nsacyber/status/2112903220209098897",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/openai/status/2112907856018309586",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/sherlock_comms/status/2112904595995275554",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         }
       ],
       "wikiIds": [
+        "ai-governance",
         "openai",
         "security"
       ],
       "wikiTitles": [
+        "AI Governance",
         "OpenAI",
         "Security"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "PHP's two critical RCEs are fixed only by updating Security Sovereign AI Club - October 21, 2026 2026-10-21 https://www.php.net/archive/2026.php https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ https://x.com/sherlock_comms/status/2112904595995275554 https://x.com/takaichi_sanae/status/2112890642590564386 https://x.com/himanshustwts/status/2112909962313867667 https://x.com/openai/status/2112907856018309586 https://x.com/nsacyber/status/2112903220209098897 https://x.com/darkwebinformer/status/2112651353818329380 https://x.com/h4x0r_dz/status/2112620404309184734 OpenAI Security"
+      "searchText": "PHP's two critical bugs: update now, and Brockman floats remote patching Security Sovereign AI Club - October 21, 2026 2026-10-21 https://www.php.net/archive/2026.php https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ https://x.com/i/article/2112920540138844160 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases https://x.com/openai/status/2112907856018309586 https://x.com/nsacyber/status/2112903220209098897 https://x.com/takaichi_sanae/status/2112890642590564386 https://x.com/himanshustwts/status/2112909962313867667 https://x.com/gdb/status/2112921529650688312 https://x.com/sherlock_comms/status/2112904595995275554 https://x.com/darkwebinformer/status/2112651353818329380 https://x.com/h4x0r_dz/status/2112620404309184734 AI Governance OpenAI Security"
     },
     {
       "id": "sovereign-ai-club-october-21-2026-security-projectdiscoverys-50-lora-backdoor",
@@ -261136,6 +261694,59 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "ProjectDiscovery's $50 LoRA backdoor Security Sovereign AI Club - October 21, 2026 2026-10-21 https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned https://x.com/lmoroney/status/2108071329790370027 Agent Security Qwen Security Supply Chain Security"
+    },
+    {
+      "id": "sovereign-ai-club-october-21-2026-security-self-hosted-gitlabs-critical-bug-reaches-back-to-2014",
+      "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+      "rawTitle": "Self-hosted GitLab's critical bug reaches back to 2014",
+      "normalizedTitle": "self-hosted gitlab's critical bug reaches back to 2014",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-october-21-2026",
+      "meetupTitle": "Sovereign AI Club - October 21, 2026",
+      "meetupSlug": "2026-10-21",
+      "meetupHref": "/topics/2026-10-21.md",
+      "sourceLinks": [
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "https://x.com/TheHackersNews/status/2112981939984671090",
+        "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+        "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/TheHackersNews/status/2112981939984671090",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "security"
+      ],
+      "wikiTitles": [
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Self-hosted GitLab's critical bug reaches back to 2014 Security Sovereign AI Club - October 21, 2026 2026-10-21 https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ https://x.com/TheHackersNews/status/2112981939984671090 https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/ https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/ Security"
     },
     {
       "id": "sovereign-ai-club-september-30-2026-topic-g3o10lht",
@@ -280599,51 +281210,6 @@
       "unresolvedWikiLinks": [],
       "searchText": "Specialized engines and recipes run Qwen and DeepSeek at home Models & Research Sovereign AI Club - October 21, 2026 2026-10-21 https://github.com/deepseek-ai/DeepInfer https://x.com/deepseek_ai/status/2112476496283775135 https://x.com/deepseek_ai/status/2112476498598957056 https://github.com/deepseek-ai/deepseek-recipe https://x.com/deepseek_ai/status/2112476501065286085 https://huggingface.co/vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-1.61bpw https://huggingface.co/vcruz305/DSV4.1-Flash-1017-DERISKED-EXL3-2.50bpw https://x.com/ViC305/status/2112934986773045498 https://huggingface.co/vcruz305/DSV4.1-Flash-1017-SAGE-EXL3-1.62bpw https://github.com/vcruz305/DSV4.1-Flash-1017-EXL3-Spark-recipe https://x.com/vic305/status/2112366415575720189 https://x.com/ViC305/status/2112603778327380088 https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF https://x.com/UnslothAI/status/2112212605930778830 https://unsloth.ai/docs/models/deepseek-v4.1-flash https://github.com/ggml-org/llama.cpp/pull/30817 https://github.com/Niko1221/Strata https://github.com/Niko1221/Strata/releases/tag/v0.2.2 https://github.com/Niko1221/Strata/blob/main/docs/HOW_IT_WORKS.md https://x.com/coldniko/status/2110090419384230113 https://x.com/geldeki/status/2112271460291182823 https://x.com/ashxhart/status/2103643602937114924 https://x.com/abheer/status/2108467733134483657 https://x.com/sethforprivacy/status/2107115577068183800 https://x.com/inco_ai/status/2101100749623341513 https://x.com/ddalcu/status/2092981370716864620 https://x.com/ddalcu/status/2111140460722819123 https://x.com/jianchen1799/status/2112677428531446006 https://x.com/jundotkim/status/2112837841227305159 https://x.com/ivanfioravanti/status/2112906852161798379 https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF https://x.com/mhelcig/status/2104885154741105070 https://github.com/Neroued/ninfer https://x.com/truffle/status/2094808184602935489 https://github.com/wallawalla47/infernix https://x.com/hfcorriez/status/2112373342284251383 https://github.com/gufo-org/gufo https://x.com/TeksEdge/status/2105145616821264492 https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF https://unsloth.ai/docs/models/qwen3.8-next https://x.com/UnslothAI/status/2092639558815060281 DeepSeek Gufo Inference Optimization Infernix Local AI Models & Research NInfer Open Models Qwen Strata Unsloth vLLM"
     },
-    "sovereign-ai-club-october-21-2026-security-after-php2shell-brockman-floats-remote-patching-by-authorized-defenders": {
-      "id": "sovereign-ai-club-october-21-2026-security-after-php2shell-brockman-floats-remote-patching-by-authorized-defenders",
-      "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-      "rawTitle": "After php2shell, Brockman floats remote patching by authorized defenders",
-      "normalizedTitle": "after php2shell, brockman floats remote patching by authorized defenders",
-      "section": "Security",
-      "meetupId": "sovereign-ai-club-october-21-2026",
-      "meetupTitle": "Sovereign AI Club - October 21, 2026",
-      "meetupSlug": "2026-10-21",
-      "meetupHref": "/topics/2026-10-21.md",
-      "sourceLinks": [
-        "https://x.com/i/article/2112920540138844160",
-        "https://x.com/gdb/status/2112921529650688312",
-        "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
-      ],
-      "sourceReferences": [
-        {
-          "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/gdb/status/2112921529650688312",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security"
-        },
-        {
-          "href": "https://x.com/i/article/2112920540138844160",
-          "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-          "section": "Security"
-        }
-      ],
-      "wikiIds": [
-        "ai-governance",
-        "openai",
-        "security"
-      ],
-      "wikiTitles": [
-        "AI Governance",
-        "OpenAI",
-        "Security"
-      ],
-      "unresolvedWikiLinks": [],
-      "searchText": "After php2shell, Brockman floats remote patching by authorized defenders Security Sovereign AI Club - October 21, 2026 2026-10-21 https://x.com/i/article/2112920540138844160 https://x.com/gdb/status/2112921529650688312 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases AI Governance OpenAI Security"
-    },
     "sovereign-ai-club-october-21-2026-security-anthropics-iot-self-replication-eval": {
       "id": "sovereign-ai-club-october-21-2026-security-anthropics-iot-self-replication-eval",
       "title": "Anthropic's IoT self-replication eval",
@@ -280877,6 +281443,55 @@
       "unresolvedWikiLinks": [],
       "searchText": "LiteLLM 1.107.0 wheels shipped a credential stealer Security Sovereign AI Club - October 21, 2026 2026-10-21 https://socket.dev/blog/litellm-compromise https://x.com/SocketSecurity/status/2112907732877775016 https://github.com/BerriAI/litellm/issues/47826 Security Socket Supply Chain Security"
     },
+    "sovereign-ai-club-october-21-2026-security-one-crafted-email-can-root-ciscos-email-security-gateway": {
+      "id": "sovereign-ai-club-october-21-2026-security-one-crafted-email-can-root-ciscos-email-security-gateway",
+      "title": "One crafted email can root Cisco's email security gateway",
+      "rawTitle": "One crafted email can root Cisco's email security gateway",
+      "normalizedTitle": "one crafted email can root cisco's email security gateway",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-october-21-2026",
+      "meetupTitle": "Sovereign AI Club - October 21, 2026",
+      "meetupSlug": "2026-10-21",
+      "meetupHref": "/topics/2026-10-21.md",
+      "sourceLinks": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+        "https://x.com/UjlakiMarci/status/2110476752958984605",
+        "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+        "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/UjlakiMarci/status/2110476752958984605",
+          "title": "One crafted email can root Cisco's email security gateway",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "cisco",
+        "security"
+      ],
+      "wikiTitles": [
+        "Cisco",
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "One crafted email can root Cisco's email security gateway Security Sovereign AI Club - October 21, 2026 2026-10-21 https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp https://x.com/UjlakiMarci/status/2110476752958984605 https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/ Cisco Security"
+    },
     "sovereign-ai-club-october-21-2026-security-opencode-distillation-attack": {
       "id": "sovereign-ai-club-october-21-2026-security-opencode-distillation-attack",
       "title": "OpenCode distillation attack",
@@ -280936,11 +281551,11 @@
       "unresolvedWikiLinks": [],
       "searchText": "OpenCode distillation attack Security Sovereign AI Club - October 21, 2026 2026-10-21 https://x.com/opencode/status/2111519637049319818 https://x.com/thdxr/status/2111528031072461114 https://x.com/thdxr/status/2111790511409258796 https://x.com/thdxr/status/2111831348336091179 https://x.com/DavidSacks/status/2111867605388493282 Agent Security Model Distillation OpenCode Security"
     },
-    "sovereign-ai-club-october-21-2026-security-phps-two-critical-rces-are-fixed-only-by-updating": {
-      "id": "sovereign-ai-club-october-21-2026-security-phps-two-critical-rces-are-fixed-only-by-updating",
-      "title": "PHP's two critical RCEs are fixed only by updating",
-      "rawTitle": "PHP's two critical RCEs are fixed only by updating",
-      "normalizedTitle": "php's two critical rces are fixed only by updating",
+    "sovereign-ai-club-october-21-2026-security-phps-two-critical-bugs-update-now-and-brockman-floats-remote-patching": {
+      "id": "sovereign-ai-club-october-21-2026-security-phps-two-critical-bugs-update-now-and-brockman-floats-remote-patching",
+      "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+      "rawTitle": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+      "normalizedTitle": "php's two critical bugs: update now, and brockman floats remote patching",
       "section": "Security",
       "meetupId": "sovereign-ai-club-october-21-2026",
       "meetupTitle": "Sovereign AI Club - October 21, 2026",
@@ -280949,71 +281564,91 @@
       "sourceLinks": [
         "https://www.php.net/archive/2026.php",
         "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-        "https://x.com/sherlock_comms/status/2112904595995275554",
-        "https://x.com/takaichi_sanae/status/2112890642590564386",
-        "https://x.com/himanshustwts/status/2112909962313867667",
+        "https://x.com/i/article/2112920540138844160",
+        "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
         "https://x.com/openai/status/2112907856018309586",
         "https://x.com/nsacyber/status/2112903220209098897",
+        "https://x.com/takaichi_sanae/status/2112890642590564386",
+        "https://x.com/himanshustwts/status/2112909962313867667",
+        "https://x.com/gdb/status/2112921529650688312",
+        "https://x.com/sherlock_comms/status/2112904595995275554",
         "https://x.com/darkwebinformer/status/2112651353818329380",
         "https://x.com/h4x0r_dz/status/2112620404309184734"
       ],
       "sourceReferences": [
         {
+          "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
           "href": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://www.php.net/archive/2026.php",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/darkwebinformer/status/2112651353818329380",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gdb/status/2112921529650688312",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/h4x0r_dz/status/2112620404309184734",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/himanshustwts/status/2112909962313867667",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/i/article/2112920540138844160",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/nsacyber/status/2112903220209098897",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/openai/status/2112907856018309586",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/sherlock_comms/status/2112904595995275554",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         },
         {
           "href": "https://x.com/takaichi_sanae/status/2112890642590564386",
-          "title": "PHP's two critical RCEs are fixed only by updating",
+          "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security"
         }
       ],
       "wikiIds": [
+        "ai-governance",
         "openai",
         "security"
       ],
       "wikiTitles": [
+        "AI Governance",
         "OpenAI",
         "Security"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "PHP's two critical RCEs are fixed only by updating Security Sovereign AI Club - October 21, 2026 2026-10-21 https://www.php.net/archive/2026.php https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ https://x.com/sherlock_comms/status/2112904595995275554 https://x.com/takaichi_sanae/status/2112890642590564386 https://x.com/himanshustwts/status/2112909962313867667 https://x.com/openai/status/2112907856018309586 https://x.com/nsacyber/status/2112903220209098897 https://x.com/darkwebinformer/status/2112651353818329380 https://x.com/h4x0r_dz/status/2112620404309184734 OpenAI Security"
+      "searchText": "PHP's two critical bugs: update now, and Brockman floats remote patching Security Sovereign AI Club - October 21, 2026 2026-10-21 https://www.php.net/archive/2026.php https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/ https://x.com/i/article/2112920540138844160 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases https://x.com/openai/status/2112907856018309586 https://x.com/nsacyber/status/2112903220209098897 https://x.com/takaichi_sanae/status/2112890642590564386 https://x.com/himanshustwts/status/2112909962313867667 https://x.com/gdb/status/2112921529650688312 https://x.com/sherlock_comms/status/2112904595995275554 https://x.com/darkwebinformer/status/2112651353818329380 https://x.com/h4x0r_dz/status/2112620404309184734 AI Governance OpenAI Security"
     },
     "sovereign-ai-club-october-21-2026-security-projectdiscoverys-50-lora-backdoor": {
       "id": "sovereign-ai-club-october-21-2026-security-projectdiscoverys-50-lora-backdoor",
@@ -281055,6 +281690,59 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "ProjectDiscovery's $50 LoRA backdoor Security Sovereign AI Club - October 21, 2026 2026-10-21 https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned https://x.com/lmoroney/status/2108071329790370027 Agent Security Qwen Security Supply Chain Security"
+    },
+    "sovereign-ai-club-october-21-2026-security-self-hosted-gitlabs-critical-bug-reaches-back-to-2014": {
+      "id": "sovereign-ai-club-october-21-2026-security-self-hosted-gitlabs-critical-bug-reaches-back-to-2014",
+      "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+      "rawTitle": "Self-hosted GitLab's critical bug reaches back to 2014",
+      "normalizedTitle": "self-hosted gitlab's critical bug reaches back to 2014",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-october-21-2026",
+      "meetupTitle": "Sovereign AI Club - October 21, 2026",
+      "meetupSlug": "2026-10-21",
+      "meetupHref": "/topics/2026-10-21.md",
+      "sourceLinks": [
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "https://x.com/TheHackersNews/status/2112981939984671090",
+        "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+        "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/TheHackersNews/status/2112981939984671090",
+          "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "security"
+      ],
+      "wikiTitles": [
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Self-hosted GitLab's critical bug reaches back to 2014 Security Sovereign AI Club - October 21, 2026 2026-10-21 https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ https://x.com/TheHackersNews/status/2112981939984671090 https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/ https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/ Security"
     },
     "sovereign-ai-club-september-30-2026-topic-g3o10lht": {
       "id": "sovereign-ai-club-september-30-2026-topic-g3o10lht",
@@ -299750,6 +300438,10 @@
     },
     {
       "source": "cisco",
+      "target": "sovereign-ai-club-october-21-2026"
+    },
+    {
+      "source": "cisco",
       "target": "sovereign-ai-club-july-22-2026"
     },
     {
@@ -306757,6 +307449,10 @@
       "target": "mellum"
     },
     {
+      "source": "sovereign-ai-club-october-21-2026",
+      "target": "cisco"
+    },
+    {
       "source": "sovereign-ai-club-september-30-2026",
       "target": "ben-carman"
     },
@@ -308331,8 +309027,8 @@
           "security",
           "open-source"
         ],
-        "degree": 6,
-        "updated": "2026-07-22"
+        "degree": 8,
+        "updated": "2026-10-21"
       },
       {
         "id": "claude-code",
@@ -310209,7 +310905,7 @@
           "meetup",
           "topic-board"
         ],
-        "degree": 123,
+        "degree": 125,
         "updated": "2026-10-21"
       },
       {
@@ -312353,6 +313049,11 @@
         "source": "christopher-david",
         "target": "agent-infrastructure",
         "kind": "wiki"
+      },
+      {
+        "source": "cisco",
+        "target": "sovereign-ai-club-october-21-2026",
+        "kind": "topic"
       },
       {
         "source": "cisco",
@@ -321115,6 +321816,11 @@
         "kind": "topic"
       },
       {
+        "source": "sovereign-ai-club-october-21-2026",
+        "target": "cisco",
+        "kind": "topic"
+      },
+      {
         "source": "sovereign-ai-club-september-30-2026",
         "target": "ben-carman",
         "kind": "topic"
@@ -322523,11 +323229,11 @@
   },
   "stats": {
     "pageCount": 212,
-    "topicCount": 321,
+    "topicCount": 322,
     "rawPageCount": 0,
-    "linkCount": 2391,
+    "linkCount": 2393,
     "sourceRecordCount": 14,
-    "sourceLinkCount": 1731,
+    "sourceLinkCount": 1740,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-10-21"
   }

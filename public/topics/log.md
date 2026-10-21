@@ -2,6 +2,18 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-10-21] curate | October 21 Cisco CVE-2026-76519
+
+- Added **One crafted email can root Cisco's email security gateway** to Security after the GitLab topic, from Marcell Ujlaki's October 14 post. Cisco's advisory says one email with a crafted attachment can give an attacker root through the gateway's malware-protection feature, Cisco knew of attacks in October, and there's no workaround. The fix is a Content Scanner Tools update that needs no restart. It's the third exploited zero-day in this gateway in about a year. Ujlaki's post quotes BleepingComputer's September story about the earlier bug, which the notes and link records flag. Linked it from Cisco and Security.
+
+## [2026-10-21] curate | October 21 GitLab CVE-2026-110264
+
+- Added **Self-hosted GitLab's critical bug reaches back to 2014** to Security after the PHP topic, from The Hacker News post. GitLab's October 21 advisory says a no-login code-execution bug in its regex compiler affects every self-managed version from 7.0, and the October 12 fix does not cover it. GitLab's own advisories credit joaxcar with four regex-engine bugs since September 23. Rapid7's working exploit is for the October 12 bug and stays unlinked from the spoken line. The "no sign of attacks" line is The Hacker News's, so it stays in the notes. Linked it from Security and added GitLab to the host timeline.
+
+## [2026-10-21] update | October 21 PHP and Brockman merged
+
+- Merged **PHP's two critical RCEs are fixed only by updating** and **After php2shell, Brockman floats remote patching by authorized defenders** into **PHP's two critical bugs: update now, and Brockman floats remote patching**. The spoken line now says in plain words what the bugs do, which versions fix them, what to do if you can't update, and Brockman's remote-patching idea. CVE numbers, finder credits, scores, Brockman's timeline and model-access lines, and the Node.js note moved to the presenter notes. Embeds now run from the OpenAI announcement and the guidance to Brockman, with the pre-patch posts last. Updated OpenAI, Security, and AI Governance.
+
 ## [2026-10-21] update | October 21 three more engine demos
 
 - Added three show-off posts to **Specialized engines and recipes run Qwen and DeepSeek at home**: Jian Chen's Splash 1.4.0, Jun Kim's oMLX 0.7.2, and Ivan Fioravanti's DwarfStar podracer. Gufo, NInfer, and Infernix stay on the bench posts already embedded. Speeds stay in the notes.

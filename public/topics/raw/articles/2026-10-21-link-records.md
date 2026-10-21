@@ -540,7 +540,7 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
 
 ## Security
 
-### PHP's two critical RCEs are fixed only by updating
+### PHP's two critical bugs: update now, and Brockman floats remote patching
 
 - **PHP security advisory, 21 October 2026** — https://www.php.net/archive/2026.php
   Type: vendor advisory. Accessed: 2026-10-21. PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35 fix CVE-2026-109618 and CVE-2026-109619, which PHP says allow unauthenticated remote code execution. Highest risk is mod_php. PHP 8.1 and older are out of project support; minimal source backports exist for 7.4, 8.0, and 8.1. PHP says there are no complete mitigations. The October 20 advance notice set the release for October 21 at 14:00 UTC and rated both bugs 9.2 on CVSS v4.0. The advisory says Linux distributions and LTS vendors got the patches in advance.
@@ -560,15 +560,36 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: X post. Accessed: 2026-10-21. Posted before the fixes. Says researchers called both bugs remote code execution at CVSS v4 9.2, and that PHP had not yet confirmed versions.
 - **h4x0r_dz on the PHP CVEs** — https://x.com/h4x0r_dz/status/2112620404309184734
   Type: X post. Accessed: 2026-10-21. Calls both CVEs remote code execution with a CVSS score of 10.0 and links a Hacker News thread. The board does not use 10.0 as PHP's score.
-
-### After php2shell, Brockman floats remote patching by authorized defenders
-
 - **Towards securing the internet** — https://x.com/i/article/2112920540138844160
   Type: X article. Accessed: 2026-10-21. October 21. Greg Brockman's essay. Names the PHP bug php2shell and says it sat in PHP for 14 years, with a limited version found in 2024. Says Calif found a version with GPT-5.6 Sol in August and OpenAI found a more complete version in September; the target release was October 22 and moved to October 21 after details leaked. Calls the coalition work slow and manual and says that won't scale. Floats authorized defenders, such as government, scanning the internet for vulnerable hosts and notifying them or, in extreme cases, patching them remotely. Says defenders need stronger models than attackers and calls always having the most capable cyber models a national priority. Points to $1B in credits for frontline defenders committed September 3 and to Daybreak. Does not mention open weights or say who would authorize remote patching.
 - **Greg Brockman's post** — https://x.com/gdb/status/2112921529650688312
   Type: X post. Accessed: 2026-10-21. Submitted post sharing the essay. Calls php2shell one of the most severe open-source bugs in recent memory and says OpenAI led the coalition for two months.
 - **Node.js October 21, 2026 security releases** — https://nodejs.org/en/blog/vulnerability/october-2026-security-releases
   Type: vendor advisory. Accessed: 2026-10-21. Fixed in 22.23.4, 24.22.1, and 26.12.1. Ten CVEs, highest High, including CVE-2026-111497, a Brotli decoder out-of-bounds write that permits remote code execution. The advisory does not mention OpenAI; Brockman's essay says OpenAI worked on a Node.js RCE announced today.
+
+### Self-hosted GitLab's critical bug reaches back to 2014
+
+- **GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13** — https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/
+  Type: vendor advisory. Accessed: 2026-10-21. October 21. CVE-2026-110264, CVSS 10.0: under certain conditions an unauthenticated user could run arbitrary code on the server through an integer overflow when compiling a crafted regular expression. Affects all versions from 7.0 before 18.11.13, plus 19.0 before 19.0.10, 19.1 before 19.1.9, 19.2 before 19.2.9, 19.3 before 19.3.6, 19.4 before 19.4.3, and 19.5 before 19.5.1; the four older branches are backports on top of the standard releases. Credits joaxcar through HackerOne. GitLab.com is patched; Dedicated tenants on 19.3.5-internal0 and 19.4.2-internal0 or later are covered. Lists two detections for self-managed admins and 12 security fixes in all. 19.4.3 and 19.3.6 include migrations that cause downtime on single-node instances. Does not name preconditions, offer a workaround, or say whether the bug has been exploited.
+- **The Hacker News post** — https://x.com/TheHackersNews/status/2112981939984671090
+  Type: X post. Accessed: 2026-10-21. Submitted post. Posted 18:58 UTC October 21. Calls it a CVSS 10.0 GitLab flaw across 12 years of releases that could allow unauthenticated remote code execution on self-managed servers.
+- **Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases** — https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html
+  Type: news article. Accessed: 2026-10-21. October 21. Says the bug is in Onigmo, Ruby's regex engine, which GitLab ships and patches in its own builds, so it reaches every release since 7.0, and that instances patched October 12 are in range again. Says this is joaxcar's fourth code-execution bug in GitLab's regex engine in a month and the first to reach before 19.2. Says GitLab reports no sign of attacks and the bug is not in CISA's known-exploited catalog; the GitLab advisory does not say either. Its count of 11 security issues differs from the 12 the advisory lists.
+- **GitLab Critical Patch Release: 19.4.2, 19.3.5, 19.2.8** — https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+  Type: vendor advisory. Accessed: 2026-10-21. October 12. CVE-2026-97229, CVSS 10.0, an unauthenticated code-execution bug through a crafted regular expression in a CI/CD configuration, affecting 19.2 through 19.4 only. Credits joaxcar. The September 23 release, 19.4.1, credits joaxcar for two more regex bugs, CVE-2026-93577 and CVE-2026-89078, both 9.9 and both needing an authenticated user.
+- **Rapid7 analysis of CVE-2026-97229** — https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/
+  Type: security research blog. Accessed: 2026-10-21. October 16. Technical analysis of the October 12 bug with a public end-to-end proof of concept that Rapid7 says runs commands as GitLab's git account on 19.4.1. Does not cover CVE-2026-110264. The board does not link the exploit code.
+
+### One crafted email can root Cisco's email security gateway
+
+- **Cisco Secure Email Gateway Arbitrary File Write Vulnerability (cisco-sa-esa-afw-zqYJkjxp)** — https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp
+  Type: vendor advisory. Accessed: 2026-10-21. First published October 14, 16:00 GMT. CVE-2026-76519, CVSS 9.8, CWE-23. An unauthenticated remote attacker can send an email with a crafted attachment through an affected gateway to write files and run commands as root, through improper attachment handling in Advanced Malware Protection's file reputation service. Affects physical and virtual Secure Email Gateways with File Reputation enabled and assigned to a mail policy and Content Scanner Tools earlier than 25.3.0.5525; Secure Email and Web Manager and Secure Web Appliance are not affected. First fixed AsyncOS releases are 15.5.5-014 and 16.5.0-780, with 16.0 told to migrate; Content Scanner Tools 25.3.0.5525 and later carry the fix without an upgrade or restart. No workarounds. Cisco PSIRT became aware of active exploitation in October 2026; the bug was found during internal security scanning. Warns that root access lets attackers hide evidence and that cluster SSH keys can be taken from a compromised member. Cisco contacted Secure Email Cloud customers where it found indicators of possible compromise.
+- **Marcell Ujlaki's post** — https://x.com/UjlakiMarci/status/2110476752958984605
+  Type: X post. Accessed: 2026-10-21. Submitted post. Posted October 14. Says Cisco patched CVE-2026-76519, an actively exploited zero-day that lets unauthenticated attackers write files and run commands as root via path traversal in AMP attachment handling. It quotes BleepingComputer's September 15 post about the earlier zero-day, CVE-2026-76461, not the October story.
+- **Cisco patches actively exploited Secure Email Gateway zero-day** — https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day
+  Type: news article. Accessed: 2026-10-21. October 14, Sergiu Gatlan. Says Shadowserver tracks nearly 300 Secure Email Gateway instances exposed online, with no count of honeypots or ones already secured. Recaps last month's actively exploited email-parsing zero-day and CVE-2025-20393, a maximum-severity AsyncOS flaw exploited since November 2025 and patched in January. Names no attacker.
+- **CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products** — https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/
+  Type: news article. Accessed: 2026-10-21. October 15. Says CISA added CVE-2026-76519 to its Known Exploited Vulnerabilities catalog on evidence of active exploitation and gave federal agencies until October 17.
 
 ### LiteLLM 1.107.0 wheels shipped a credential stealer
 

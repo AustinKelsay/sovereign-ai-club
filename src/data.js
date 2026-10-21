@@ -84,7 +84,7 @@ export const meetups = [
           "Focus: local AI, open models, and control over the tools we use.",
           "Bring a question, a project, or a demo for the Community Slot."
         ],
-        "hostNote": "5:30 welcome; 5:40 games, ArtCraft, and REA; 5:55 harness scores, harness RL, and flow-1; 6:10 Prime, Rosalind's swarm, Pi, tunnels, and agent networks; 6:25 bring-your-own computers, EAGLE-4, and Perplexity; 6:40 release feeds, Bark, and desk-run recipes; 6:55 math and readable nets; 7:05 PHP, LiteLLM, eMudhra, then the rest of security; 7:15 export rules, the DeepSeek order, and OpenAI; 7:25 Community Slot; 7:30 finish. Attribute maker numbers, and do not walk through exploit payloads."
+        "hostNote": "5:30 welcome; 5:40 games, ArtCraft, and REA; 5:55 harness scores, harness RL, and flow-1; 6:10 Prime, Rosalind's swarm, Pi, tunnels, and agent networks; 6:25 bring-your-own computers, EAGLE-4, and Perplexity; 6:40 release feeds, Bark, and desk-run recipes; 6:55 math and readable nets; 7:05 PHP, GitLab, Cisco, LiteLLM, eMudhra, then the rest of security; 7:15 export rules, the DeepSeek order, and OpenAI; 7:25 Community Slot; 7:30 finish. Attribute maker numbers, and do not walk through exploit payloads."
       },
       "showcases": [],
       "tracks": [
@@ -774,16 +774,22 @@ export const meetups = [
           "title": "Security",
           "items": [
             {
-              "title": "PHP's two critical RCEs are fixed only by updating",
-              "description": "PHP shipped 8.5.12, 8.4.27, 8.3.36, and 8.2.35 today for two critical unauthenticated remote-code bugs, CVE-2026-109618 and CVE-2026-109619, and says updating is the only safe choice. Prime Minister Sanae Takaichi posted that the fix would land at 11 p.m. Japan time, and said taking a site offline is one way to cut the risk if you cannot patch quickly.",
+              "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
+              "description": "PHP fixed two critical bugs today that let an attacker run their own code on a PHP server without logging in. PHP says updating to 8.5.12, 8.4.27, 8.3.36, or 8.2.35 is the only complete fix, and NSA and Japan's prime minister both suggest taking a site offline if you can't update quickly. OpenAI says GPT-5.6 Sol helped find one of the bugs, and OpenAI's Greg Brockman says the two-month effort to fix them was too slow and manual to scale. He floats letting authorized defenders, such as governments, find unpatched servers and, in extreme cases, patch them remotely.",
               "href": "https://www.php.net/archive/2026.php",
               "linkPair": [
-                "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+                "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+                "https://x.com/i/article/2112920540138844160",
+                "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
               ],
               "embeds": [
                 {
                   "type": "tweet",
-                  "href": "https://x.com/sherlock_comms/status/2112904595995275554"
+                  "href": "https://x.com/openai/status/2112907856018309586"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/nsacyber/status/2112903220209098897"
                 },
                 {
                   "type": "tweet",
@@ -795,11 +801,11 @@ export const meetups = [
                 },
                 {
                   "type": "tweet",
-                  "href": "https://x.com/openai/status/2112907856018309586"
+                  "href": "https://x.com/gdb/status/2112921529650688312"
                 },
                 {
                   "type": "tweet",
-                  "href": "https://x.com/nsacyber/status/2112903220209098897"
+                  "href": "https://x.com/sherlock_comms/status/2112904595995275554"
                 },
                 {
                   "type": "tweet",
@@ -810,23 +816,41 @@ export const meetups = [
                   "href": "https://x.com/h4x0r_dz/status/2112620404309184734"
                 }
               ],
-              "notes": "Don't walk through either bug. PHP says the risk is highest for mod_php, and 8.1 and older need a vendor backport or the minimal source backports they posted. OpenAI says Calif found one with GPT-5.6 Sol and Wiz found both; NSA Cyber also says take systems offline if you cannot update. A viral post called the score 10.0; PHP's October 20 notice says 9.2 on CVSS 4.0. @sherlock_comms has the plain-English version, but he posted at 13:51 UTC, nine minutes before PHP's pre-announced 14:00 UTC release, so his \"no official solution\" line is out of date. His 70% of websites is OpenAI's estimate, from its post; OpenAI's essay does not repeat it. Takaichi's account says some posts during her premiership are written by staff. She pointed people at @cyber_forecast.",
+              "notes": "Don't walk through either bug. The bugs: CVE-2026-109618 and CVE-2026-109619. PHP says the risk is highest for mod_php, and 8.1 and older are out of support, so they need a vendor backport or the minimal source backports PHP posted. PHP's October 20 notice scores both 9.2 on CVSS 4.0; a viral post said 10.0. Who found them: OpenAI says Calif found one with GPT-5.6 Sol and Wiz independently found both. Brockman's version, from his October 21 essay \"Towards securing the internet,\" calls the bug php2shell: Calif found a version in August, OpenAI a fuller one in September, and the October 22 release moved up a day after details leaked. He doesn't say who would authorize remote patching, and he doesn't mention open weights. He also says defenders need stronger models than attackers and calls always having the most capable cyber models a national priority; for access he points to Daybreak and the $1B in credits OpenAI committed September 3. He says OpenAI also worked on a Node.js RCE announced today; Node's October 21 advisory has a High Brotli RCE, CVE-2026-111497, and doesn't mention OpenAI. @sherlock_comms has the plain-English explainer, but he posted nine minutes before the 14:00 UTC release, so his \"no official solution\" line is out of date. His 70% of websites is OpenAI's estimate from its post; OpenAI's essay doesn't repeat it. Prime Minister Sanae Takaichi's account says staff write some of her posts, and she pointed people at @cyber_forecast.",
               "topStory": true
             },
             {
-              "title": "After php2shell, Brockman floats remote patching by authorized defenders",
-              "description": "OpenAI's Greg Brockman says the two-month effort to fix php2shell, his name for the PHP bug, was too slow and manual to scale, and floats authorized defenders, such as governments, scanning the internet for vulnerable hosts and, in extreme cases, patching them remotely. He also says defenders need stronger models than attackers, and calls always having the most capable cyber models a national priority.",
-              "href": "https://x.com/i/article/2112920540138844160",
+              "title": "Self-hosted GitLab's critical bug reaches back to 2014",
+              "description": "GitLab fixed a critical bug today that lets an attacker run their own code on a self-hosted GitLab server without logging in, and it reaches every version back to 7.0, from 2014. If you patched on October 12, you still need this update: 19.5.1, 19.4.3, or 19.3.6, with backports down to 18.11.13 for older servers. GitLab.com is already fixed, and this is the fourth bug in GitLab's regex engine that the same researcher, joaxcar, has reported in a month.",
+              "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
               "linkPair": [
-                "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+                "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+                "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/",
+                "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229/"
               ],
               "embeds": [
                 {
                   "type": "tweet",
-                  "href": "https://x.com/gdb/status/2112921529650688312"
+                  "href": "https://x.com/TheHackersNews/status/2112981939984671090"
                 }
               ],
-              "notes": "From his October 21 essay on X, \"Towards securing the internet.\" He doesn't say who would authorize remote patching, and he doesn't mention open weights. His timeline: Calif found a version with GPT-5.6 Sol in August, OpenAI found a fuller one in September, and the October 22 release moved up a day after details leaked. OpenAI's disclosure post credits Wiz with finding both bugs independently. He says OpenAI also worked on a Node.js RCE announced today; Node's October 21 advisory has a High Brotli RCE, CVE-2026-111497, and doesn't mention OpenAI. For access he points to Daybreak for trusted defenders and $1B in credits OpenAI committed September 3."
+              "notes": "Don't walk through the bug or point people at exploit code. It's CVE-2026-110264, CVSS 10.0. GitLab hasn't said what conditions an attacker needs and gives no workaround, so updating is the only fix. The bug is in Onigmo, the Ruby regex engine GitLab ships in its own packages, which is why it reaches back to 7.0. The October 12 fix, CVE-2026-97229, covered only 19.2 and later, and today's fixed versions are one patch above it. GitLab backported to 19.2.9, 19.1.9, 19.0.10, and 18.11.13 on top of its standard releases. joaxcar's other three: two 9.9s on September 23 that needed a logged-in account, and the no-login 10.0 on October 12. Rapid7 published a working exploit on October 16 for the October 12 bug, not this one. The Hacker News says GitLab reports no sign of attacks; GitLab's advisory doesn't say either way. 19.4.3 and 19.3.6 run database migrations, so a single-node server is down during the upgrade. GitLab Dedicated tenants on 19.3.5-internal0 or 19.4.2-internal0 and later are covered. GitLab published two detection rules for self-managed admins. The same release fixes 11 other issues, including two Highs: an account takeover when SAML and LDAP auto-linking are both on, and an OAuth/OIDC cache-poisoning bug."
+            },
+            {
+              "title": "One crafted email can root Cisco's email security gateway",
+              "description": "Cisco patched a bug in its Secure Email Gateway on October 14 that attackers were already using: one email with a crafted attachment can give them root on the appliance, through the malware-protection feature meant to screen attachments. It needs File Reputation turned on, the fix is a Content Scanner Tools update that needs no restart, and this is the third exploited zero-day in this gateway in about a year.",
+              "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
+              "linkPair": [
+                "https://bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day",
+                "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/UjlakiMarci/status/2110476752958984605"
+                }
+              ],
+              "notes": "Don't walk through the bug. It's CVE-2026-76519, CVSS 9.8, a path traversal in Advanced Malware Protection. A gateway is exposed only if File Reputation is enabled and assigned to a mail policy and Content Scanner Tools is older than 25.3.0.5525. The fix is Content Scanner Tools 25.3.0.5525 or later, which arrives on its own if automatic updates are on, or AsyncOS 15.5.5-014 or 16.5.0-780; 16.0 has to migrate. There's no workaround. Cisco says it found the bug in internal scanning and learned of attacks in October; it hasn't named the attackers or said how many devices. Cisco warns that root lets attackers hide their tracks, so check firewall logs off the box, and a compromised cluster member can leak the SSH keys for the others. Cisco contacted Secure Email Cloud customers where it saw signs of compromise. CISA gave federal agencies until October 17. BleepingComputer says Shadowserver sees nearly 300 exposed gateways, with no count of honeypots or ones already secured. The earlier two: CVE-2026-76461 in September, an email-parsing bug, and CVE-2025-20393, attacked from November 2025 and patched in January. Ujlaki's post is about this October bug, but the BleepingComputer story it quotes is the September one."
             },
             {
               "title": "LiteLLM 1.107.0 wheels shipped a credential stealer",
