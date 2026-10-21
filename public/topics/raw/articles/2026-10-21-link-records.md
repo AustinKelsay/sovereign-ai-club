@@ -455,6 +455,8 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: X post. Accessed: 2026-10-20. Same-day follow-up. Cruz reports 332 of 353 on a matched nine-suite subset at temperature 0 and strict pass@1, against JJ New at 2.8 bits on two Sparks (318/353) and MiaLab at 2.9 bits on two Sparks (312/353). He counts five wins, three ties, and a loss on a multi-step tool chain, 5/6 to 6/6. He also reports a 518,103-token retrieval that found one planted fact, with about 470 seconds to the first token. REXL3 speed figures in the same post are a different unreleased engine. He says the set is not a public leaderboard.
 - **unsloth/DeepSeek-V4.1-Flash-1017-GGUF** — https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF
   Type: model card. Accessed: 2026-10-21. MIT Dynamic GGUFs of the same V4.1-Flash-1017 checkpoint. The card says the smallest 1-bit build needs 128 GB or more of RAM and tells you to use Unsloth's llama.cpp pull or Unsloth Desktop.
+- **Unsloth on DeepSeek V4.1-Flash locally** — https://x.com/UnslothAI/status/2112212605930778830
+  Type: X post. Accessed: 2026-10-21. October 19. Unsloth says the 1-bit pack keeps about 88.2% accuracy and shrinks the checkpoint from 508 GB to 250 GB, for a machine with 128 GB of RAM or more. They also call V4.1-Flash the strongest open model. That ranking is theirs.
 - **Run DeepSeek-V4.1-Flash locally** — https://unsloth.ai/docs/models/deepseek-v4.1-flash
   Type: official guide. Accessed: 2026-10-21. Unsloth's table: UD-IQ1_M is 250.4 GB with 88.2% top-1 on their long17k set, against their reading of the original DeepSeek checkpoint. UD-IQ1_S is the pack they say fits a 128 GB machine when the Engram table stays on SSD. The guide's build checks out llama.cpp pull 30817. The 3x speed line is Unsloth's comparison with other CPU, VRAM, and n-gram repos.
 - **llama.cpp pull 30817** — https://github.com/ggml-org/llama.cpp/pull/30817
@@ -467,18 +469,48 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
   Type: documentation. Accessed: 2026-10-21. Says the GPU keeps the experts asked most often, RAM holds the rest, and the CPU works an expert the card does not have while the GPU continues.
 - **Niko Veit on Strata** — https://x.com/coldniko/status/2110090419384230113
   Type: X post. Accessed: 2026-10-21. October 13. Display name Niko Veit. Says Apple Silicon, NVFP4, and Unsloth's UD-Q4 through UD-Q8 packs are in. Earlier speed lines, including 70 tokens a second on old DDR3 machines, are his and stay off the spoken line.
+- **Geldeki's Strata pagoda** — https://x.com/geldeki/status/2112271460291182823
+  Type: X post. Accessed: 2026-10-21. October 19. A video of a pagoda garden built in one HTML file on Strata 0.2.0-beta, Qwen3.8-Flash-Next IQ3_S, two RTX 3090s and 64 GB of RAM.
+- **Ash Hart launches TensorFold** — https://x.com/ashxhart/status/2103643602937114924
+  Type: X post. Accessed: 2026-10-21. September 26. TensorFold's author. He says Qwen 3.8 27B MLX 4-bit runs at 120–124 tokens a second. That figure is his. The same engine is the subject of the M5 Ultra slide.
+- **Abheer runs TensorFold** — https://x.com/abheer/status/2108467733134483657
+  Type: X post. Accessed: 2026-10-21. October 9. A video of Qwen3.8-Flash-Next running on TensorFold. Inception is his affiliation. The speed in the clip is his.
+- **Seth For Privacy's TensorFold charts** — https://x.com/sethforprivacy/status/2107115577068183800
+  Type: X post. Accessed: 2026-10-21. October 5. Photos of his TensorFold versus oMLX runs on one M5 Ultra Studio. Already the source of the TensorFold slide. Embedded here as the chart someone can see.
+- **Inco launches Splash** — https://x.com/inco_ai/status/2101100749623341513
+  Type: X post. Accessed: 2026-10-21. September 19. The Splash launch video. Inco says 144 tokens a second for Qwen3.8-27B on an M5 Max, and up to 3× Ollama and 2× oMLX. Those multiples are Inco's. The September 30 board already has this post, and Inco's own table there is 74 tokens a second on an M5 Pro.
+- **Dalcu runs Flash-Next on mlx-serve** — https://x.com/ddalcu/status/2092981370716864620
+  Type: X post. Accessed: 2026-10-21. August 27. A video. David Dalcu says Qwen3.8-Flash-Next runs in mlx-serve on Apple silicon, about 70 tokens a second serial on an M4 Max 4-bit pack, about 98 with MTP. His preview numbers.
+- **Dalcu's eight agents on one mlx-serve** — https://x.com/ddalcu/status/2111140460722819123
+  Type: X post. Accessed: 2026-10-21. October 16. A video of six agents on the GPU and two on the Apple Neural Engine, one mlx-serve process. He says dense Qwen only, for now.
+- **Jian Chen ships Splash 1.4.0** — https://x.com/jianchen1799/status/2112677428531446006
+  Type: X post. Accessed: 2026-10-21. October 20. Inco. Qwen3.8-Flash-Next on an M5 Pro with 64 GB: up to 120 tokens a second decode and 1,300 prefill at 32K. He says that is over 30% faster than Strata, and that context goes to 1M. Those comparisons are his. This is the current Splash post. The September 19 launch video is the older one.
+- **Jun Kim ships oMLX 0.7.2** — https://x.com/jundotkim/status/2112837841227305159
+  Type: X post. Accessed: 2026-10-21. October 21. Two photos. oMLX 0.7.2, a day after 0.7.1. He says DeepSeek V4.1 oQ3e with Lightning MTP goes from 49.4 to 68.2 tokens a second decode, and 700 to 949 prefill. He also says Qwen3.8-Flash-Next GGUFs run on Splash 1.4.0. The speeds are his.
+- **Ivan Fioravanti's DwarfStar podrace** — https://x.com/ivanfioravanti/status/2112906852161798379
+  Type: X post. Accessed: 2026-10-21. October 21. A video of a Star Wars podracer built locally with DwarfStar, DeepSeek V4.1-Flash-1017 Q4, and DeepSeek Harness, on two M3 Ultras. He says it can run on one. His stats: about 43 tokens a second, about 10 hours, 7 turns, about 65 million tokens, context about 497K of 1M. DwarfStar's September 9 board entry was GLM-5.3 support. This is a new demo.
 - **ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF** — https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF
   Type: model card. Accessed: 2026-10-21. Non-uniform GGUFs from ISTA-DASLab, one of the compressors Strata's README names. Included as the recipe family, not as a spoken score. Bartowski imatrix packs, Mirai's Strata conversions, and abliterated variants stay off this slide.
+- **Michael Helcig on GSQ-RCO** — https://x.com/mhelcig/status/2104885154741105070
+  Type: X post. Accessed: 2026-10-21. September 29. Display name Michael Helcig, ISTA. He says the 3.5-bit Flash-Next pack is 83.6 GB and matches BF16 on his average, 93.26 versus 93.12, and that the coder build keeps 29.6 GB resident and fits a 32 GB GPU. LiveCodeBench 86.3 versus 87.4 is his comparison with BF16. The thread's later retention percentages are a different measurement.
 - **Neroued/ninfer** — https://github.com/Neroued/ninfer
-  Type: repository. Accessed: 2026-10-21. Apache 2.0. Created June 26, 2026, by HaoJun Zhang. From-scratch C++/CUDA for one RTX 5090. The README says the build rejects every CUDA architecture except sm_120a. Five official artifacts are listed: Qwen3.6-27B, Qwen3.8-27B, and Qwen3.6-35B-A3B, including NVFP4 packs. The intro also says Qwen3.8-Flash-Next is supported. No install target; you build it. Not on an earlier board.
+  Type: repository. Accessed: 2026-10-21. Apache 2.0. Created June 26, 2026, by HaoJun Zhang. From-scratch C++/CUDA for one RTX 5090. The README says the build rejects every CUDA architecture except sm_120a. Five official artifacts are listed: Qwen3.6-27B, Qwen3.8-27B, and Qwen3.6-35B-A3B, including NVFP4 packs. The intro also says Qwen3.8-Flash-Next is supported. No install target; you build it. Not on an earlier board. Zhang's X account has no posts.
+- **Christina on NInfer** — https://x.com/truffle/status/2094808184602935489
+  Type: X post. Accessed: 2026-10-21. September 1. Display name Christina @ATX. She says NInfer beat llama.cpp on her RTX 5090. Her bench-loop medians are 149 tokens a second for Qwen3.8-27B and 557 for Qwen3.6-35B-A3B. Those figures are hers.
 - **Wallawalla47/Infernix** — https://github.com/wallawalla47/infernix
   Type: repository. Accessed: 2026-10-21. Apache 2.0. Created October 8, 2026. GitHub name Ian R. A fork of NInfer that also reads its own .infernix files. The README says it keeps Qwen3.8-Flash-Next's experts in system RAM on one RTX 5090 and reads the n-gram table from NVMe. The same page says most of the README was written with AI and may be incomplete. Its speed tables are the author's. The headline Strata comparison runs NVIDIA Dense8 on Infernix against Unsloth UD-Q4_K_XL on Strata 0.1.45, so the quants are not the same file.
+- **hfcorriez on Infernix and Strata** — https://x.com/hfcorriez/status/2112373342284251383
+  Type: X post. Accessed: 2026-10-21. October 20. His table on one RTX 5090, PCIe Gen5 x8, against Strata 0.1.45. Decode is about even at 8K and higher for Infernix at 128K and 250K. At 250K he has Strata reaching the first token sooner, 49 seconds against 58. That is his measurement, and it does not match Infernix's README headline.
 - **gufo-org/gufo** — https://github.com/gufo-org/gufo
   Type: repository. Accessed: 2026-10-21. MIT. Created August 11, 2026. Built for AMD Strix Halo: Ryzen AI MAX+ 395, Radeon 8060S, up to 128 GB of unified memory. The model table loads Unsloth Qwen GGUFs and antirez's DeepSeek V4 Flash GGUF. Published speeds are the project's. The README says peaks include repetitive output, and that the eight-user figure adds each request's decode rate.
+- **David Hendrickson on Gufo** — https://x.com/TeksEdge/status/2105145616821264492
+  Type: X post. Accessed: 2026-10-21. September 30. He says the speeds are Gufo's own table: 22.89 tokens a second against llama.cpp's 7.98 at roughly 131K context on Qwen3.8-Flash-Next Q4, and a cold load of 15.5 seconds against 117.8. He also writes Gufo's cached-context line as 21.93 decode and 1,292 prefill. The post says the license is MIT.
 - **unsloth/Qwen3.8-Flash-Next-GGUF** — https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF
   Type: model card. Accessed: 2026-10-21. Created August 26. License field is Qwen community 1.0, not MIT. Dynamic GGUFs of Qwen3.8-Flash-Next. The card says to use llama.cpp or Unsloth Desktop, and that MTP is Unsloth's 1.3–1.7× claim. Gufo's model table and Strata's October 13 post both point at these packs. The card's download counter is over a million file downloads; that is not a count of people.
 - **Run Qwen3.8-Flash-Next** — https://unsloth.ai/docs/models/qwen3.8-next
   Type: official guide. Accessed: 2026-10-21. Unsloth's how-to for the same Qwen family. Speed lines on that page stay the vendor's.
+- **Unsloth on Qwen3.8-Flash locally** — https://x.com/UnslothAI/status/2092639558815060281
+  Type: X post. Accessed: 2026-10-21. August 26. The pack announcement: Unsloth says Flash-Next runs on 75 GB of RAM and outperforms Claude Opus 4.6. That comparison is theirs. The same post is already on the August 26 board, under the 24 GB 4090 topic. It is here because Strata and Gufo both point at these files.
 
 ### OpenAI's math paper dump and the Lean gap
 

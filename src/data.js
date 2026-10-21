@@ -651,9 +651,73 @@ export const meetups = [
                 {
                   "type": "tweet",
                   "href": "https://x.com/coldniko/status/2110090419384230113"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/geldeki/status/2112271460291182823"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ashxhart/status/2103643602937114924"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/abheer/status/2108467733134483657"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/sethforprivacy/status/2107115577068183800"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/inco_ai/status/2101100749623341513"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ddalcu/status/2092981370716864620"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ddalcu/status/2111140460722819123"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/jianchen1799/status/2112677428531446006"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/jundotkim/status/2112837841227305159"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/ivanfioravanti/status/2112906852161798379"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/UnslothAI/status/2112212605930778830"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/UnslothAI/status/2092639558815060281"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/mhelcig/status/2104885154741105070"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/TeksEdge/status/2105145616821264492"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/truffle/status/2094808184602935489"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/hfcorriez/status/2112373342284251383"
                 }
               ],
-              "notes": "Cruz's 94.68% (1.61 bits, one machine) and 96.71% (2.50 bits, two machines) measure how often his build picks the same next token as DeepSeek's official checkpoint. They are not task scores. His 332 of 353 task result is the older 1.62-bit pack on his own test set. Unsloth's 88.2% is a different check on their 250.4 GB 1-bit build, and their builds need llama.cpp pull 30817, not stock llama.cpp. Strata 0.2.2 shipped today; the 32 GB memory floor and the speed claims are the author's. DeepInfer's README says a full service still needs a KV cache system. NInfer is Apache 2.0, created June 26, and the README says the build accepts only the RTX 5090's sm_120a. Its five official artifacts are Qwen 27B and 35B-A3B files; the intro also names Flash-Next. Infernix forked it on October 8 under Apache 2.0. Its README says most of the page was written with AI and may be incomplete, and its speed tables are the author's. The headline Strata comparison runs NVIDIA's Dense8 quant on Infernix against Unsloth's UD-Q4_K_XL on Strata. Gufo is MIT, created August 11, for a Ryzen AI MAX+ 395 with a Radeon 8060S and up to 128 GB of unified memory. It loads Unsloth's Qwen GGUFs, which carry the Qwen community license, not MIT. Gufo's speeds are the project's, and the README says the peaks include repetitive output. Splash on Apple silicon stayed on the September 30 board. TensorFold, oMLX, and EAGLE-4 stay on their own slides."
+              "notes": "Cruz's 94.68% (1.61 bits, one machine) and 96.71% (2.50 bits, two machines) measure how often his build picks the same next token as DeepSeek's official checkpoint. They are not task scores. His 332 of 353 task result is the older 1.62-bit pack on his own test set. Unsloth's 88.2% is a different check on their 250.4 GB 1-bit build, and their builds need llama.cpp pull 30817, not stock llama.cpp. Strata 0.2.2 shipped today; the 32 GB memory floor and the speed claims are the author's. DeepInfer's README says a full service still needs a KV cache system. NInfer is Apache 2.0, created June 26, and the README says the build accepts only the RTX 5090's sm_120a. Its five official artifacts are Qwen 27B and 35B-A3B files; the intro also names Flash-Next. Infernix forked it on October 8 under Apache 2.0. Its README says most of the page was written with AI and may be incomplete, and its speed tables are the author's. The headline Strata comparison runs NVIDIA's Dense8 quant on Infernix against Unsloth's UD-Q4_K_XL on Strata. Gufo is MIT, created August 11, for a Ryzen AI MAX+ 395 with a Radeon 8060S and up to 128 GB of unified memory. It loads Unsloth's Qwen GGUFs, which carry the Qwen community license, not MIT. Gufo's speeds are the project's, and the README says the peaks include repetitive output. Splash on Apple silicon stayed on the September 30 board. TensorFold, oMLX, and EAGLE-4 stay on their own slides. Unsloth's October 19 post is the 88.2% and 250 GB claim, and it also calls V4.1-Flash the strongest open model. That ranking is theirs. Their August 26 Qwen post, already on that board, says Flash-Next runs on 75 GB and beats Opus 4.6. Helcig's September 29 post calls the same model 176.9 billion parameters, against Unsloth's 125 billion. His 93.26 versus 93.12 average, and the coder build's 29.6 GB resident size, are his. Hendrickson says the Gufo speeds he posts are Gufo's: 22.89 tokens a second against llama.cpp's 7.98 at about 131K. Christina's September 1 medians, 149 and 557 tokens a second, are her bench-loop on one 5090. hfcorriez's October 20 table is his own Infernix-versus-Strata run. At 250K he has Strata reaching the first token sooner, which does not match Infernix's README. The engine demos are separate posts. Ash Hart's September 26 TensorFold launch says 120 to 124 tokens a second on Qwen 3.8 27B MLX 4-bit. Seth's October 5 charts are one M5 Ultra, and that post is already its own slide. Inco's Splash video says 144 tokens a second on an M5 Max. Their published table on the September 30 board is 74 on an M5 Pro. Dalcu's Flash-Next video is his M4 Max preview, about 70 tokens a second serial and about 98 with MTP. Geldeki's pagoda is Strata 0.2.0-beta on two 3090s. Jian Chen's October 20 Splash 1.4.0 post says up to 120 tokens a second on an M5 Pro and over 30% faster than Strata. That comparison is his. Jun Kim's October 21 oMLX 0.7.2 post says DeepSeek V4.1 oQ3e went from 49.4 to 68.2 tokens a second. Ivan Fioravanti's same-day DwarfStar video is a podracer on DeepSeek V4.1-Flash, about 43 tokens a second over about 10 hours. Those speeds stay off the spoken line."
             },
             {
               "title": "OpenAI's math paper dump and the Lean gap",

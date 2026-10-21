@@ -2,6 +2,18 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-10-21] update | October 21 three more engine demos
+
+- Added three show-off posts to **Specialized engines and recipes run Qwen and DeepSeek at home**: Jian Chen's Splash 1.4.0, Jun Kim's oMLX 0.7.2, and Ivan Fioravanti's DwarfStar podracer. Gufo, NInfer, and Infernix stay on the bench posts already embedded. Speeds stay in the notes.
+
+## [2026-10-21] update | October 21 engine demos
+
+- Embedded show-off posts on **Specialized engines and recipes run Qwen and DeepSeek at home**: Geldeki's Strata pagoda, Ash Hart's TensorFold launch, Abheer running Flash-Next on it, Seth's M5 Ultra charts, Inco's Splash video, and two David Dalcu mlx-serve videos. Their speeds stay in the notes. Splash and Seth's charts already have their own slides.
+
+## [2026-10-21] update | October 21 engine posts
+
+- Added posts to **Specialized engines and recipes run Qwen and DeepSeek at home**. Unsloth's October 19 DeepSeek packs, Helcig's September 29 GSQ-RCO thread, Hendrickson on Gufo, Christina on NInfer, and hfcorriez's Infernix-versus-Strata table. The August 26 Unsloth Qwen post is embedded again because Strata and Gufo point at those files. Speed figures stay in the notes. NInfer's author has no posts on @neroued.
+
 ## [2026-10-21] update | October 21 specialized engines
 
 - Renamed **Community recipes squeeze DeepSeek and Qwen onto one machine** to **Specialized engines and recipes run Qwen and DeepSeek at home**. DeepInfer stays the datacenter contrast. The local half is now NInfer and its October 8 fork Infernix on one RTX 5090, Gufo on Strix Halo, and Strata, with Unsloth, ISTA-DASLab, and Cruz as the weight packs. Infernix's speed tables stay in the notes because the README says they were written with AI and the headline comparison uses different quants. Splash, TensorFold, oMLX, and EAGLE-4 stay on their own slides. Created NInfer, Infernix, and Gufo pages.
