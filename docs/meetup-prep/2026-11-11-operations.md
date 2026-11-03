@@ -12,6 +12,8 @@ Requested November 2, 2026: move the November 4 gathering to Wednesday, November
 
 ## Remaining external work
 
-Create or recover a November 11 replacement for canceled Bitcoin Park event 317149451. Create a November 11 Luma registration event in the AI Freedom Lab calendar if authorized host controls are available. Austin's signed-in Luma account shows the November 18 event as Hosting but only offers attendee registration and no management controls. Add registration links to the November 11 Markdown record and Meetup Data only after verifying saved pages.
+Austin confirmed November 3 that **Jack will update both Bitcoin Park Meetup and Luma**. Jack owns creating or recovering the November 11 replacement for canceled Bitcoin Park event 317149451 and publishing the November 11 Luma registration event in the AI Freedom Lab calendar. Both should use November 11, 2026, 5:30–7:30 PM CST, at Bitcoin Park Austin, 601 Congress Avenue, Suite 250.
+
+The website and Austin Computer Club listing are complete. After Jack publishes the remaining two listings, verify their saved dates, descriptions, and registration URLs, then add the new links to the November 11 Markdown record and Meetup Data. Do not reuse the canceled November 4 links. No further access escalation is needed for this handoff.
 
 Listing changes and attendee messages are separate actions. No attendee messages have been sent. Existing registration reconciliation rules in [October operations](2026-10-21-operations.md) continue to apply.
