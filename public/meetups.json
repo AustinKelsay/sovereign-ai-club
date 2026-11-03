@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:25:22.801Z",
+  "generatedAt": "2026-11-03T16:36:07.187Z",
   "siteUrl": "https://sovereignai.club",
   "events": [
     {
@@ -49,6 +49,10 @@
       "locationAddress": "601 Congress Avenue, Suite 250, Austin, TX 78701",
       "reminderSendHour": 10,
       "listings": [
+        {
+          "label": "Austin Computer Club Meetup",
+          "href": "https://www.meetup.com/austin-computer-club/events/317271436/"
+        },
         {
           "label": "Official public Signal group",
           "href": "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR"

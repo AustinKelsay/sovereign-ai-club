@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-03] listings | Computer Club November 11 RSVP published
+
+- Published and verified Austin Computer Club event 317271436 for November 11, 5:30–7:30 PM CST, at Bitcoin Park Austin, with the reschedule notice and current website link. Added its RSVP link to the November 11 record and Meetup Data. Live browser checks supersede the older fetch snapshots: Bitcoin Park's November 4 event is canceled, and its old Luma URL returns 404. November 11 replacements on those two calendars require organizer access. Left the separate November 18 gathering intact and sent no optional member announcements.
+
 ## [2026-11-02] schedule | November meetup moved to November 11
 
 - Recorded the organizer's move from November 4 to November 11, 5:30–7:30 PM America/Chicago, retaining the existing venue and time. Added the planned Meetup to Markdown and Meetup Data so the calendar, submissions, and reminder artifacts target November 11 instead of the generated November 4 slot. Preserved the separately published November 18 gathering and its registration links. Topic boards are pending. The November 4 Meetup and its linked Luma page still describe November 4; rescheduled registration links remain pending. No October registration links were reused.
