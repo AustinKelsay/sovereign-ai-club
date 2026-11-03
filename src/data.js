@@ -43,6 +43,50 @@ function xArticle(article) {
 
 export const meetups = [
   {
+    id: "meetup-2026-11-18",
+    slug: "2026-11-18",
+    date: "November 18, 2026",
+    markdownHref: "./topics/2026-11-18.md",
+    event: {
+      title: "Sovereign AI Club Austin: Local AI & Open Models",
+      summary: "A Socratic discussion of recent AI news and research, with a focus on local AI, open models, and control over the tools we use. Free admission. Someone will greet you at the main door; take the elevator to the second floor.",
+      startAt: "2026-11-18T17:30:00-06:00",
+      endAt: "2026-11-18T19:30:00-06:00",
+      timezone: "America/Chicago",
+      locationName: "Bitcoin Park Austin",
+      locationAddress: "601 Congress Avenue, Suite 250, Austin, TX 78701",
+      reminderSendHour: 10,
+      listings: [
+        { label: "Register on Luma", href: "https://luma.com/fbt6enpp" },
+        { label: "Bitcoin Park Meetup", href: "https://www.meetup.com/bitcoin-park-austin/events/317149461/" },
+        { label: "Official public Signal group", href: OFFICIAL_SIGNAL_GROUP_URL },
+      ],
+    },
+    showcases: [],
+    tracks: [],
+  },
+  {
+    id: "meetup-2026-11-11",
+    slug: "2026-11-11",
+    date: "November 11, 2026",
+    markdownHref: "./topics/2026-11-11.md",
+    event: {
+      title: "Sovereign AI Club Austin: Local AI & Open Models",
+      summary: "Rescheduled from November 4 to November 11. A Socratic discussion of recent AI news and research, with a focus on local AI, open models, and control over the tools we use. Free admission. Someone will greet you at the main door; take the elevator to the second floor.",
+      startAt: "2026-11-11T17:30:00-06:00",
+      endAt: "2026-11-11T19:30:00-06:00",
+      timezone: "America/Chicago",
+      locationName: "Bitcoin Park Austin",
+      locationAddress: "601 Congress Avenue, Suite 250, Austin, TX 78701",
+      reminderSendHour: 10,
+      listings: [
+        { label: "Official public Signal group", href: OFFICIAL_SIGNAL_GROUP_URL },
+      ],
+    },
+    showcases: [],
+    tracks: [],
+  },
+  {
     "id": "meetup-2026-10-21",
     "slug": "2026-10-21",
     "date": "October 21, 2026",

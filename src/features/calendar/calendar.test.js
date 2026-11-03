@@ -49,15 +49,32 @@ describe("buildCalendarEntries", () => {
     });
   });
 
+  it("replaces the November 4 slot with November 11 for calendars and submissions", () => {
+    vi.useFakeTimers();
+    vi.setSystemTime(new Date("2026-11-02T12:00:00-06:00"));
+
+    const entries = buildCalendarEntries(meetups);
+    expect(entries.map((entry) => entry.slug)).not.toContain("2026-11-04");
+    expect(entries[0]).toMatchObject({
+      kind: "authored",
+      slug: "2026-11-11",
+      event: {
+        startAt: "2026-11-11T17:30:00-06:00",
+        endAt: "2026-11-11T19:30:00-06:00",
+      },
+    });
+    expect(getNextSubmissionTarget(meetups).slug).toBe("2026-11-11");
+  });
+
   it("keeps upcoming authored dates and continues their cadence across daylight saving", () => {
     vi.useFakeTimers();
     vi.setSystemTime(new Date("2026-09-07T12:00:00-05:00"));
     const entries = buildCalendarEntries(meetups, 6);
     expect(entries.map((entry) => entry.slug)).toEqual([
-      "2026-09-09", "2026-09-30", "2026-10-21", "2026-11-04", "2026-11-18", "2026-12-02",
+      "2026-09-09", "2026-09-30", "2026-10-21", "2026-11-11", "2026-11-18", "2026-12-02",
     ]);
     expect(entries[0].kind).toBe("authored");
-    expect(entries[4].event.startAt).toBe("2026-11-18T23:30:00.000Z");
+    expect(entries[5].event.startAt).toBe("2026-12-02T23:30:00.000Z");
   });
 
 });
@@ -158,15 +175,17 @@ describe("authored Sovereign AI Club event metadata", () => {
   it("uses the next public meetup and keeps its registration links off tentative slots", () => {
     vi.useFakeTimers();
     vi.setSystemTime(new Date("2026-10-13T12:00:00-05:00"));
-    const entries = buildCalendarEntries(meetups, 2);
+    const entries = buildCalendarEntries(meetups, 4);
     expect(entries[0]).toMatchObject({ kind: "authored", slug: "2026-10-21" });
     expect(entries[0].event.listings).toHaveLength(4);
     expect(getNextSubmissionTarget(meetups).slug).toBe("2026-10-21");
-    expect(entries[1]).toMatchObject({
-      kind: "generated", slug: "2026-11-04",
-      event: { locationName: "Bitcoin Park Austin", startAt: "2026-11-04T23:30:00.000Z" },
+    expect(entries[1]).toMatchObject({ kind: "authored", slug: "2026-11-11" });
+    expect(entries[2]).toMatchObject({ kind: "authored", slug: "2026-11-18" });
+    expect(entries[3]).toMatchObject({
+      kind: "generated", slug: "2026-12-02",
+      event: { locationName: "Bitcoin Park Austin", startAt: "2026-12-02T23:30:00.000Z" },
     });
-    expect(entries[1].event.listings).toBeUndefined();
-    expect(entries[1].event.summary).toContain("not confirmed");
+    expect(entries[3].event.listings).toBeUndefined();
+    expect(entries[3].event.summary).toContain("not confirmed");
   });
 });

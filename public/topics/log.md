@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-02] schedule | November meetup moved to November 11
+
+- Recorded the organizer's move from November 4 to November 11, 5:30–7:30 PM America/Chicago, retaining the existing venue and time. Added the planned Meetup to Markdown and Meetup Data so the calendar, submissions, and reminder artifacts target November 11 instead of the generated November 4 slot. Preserved the separately published November 18 gathering and its registration links. Topic boards are pending. The November 4 Meetup and its linked Luma page still describe November 4; rescheduled registration links remain pending. No October registration links were reused.
+
 ## [2026-10-21] update | October 21 PHP Foundation posts
 
 - Updated **PHP's two critical bugs: update now, and Brockman floats remote patching**. The spoken line now opens with the fixed releases and adds the PHP Foundation's answer to Brockman: it spotted the root cause in 2024, calls the stalled fix a structural failure, and says the shortage is engineers, not bug-finding tools. Embedded the Foundation's two posts and linked its blog, PHP's Mastodon release announcement, and both GitHub advisories. Notes now carry the Foundation's discovery timeline, the Calif video and Chainguard's early images, and a warning that @php_net is not PHP. The title is unchanged so existing slide links still work.
