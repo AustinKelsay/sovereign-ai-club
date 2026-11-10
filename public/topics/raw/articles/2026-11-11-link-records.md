@@ -40,11 +40,6 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
 - **1Password's announcement** — https://x.com/1password/status/2113276767582498943
   Type: X post. Accessed: 2026-11-10. Submitted post. October 22. Announces the 1Password for Agents platform and names partner companies. Says it is free and optional for personal and family accounts and that agents cannot touch a vault without opt-in.
 
-### T3 Code for World of Warcraft puts agent threads in the quest tracker
-
-- **ryanrhughes/t3code-wow** — https://github.com/ryanrhughes/t3code-wow
-  Type: GitHub repository. Accessed: 2026-11-10. Submitted as a t.co short link that resolves here. README covers features, the experimental warning, requirements (Omarchy 4.5.0, CachyOS with KDE Plasma, or macOS; T3 Code Nightly; World of Warcraft: Forever; Node.js 22), and the limited T3 Code session.
-
 ## Models & Research
 
 ### Closed model releases
@@ -110,8 +105,18 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
 - **James Whittington's announcement** — https://x.com/jcrwhittington/status/2117317159777177602
   Type: X post. Accessed: 2026-11-10. Submitted post. November 2. Says search takes 98% of the attention layer's time at 10M tokens and gives the 22.7x and 72.4x figures.
 
-### Weight-Space Programming and Qwenputer write model weights by hand
+### Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer
 
+- **The Surprising Effectiveness of Deleting Weights in LLM Post-Training** — https://arxiv.org/abs/2611.10866
+  Type: arXiv paper. Accessed: 2026-11-10. Submitted November 7, NeurIPS 2026. Abstract: zeroing fewer than 0.05% of weights matches full fine-tuning across RL with verifiable rewards, supervised fine-tuning, and on-policy distillation; the method learns a binary mask over gate projections; the mask is hundreds to thousands of times smaller than the full checkpoint; under RL, prior-task accuracy stays near base while full fine-tuning, LoRA, and random sparse fine-tuning lose up to 5.4 points.
+- **Jack Lu's Deletion Tuning thread** — https://x.com/Jacklu_me/status/2120217064073830401
+  Type: X post. Accessed: 2026-11-10. Submitted post. November 10. Co-lead author. The thread says under 0.1% of weights, a 30 MB mask matching full fine-tuning on a 61 GB, 30B MoE model, gains holding from 7B to 30B, and lab credit to NYU's Agentic Learning AI Lab and the University of Calgary. A reply says the mask should apply to FP8 or INT4 checkpoints but accuracy there is untested.
+- **agentic-learning-ai-lab/deleting-weights** — https://github.com/agentic-learning-ai-lab/deleting-weights
+  Type: GitHub repository. Accessed: 2026-11-10. Code linked from the thread.
+- **Deletion Tuning trained masks** — https://huggingface.co/Jacklu0831/deletion-tuning-masks
+  Type: model files. Accessed: 2026-11-10. The released masks.
+- **Deletion Tuning project page** — https://agenticlearning.ai/deleting-weights/
+  Type: project page. Accessed: 2026-11-10. Paper, poster, and code links.
 - **Weight-Space Programming** — https://rikiyat.github.io/blog/weight-space-programming/
   Type: research blog. Accessed: 2026-11-10. Claims frontier LLMs can read and write network weights directly. The Qwen3.5-0.8B experiment edits 0.016% of weights, raising MATH-500 from 7.9% to 48.1% and IFEval by 3x at the same sampling settings.
 - **Rikiya Takehi's post** — https://x.com/rikiyatakehi/status/2117313742891327994

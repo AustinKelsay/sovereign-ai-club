@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T20:35:31.422Z",
+  "generatedAt": "2026-11-10T22:15:51.262Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -2124,13 +2124,6 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-          "section": "Agent Infrastructure",
-          "sourcePageId": "sovereign-ai-club-november-11-2026",
-          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
-        },
-        {
           "href": "https://x.com/TobynJacobs/status/2104884843297599594",
           "title": "Agents decompile games and mash them together",
           "section": "Agent Infrastructure",
@@ -3237,7 +3230,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **T3 Code for World of Warcraft puts agent threads in the quest tracker**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
+      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, and **1Password for Agents signs agents in without handing over the password**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
     },
     {
       "id": "agent-payments",
@@ -20835,13 +20828,6 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-          "section": "Agent Infrastructure",
-          "sourcePageId": "sovereign-ai-club-november-11-2026",
-          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
-        },
-        {
           "href": "https://github.com/morluto/rea",
           "title": "Reverse Engineer Anything passes Linux in GitHub stars",
           "section": "Agent Infrastructure",
@@ -22256,7 +22242,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Coding Agents\n\nCoding Agents covers CLI agents, IDE-adjacent agents, local agent runtimes, agent benchmarks, and tools that let models read, modify, test, or reason about codebases.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers** and **T3 Code for World of Warcraft puts agent threads in the quest tracker**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, and **Reason Network lets your agents message your teammates' agents**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, **Open model releases**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, **Meta ships Muse Code with co-trained Muse Spark 1.2**, and **Open model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Local Codex patches with codex-app-modifier** and **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Apple makes Mac agent sandboxes native** and **Open model releases**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, and **Stop prompting agents, start designing loops**.\n- [[Sovereign AI Club - May 27, 2026]]: **Composer 2.5 = Opus at one tenth the cost??**, **DeepSWE exposes the real coding model hierarchy**, and **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Closed model releases**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**, **Anthropic vs OpenClaw keeps escalating**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **Free coding agent with ad model**, **Chrome DevTools MCP**, **Zai launches AutoClaw**, **Ollama launches Pi**, **Claude Code gets computer use**, **Claude Code source leaked via npm sourcemap**, and **Open model releases**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **Claude Code + Codex updates roundup**, and **OpenClaw pairing bench**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Agent Infrastructure]]\n- [[Ornith]]\n- [[Mellum]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Agent Cost Controls]]\n- [[AI Benchmarks & Evals]]\n- [[OpenClaw]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Apple]]\n- [[Ben Carman]]\n- [[MiniMax]]\n- [[Moonshot AI]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[SWE-1.7]]\n- [[Claude Sonnet 5]]\n- [[Cursor Origin]]\n- [[React Native ExecuTorch]]\n- [[TMax]]"
+      "bodyMarkdown": "# Coding Agents\n\nCoding Agents covers CLI agents, IDE-adjacent agents, local agent runtimes, agent benchmarks, and tools that let models read, modify, test, or reason about codebases.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, and **Reason Network lets your agents message your teammates' agents**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, **Open model releases**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, **Meta ships Muse Code with co-trained Muse Spark 1.2**, and **Open model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Local Codex patches with codex-app-modifier** and **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Apple makes Mac agent sandboxes native** and **Open model releases**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, and **Stop prompting agents, start designing loops**.\n- [[Sovereign AI Club - May 27, 2026]]: **Composer 2.5 = Opus at one tenth the cost??**, **DeepSWE exposes the real coding model hierarchy**, and **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Closed model releases**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**, **Anthropic vs OpenClaw keeps escalating**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **Free coding agent with ad model**, **Chrome DevTools MCP**, **Zai launches AutoClaw**, **Ollama launches Pi**, **Claude Code gets computer use**, **Claude Code source leaked via npm sourcemap**, and **Open model releases**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **Claude Code + Codex updates roundup**, and **OpenClaw pairing bench**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Agent Infrastructure]]\n- [[Ornith]]\n- [[Mellum]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Agent Cost Controls]]\n- [[AI Benchmarks & Evals]]\n- [[OpenClaw]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Apple]]\n- [[Ben Carman]]\n- [[MiniMax]]\n- [[Moonshot AI]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[SWE-1.7]]\n- [[Claude Sonnet 5]]\n- [[Cursor Origin]]\n- [[React Native ExecuTorch]]\n- [[TMax]]"
     },
     {
       "id": "cognition",
@@ -70299,57 +70285,92 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
           "href": "https://rikiyat.github.io/blog/weight-space-programming/",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://github.com/RikiyaT/lm_understand-logs",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://divagr.com/blog/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://x.com/divagr1925/status/2115394340357116169",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://github.com/divagr18/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
@@ -72924,7 +72945,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Weight-Space Programming and Qwenputer write model weights by hand**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B retrains Qwen3.8-27B off the party line**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
+      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B retrains Qwen3.8-27B off the party line**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
     },
     {
       "id": "moonshot-ai",
@@ -81083,14 +81104,13 @@
         "open-source"
       ],
       "sources": [
-        "raw/articles/2026-11-11-link-records.md",
         "raw/articles/2026-08-26-link-records.md"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-08-26",
-      "updated": "2026-11-10",
+      "updated": "2026-08-26",
       "excerpt": "Omarchy is DHH's opinionated Arch Linux distribution built on Hyprland and Quickshell. The August 14, 2026 Quattro (4.0.0) release treats coding-agent CLIs as first-class, lazy-loaded OS defaults rather than a pinned vendor agent, and the following two weeks brought DHH's petabyte-of-ISOs growth claim plus the Omacom Foundation's $10M nonprofit backing.",
       "rawHref": "/topics/entities/omarchy.md",
       "relativePath": "entities/omarchy.md",
@@ -81101,8 +81121,7 @@
         "codex",
         "coding-agents",
         "local-ai",
-        "sovereign-ai-club-august-26-2026",
-        "sovereign-ai-club-november-11-2026"
+        "sovereign-ai-club-august-26-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
@@ -81112,8 +81131,7 @@
         "codex",
         "coding-agents",
         "local-ai",
-        "sovereign-ai-club-august-26-2026",
-        "sovereign-ai-club-november-11-2026"
+        "sovereign-ai-club-august-26-2026"
       ],
       "referencedTopicSources": [
         {
@@ -81171,16 +81189,9 @@
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-august-26-2026",
           "sourcePageTitle": "Sovereign AI Club - August 26, 2026"
-        },
-        {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-          "section": "Agent Infrastructure",
-          "sourcePageId": "sovereign-ai-club-november-11-2026",
-          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         }
       ],
-      "bodyMarkdown": "# Omarchy\n\nOmarchy is DHH's opinionated Arch Linux distribution built on Hyprland and Quickshell. The August 14, 2026 Quattro (4.0.0) release treats coding-agent CLIs as first-class, lazy-loaded OS defaults rather than a pinned vendor agent, and the following two weeks brought DHH's petabyte-of-ISOs growth claim plus the Omacom Foundation's $10M nonprofit backing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **T3 Code for World of Warcraft puts agent threads in the quest tracker**.\n- [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**.\n\n## Related\n\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Local AI]]\n- [[Cloudflare OS]]"
+      "bodyMarkdown": "# Omarchy\n\nOmarchy is DHH's opinionated Arch Linux distribution built on Hyprland and Quickshell. The August 14, 2026 Quattro (4.0.0) release treats coding-agent CLIs as first-class, lazy-loaded OS defaults rather than a pinned vendor agent, and the following two weeks brought DHH's petabyte-of-ISOs growth claim plus the Omacom Foundation's $10M nonprofit backing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**.\n\n## Related\n\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Local AI]]\n- [[Cloudflare OS]]"
     },
     {
       "id": "open-models",
@@ -96441,57 +96452,92 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
           "href": "https://rikiyat.github.io/blog/weight-space-programming/",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://github.com/RikiyaT/lm_understand-logs",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://divagr.com/blog/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://x.com/divagr1925/status/2115394340357116169",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://github.com/divagr18/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
@@ -98702,7 +98748,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Qwen\n\nQwen is a recurring model-family entity for open and API-accessible model releases, quantization stories, long-context updates, and local deployment discussion. Qwen3.8-Flash-Next is an August 26 experimental Qwen4-architecture preview: 125B parameters with 6B active, plus a 51B n-gram embedding table that can be offloaded to host memory, under the Qwen Community License 1.0. Same-day local follow-ups include adaptive DFlash on Qwen3.8-27B / Strix Halo and Unsloth GGUFs of Flash-Next run at 250k context on a 24GB 4090 with experts offloaded to host RAM.\n\nQwen-Drive-1.0-4B supplies Apache-2.0 research artifacts for driving perception and planning. It is a specialized driving release, not a new general-chat Qwen generation.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Weight-Space Programming and Qwenputer write model weights by hand**, **Nous's Arete-27B retrains Qwen3.8-27B off the party line**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **ProjectDiscovery's $50 LoRA backdoor**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, and **Open-model hype and adoption barely overlap**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream** and **Ostrich LLMs**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases**, **Distillation hesitation**, and **LLM neuroanatomy / RYS layer repetition**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **Agent Overload**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[Inference Optimization]]\n- [[Ornith]]\n- [[Open Models]]\n- [[Local AI]]\n- [[Qwen-AgentWorld]]\n- [[HARC]]\n- [[Strata]]\n- [[Unsloth]]"
+      "bodyMarkdown": "# Qwen\n\nQwen is a recurring model-family entity for open and API-accessible model releases, quantization stories, long-context updates, and local deployment discussion. Qwen3.8-Flash-Next is an August 26 experimental Qwen4-architecture preview: 125B parameters with 6B active, plus a 51B n-gram embedding table that can be offloaded to host memory, under the Qwen Community License 1.0. Same-day local follow-ups include adaptive DFlash on Qwen3.8-27B / Strix Halo and Unsloth GGUFs of Flash-Next run at 250k context on a 24GB 4090 with experts offloaded to host RAM.\n\nQwen-Drive-1.0-4B supplies Apache-2.0 research artifacts for driving perception and planning. It is a specialized driving release, not a new general-chat Qwen generation.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **Nous's Arete-27B retrains Qwen3.8-27B off the party line**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **ProjectDiscovery's $50 LoRA backdoor**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, and **Open-model hype and adoption barely overlap**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream** and **Ostrich LLMs**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases**, **Distillation hesitation**, and **LLM neuroanatomy / RYS layer repetition**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **Agent Overload**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[Inference Optimization]]\n- [[Ornith]]\n- [[Open Models]]\n- [[Local AI]]\n- [[Qwen-AgentWorld]]\n- [[HARC]]\n- [[Strata]]\n- [[Unsloth]]"
     },
     {
       "id": "qwen-agentworld",
@@ -117438,7 +117484,6 @@
         "https://github.com/FutureMLS-Lab/vllm",
         "https://1password.com/personal-ai-agent-integrations",
         "https://x.com/1password/status/2113276767582498943",
-        "https://github.com/ryanrhughes/t3code-wow",
         "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
         "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
         "https://x.com/sundarpichai/status/2115489219804352921",
@@ -117466,6 +117511,11 @@
         "https://arxiv.org/abs/2610.42147",
         "https://github.com/Prefrontal-AI/latent-sparse-attention",
         "https://x.com/jcrwhittington/status/2117317159777177602",
+        "https://arxiv.org/abs/2611.10866",
+        "https://x.com/Jacklu_me/status/2120217064073830401",
+        "https://github.com/agentic-learning-ai-lab/deleting-weights",
+        "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+        "https://agenticlearning.ai/deleting-weights/",
         "https://rikiyat.github.io/blog/weight-space-programming/",
         "https://x.com/rikiyatakehi/status/2117313742891327994",
         "https://github.com/RikiyaT/lm_understand-logs",
@@ -117549,11 +117599,6 @@
         {
           "href": "https://x.com/1password/status/2113276767582498943",
           "title": "1Password for Agents signs agents in without handing over the password",
-          "section": "Agent Infrastructure"
-        },
-        {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
           "section": "Agent Infrastructure"
         },
         {
@@ -117692,43 +117737,68 @@
           "section": "Models & Research"
         },
         {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
           "href": "https://rikiyat.github.io/blog/weight-space-programming/",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://github.com/RikiyaT/lm_understand-logs",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://divagr.com/blog/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://x.com/divagr1925/status/2115394340357116169",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://github.com/divagr18/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
@@ -117910,7 +117980,6 @@
         "nemotron",
         "nous-research",
         "nvidia",
-        "omarchy",
         "open-models",
         "openai",
         "qwen",
@@ -117946,7 +118015,6 @@
         "nemotron",
         "nous-research",
         "nvidia",
-        "omarchy",
         "open-models",
         "openai",
         "qwen",
@@ -117980,7 +118048,6 @@
         "https://github.com/FutureMLS-Lab/vllm",
         "https://1password.com/personal-ai-agent-integrations",
         "https://x.com/1password/status/2113276767582498943",
-        "https://github.com/ryanrhughes/t3code-wow",
         "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
         "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
         "https://x.com/sundarpichai/status/2115489219804352921",
@@ -118008,6 +118075,11 @@
         "https://arxiv.org/abs/2610.42147",
         "https://github.com/Prefrontal-AI/latent-sparse-attention",
         "https://x.com/jcrwhittington/status/2117317159777177602",
+        "https://arxiv.org/abs/2611.10866",
+        "https://x.com/Jacklu_me/status/2120217064073830401",
+        "https://github.com/agentic-learning-ai-lab/deleting-weights",
+        "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+        "https://agenticlearning.ai/deleting-weights/",
         "https://rikiyat.github.io/blog/weight-space-programming/",
         "https://x.com/rikiyatakehi/status/2117313742891327994",
         "https://github.com/RikiyaT/lm_understand-logs",
@@ -118091,11 +118163,6 @@
         {
           "href": "https://x.com/1password/status/2113276767582498943",
           "title": "1Password's announcement",
-          "section": "Agent Infrastructure"
-        },
-        {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "ryanrhughes/t3code-wow",
           "section": "Agent Infrastructure"
         },
         {
@@ -118231,6 +118298,31 @@
         {
           "href": "https://x.com/jcrwhittington/status/2117317159777177602",
           "title": "James Whittington's announcement",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Jack Lu's Deletion Tuning thread",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "agentic-learning-ai-lab/deleting-weights",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Deletion Tuning trained masks",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Deletion Tuning project page",
           "section": "Models & Research"
         },
         {
@@ -135359,13 +135451,6 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-          "section": "Agent Infrastructure",
-          "sourcePageId": "sovereign-ai-club-november-11-2026",
-          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
-        },
-        {
           "href": "https://x.com/TobynJacobs/status/2104884843297599594",
           "title": "Agents decompile games and mash them together",
           "section": "Agent Infrastructure",
@@ -136472,7 +136557,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **T3 Code for World of Warcraft puts agent threads in the quest tracker**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
+      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, and **1Password for Agents signs agents in without handing over the password**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
     },
     "agent-payments": {
       "id": "agent-payments",
@@ -154070,13 +154155,6 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-          "section": "Agent Infrastructure",
-          "sourcePageId": "sovereign-ai-club-november-11-2026",
-          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
-        },
-        {
           "href": "https://github.com/morluto/rea",
           "title": "Reverse Engineer Anything passes Linux in GitHub stars",
           "section": "Agent Infrastructure",
@@ -155491,7 +155569,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Coding Agents\n\nCoding Agents covers CLI agents, IDE-adjacent agents, local agent runtimes, agent benchmarks, and tools that let models read, modify, test, or reason about codebases.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers** and **T3 Code for World of Warcraft puts agent threads in the quest tracker**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, and **Reason Network lets your agents message your teammates' agents**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, **Open model releases**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, **Meta ships Muse Code with co-trained Muse Spark 1.2**, and **Open model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Local Codex patches with codex-app-modifier** and **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Apple makes Mac agent sandboxes native** and **Open model releases**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, and **Stop prompting agents, start designing loops**.\n- [[Sovereign AI Club - May 27, 2026]]: **Composer 2.5 = Opus at one tenth the cost??**, **DeepSWE exposes the real coding model hierarchy**, and **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Closed model releases**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**, **Anthropic vs OpenClaw keeps escalating**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **Free coding agent with ad model**, **Chrome DevTools MCP**, **Zai launches AutoClaw**, **Ollama launches Pi**, **Claude Code gets computer use**, **Claude Code source leaked via npm sourcemap**, and **Open model releases**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **Claude Code + Codex updates roundup**, and **OpenClaw pairing bench**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Agent Infrastructure]]\n- [[Ornith]]\n- [[Mellum]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Agent Cost Controls]]\n- [[AI Benchmarks & Evals]]\n- [[OpenClaw]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Apple]]\n- [[Ben Carman]]\n- [[MiniMax]]\n- [[Moonshot AI]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[SWE-1.7]]\n- [[Claude Sonnet 5]]\n- [[Cursor Origin]]\n- [[React Native ExecuTorch]]\n- [[TMax]]"
+      "bodyMarkdown": "# Coding Agents\n\nCoding Agents covers CLI agents, IDE-adjacent agents, local agent runtimes, agent benchmarks, and tools that let models read, modify, test, or reason about codebases.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, and **Reason Network lets your agents message your teammates' agents**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, **Open model releases**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, **Meta ships Muse Code with co-trained Muse Spark 1.2**, and **Open model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Local Codex patches with codex-app-modifier** and **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Apple makes Mac agent sandboxes native** and **Open model releases**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, and **Stop prompting agents, start designing loops**.\n- [[Sovereign AI Club - May 27, 2026]]: **Composer 2.5 = Opus at one tenth the cost??**, **DeepSWE exposes the real coding model hierarchy**, and **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Closed model releases**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**, **Anthropic vs OpenClaw keeps escalating**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **Free coding agent with ad model**, **Chrome DevTools MCP**, **Zai launches AutoClaw**, **Ollama launches Pi**, **Claude Code gets computer use**, **Claude Code source leaked via npm sourcemap**, and **Open model releases**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **Claude Code + Codex updates roundup**, and **OpenClaw pairing bench**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Agent Infrastructure]]\n- [[Ornith]]\n- [[Mellum]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Agent Cost Controls]]\n- [[AI Benchmarks & Evals]]\n- [[OpenClaw]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Apple]]\n- [[Ben Carman]]\n- [[MiniMax]]\n- [[Moonshot AI]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[SWE-1.7]]\n- [[Claude Sonnet 5]]\n- [[Cursor Origin]]\n- [[React Native ExecuTorch]]\n- [[TMax]]"
     },
     "cognition": {
       "id": "cognition",
@@ -203534,57 +203612,92 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
           "href": "https://rikiyat.github.io/blog/weight-space-programming/",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://github.com/RikiyaT/lm_understand-logs",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://divagr.com/blog/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://x.com/divagr1925/status/2115394340357116169",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://github.com/divagr18/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
@@ -206159,7 +206272,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Weight-Space Programming and Qwenputer write model weights by hand**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B retrains Qwen3.8-27B off the party line**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
+      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B retrains Qwen3.8-27B off the party line**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
     },
     "moonshot-ai": {
       "id": "moonshot-ai",
@@ -214318,14 +214431,13 @@
         "open-source"
       ],
       "sources": [
-        "raw/articles/2026-11-11-link-records.md",
         "raw/articles/2026-08-26-link-records.md"
       ],
-      "sourceCount": 2,
+      "sourceCount": 1,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-08-26",
-      "updated": "2026-11-10",
+      "updated": "2026-08-26",
       "excerpt": "Omarchy is DHH's opinionated Arch Linux distribution built on Hyprland and Quickshell. The August 14, 2026 Quattro (4.0.0) release treats coding-agent CLIs as first-class, lazy-loaded OS defaults rather than a pinned vendor agent, and the following two weeks brought DHH's petabyte-of-ISOs growth claim plus the Omacom Foundation's $10M nonprofit backing.",
       "rawHref": "/topics/entities/omarchy.md",
       "relativePath": "entities/omarchy.md",
@@ -214336,8 +214448,7 @@
         "codex",
         "coding-agents",
         "local-ai",
-        "sovereign-ai-club-august-26-2026",
-        "sovereign-ai-club-november-11-2026"
+        "sovereign-ai-club-august-26-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
@@ -214347,8 +214458,7 @@
         "codex",
         "coding-agents",
         "local-ai",
-        "sovereign-ai-club-august-26-2026",
-        "sovereign-ai-club-november-11-2026"
+        "sovereign-ai-club-august-26-2026"
       ],
       "referencedTopicSources": [
         {
@@ -214406,16 +214516,9 @@
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-august-26-2026",
           "sourcePageTitle": "Sovereign AI Club - August 26, 2026"
-        },
-        {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-          "section": "Agent Infrastructure",
-          "sourcePageId": "sovereign-ai-club-november-11-2026",
-          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         }
       ],
-      "bodyMarkdown": "# Omarchy\n\nOmarchy is DHH's opinionated Arch Linux distribution built on Hyprland and Quickshell. The August 14, 2026 Quattro (4.0.0) release treats coding-agent CLIs as first-class, lazy-loaded OS defaults rather than a pinned vendor agent, and the following two weeks brought DHH's petabyte-of-ISOs growth claim plus the Omacom Foundation's $10M nonprofit backing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **T3 Code for World of Warcraft puts agent threads in the quest tracker**.\n- [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**.\n\n## Related\n\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Local AI]]\n- [[Cloudflare OS]]"
+      "bodyMarkdown": "# Omarchy\n\nOmarchy is DHH's opinionated Arch Linux distribution built on Hyprland and Quickshell. The August 14, 2026 Quattro (4.0.0) release treats coding-agent CLIs as first-class, lazy-loaded OS defaults rather than a pinned vendor agent, and the following two weeks brought DHH's petabyte-of-ISOs growth claim plus the Omacom Foundation's $10M nonprofit backing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**.\n\n## Related\n\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Local AI]]\n- [[Cloudflare OS]]"
     },
     "open-models": {
       "id": "open-models",
@@ -229676,57 +229779,92 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-11-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
           "href": "https://rikiyat.github.io/blog/weight-space-programming/",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://github.com/RikiyaT/lm_understand-logs",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://divagr.com/blog/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://x.com/divagr1925/status/2115394340357116169",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://github.com/divagr18/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
           "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
@@ -231937,7 +232075,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Qwen\n\nQwen is a recurring model-family entity for open and API-accessible model releases, quantization stories, long-context updates, and local deployment discussion. Qwen3.8-Flash-Next is an August 26 experimental Qwen4-architecture preview: 125B parameters with 6B active, plus a 51B n-gram embedding table that can be offloaded to host memory, under the Qwen Community License 1.0. Same-day local follow-ups include adaptive DFlash on Qwen3.8-27B / Strix Halo and Unsloth GGUFs of Flash-Next run at 250k context on a 24GB 4090 with experts offloaded to host RAM.\n\nQwen-Drive-1.0-4B supplies Apache-2.0 research artifacts for driving perception and planning. It is a specialized driving release, not a new general-chat Qwen generation.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Weight-Space Programming and Qwenputer write model weights by hand**, **Nous's Arete-27B retrains Qwen3.8-27B off the party line**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **ProjectDiscovery's $50 LoRA backdoor**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, and **Open-model hype and adoption barely overlap**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream** and **Ostrich LLMs**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases**, **Distillation hesitation**, and **LLM neuroanatomy / RYS layer repetition**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **Agent Overload**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[Inference Optimization]]\n- [[Ornith]]\n- [[Open Models]]\n- [[Local AI]]\n- [[Qwen-AgentWorld]]\n- [[HARC]]\n- [[Strata]]\n- [[Unsloth]]"
+      "bodyMarkdown": "# Qwen\n\nQwen is a recurring model-family entity for open and API-accessible model releases, quantization stories, long-context updates, and local deployment discussion. Qwen3.8-Flash-Next is an August 26 experimental Qwen4-architecture preview: 125B parameters with 6B active, plus a 51B n-gram embedding table that can be offloaded to host memory, under the Qwen Community License 1.0. Same-day local follow-ups include adaptive DFlash on Qwen3.8-27B / Strix Halo and Unsloth GGUFs of Flash-Next run at 250k context on a 24GB 4090 with experts offloaded to host RAM.\n\nQwen-Drive-1.0-4B supplies Apache-2.0 research artifacts for driving perception and planning. It is a specialized driving release, not a new general-chat Qwen generation.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 11, 2026]]: **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **Nous's Arete-27B retrains Qwen3.8-27B off the party line**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **ProjectDiscovery's $50 LoRA backdoor**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, and **Open-model hype and adoption barely overlap**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream** and **Ostrich LLMs**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases**, **Distillation hesitation**, and **LLM neuroanatomy / RYS layer repetition**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **Agent Overload**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[Inference Optimization]]\n- [[Ornith]]\n- [[Open Models]]\n- [[Local AI]]\n- [[Qwen-AgentWorld]]\n- [[HARC]]\n- [[Strata]]\n- [[Unsloth]]"
     },
     "qwen-agentworld": {
       "id": "qwen-agentworld",
@@ -250673,7 +250811,6 @@
         "https://github.com/FutureMLS-Lab/vllm",
         "https://1password.com/personal-ai-agent-integrations",
         "https://x.com/1password/status/2113276767582498943",
-        "https://github.com/ryanrhughes/t3code-wow",
         "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
         "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
         "https://x.com/sundarpichai/status/2115489219804352921",
@@ -250701,6 +250838,11 @@
         "https://arxiv.org/abs/2610.42147",
         "https://github.com/Prefrontal-AI/latent-sparse-attention",
         "https://x.com/jcrwhittington/status/2117317159777177602",
+        "https://arxiv.org/abs/2611.10866",
+        "https://x.com/Jacklu_me/status/2120217064073830401",
+        "https://github.com/agentic-learning-ai-lab/deleting-weights",
+        "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+        "https://agenticlearning.ai/deleting-weights/",
         "https://rikiyat.github.io/blog/weight-space-programming/",
         "https://x.com/rikiyatakehi/status/2117313742891327994",
         "https://github.com/RikiyaT/lm_understand-logs",
@@ -250784,11 +250926,6 @@
         {
           "href": "https://x.com/1password/status/2113276767582498943",
           "title": "1Password for Agents signs agents in without handing over the password",
-          "section": "Agent Infrastructure"
-        },
-        {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
           "section": "Agent Infrastructure"
         },
         {
@@ -250927,43 +251064,68 @@
           "section": "Models & Research"
         },
         {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
           "href": "https://rikiyat.github.io/blog/weight-space-programming/",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://github.com/RikiyaT/lm_understand-logs",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://divagr.com/blog/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://x.com/divagr1925/status/2115394340357116169",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://github.com/divagr18/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
           "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
           "section": "Models & Research"
         },
         {
@@ -251145,7 +251307,6 @@
         "nemotron",
         "nous-research",
         "nvidia",
-        "omarchy",
         "open-models",
         "openai",
         "qwen",
@@ -251181,7 +251342,6 @@
         "nemotron",
         "nous-research",
         "nvidia",
-        "omarchy",
         "open-models",
         "openai",
         "qwen",
@@ -251215,7 +251375,6 @@
         "https://github.com/FutureMLS-Lab/vllm",
         "https://1password.com/personal-ai-agent-integrations",
         "https://x.com/1password/status/2113276767582498943",
-        "https://github.com/ryanrhughes/t3code-wow",
         "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
         "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
         "https://x.com/sundarpichai/status/2115489219804352921",
@@ -251243,6 +251402,11 @@
         "https://arxiv.org/abs/2610.42147",
         "https://github.com/Prefrontal-AI/latent-sparse-attention",
         "https://x.com/jcrwhittington/status/2117317159777177602",
+        "https://arxiv.org/abs/2611.10866",
+        "https://x.com/Jacklu_me/status/2120217064073830401",
+        "https://github.com/agentic-learning-ai-lab/deleting-weights",
+        "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+        "https://agenticlearning.ai/deleting-weights/",
         "https://rikiyat.github.io/blog/weight-space-programming/",
         "https://x.com/rikiyatakehi/status/2117313742891327994",
         "https://github.com/RikiyaT/lm_understand-logs",
@@ -251326,11 +251490,6 @@
         {
           "href": "https://x.com/1password/status/2113276767582498943",
           "title": "1Password's announcement",
-          "section": "Agent Infrastructure"
-        },
-        {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "ryanrhughes/t3code-wow",
           "section": "Agent Infrastructure"
         },
         {
@@ -251466,6 +251625,31 @@
         {
           "href": "https://x.com/jcrwhittington/status/2117317159777177602",
           "title": "James Whittington's announcement",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Jack Lu's Deletion Tuning thread",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "agentic-learning-ai-lab/deleting-weights",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Deletion Tuning trained masks",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Deletion Tuning project page",
           "section": "Models & Research"
         },
         {
@@ -266728,39 +266912,6 @@
       "searchText": "Revolut makes self-hosted GLM the default for 2,000 engineers Agent Infrastructure Sovereign AI Club - November 11, 2026 2026-11-11 https://ai.engineer/talks/Ok6QdZHCcI8-revolut-cut-ai-coding-costs-90-self https://x.com/guilleflorvs/status/2117379073785696395 Agent Infrastructure Claude Code Codex Coding Agents GLM Local AI Open Models"
     },
     {
-      "id": "sovereign-ai-club-november-11-2026-agent-infrastructure-t3-code-for-world-of-warcraft-puts-agent-threads-in-the-quest-tracker",
-      "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-      "rawTitle": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-      "normalizedTitle": "t3 code for world of warcraft puts agent threads in the quest tracker",
-      "section": "Agent Infrastructure",
-      "meetupId": "sovereign-ai-club-november-11-2026",
-      "meetupTitle": "Sovereign AI Club - November 11, 2026",
-      "meetupSlug": "2026-11-11",
-      "meetupHref": "/topics/2026-11-11.md",
-      "sourceLinks": [
-        "https://github.com/ryanrhughes/t3code-wow"
-      ],
-      "sourceReferences": [
-        {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-          "section": "Agent Infrastructure"
-        }
-      ],
-      "wikiIds": [
-        "agent-infrastructure",
-        "coding-agents",
-        "omarchy"
-      ],
-      "wikiTitles": [
-        "Agent Infrastructure",
-        "Coding Agents",
-        "Omarchy"
-      ],
-      "unresolvedWikiLinks": [],
-      "searchText": "T3 Code for World of Warcraft puts agent threads in the quest tracker Agent Infrastructure Sovereign AI Club - November 11, 2026 2026-11-11 https://github.com/ryanrhughes/t3code-wow Agent Infrastructure Coding Agents Omarchy"
-    },
-    {
       "id": "sovereign-ai-club-november-11-2026-big-tech-moves-jensen-huang-admits-an-affair-as-nvidias-board-investigates-spy-allegations",
       "title": "Jensen Huang admits an affair as Nvidia's board investigates spy allegations",
       "rawTitle": "Jensen Huang admits an affair as Nvidia's board investigates spy allegations",
@@ -266962,6 +267113,109 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Closed model releases Models & Research Sovereign AI Club - November 11, 2026 2026-11-11 https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ https://x.com/sundarpichai/status/2115489219804352921 https://x.com/Google/status/2120186185423159331 https://openai.com/index/introducing-gpt-6-cyber/ https://x.com/openai/status/2118390190246879554 https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ https://x.com/googledeepmind/status/2115114028338962672 https://x.com/mirendil/status/2114750800526446987 https://mirendil.com/news/introducing-fern/ https://x.com/RobertTLange/status/2114750025767219693 https://www.tbc.co/press-releases/neuron-derived-ai-video-model https://x.com/AlexKsendzovsky/status/2116153410101944352 Gemini Google Models & Research OpenAI World Models"
+    },
+    {
+      "id": "sovereign-ai-club-november-11-2026-models-research-editing-weights-instead-of-retraining-deletion-tuning-astra-and-qwenputer",
+      "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+      "rawTitle": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+      "normalizedTitle": "editing weights instead of retraining: deletion tuning, astra, and qwenputer",
+      "section": "Models & Research",
+      "meetupId": "sovereign-ai-club-november-11-2026",
+      "meetupTitle": "Sovereign AI Club - November 11, 2026",
+      "meetupSlug": "2026-11-11",
+      "meetupHref": "/topics/2026-11-11.md",
+      "sourceLinks": [
+        "https://arxiv.org/abs/2611.10866",
+        "https://x.com/Jacklu_me/status/2120217064073830401",
+        "https://github.com/agentic-learning-ai-lab/deleting-weights",
+        "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+        "https://agenticlearning.ai/deleting-weights/",
+        "https://rikiyat.github.io/blog/weight-space-programming/",
+        "https://x.com/rikiyatakehi/status/2117313742891327994",
+        "https://github.com/RikiyaT/lm_understand-logs",
+        "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
+        "https://divagr.com/blog/qwenputer",
+        "https://x.com/divagr1925/status/2115394340357116169",
+        "https://github.com/divagr18/qwenputer",
+        "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://divagr.com/blog/qwenputer",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/divagr18/qwenputer",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/RikiyaT/lm_understand-logs",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/divagr1925/status/2115394340357116169",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        }
+      ],
+      "wikiIds": [
+        "models-research",
+        "qwen"
+      ],
+      "wikiTitles": [
+        "Models & Research",
+        "Qwen"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer Models & Research Sovereign AI Club - November 11, 2026 2026-11-11 https://arxiv.org/abs/2611.10866 https://x.com/Jacklu_me/status/2120217064073830401 https://github.com/agentic-learning-ai-lab/deleting-weights https://huggingface.co/Jacklu0831/deletion-tuning-masks https://agenticlearning.ai/deleting-weights/ https://rikiyat.github.io/blog/weight-space-programming/ https://x.com/rikiyatakehi/status/2117313742891327994 https://github.com/RikiyaT/lm_understand-logs https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming https://divagr.com/blog/qwenputer https://x.com/divagr1925/status/2115394340357116169 https://github.com/divagr18/qwenputer https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer Models & Research Qwen"
     },
     {
       "id": "sovereign-ai-club-november-11-2026-models-research-latent-sparse-attention-cheaper-attention-at-10-million-tokens",
@@ -267208,79 +267462,6 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "OpenAI claims three discoveries, including a refutation of ETH Models & Research Sovereign AI Club - November 11, 2026 2026-11-11 https://openai.com/index/building-scientific-understanding-with-academic-communities/ https://x.com/gdb/status/2114837059462627533 https://x.com/danintheory/status/2114833683949764882 https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says AI Mathematics Models & Research OpenAI"
-    },
-    {
-      "id": "sovereign-ai-club-november-11-2026-models-research-weight-space-programming-and-qwenputer-write-model-weights-by-hand",
-      "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-      "rawTitle": "Weight-Space Programming and Qwenputer write model weights by hand",
-      "normalizedTitle": "weight-space programming and qwenputer write model weights by hand",
-      "section": "Models & Research",
-      "meetupId": "sovereign-ai-club-november-11-2026",
-      "meetupTitle": "Sovereign AI Club - November 11, 2026",
-      "meetupSlug": "2026-11-11",
-      "meetupHref": "/topics/2026-11-11.md",
-      "sourceLinks": [
-        "https://rikiyat.github.io/blog/weight-space-programming/",
-        "https://x.com/rikiyatakehi/status/2117313742891327994",
-        "https://github.com/RikiyaT/lm_understand-logs",
-        "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-        "https://divagr.com/blog/qwenputer",
-        "https://x.com/divagr1925/status/2115394340357116169",
-        "https://github.com/divagr18/qwenputer",
-        "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer"
-      ],
-      "sourceReferences": [
-        {
-          "href": "https://divagr.com/blog/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://github.com/divagr18/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://github.com/RikiyaT/lm_understand-logs",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://rikiyat.github.io/blog/weight-space-programming/",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://x.com/divagr1925/status/2115394340357116169",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        }
-      ],
-      "wikiIds": [
-        "models-research",
-        "qwen"
-      ],
-      "wikiTitles": [
-        "Models & Research",
-        "Qwen"
-      ],
-      "unresolvedWikiLinks": [],
-      "searchText": "Weight-Space Programming and Qwenputer write model weights by hand Models & Research Sovereign AI Club - November 11, 2026 2026-11-11 https://rikiyat.github.io/blog/weight-space-programming/ https://x.com/rikiyatakehi/status/2117313742891327994 https://github.com/RikiyaT/lm_understand-logs https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming https://divagr.com/blog/qwenputer https://x.com/divagr1925/status/2115394340357116169 https://github.com/divagr18/qwenputer https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer Models & Research Qwen"
     },
     {
       "id": "sovereign-ai-club-november-11-2026-security-cohere-says-qwen38-flash-next-tried-to-upload-to-a-beijing-bucket",
@@ -287882,39 +288063,6 @@
       "unresolvedWikiLinks": [],
       "searchText": "Revolut makes self-hosted GLM the default for 2,000 engineers Agent Infrastructure Sovereign AI Club - November 11, 2026 2026-11-11 https://ai.engineer/talks/Ok6QdZHCcI8-revolut-cut-ai-coding-costs-90-self https://x.com/guilleflorvs/status/2117379073785696395 Agent Infrastructure Claude Code Codex Coding Agents GLM Local AI Open Models"
     },
-    "sovereign-ai-club-november-11-2026-agent-infrastructure-t3-code-for-world-of-warcraft-puts-agent-threads-in-the-quest-tracker": {
-      "id": "sovereign-ai-club-november-11-2026-agent-infrastructure-t3-code-for-world-of-warcraft-puts-agent-threads-in-the-quest-tracker",
-      "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-      "rawTitle": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-      "normalizedTitle": "t3 code for world of warcraft puts agent threads in the quest tracker",
-      "section": "Agent Infrastructure",
-      "meetupId": "sovereign-ai-club-november-11-2026",
-      "meetupTitle": "Sovereign AI Club - November 11, 2026",
-      "meetupSlug": "2026-11-11",
-      "meetupHref": "/topics/2026-11-11.md",
-      "sourceLinks": [
-        "https://github.com/ryanrhughes/t3code-wow"
-      ],
-      "sourceReferences": [
-        {
-          "href": "https://github.com/ryanrhughes/t3code-wow",
-          "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
-          "section": "Agent Infrastructure"
-        }
-      ],
-      "wikiIds": [
-        "agent-infrastructure",
-        "coding-agents",
-        "omarchy"
-      ],
-      "wikiTitles": [
-        "Agent Infrastructure",
-        "Coding Agents",
-        "Omarchy"
-      ],
-      "unresolvedWikiLinks": [],
-      "searchText": "T3 Code for World of Warcraft puts agent threads in the quest tracker Agent Infrastructure Sovereign AI Club - November 11, 2026 2026-11-11 https://github.com/ryanrhughes/t3code-wow Agent Infrastructure Coding Agents Omarchy"
-    },
     "sovereign-ai-club-november-11-2026-big-tech-moves-jensen-huang-admits-an-affair-as-nvidias-board-investigates-spy-allegations": {
       "id": "sovereign-ai-club-november-11-2026-big-tech-moves-jensen-huang-admits-an-affair-as-nvidias-board-investigates-spy-allegations",
       "title": "Jensen Huang admits an affair as Nvidia's board investigates spy allegations",
@@ -288117,6 +288265,109 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Closed model releases Models & Research Sovereign AI Club - November 11, 2026 2026-11-11 https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ https://x.com/sundarpichai/status/2115489219804352921 https://x.com/Google/status/2120186185423159331 https://openai.com/index/introducing-gpt-6-cyber/ https://x.com/openai/status/2118390190246879554 https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ https://x.com/googledeepmind/status/2115114028338962672 https://x.com/mirendil/status/2114750800526446987 https://mirendil.com/news/introducing-fern/ https://x.com/RobertTLange/status/2114750025767219693 https://www.tbc.co/press-releases/neuron-derived-ai-video-model https://x.com/AlexKsendzovsky/status/2116153410101944352 Gemini Google Models & Research OpenAI World Models"
+    },
+    "sovereign-ai-club-november-11-2026-models-research-editing-weights-instead-of-retraining-deletion-tuning-astra-and-qwenputer": {
+      "id": "sovereign-ai-club-november-11-2026-models-research-editing-weights-instead-of-retraining-deletion-tuning-astra-and-qwenputer",
+      "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+      "rawTitle": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+      "normalizedTitle": "editing weights instead of retraining: deletion tuning, astra, and qwenputer",
+      "section": "Models & Research",
+      "meetupId": "sovereign-ai-club-november-11-2026",
+      "meetupTitle": "Sovereign AI Club - November 11, 2026",
+      "meetupSlug": "2026-11-11",
+      "meetupHref": "/topics/2026-11-11.md",
+      "sourceLinks": [
+        "https://arxiv.org/abs/2611.10866",
+        "https://x.com/Jacklu_me/status/2120217064073830401",
+        "https://github.com/agentic-learning-ai-lab/deleting-weights",
+        "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+        "https://agenticlearning.ai/deleting-weights/",
+        "https://rikiyat.github.io/blog/weight-space-programming/",
+        "https://x.com/rikiyatakehi/status/2117313742891327994",
+        "https://github.com/RikiyaT/lm_understand-logs",
+        "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
+        "https://divagr.com/blog/qwenputer",
+        "https://x.com/divagr1925/status/2115394340357116169",
+        "https://github.com/divagr18/qwenputer",
+        "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://agenticlearning.ai/deleting-weights/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://arxiv.org/abs/2611.10866",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://divagr.com/blog/qwenputer",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/agentic-learning-ai-lab/deleting-weights",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/divagr18/qwenputer",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://github.com/RikiyaT/lm_understand-logs",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/divagr1925/status/2115394340357116169",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/Jacklu_me/status/2120217064073830401",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
+          "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
+          "section": "Models & Research"
+        }
+      ],
+      "wikiIds": [
+        "models-research",
+        "qwen"
+      ],
+      "wikiTitles": [
+        "Models & Research",
+        "Qwen"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer Models & Research Sovereign AI Club - November 11, 2026 2026-11-11 https://arxiv.org/abs/2611.10866 https://x.com/Jacklu_me/status/2120217064073830401 https://github.com/agentic-learning-ai-lab/deleting-weights https://huggingface.co/Jacklu0831/deletion-tuning-masks https://agenticlearning.ai/deleting-weights/ https://rikiyat.github.io/blog/weight-space-programming/ https://x.com/rikiyatakehi/status/2117313742891327994 https://github.com/RikiyaT/lm_understand-logs https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming https://divagr.com/blog/qwenputer https://x.com/divagr1925/status/2115394340357116169 https://github.com/divagr18/qwenputer https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer Models & Research Qwen"
     },
     "sovereign-ai-club-november-11-2026-models-research-latent-sparse-attention-cheaper-attention-at-10-million-tokens": {
       "id": "sovereign-ai-club-november-11-2026-models-research-latent-sparse-attention-cheaper-attention-at-10-million-tokens",
@@ -288363,79 +288614,6 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "OpenAI claims three discoveries, including a refutation of ETH Models & Research Sovereign AI Club - November 11, 2026 2026-11-11 https://openai.com/index/building-scientific-understanding-with-academic-communities/ https://x.com/gdb/status/2114837059462627533 https://x.com/danintheory/status/2114833683949764882 https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says AI Mathematics Models & Research OpenAI"
-    },
-    "sovereign-ai-club-november-11-2026-models-research-weight-space-programming-and-qwenputer-write-model-weights-by-hand": {
-      "id": "sovereign-ai-club-november-11-2026-models-research-weight-space-programming-and-qwenputer-write-model-weights-by-hand",
-      "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-      "rawTitle": "Weight-Space Programming and Qwenputer write model weights by hand",
-      "normalizedTitle": "weight-space programming and qwenputer write model weights by hand",
-      "section": "Models & Research",
-      "meetupId": "sovereign-ai-club-november-11-2026",
-      "meetupTitle": "Sovereign AI Club - November 11, 2026",
-      "meetupSlug": "2026-11-11",
-      "meetupHref": "/topics/2026-11-11.md",
-      "sourceLinks": [
-        "https://rikiyat.github.io/blog/weight-space-programming/",
-        "https://x.com/rikiyatakehi/status/2117313742891327994",
-        "https://github.com/RikiyaT/lm_understand-logs",
-        "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-        "https://divagr.com/blog/qwenputer",
-        "https://x.com/divagr1925/status/2115394340357116169",
-        "https://github.com/divagr18/qwenputer",
-        "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer"
-      ],
-      "sourceReferences": [
-        {
-          "href": "https://divagr.com/blog/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://github.com/divagr18/qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://github.com/RikiyaT/lm_understand-logs",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://rikiyat.github.io/blog/weight-space-programming/",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://x.com/divagr1925/status/2115394340357116169",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        },
-        {
-          "href": "https://x.com/rikiyatakehi/status/2117313742891327994",
-          "title": "Weight-Space Programming and Qwenputer write model weights by hand",
-          "section": "Models & Research"
-        }
-      ],
-      "wikiIds": [
-        "models-research",
-        "qwen"
-      ],
-      "wikiTitles": [
-        "Models & Research",
-        "Qwen"
-      ],
-      "unresolvedWikiLinks": [],
-      "searchText": "Weight-Space Programming and Qwenputer write model weights by hand Models & Research Sovereign AI Club - November 11, 2026 2026-11-11 https://rikiyat.github.io/blog/weight-space-programming/ https://x.com/rikiyatakehi/status/2117313742891327994 https://github.com/RikiyaT/lm_understand-logs https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming https://divagr.com/blog/qwenputer https://x.com/divagr1925/status/2115394340357116169 https://github.com/divagr18/qwenputer https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer Models & Research Qwen"
     },
     "sovereign-ai-club-november-11-2026-security-cohere-says-qwen38-flash-next-tried-to-upload-to-a-beijing-bucket": {
       "id": "sovereign-ai-club-november-11-2026-security-cohere-says-qwen38-flash-next-tried-to-upload-to-a-beijing-bucket",
@@ -313792,10 +313970,6 @@
     },
     {
       "source": "omarchy",
-      "target": "sovereign-ai-club-november-11-2026"
-    },
-    {
-      "source": "omarchy",
       "target": "sovereign-ai-club-august-26-2026"
     },
     {
@@ -317212,10 +317386,6 @@
     },
     {
       "source": "sovereign-ai-club-november-11-2026",
-      "target": "omarchy"
-    },
-    {
-      "source": "sovereign-ai-club-november-11-2026",
       "target": "open-models"
     },
     {
@@ -320253,8 +320423,8 @@
           "local-ai",
           "open-source"
         ],
-        "degree": 16,
-        "updated": "2026-11-10"
+        "degree": 14,
+        "updated": "2026-08-26"
       },
       {
         "id": "open-models",
@@ -320984,7 +321154,7 @@
           "meetup",
           "topic-board"
         ],
-        "degree": 67,
+        "degree": 65,
         "updated": "2026-11-10"
       },
       {
@@ -327643,11 +327813,6 @@
       },
       {
         "source": "omarchy",
-        "target": "sovereign-ai-club-november-11-2026",
-        "kind": "topic"
-      },
-      {
-        "source": "omarchy",
         "target": "sovereign-ai-club-august-26-2026",
         "kind": "topic"
       },
@@ -331918,11 +332083,6 @@
       },
       {
         "source": "sovereign-ai-club-november-11-2026",
-        "target": "omarchy",
-        "kind": "topic"
-      },
-      {
-        "source": "sovereign-ai-club-november-11-2026",
         "target": "open-models",
         "kind": "topic"
       },
@@ -333710,11 +333870,11 @@
   },
   "stats": {
     "pageCount": 217,
-    "topicCount": 345,
+    "topicCount": 344,
     "rawPageCount": 0,
-    "linkCount": 2465,
+    "linkCount": 2463,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 1831,
+    "sourceLinkCount": 1835,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-10"
   }

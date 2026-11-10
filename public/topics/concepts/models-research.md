@@ -15,7 +15,7 @@ Biweekly model launches live under two official Release Roundup Topics titled ex
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Weight-Space Programming and Qwenputer write model weights by hand**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B retrains Qwen3.8-27B off the party line**.
+- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B retrains Qwen3.8-27B off the party line**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.
 

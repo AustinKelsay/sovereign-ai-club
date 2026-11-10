@@ -15,7 +15,7 @@ Qwen-Drive-1.0-4B supplies Apache-2.0 research artifacts for driving perception 
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Weight-Space Programming and Qwenputer write model weights by hand**, **Nous's Arete-27B retrains Qwen3.8-27B off the party line**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.
+- [[Sovereign AI Club - November 11, 2026]]: **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **Nous's Arete-27B retrains Qwen3.8-27B off the party line**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **ProjectDiscovery's $50 LoRA backdoor**, and **Perplexity Computer goes fully local on Mac**.
 

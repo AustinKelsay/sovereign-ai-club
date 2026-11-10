@@ -13,7 +13,7 @@ Coding Agents covers CLI agents, IDE-adjacent agents, local agent runtimes, agen
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers** and **T3 Code for World of Warcraft puts agent threads in the quest tracker**.
+- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, and **Reason Network lets your agents message your teammates' agents**.
 

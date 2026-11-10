@@ -1,10 +1,10 @@
 ---
 title: Omarchy
 created: 2026-08-26
-updated: 2026-11-10
+updated: 2026-08-26
 type: entity
 tags: [entity, product, coding-agents, agent-infrastructure, local-ai, open-source]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-08-26-link-records.md]
+sources: [raw/articles/2026-08-26-link-records.md]
 ---
 
 # Omarchy
@@ -13,7 +13,6 @@ Omarchy is DHH's opinionated Arch Linux distribution built on Hyprland and Quick
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **T3 Code for World of Warcraft puts agent threads in the quest tracker**.
 - [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**.
 
 ## Related
