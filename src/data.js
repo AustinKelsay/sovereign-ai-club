@@ -877,6 +877,25 @@ export const meetups = [
               "topStory": true
             },
             {
+              "title": "Node.js patches a Brotli RCE and three other High-severity bugs",
+              "description": "Node.js 22.23.4, 24.22.1, and 26.12.1, out today, fix 10 security bugs, four rated High: a remote-code bug in the Brotli decompressor, two ways an app could accept a certificate for the wrong host, and a DNS bug. End-of-life lines like 18 and 20 are affected and get no fix. Mark Gadala-Maria's viral post calls it a bombshell on the same day as PHP; Node TSC member Rafael Gonzaga answers that each of Node's last 10 security releases fixed High bugs, though his own chart shows today's four is the most.",
+              "href": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+              "linkPair": [
+                "https://nodejs.org/en/blog/release/v24.22.1"
+              ],
+              "embeds": [
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/markgadala/status/2112955022082207978"
+                },
+                {
+                  "type": "tweet",
+                  "href": "https://x.com/_rafaelgss/status/2113021935311634787"
+                }
+              ],
+              "notes": "Don't walk through the Brotli bug. The four Highs: CVE-2026-111497, the Brotli out-of-bounds write that Node says permits remote code execution, reported by Matteo Collina; CVE-2026-105483 and CVE-2026-106069, TLS hostname bypasses through IPs written in fullwidth digits and hosts that loosely resolve to an IP; and CVE-2026-105482, dns.resolve truncating names that contain a NUL character. The other six are medium or low. Node rates the RCE High, not Critical. The release also updates c-ares, OpenSSL, SQLite, and Undici, and drops the compromised eMudhra intermediate CA from Node's bundled certificates, which ties to the eMudhra topic. Gonzaga's chart counts High fixes per security release since April 2024: one each through May 2025, then two or three, and four today. Brockman's essay says OpenAI worked on a Node.js RCE announced today; Node's advisory credits Collina for the Brotli report and doesn't mention OpenAI. @nodejs hasn't posted about the release. The bombshell and emergency framing is Mark's."
+            },
+            {
               "title": "Self-hosted GitLab's critical bug reaches back to 2014",
               "description": "GitLab fixed a critical bug today that lets an attacker run their own code on a self-hosted GitLab server without logging in, and it reaches every version back to 7.0, from 2014. If you patched on October 12, you still need this update: 19.5.1, 19.4.3, or 19.3.6, with backports down to 18.11.13 for older servers. GitLab.com is already fixed, and this is the fourth bug in GitLab's regex engine that the same researcher, joaxcar, has reported in a month.",
               "href": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",

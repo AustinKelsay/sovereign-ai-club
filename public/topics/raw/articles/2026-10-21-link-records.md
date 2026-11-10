@@ -579,6 +579,17 @@ Event listings and Topic sources for [[Sovereign AI Club - October 21, 2026]]. E
 - **Node.js October 21, 2026 security releases** — https://nodejs.org/en/blog/vulnerability/october-2026-security-releases
   Type: vendor advisory. Accessed: 2026-10-21. Fixed in 22.23.4, 24.22.1, and 26.12.1. Ten CVEs, highest High, including CVE-2026-111497, a Brotli decoder out-of-bounds write that permits remote code execution. The advisory does not mention OpenAI; Brockman's essay says OpenAI worked on a Node.js RCE announced today.
 
+### Node.js patches a Brotli RCE and three other High-severity bugs
+
+- **Wednesday, October 21, 2026 Security Releases** — https://nodejs.org/en/blog/vulnerability/october-2026-security-releases
+  Type: vendor advisory. Accessed: 2026-10-21. Node.js 22.23.4, 24.22.1, and 26.12.1 fix 10 CVEs. Four are High: CVE-2026-105482, dns.resolve truncating names containing NUL; CVE-2026-105483, a TLS hostname bypass with fullwidth-digit IPs (26.x and 24.x); CVE-2026-106069, a TLS hostname bypass when the host loosely resolves to an IP; and CVE-2026-111497, a Brotli decoder out-of-bounds write that permits remote code execution, reported by mcollina and fixed by aduh95. The rest are medium or low. Also updates c-ares, the CA bundle for the eMudhra intermediate CA compromise, OpenSSL, SQLite, and Undici. Says end-of-life versions are always affected. Does not mention OpenAI.
+- **Node.js v24.22.1 release notes** — https://nodejs.org/en/blog/release/v24.22.1
+  Type: release notes. Accessed: 2026-10-21. One of the three October 21 security releases.
+- **Mark Gadala-Maria's post** — https://x.com/markgadala/status/2112955022082207978
+  Type: X post. Accessed: 2026-10-21. Submitted post. 17:11 UTC October 21, quoting his own PHP warning. Calls the release a security bombshell, lists 10 fixes with four High, the Brotli RCE, two TLS bypasses, the affected 22, 24, and 26 lines, end-of-life 18 and 20, and the fixed versions, and frames PHP and Node as the same day.
+- **Rafael Gonzaga's reply** — https://x.com/_rafaelgss/status/2113021935311634787
+  Type: X post. Accessed: 2026-10-21. Node.js TSC member, 21:37 UTC, quoting Mark's post. Says patching High-severity bugs is not uncommon and attaches a chart of High fixes in the last 10 security releases: one each from April 2024 through May 2025, two in July 2025, three in January 2026, two in March and June 2026, three in July 2026, and four in October 2026.
+
 ### Self-hosted GitLab's critical bug reaches back to 2014
 
 - **GitLab Critical Patch Release: 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13** — https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/
