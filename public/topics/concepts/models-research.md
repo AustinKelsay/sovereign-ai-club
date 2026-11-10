@@ -1,10 +1,10 @@
 ---
 title: Models & Research
 created: 2026-06-24
-updated: 2026-10-21
+updated: 2026-11-10
 type: concept
 tags: [concept, track, models-research, model]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Models & Research
@@ -14,6 +14,8 @@ Models & Research is the Sovereign AI Club track for model releases, benchmark s
 Biweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Weight-Space Programming and Qwenputer write model weights by hand**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B retrains Qwen3.8-27B off the party line**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.
 

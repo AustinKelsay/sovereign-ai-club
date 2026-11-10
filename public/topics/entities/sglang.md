@@ -1,10 +1,10 @@
 ---
 title: SGLang
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-11-10
 type: entity
 tags: [entity, tool, agent-infrastructure, inference-optimization]
-sources: [raw/articles/2026-09-30-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-09-30-link-records.md]
 ---
 
 # SGLang
@@ -15,6 +15,7 @@ The September 30 announcement demonstrates Qwen3.8-27B playing Pokémon and iden
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 11, 2026]]: **Latent Sparse Attention: cheaper attention at 10 million tokens**.
 - [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.
 
 ## Related

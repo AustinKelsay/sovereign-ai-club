@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog for the Sovereign AI Club Markdown Archive and LLM Wiki.
-> Last updated: 2026-11-02 | Total pages: 217
+> Last updated: 2026-11-10 | Total pages: 217
 
 ## Meetups
 
@@ -229,6 +229,8 @@
 - [[World Models]]
 
 ## Source Records
+
+- [November 11, 2026 source records](./raw/articles/2026-11-11-link-records.md)
 
 - [October 21, 2026 source records](./raw/articles/2026-10-21-link-records.md)
 

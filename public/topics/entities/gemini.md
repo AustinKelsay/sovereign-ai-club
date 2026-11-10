@@ -1,10 +1,10 @@
 ---
 title: Gemini
 created: 2026-07-08
-updated: 2026-09-30
+updated: 2026-11-10
 type: entity
 tags: [entity, model, big-tech-moves]
-sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md]
 ---
 
 # Gemini
@@ -15,6 +15,7 @@ On September 30, Google announced Gemini 4 Argon with initial access for trusted
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**.

@@ -1,10 +1,10 @@
 ---
 title: vLLM
 created: 2026-06-23
-updated: 2026-10-21
+updated: 2026-11-10
 type: entity
 tags: [entity, agent-infrastructure, open-source, local-ai]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md]
 ---
 
 # vLLM
@@ -13,6 +13,7 @@ vLLM is an open-source inference and serving stack for large language models, in
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 11, 2026]]: **FlashState more than doubles vLLM throughput on hybrid models**.
 - [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s** and **Specialized engines and recipes run Qwen and DeepSeek at home**.
 - [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.
 - [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**.

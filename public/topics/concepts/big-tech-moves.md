@@ -1,10 +1,10 @@
 ---
 title: Big Tech Moves
 created: 2026-06-24
-updated: 2026-10-20
+updated: 2026-11-10
 type: concept
 tags: [concept, track, big-tech-moves]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Big Tech Moves
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-
 Big Tech Moves is the Sovereign AI Club track for major company strategy, compute deals, hardware, product-platform shifts, acquisitions, policy, energy, and infrastructure moves that change the AI builder landscape.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.
 

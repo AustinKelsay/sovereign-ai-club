@@ -1,10 +1,10 @@
 ---
 title: Unsloth
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-11-10
 type: entity
 tags: [entity, company, local-ai, open-source, inference-optimization]
-sources: [raw/articles/2026-10-21-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md]
 ---
 
 # Unsloth
@@ -13,6 +13,7 @@ Unsloth publishes Dynamic GGUF quantizations and a desktop app for running open 
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 11, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**.
 
 ## Related

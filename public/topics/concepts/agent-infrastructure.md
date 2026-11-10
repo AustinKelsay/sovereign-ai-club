@@ -1,10 +1,10 @@
 ---
 title: Agent Infrastructure
 created: 2026-05-05
-updated: 2026-10-21
+updated: 2026-11-10
 type: concept
 tags: [concept, track, agent-infrastructure]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Agent Infrastructure
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-
 Agent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **T3 Code for World of Warcraft puts agent threads in the quest tracker**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.
 

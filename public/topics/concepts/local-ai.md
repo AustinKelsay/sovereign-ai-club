@@ -1,10 +1,10 @@
 ---
 title: Local AI
 created: 2026-05-05
-updated: 2026-10-21
+updated: 2026-11-10
 type: concept
 tags: [concept, local-builds, open-source, privacy]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Local AI
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-
 Local AI covers models, tools, laptops, desktop apps, and privacy-preserving workflows that run close to the user instead of depending entirely on hosted inference.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers** and **Open model releases**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **Perplexity Computer goes fully local on Mac**, **dax's OpenTunnel keeps TLS on your machine**, and **Open model releases**.
 

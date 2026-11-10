@@ -1,10 +1,10 @@
 ---
 title: Compute Strategy
 created: 2026-05-05
-updated: 2026-09-08
+updated: 2026-11-10
 type: concept
 tags: [concept, big-tech-moves, models-research]
-sources: [raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md]
 ---
 
 # Compute Strategy
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-
 Compute Strategy covers how labs, cloud providers, and model teams secure the hardware, energy, inference efficiency, and deployment pathways needed to make AI systems viable.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.
 
 - [[Sovereign AI Club - September 9, 2026]]: **Rubin and Groq LPUs split the inference workload**, **Intel Crescent Island: 160GB card, up to 480GB for partners**.
 

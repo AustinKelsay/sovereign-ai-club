@@ -1,10 +1,10 @@
 ---
 title: Supply Chain Security
 created: 2026-05-05
-updated: 2026-10-19
+updated: 2026-11-10
 type: concept
 tags: [concept, security, agent-infrastructure]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-01-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-01-link-records.md]
 ---
 
 # Supply Chain Security
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-
 Supply Chain Security covers dependency compromise, leaked build artifacts, malicious packages, credential exfiltration, and AI tooling that inherits trust from developer environments.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - November 11, 2026]]: **Encrypted lockers can hide a capability inside model weights**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, and **ProjectDiscovery's $50 LoRA backdoor**.
 

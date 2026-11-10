@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-10] create | November 11 topic board curated
+
+- Authored the November 11 Topic Board from 25 submitted links plus the Jensen Huang story: 16 Topics across Agent Infrastructure, Models & Research, Security, and Big Tech Moves, each held to one or two spoken sentences with the detail in Presenter Notes. Searched the last three boards for every subject; the Railway Topic revisits October 21 on Railway's November 10 incident report, and the OpenAI discoveries Topic follows the October 21 math Topic. Spy allegations, incident attributions, and maker benchmarks stay attributed, and two openai.com pages that blocked automated reading are marked as read through news reports. Added source records, Meetup Data with a welcome slide, Mentioned In entries on 33 existing entity and concept pages, and updated the Railway, Cohere, and NVIDIA pages. No new wiki pages; no new subject was recurring.
+
 ## [2026-11-03] listings | Computer Club November 11 RSVP published
 
 - Published and verified Austin Computer Club event 317271436 for November 11, 5:30–7:30 PM CST, at Bitcoin Park Austin, with the reschedule notice and current website link. Added its RSVP link to the November 11 record and Meetup Data. Live browser checks supersede the older fetch snapshots: Bitcoin Park's November 4 event is canceled, and its old Luma URL returns 404. November 11 replacements on those two calendars require organizer access. Left the separate November 18 gathering intact and sent no optional member announcements.

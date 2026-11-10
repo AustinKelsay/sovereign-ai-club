@@ -1,10 +1,10 @@
 ---
 title: Inference Optimization
 created: 2026-06-24
-updated: 2026-10-21
+updated: 2026-11-10
 type: concept
 tags: [concept, models-research, agent-infrastructure, local-ai]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Inference Optimization
@@ -12,6 +12,8 @@ sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-
 Inference Optimization covers the practical work of making AI systems cheaper, faster, smaller, and runnable: memory bandwidth, KV-cache compression, quantization, speculative decoding, serving runtimes, and custom inference hardware.
 
 ## Mentioned In
+
+- [[Sovereign AI Club - November 11, 2026]]: **FlashState more than doubles vLLM throughput on hybrid models** and **Latent Sparse Attention: cheaper attention at 10 million tokens**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **TensorFold vs. oMLX on an M5 Ultra Studio**.
 

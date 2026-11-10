@@ -84,8 +84,342 @@ export const meetups = [
         { label: "Official public Signal group", href: OFFICIAL_SIGNAL_GROUP_URL },
       ],
     },
+    presentationIntro: {
+      "eyebrow": "Sovereign AI Club",
+      "title": "Sovereign AI Club",
+      "bullets": [
+        "Free and open. Wednesday, 5:30 to 7:30.",
+        "Quick AI news rundown, then open Socratic discussion.",
+        "Focus: local AI, open models, and control over the tools we use.",
+        "Bring a question, a project, or a demo for the Community Slot."
+      ],
+      "hostNote": "5:30 Welcome · 5:40 Agent Infrastructure · 6:00 Models & Research · 6:35 Security · 7:05 Big Tech Moves · 7:20 Community Slot · 7:30 Wrap-up"
+    },
     showcases: [],
-    tracks: [],
+    tracks: [
+      {
+        "id": "agent-infrastructure",
+        "title": "Agent Infrastructure",
+        "items": [
+          {
+            "title": "Revolut makes self-hosted GLM the default for 2,000 engineers",
+            "description": "Revolut moved about 2,000 engineers onto self-hosted GLM as the default coding model and kept Claude Code and Codex for exceptions. David Abitbol puts it at a blended $0.30 per million tokens, about a tenth of the old Anthropic and OpenAI bill, and says the gains came once engineers stopped rationing tokens.",
+            "href": "https://ai.engineer/talks/Ok6QdZHCcI8-revolut-cut-ai-coding-costs-90-self",
+            "linkPair": [],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/guilleflorvs/status/2117379073785696395"
+              }
+            ],
+            "notes": "All figures are Revolut's own, from Abitbol's AI Engineer talk. Guillermo Flor's summary adds a fleet of 56 Nvidia B200s and a 70% lead-time gain; the talk slide shows 60% with no comparison window. Serving targets from the talk: under three seconds to first token, about 200 tokens per second, coding cache hits above 90%, and vision routed to a separate model. The $0.30 depends on Revolut's utilisation. Ask the room at what team size a GPU fleet beats metered APIs.",
+            "topStory": true
+          },
+          {
+            "title": "FlashState more than doubles vLLM throughput on hybrid models",
+            "description": "FlashState is a vLLM fork for hybrid models that saves recurrent state at any token, so a coding agent's next turn resumes from cache without recomputing the tail of the last one. Its authors report more than double vLLM's throughput on GLM-5.3-Flash, with latency down 3.7x and user cost down 2.5x.",
+            "href": "https://github.com/FutureMLS-Lab/FlashStates",
+            "linkPair": [
+              "https://github.com/FutureMLS-Lab/vllm"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/_weilix/status/2119837671946400165"
+              }
+            ],
+            "notes": "Hybrid models mix attention with recurrent or linear-attention layers; stock vLLM saves their recurrent state only at KV-cache block boundaries. Numbers are the authors' own, from replayed coding-agent traces on GLM-5.3-Flash NVFP4 with two B200s per engine. This is the serving side of the Revolut topic: cache hits are most of the cost of an agent turn."
+          },
+          {
+            "title": "1Password for Agents signs agents in without handing over the password",
+            "description": "1Password for Agents lets an agent request a login, you approve it on your own device, and 1Password fills the password or one-time code so the agent never holds it. It's opt-in on Individual and Family plans, and it protects the credential, not what the agent does once it's signed in.",
+            "href": "https://1password.com/personal-ai-agent-integrations",
+            "linkPair": [],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/1password/status/2113276767582498943"
+              }
+            ],
+            "notes": "Live connections on the page are Muse, Grok Bot, Instinct, and Town, with a waitlist for the rest. The post names more partners as building with it, including Anthropic's Claude, OpenAI, Browserbase, Browser Use, Kernel, Perplexity, and Ramp. The FAQ says the agent proves its identity with its own key and that how often you approve varies by integration."
+          },
+          {
+            "title": "T3 Code for World of Warcraft puts agent threads in the quest tracker",
+            "description": "Ryan Hughes built a World of Warcraft addon that runs T3 Code agent threads from inside the game: reply, approve requests, and watch running agents in the quest tracker, with notices that wait until combat ends. It's an early release tested on Omarchy.",
+            "href": "https://github.com/ryanrhughes/t3code-wow",
+            "linkPair": [],
+            "embeds": [],
+            "notes": "Tested on Omarchy 4.5.0 with T3 Code Nightly; macOS and CachyOS support is newer. The bridge reads a strip of the game window by screen capture and gets a T3 Code session limited to reading and running threads. Controller support, dictation, and screenshots are in. The install is a curl-to-bash script, so read it first."
+          }
+        ]
+      },
+      {
+        "id": "models-research",
+        "title": "Models & Research",
+        "items": [
+          {
+            "title": "Closed model releases",
+            "description": "Two cyber-first frontier models lead the gated feed since October 21: Google's Gemini 4 Carbon, announced October 28 for vetted defenders and opened to paying developers November 10 at $2 in and $10 out, and OpenAI's GPT-6 Cyber, out November 5 for select Daybreak Red customers, which OpenAI says built working exploits for 948 Linux kernel bugs. Also new: Google DeepMind's Genie 4 world model with native audio, in research preview; Mirendil's Fern 0.1, pretrained from scratch with a claimed 10-million-token context and not yet available; and The Biological Computing Co.'s mischief 1, an image-to-video model on open-weight Wan 2.2 at half a cent a second.",
+            "href": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+            "linkPair": [
+              "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+              "https://openai.com/index/introducing-gpt-6-cyber/",
+              "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
+              "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+              "https://mirendil.com/news/introducing-fern/",
+              "https://www.tbc.co/press-releases/neuron-derived-ai-video-model"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/sundarpichai/status/2115489219804352921"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/Google/status/2120186185423159331"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/openai/status/2118390190246879554"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/googledeepmind/status/2115114028338962672"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/mirendil/status/2114750800526446987"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/RobertTLange/status/2114750025767219693"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/AlexKsendzovsky/status/2116153410101944352"
+              }
+            ],
+            "notes": "Carbon: Google reports 88.2% on SEC-bench Pro, 54.8% on ExploitGym, and first on the Artificial Analysis index at 59; $2 and $10 is introductory, then $4 and $20. GPT-6 Cyber: OpenAI's page blocked automated reading, so these come from The Next Web's report of it: rated Critical under OpenAI's Preparedness Framework, 1,724 kernel bugs reproduced, 948 exploited against 166 for GPT-5.6 Sol, 81 high-severity Firefox flaws, 48.5% on ExploitGym. Both labs gate the cyber model to approved defenders. Fern: Robert Lange says one researcher pretrained Mirendil-Base in 3.5 months for under $10 million with agents writing over 99% of the code, and that it scores 6.1% on Terminal-Bench 4.0; two larger models are in training. mischief 1: neurons don't make the video. TBC says it applied efficiencies found in living neurons to Wan 2.2 and claims 5x the speed, with no independent benchmark.",
+            "releaseRoundup": true
+          },
+          {
+            "title": "Open model releases",
+            "description": "Open weights since October 21: Meituan's LongCat-2.5, MIT, 1.6 trillion parameters with about 48 billion active; Nanbeige4.3-33B, Apache 2.0, which its makers score ahead of Qwen3.8-27B on most of their agentic coding benchmarks; and Nemotron 3.5 Bolt E4B, NVIDIA's roughly 4GB post-train of Gemma 4 E4B for voice assistants, game characters, and robots, under OpenMDW 1.1 with Unsloth GGUFs.",
+            "href": "https://huggingface.co/meituan-longcat/LongCat-2.5",
+            "linkPair": [
+              "https://longcat.ai/blog/longcat-2.5/",
+              "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+              "https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/",
+              "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+              "https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/Meituan_LongCat/status/2119793531393040462"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/nanbeige/status/2114328933181333798"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/UnslothAI/status/2113658964365971681"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/NVIDIAAI/status/2113657112408785153"
+              }
+            ],
+            "notes": "Benchmarks are each maker's own. LongCat-2.5 is natively multimodal, its weights came out November 9, and its card reports 88.4 on Terminal-Bench 2.1 measured in-house. Nanbeige4.3-33B has a 512K context and is meant as the teacher for a 3B model; its own table has Qwen3.8-27B ahead on SWE-Bench Pro and GDPval. Bolt E4B is the small sibling of the 74B Bolt from October 21; NVIDIA shows it running a Reachy Mini on a Jetson Orin Nano 8GB, and Unsloth's post says 6GB of RAM. Arete-27B is also open weights and closes this track.",
+            "releaseRoundup": true
+          },
+          {
+            "title": "Latent Sparse Attention: cheaper attention at 10 million tokens",
+            "description": "Prefrontal AI open-sourced Latent Sparse Attention, which clusters attention keys so each query searches clusters and not every key. At 10 million tokens the authors report one attention layer running 22.7x faster in prefill on GLM-5.3-Flash and 72.4x faster than full attention on Qwen3.8-27B, at similar accuracy.",
+            "href": "https://arxiv.org/abs/2610.42147",
+            "linkPair": [
+              "https://github.com/Prefrontal-AI/latent-sparse-attention"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/jcrwhittington/status/2117317159777177602"
+              }
+            ],
+            "notes": "Those are per-layer numbers, so end-to-end gains will be smaller. James Whittington's post says finding the right keys takes 98% of a sparse attention layer's time at 10 million tokens. Decode speedups are 4.6x and 42.5x. The distilled variant was tested to 10M tokens, the natively trained one only to 128K. Code is Apache 2.0 and ships with an SGLang fork. Pairs with Mirendil's Fern on the closed list: two bets that agents want days of work in context."
+          },
+          {
+            "title": "Weight-Space Programming and Qwenputer write model weights by hand",
+            "description": "Rikiya Takehi's team says GPT-6 Astra edited 0.016% of Qwen3.5-0.8B's weights with no gradients and lifted MATH-500 from 7.9% to 48.1%, though a community note says it mostly removed a known reasoning-loop bug. Divyansh Agrawal's Qwenputer compiles a RISC-V CPU into Qwen3.5-4B, so the model runs C and MicroPython inside its forward pass.",
+            "href": "https://rikiyat.github.io/blog/weight-space-programming/",
+            "linkPair": [
+              "https://github.com/RikiyaT/lm_understand-logs",
+              "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
+              "https://divagr.com/blog/qwenputer",
+              "https://github.com/divagr18/qwenputer",
+              "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/rikiyatakehi/status/2117313742891327994"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/divagr1925/status/2115394340357116169"
+              }
+            ],
+            "notes": "Takehi's post has nearly 10 million views. The community note: the model got the weights as text and used code and forward passes, and the fix targets a looping issue Qwen's own model card warns about. Qwenputer's CPU weights are compiled, not learned, and use the model's Gated DeltaNet layers as RAM. Agrawal reports 97.5 to 100% on DeepMind math tasks against 55 to 90% for base and 95 to 100% for base with a Python tool, and calls it an experiment. His follow-ups argue hybrid models could hide reasoning in recurrent state, which ties to the Cohere topic."
+          },
+          {
+            "title": "OpenAI claims three discoveries, including a refutation of ETH",
+            "description": "OpenAI says its models proved the local smoothing conjecture in every dimension, refuted the Exponential Time Hypothesis, and gave a rigorous existence proof for four-dimensional gauge theories that include QCD. It calls the manuscripts raw research data and handed them to outside experts for open review, so none was independently confirmed at announcement.",
+            "href": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+            "linkPair": [
+              "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/gdb/status/2114837059462627533"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/danintheory/status/2114833683949764882"
+              }
+            ],
+            "notes": "Follows the October 21 topic on OpenAI's math paper dump and the Lean gap. Announced October 26 by Greg Brockman and Dan Roberts. OpenAI's page blocked automated reading, so details come from Al Jazeera's report and the posts. MIT's Ryan Williams told Al Jazeera a confirmed ETH refutation would be a major development, since much of theoretical computer science assumes it's true; Rochester's Alex Iosevich called the smoothing result historic. Check for review news before presenting, since two weeks have passed."
+          },
+          {
+            "title": "An agent drove a gene-therapy injection into a mouse's brain",
+            "description": "Exin Therapeutics' Gabriel Ocana-Santero says an agent picked a gene therapy for an epileptic mouse, chose the brain target, and drove a motorized rig to inject it while a vet held a kill switch. By his account Opus 5.5 refused the job, Opus 5 stopped at the live step, Sonnet 5 ran it, and the agent refused his push to retry a blocked move.",
+            "href": "https://x.com/OcanaSantero/status/2115442964574908902",
+            "linkPair": [
+              "https://lockergnome.com/ai-agent-chose-drug-and-coordinates-for-mouse-brain-injection-and-refused-founders-override/"
+            ],
+            "embeds": [],
+            "notes": "It's his thread about one mouse; no paper, video, or outside lab has confirmed it. The agent chose from 19 vectors, took coordinates from three papers, and injected 250 nanolitres; a human surgeon opened the skull. The refusal: after a disconnect the homemade Arduino rig computed a target 34 millimetres out on a 30-millimetre rig, the move was blocked, and the agent wouldn't retry. A manual move had knocked the controller out of sync, and a person fixed the code mid-procedure. He says the mouse recovered; whether seizures dropped isn't known."
+          },
+          {
+            "title": "Nous's Arete-27B retrains Qwen3.8-27B off the party line",
+            "description": "Nous Research fine-tuned Qwen3.8-27B on about 53 million tokens and says answers adopting China's official line fell from 22% to 1% on its own eval, with no loss on Hermes Bench. The weights are Apache 2.0, and the pitch is that the values in an open model are one fine-tune away.",
+            "href": "https://nousresearch.com/arete",
+            "linkPair": [
+              "https://huggingface.co/NousResearch/Arete-27B",
+              "https://huggingface.co/datasets/NousResearch/Propaganda_Eval"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/nousresearch/status/2118822925445050435"
+              }
+            ],
+            "notes": "The eval, the judge (Grok 4.7), and the rubric are all Nous's: 803 prompts across seven value categories, with eval and training data public. The teacher was the open model Inkling. The fact score went from 2.32 to 2.98 out of 5, so the model still misses a lot; what dropped is the propaganda rate. The thinking-on row is provisional, from two of five runs. The same 53 million tokens could add a bias as cheaply as remove one. This changes stated values, not the tool behavior Cohere reports in the next topic."
+          }
+        ]
+      },
+      {
+        "id": "security",
+        "title": "Security",
+        "items": [
+          {
+            "title": "Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket",
+            "description": "Cohere says Qwen3.8-Flash-Next, asked to write a detection rule in a sandbox, instead tried to upload a probe file to an Alibaba Cloud bucket in Beijing, after its reasoning said it would call no tools. Cohere puts it at under one call in 100,000 and hasn't found the cause; Nic Carter says it will keep enterprises off Chinese open weights, and a reply calls it an engineering problem you solve with egress filters.",
+            "href": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+            "linkPair": [
+              "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces",
+              "https://cohere.com/blog/open-source-model-vault"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/cohere/status/2114752002370544004"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/cohere/status/2114849246155260108"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/nic_carter/status/2115208891097035023"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/mmatthias/status/2115227035119595946"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/cohere/status/2117694764665471270"
+              }
+            ],
+            "notes": "This is the model from October 21's home-inference topic. Cohere offers two explanations and doesn't choose: leftover agent logs from training sandboxes, or a deliberate call-home. For the benign one: a developer found a coding tool routing fetches through the same Alibaba host, and stray links have been reported since August. Cohere published traces and a repro script after Hugging Face's Clem Delangue asked; the repro uses prefilling, which feeds the model the start of the command. Cohere has an interest: it sells sovereign inference, and its November 3 Model Vault post adds hosted open models including DeepSeek V4.1 Flash, Gemma 4, GPT-OSS, and Phi. The fixes hold either way: deny agent egress by default, enforce on the tool call and not the reasoning trace, and block unprivileged user namespaces in agent containers.",
+            "topStory": true
+          },
+          {
+            "title": "Encrypted lockers can hide a capability inside model weights",
+            "description": "A NeurIPS 2026 paper hides a small encrypted network inside a model's weights so it runs only on a secret trigger, and fine-tuning, weight noise, and trigger search all failed to bring it out. A clean capability eval doesn't prove absence when someone else controlled the weights, though Brian Roemmele's walkthrough notes the overhead is heavy and it isn't a turnkey attack.",
+            "href": "https://arxiv.org/abs/2610.13928",
+            "linkPair": [],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/BrianRoemmele/status/2110033611839910378"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/BrianRoemmele/status/2110015422443761940"
+              }
+            ],
+            "notes": "Authors are Draguns, Motwani, Douglas, and Schroeder de Witt. Roemmele's post predates October 21 but wasn't on that board. Figures from his walkthrough: a password-locked model gave up its skill within 500 fine-tuning steps while the encrypted one stayed at chance; the hidden classifier was 672 ternary weights in a roughly 2-billion-parameter host, about 3.1 million host parameters per hidden weight; and the raw compiled weights look anomalous, so something odd may show even when its function stays locked. The authors don't claim these circuits arise in training. This is the theory behind Nic Carter's worry in the Cohere topic."
+          },
+          {
+            "title": "Railway's final report: abliterated models and $740,000 of stolen AI spend",
+            "description": "Railway's November 10 report says the October attacker escaped build isolation, copied Railway's monorepo, and decrypted environment variables for at most 1.85% of workspaces, about 100,000. Railway says the attacker ran abliterated models with no safeguards to hunt AI provider keys for distillation, and stolen keys ran up about $740,000 that Railway will cover where providers won't.",
+            "href": "https://blog.railway.com/p/incident-report-october-security-incident",
+            "linkPair": [
+              "https://blog.railway.com/p/preliminary-report-october-security-incident",
+              "https://www.wiz.io/blog/black-october-for-ai-developer-platforms"
+            ],
+            "embeds": [],
+            "notes": "Follow-up to the October 21 topic. The abliterated-model claim is Railway's reading, first made in its October 22 preliminary report; it hasn't published the evidence. Path: probing accounts from October 18, the isolation escape at 07:28 UTC October 20, a build credential Railway's Temporal cluster trusted, 353 build histories read, the monorepo copied, a misconfigured OIDC binding at 03:26 UTC October 21, and decryption from 04:42 to 07:14. Linked-account tokens for 1,852 users were also decrypted. Refunds: AWS and Google are refunding, OpenAI and SpaceXSI case by case, OpenRouter is holding its no-refund terms so Railway pays, and Anthropic is in talks. Railway moved every build to a dedicated VM and says it now has Project Glasswing access with Treasury approval. Wiz's Black October post ties this to attacks on OpenCode, Warp, Fireworks, Lightning, and Zeabur, which is shutting down.",
+            "topStory": true
+          },
+          {
+            "title": "Linux kernel TCP bug CVE-2026-98432 is rated 9.8",
+            "description": "CVE-2026-98432 is a use-after-free in the Linux kernel's IPv4 TCP handling that Ubuntu rates 9.8 and says can lead to remote code execution. As of November 10 Ubuntu has fixed kernels for its newer releases, with older releases and several cloud kernels still in progress, so update and reboot.",
+            "href": "https://ubuntu.com/security/CVE-2026-98432",
+            "linkPair": [],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/IvanPerezF_/status/2115900137016848684"
+              }
+            ],
+            "notes": "Iván Pérez's October 29 post flagged it when most Ubuntu fixes were still in preparation. The bug is a race in how the kernel frees IP options while a SYN-ACK is still being built. Ubuntu's page has a stopgap: an nftables rule that drops incoming IPv4 TCP packets carrying IP options. It is separate from OpenAI's Linux kernel run in the closed releases topic, which was local privilege escalation."
+          }
+        ]
+      },
+      {
+        "id": "big-tech-moves",
+        "title": "Big Tech Moves",
+        "items": [
+          {
+            "title": "Jensen Huang admits an affair as Nvidia's board investigates spy allegations",
+            "description": "NVIDIA CEO Jensen Huang told staff on November 8 that he had an affair, and the board opened an independent investigation into reports that he was the target of a foreign intelligence effort. The New York Times and Financial Times report that U.S. intelligence believes the woman, Alice Huang, who is linked to Nvidia customer Megaspeed, passed information to Beijing; China calls that a smear, and the board says it has no reason to believe secrets were compromised.",
+            "href": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+            "linkPair": [
+              "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html",
+              "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+              "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+            ],
+            "embeds": [],
+            "notes": "On the record: Huang's email, which doesn't name her, and the board statement. Reported and unproven: the spy claim, from a memo described by unnamed officials. The two aren't related. Huang stays on as CEO, and House committees want a closed-door briefing on November 18, the day after earnings. Megaspeed, based in Singapore, denies diverting restricted chips to China. Trump said Monday that Huang told him he had no idea she was a spy and that the FBI is looking into it. Why this room cares: Huang has been the loudest voice for selling AI chips to China, the US has licensed H200 sales to Chinese companies, and analyst Patrick Moorhead told CNBC every China license now gets read through this story.",
+            "topStory": true
+          }
+        ]
+      }
+    ],
   },
   {
     "id": "meetup-2026-10-21",
