@@ -1,7 +1,7 @@
 ---
 title: Open Models
 created: 2026-05-05
-updated: 2026-11-10
+updated: 2026-11-11
 type: concept
 tags: [concept, models-research, open-source]
 sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -15,7 +15,7 @@ On Meetup boards, the biweekly open-weight launch catalog lives under the offici
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B retrains Qwen3.8-27B off the party line**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.
+- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.
 

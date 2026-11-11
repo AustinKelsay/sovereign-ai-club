@@ -1,11 +1,11 @@
 # Wiki Index
 
 > Content catalog for the Sovereign AI Club Markdown Archive and LLM Wiki.
-> Last updated: 2026-11-10 | Total pages: 217
+> Last updated: 2026-11-11 | Total pages: 217
 
 ## Meetups
 
-- [[Sovereign AI Club - November 18, 2026]]
+- [[Sovereign AI Club - November 25, 2026]]
 
 - [[Sovereign AI Club - November 11, 2026]]
 

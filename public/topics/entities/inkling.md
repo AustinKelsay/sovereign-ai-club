@@ -1,7 +1,7 @@
 ---
 title: Inkling
 created: 2026-07-22
-updated: 2026-11-10
+updated: 2026-11-11
 type: entity
 tags: [entity, model, models-research, open-source]
 sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-07-22-link-records.md]
@@ -9,11 +9,11 @@ sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-07-22-link-
 
 # Inkling
 
-Inkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts model with 975B total parameters, 41B active parameters, and a million-token context window.
+Inkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts model with 975B total parameters, 41B active parameters, and a million-token context window. Its successor, Inkling 2 Small (594B total, 17B active), launched November 5 on Tinker with closed weights; Thinking Machines says the Apache 2.0 weights follow after external safety testing.
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Nous's Arete-27B retrains Qwen3.8-27B off the party line**.
+- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.
 - [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.
 
 ## Related

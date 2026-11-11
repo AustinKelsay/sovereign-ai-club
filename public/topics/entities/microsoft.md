@@ -1,7 +1,7 @@
 ---
 title: Microsoft
 created: 2026-05-05
-updated: 2026-11-10
+updated: 2026-11-11
 type: entity
 tags: [entity, company, agent-infrastructure, security]
 sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-09-09-link-records.md]
@@ -13,11 +13,11 @@ Microsoft is a recurring Sovereign AI Club entity for agent frameworks, AI gover
 
 September 2026 downloadable releases include [[VibeVoice]] streaming ASR and SQuadGen’s quad-layout generation checkpoint. SQuadGen’s paper predates the new weight upload.
 
-In November 2026, Microsoft Research and the Microsoft AI Red Team published Lazarus, which backdoors an agent by rewriting fewer than ten dormant neurons without training, alongside an agent-built weight scan as the defense.
+In November 2026, Microsoft Research and the Microsoft AI Red Team published Lazarus, which backdoors an agent by rewriting fewer than ten dormant neurons without training, alongside an agent-built weight scan as the defense. Its November 10 Patch Tuesday fixed CVE-2026-124194, an exploited Outlook bug that leaks NTLM hashes when a crafted message file is opened, credited to a researcher using Claude.
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Open model releases** and **Lazarus and encrypted lockers hide backdoors in model weights**.
+- [[Sovereign AI Club - November 11, 2026]]: **Open model releases**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **Patch list: the CVEs attackers used in the last three weeks**.
 - [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - August 26, 2026]]: **CoSnitch turns Copilot memory into persistent attacker state**.
 - [[Sovereign AI Club - August 5, 2026]]: **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**.

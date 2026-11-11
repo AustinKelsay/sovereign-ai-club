@@ -71,10 +71,10 @@ describe("buildCalendarEntries", () => {
     vi.setSystemTime(new Date("2026-09-07T12:00:00-05:00"));
     const entries = buildCalendarEntries(meetups, 6);
     expect(entries.map((entry) => entry.slug)).toEqual([
-      "2026-09-09", "2026-09-30", "2026-10-21", "2026-11-11", "2026-11-18", "2026-12-02",
+      "2026-09-09", "2026-09-30", "2026-10-21", "2026-11-11", "2026-11-25", "2026-12-09",
     ]);
     expect(entries[0].kind).toBe("authored");
-    expect(entries[5].event.startAt).toBe("2026-12-02T23:30:00.000Z");
+    expect(entries[5].event.startAt).toBe("2026-12-09T23:30:00.000Z");
   });
 
 });
@@ -180,10 +180,10 @@ describe("authored Sovereign AI Club event metadata", () => {
     expect(entries[0].event.listings).toHaveLength(4);
     expect(getNextSubmissionTarget(meetups).slug).toBe("2026-10-21");
     expect(entries[1]).toMatchObject({ kind: "authored", slug: "2026-11-11" });
-    expect(entries[2]).toMatchObject({ kind: "authored", slug: "2026-11-18" });
+    expect(entries[2]).toMatchObject({ kind: "authored", slug: "2026-11-25" });
     expect(entries[3]).toMatchObject({
-      kind: "generated", slug: "2026-12-02",
-      event: { locationName: "Bitcoin Park Austin", startAt: "2026-12-02T23:30:00.000Z" },
+      kind: "generated", slug: "2026-12-09",
+      event: { locationName: "Bitcoin Park Austin", startAt: "2026-12-09T23:30:00.000Z" },
     });
     expect(entries[3].event.listings).toBeUndefined();
     expect(entries[3].event.summary).toContain("not confirmed");

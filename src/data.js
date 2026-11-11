@@ -43,22 +43,20 @@ function xArticle(article) {
 
 export const meetups = [
   {
-    id: "meetup-2026-11-18",
-    slug: "2026-11-18",
-    date: "November 18, 2026",
-    markdownHref: "./topics/2026-11-18.md",
+    id: "meetup-2026-11-25",
+    slug: "2026-11-25",
+    date: "November 25, 2026",
+    markdownHref: "./topics/2026-11-25.md",
     event: {
       title: "Sovereign AI Club Austin: Local AI & Open Models",
-      summary: "A Socratic discussion of recent AI news and research, with a focus on local AI, open models, and control over the tools we use. Free admission. Someone will greet you at the main door; take the elevator to the second floor.",
-      startAt: "2026-11-18T17:30:00-06:00",
-      endAt: "2026-11-18T19:30:00-06:00",
+      summary: "Moved from November 18 to November 25. A Socratic discussion of recent AI news and research, with a focus on local AI, open models, and control over the tools we use. Free admission. Someone will greet you at the main door; take the elevator to the second floor.",
+      startAt: "2026-11-25T17:30:00-06:00",
+      endAt: "2026-11-25T19:30:00-06:00",
       timezone: "America/Chicago",
       locationName: "Bitcoin Park Austin",
       locationAddress: "601 Congress Avenue, Suite 250, Austin, TX 78701",
       reminderSendHour: 10,
       listings: [
-        { label: "Register on Luma", href: "https://luma.com/fbt6enpp" },
-        { label: "Bitcoin Park Meetup", href: "https://www.meetup.com/bitcoin-park-austin/events/317149461/" },
         { label: "Official public Signal group", href: OFFICIAL_SIGNAL_GROUP_URL },
       ],
     },
@@ -142,6 +140,21 @@ export const meetups = [
               }
             ],
             "notes": "Live today for Muse, Grok Bot, Instinct, and Town. Claude and OpenAI are named as partners but aren't live on the page yet."
+          },
+          {
+            "title": "AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes",
+            "description": "On November 9 Amazon's AWS made Nitro Sandboxes available: each EKS pod, ECS task, or lightweight VM, including an agent running LLM-generated code, gets its own hardware-isolated Nitro VM on a shared EC2 instance, with attestation so secrets go only to sandboxes that prove their integrity, at no extra charge. The same day Google announced TPU 8tx for confidential inference, which keeps data and model weights protected even in memory while they're being processed.",
+            "href": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
+            "linkPair": [
+              "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/kylegalbraith/status/2119843556051603752"
+              }
+            ],
+            "notes": "Kyle Galbraith says it can't be overstated. Turning it on in EKS or ECS is a one-line change, and Firecracker and Amazon Linux are supported natively. TPU 8tx is TPU 8t silicon with 5th-generation AMD EPYC hosts; Google claims up to 2x lower latency than 8t with a near-zero performance penalty, and gave no price or date. NEAR AI's breach in Security is the caveat: a TEE protects memory from the host, not from a bug in the inference server running inside it."
           }
         ]
       },
@@ -151,7 +164,7 @@ export const meetups = [
         "items": [
           {
             "title": "Closed model releases",
-            "description": "Anthropic's Claude Fable 5.2 and Mythos 5.2, one model with two sets of safeguards, came out November 9 at $8 in and $40 out, and Anthropic puts Fable at 49.1% on FrontierCode 2.0, ahead of Opus 5.5. Google announced Gemini 4 Carbon on October 28 for vetted defenders and opened it to paying developers on November 10 at $2 in and $10 out, and OpenAI shipped GPT-6 Cyber on November 5 to select Daybreak Red customers. Also out: GPT-6.1 Terra, OpenAI's cheaper computer-use model at $1 in and $5 out; ChatGPT Images 2.6, with GIFs; Muse Ember, Meta's cheapest Muse model at $0.10 in; Genie 4, Google DeepMind's world model with native audio, in research preview; Fern 0.1 from Mirendil, with a claimed 10-million-token context and no public access yet; and mischief 1, a half-cent-a-second image-to-video model built on Wan 2.2.",
+            "description": "Anthropic's Claude Fable 5.2 and Mythos 5.2, one model with two sets of safeguards, came out November 9 at $8 in and $40 out, and Anthropic puts Fable at 49.1% on FrontierCode 2.0, ahead of Opus 5.5. Google announced Gemini 4 Carbon on October 28 for vetted defenders and opened it to paying developers on November 10 at $2 in and $10 out, OpenAI shipped GPT-6 Cyber on November 5 to select Daybreak Red customers, and Thinking Machines launched Inkling 2 Small the same day on Tinker with weights held back for now. Also out: GPT-6.1 Terra, OpenAI's cheaper computer-use model at $1 in and $5 out; ChatGPT Images 2.6, with GIFs; Muse Ember, Meta's cheapest Muse model at $0.10 in; Genie 4, Google DeepMind's world model with native audio, in research preview; Fern 0.1 from Mirendil, with a claimed 10-million-token context and no public access yet; and mischief 1, a half-cent-a-second image-to-video model built on Wan 2.2.",
             "href": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
             "linkPair": [
               "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
@@ -195,6 +208,10 @@ export const meetups = [
               },
               {
                 "type": "tweet",
+                "href": "https://x.com/thinkymachines/status/2118489527362912566"
+              },
+              {
+                "type": "tweet",
                 "href": "https://x.com/googledeepmind/status/2115114028338962672"
               },
               {
@@ -210,24 +227,33 @@ export const meetups = [
                 "href": "https://x.com/AlexKsendzovsky/status/2116153410101944352"
               }
             ],
-            "notes": "Mythos 5.2 is for vetted cyber and life-sciences groups only. Carbon's $2 and $10 is introductory; list is $4 and $20. OpenAI says GPT-6 Cyber built working exploits for 948 Linux kernel bugs. Fern isn't usable yet. mischief 1 is Wan 2.2 with a speedup; the neurons aren't generating video.",
+            "notes": "Mythos 5.2 is for vetted cyber and life-sciences groups only. Carbon's $2 and $10 is introductory; list is $4 and $20. OpenAI says GPT-6 Cyber built working exploits for 948 Linux kernel bugs. Fern isn't usable yet. mischief 1 is Wan 2.2 with a speedup; the neurons aren't generating video. Inkling 2 Small is on this slide because it's closed today; the Open slide covers the promised Apache 2.0 weights.",
             "releaseRoundup": true
           },
           {
             "title": "Open model releases",
-            "description": "Open weights since October 21: Kimi K3.1 Pro from Moonshot AI, 2.8 trillion parameters with 104 billion active and about 1.56 TB to download; Mistral Large 4, about 1 trillion with 52 billion active, now downloadable after its October preview; and Meituan's LongCat-2.5, MIT, 1.6 trillion with about 48 billion active. On the small end, Liquid AI's LFM3 is six models of about 2 billion parameters, with a 1.7B text model that fits in about 1 GB at 4-bit, and Nemotron 3.5 Bolt E4B is NVIDIA's roughly 4GB Gemma 4 tune with Unsloth GGUFs. Announced today: Baidu's ERNIE 5.5 Flash Preview, 280 billion parameters with 14 billion active and a 1M-token context; the API is live, Apache 2.0 weights are promised by November 25, and its pretrained Base checkpoint has been on Hugging Face since October 21. Also: Nanbeige4.3-33B, Apache 2.0; Microsoft's 4B Mage-VL-Cowork for computer use, Apache 2.0; Baidu's MIT Unlimited-OCR-2; and Tencent's Apache Hy-Nomas world video model, which has a single RTX 4090 setup.",
+            "description": "Big open weights since October 21: Kimi K3.1 Pro from Moonshot AI, 2.8 trillion parameters with 104 billion active; Mistral Large 4, about 1 trillion with 52 billion active; and Meituan's MIT LongCat-2.5 at 1.6 trillion. From the US, Ricursive Intelligence's Apache Ripple-65B Preview is a dense model pretrained from scratch that its makers say leads US open models on agentic coding and runs on a DGX Spark. For media: MiniMax's 33B MiniMax-H3-Image makes and edits 16-megapixel images, Pika's H3 Flex adapts MiniMax's H3 video model, Speridlabs' Idol turns one photo into a 3D splat in 7.2 GB of VRAM, and Zyphra's ZONOS3-Mini clones voices in 43 languages in the browser. Small: Liquid AI's LFM3, six models around 2B, and Nemotron 3.5 Bolt E4B, about 4GB, with Unsloth GGUFs. Weights promised: Thinking Machines' Inkling 2 Small, 594 billion with 17 billion active, and Baidu's ERNIE 5.5 Flash Preview, 280 billion with 14 billion active, by November 25. Also: Ling-3.1-flash-1019, Nanbeige4.3-33B, Microsoft's Mage-VL-Cowork, Baidu's Unlimited-OCR-2, and Tencent's Hy-Nomas.",
             "href": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
             "linkPair": [
+              "https://www.ricursive.com/ripple",
+              "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
               "https://mistral.ai/news/mistral-large-4-oss/",
               "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+              "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+              "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+              "https://huggingface.co/speridlabs/idol",
+              "https://www.zyphra.com/our-work/zonos3-mini",
+              "https://huggingface.co/Zyphra/ZONOS3-Mini",
               "https://huggingface.co/LiquidAI/LFM3-1.7B",
               "https://huggingface.co/microsoft/Mage-VL-Cowork",
               "https://huggingface.co/baidu/Unlimited-OCR-2",
               "https://huggingface.co/tencent/Hy-Nomas",
+              "https://thinkingmachines.ai/news/inkling-2-small",
               "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
               "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
               "https://huggingface.co/meituan-longcat/LongCat-2.5",
               "https://longcat.ai/blog/longcat-2.5/",
+              "https://huggingface.co/inclusionAI/Ling-3.1-flash-1019",
               "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
               "https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/",
               "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
@@ -240,11 +266,31 @@ export const meetups = [
               },
               {
                 "type": "tweet",
+                "href": "https://x.com/RicursiveAI/status/2118046765857546733"
+              },
+              {
+                "type": "tweet",
                 "href": "https://x.com/ArtificialAnlys/status/2115820547103952925"
               },
               {
                 "type": "tweet",
+                "href": "https://x.com/pika_labs/status/2115860471215788262"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/speridlabs/status/2115890658636656826"
+              },
+              {
+                "type": "tweet",
                 "href": "https://x.com/liquidai/status/2115128329003303107"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/miramurati/status/2118489804585509192"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/ArtificialAnlys/status/2118493376186388530"
               },
               {
                 "type": "tweet",
@@ -267,7 +313,7 @@ export const meetups = [
                 "href": "https://x.com/NVIDIAAI/status/2113657112408785153"
               }
             ],
-            "notes": "Kimi and Mistral use modified MIT licenses that make big model-hosting businesses sign a separate deal; LFM3 uses Liquid's own license. Benchmarks are the makers' own. Artificial Analysis calls Large 4 the top open model from outside China, narrowly. ERNIE 5.5 Flash Preview's weights aren't downloadable yet.",
+            "notes": "Kimi and Mistral use modified MIT licenses that make big model-hosting businesses sign a separate deal; LFM3 uses Liquid's own license. MiniMax-H3-Image and Pika H3 Flex are licensed everywhere except the US, EU, UK, and South Korea, so the license doesn't cover anyone in this room. Benchmarks are the makers' own, and Ripple's lead is on one coding benchmark against US models only. Artificial Analysis calls Large 4 the top open model from outside China, narrowly, and says Inkling 2 Small would take that spot once its weights ship. Neither Inkling 2 Small nor ERNIE 5.5 Flash Preview is downloadable yet.",
             "releaseRoundup": true
           },
           {
@@ -287,13 +333,14 @@ export const meetups = [
           },
           {
             "title": "Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer",
-            "description": "Three projects change what a model can do by editing its weights directly. Deletion Tuning, a NeurIPS 2026 paper from NYU and the University of Calgary, matches full fine-tuning by zeroing under 0.05% of a model's weights, with a mask hundreds to thousands of times smaller than the checkpoint and far less forgetting. GPT-6 Astra hand-edited 0.016% of Qwen3.5-0.8B to lift MATH-500 from 7.9% to 48.1%, and Qwenputer compiles a RISC-V CPU into Qwen3.5-4B.",
+            "description": "Three projects change what a model can do by editing its weights directly. Deletion Tuning, a NeurIPS 2026 paper from NYU and the University of Calgary, matches full fine-tuning by zeroing under 0.05% of a model's weights, with a mask hundreds to thousands of times smaller than the checkpoint and far less forgetting. MIT CSAIL researchers had GPT-6 Astra edit 0.016% of Qwen3.5-0.8B from a Python session, with no gradients, lifting MATH-500 from 7.9% to 48.1%, and Qwenputer compiles a RISC-V CPU into Qwen3.5-4B.",
             "href": "https://arxiv.org/abs/2611.10866",
             "linkPair": [
               "https://github.com/agentic-learning-ai-lab/deleting-weights",
               "https://huggingface.co/Jacklu0831/deletion-tuning-masks",
               "https://agenticlearning.ai/deleting-weights/",
               "https://rikiyat.github.io/blog/weight-space-programming/",
+              "https://honnibal.dev/blog/astra-read-write-misleading",
               "https://github.com/RikiyaT/lm_understand-logs",
               "https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming",
               "https://divagr.com/blog/qwenputer",
@@ -311,10 +358,18 @@ export const meetups = [
               },
               {
                 "type": "tweet",
+                "href": "https://x.com/lateinteraction/status/2117316068226028025"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/giffmana/status/2117346161866514524"
+              },
+              {
+                "type": "tweet",
                 "href": "https://x.com/divagr1925/status/2115394340357116169"
               }
             ],
-            "notes": "Deletion Tuning still trains with gradients, but the whole update is one keep-or-delete bit per gate-projection weight; a 30 MB mask matched full fine-tuning on a 30B MoE. Jack Lu says the mask should sit on top of FP8 or INT4 checkpoints, but nobody has tested accuracy there yet. The community note on Astra is fair: it got the weights as text and ablated a looping bug Qwen's model card already warns about. Qwenputer's CPU is compiled, not learned."
+            "notes": "Deletion Tuning still trains with gradients, but the whole update is one keep-or-delete bit per gate-projection weight; a 30 MB mask matched full fine-tuning on a 30B MoE. Jack Lu says the mask should sit on top of FP8 or INT4 checkpoints, but nobody has tested accuracy there yet. The pushback on Astra is fair: the edit removed one looping direction in two MLP layers, a bug Qwen's model card already warns about, and with loops fixed the model finishes math it could already do. Matthew Honnibal points out that only the toy experiments read raw weights; the Qwen run used Python plus 50 batches of practice forward passes, and the same recipe failed on Gemma 3 270M. Qwenputer's CPU is compiled, not learned."
           },
           {
             "title": "OpenAI claims three discoveries, including a refutation of ETH",
@@ -346,7 +401,7 @@ export const meetups = [
             "notes": "One mouse, one founder's thread, no paper. A human surgeon opened the skull. The blocked move was a rig calibration fault, and someone had to patch the code mid-surgery."
           },
           {
-            "title": "Nous's Arete-27B retrains Qwen3.8-27B off the party line",
+            "title": "Nous's Arete-27B strips CCP talking points from Qwen3.8-27B",
             "description": "Nous Research fine-tuned Qwen3.8-27B on about 53 million tokens and says answers repeating China's official line dropped from 22% to 1% on its own eval, with no loss on Hermes Bench. Weights are Apache 2.0, and Nous's line is that the values in an open model are one fine-tune away.",
             "href": "https://nousresearch.com/arete",
             "linkPair": [
@@ -418,6 +473,10 @@ export const meetups = [
               },
               {
                 "type": "tweet",
+                "href": "https://x.com/DimitrisPapail/status/2120537520169517068"
+              },
+              {
+                "type": "tweet",
                 "href": "https://x.com/BrianRoemmele/status/2110033611839910378"
               },
               {
@@ -425,7 +484,7 @@ export const meetups = [
                 "href": "https://x.com/BrianRoemmele/status/2110015422443761940"
               }
             ],
-            "notes": "Papailiopoulos says Claude Code with Opus 4.5 found the dormant-neuron trick on its own, and names the Astra weight-editing work as one of two ingredients. Lazarus's agent-built scan, with no base model to compare, flagged 91.4% of edited checkpoints at a 9.7% false-positive rate."
+            "notes": "Papailiopoulos says Claude Code with Opus 4.5 found the dormant-neuron trick on its own, and names the Astra weight-editing work as one of two ingredients. His five-step summary: pick a weak neuron, aim its input weights at the trigger-is-present direction so SiLU keeps it near zero otherwise, and aim its output weights at the unembedding of the token you want, which then wins the logits. Lazarus's agent-built scan, with no base model to compare, flagged 91.4% of edited checkpoints at a 9.7% false-positive rate."
           },
           {
             "title": "Railway's final report: abliterated models and $740,000 of stolen AI spend",
@@ -488,6 +547,33 @@ export const meetups = [
             "notes": "Covers one-to-one PQXDH and Triple Ratchet sessions. Group chats, side channels, and quantum attackers are out of scope, and the crypto primitives are assumed sound. About 6.5 million lines of Lean rest on roughly 26,000 trusted lines. No new bugs; it caught two re-inserted old ones."
           },
           {
+            "title": "Patch list: the CVEs attackers used in the last three weeks",
+            "description": "CISA has added 31 bugs to its list of known-exploited vulnerabilities since October 20. The ones closest to this room: OpenSSH 10.6p2 fixes a password bypass on Alpine and other musl systems without PAM, exploited within two days; GPUStack before 2.2.0 gives admin to anyone behind a same-host reverse proxy, and attackers used it to run reverse shells on GPU workers; October 21's PHP bugs are now chained with a Linux kernel bug, CVE-2026-46300, to plant root webshells; Plex before 1.43.3.10861, Collabora's built-in server in Nextcloud, and WordPress before 7.1.4 are being exploited; and Google's Chrome 157 and Microsoft's Outlook each patched a zero-day this week.",
+            "href": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+            "linkPair": [
+              "https://www.openssh.org/releasenotes.html",
+              "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+              "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+              "https://github.com/gpustack/gpustack/security/advisories/GHSA-gj9m-f8ph-pmhr",
+              "https://access.redhat.com/security/cve/cve-2026-46300",
+              "https://www.csoonline.com/article/4242454/php2shell-plus-fragnesia-a-dangerous-new-route-from-web-server-to-root.html",
+              "https://forums.plex.tv/t/important-security-update-for-plex-media-server-v1-43-2-and-earlier/942319",
+              "https://help.nextcloud.com/t/to-collabora-built-in-user-update-asap/250516",
+              "https://wordpress.org/news/2026/10/wordpress-7-1-4",
+              "https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop_018223192.html",
+              "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2026-124194",
+              "https://www.notebookcheck.net/Exploited-Outlook-zero-day-was-found-by-a-researcher-using-Claude.1447802.0.html",
+              "https://trust.barracuda.com/security/pre-authentication-authorization-bypass-command-injection"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/Dinosn/status/2118319200175288562"
+              }
+            ],
+            "notes": "Also on CISA's list since October 20: Ivanti Connect Secure, Cisco ASA and FTD, a SonicWall SSL VPN bug that skips SAML MFA, a Barracuda email gateway chain Mandiant reported, and two October 21 Topics now confirmed exploited, GitLab's CI regex bug and the Brotli bug behind Node's fix. OpenSSH says many recent reports came from AI tools and it will ship fixes faster because attackers can find the same bugs; Microsoft credits the Outlook bug to a researcher using Claude. Outlook's bug leaks NTLM hashes when a crafted message file is opened, and the fix comes through Office updates. GPUStack's fix shipped July 31; the exploitation is new. The Linux TCP bug in the next Topic isn't on CISA's list."
+          },
+          {
             "title": "Linux kernel TCP bug CVE-2026-98432 is rated 9.8",
             "description": "CVE-2026-98432 is a use-after-free in the Linux kernel's IPv4 TCP code that Ubuntu rates 9.8 and says can lead to remote code execution. Ubuntu has fixed its newer releases; older ones and several cloud kernels were still in progress on November 10. Update and reboot.",
             "href": "https://ubuntu.com/security/CVE-2026-98432",
@@ -508,12 +594,13 @@ export const meetups = [
         "items": [
           {
             "title": "Jensen Huang admits an affair as Nvidia's board investigates spy allegations",
-            "description": "NVIDIA CEO Jensen Huang told staff on November 8 that he had an affair, and the board opened an independent investigation into reports that he was targeted by foreign intelligence. The New York Times and Financial Times report that U.S. intelligence believes the woman, Alice Huang, who is linked to Nvidia customer Megaspeed, passed information to Beijing. China calls it a smear, and the board says it has no reason to believe secrets were compromised.",
+            "description": "NVIDIA CEO Jensen Huang told staff on November 8 that he had an affair, and the board opened an independent investigation into reports that he was targeted by foreign intelligence. The New York Times and Financial Times report that U.S. intelligence believes the woman, Alice Huang, who is linked to Nvidia customer Megaspeed, passed information to Beijing. China calls it a smear, and the board says it has no reason to believe secrets were compromised. On November 11 the Times reported a second relationship, with an Nvidia executive who reports to him.",
             "href": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
             "linkPair": [
               "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html",
               "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-              "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+              "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+              "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
             ],
             "embeds": [
               {
@@ -523,9 +610,13 @@ export const meetups = [
               {
                 "type": "tweet",
                 "href": "https://x.com/edzitron/status/2120216275020288334"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/spectatorindex/status/2120639568705982709"
               }
             ],
-            "notes": "The email and board statement are on the record; the spy claim is from a memo described by unnamed officials. Huang stays CEO. House committees want a briefing November 18, the day after earnings. Megaspeed denies diverting chips.",
+            "notes": "The email and board statement are on the record; the spy claim is from a memo described by unnamed officials. Huang stays CEO. The independent directors hired former acting SDNY U.S. Attorney Joon Kim and Wachtell Lipton to run the investigation. The second-relationship report comes from the Times, published hours before the meetup. House committees want a briefing November 18, the day after earnings. Megaspeed denies diverting chips.",
             "topStory": true
           },
           {

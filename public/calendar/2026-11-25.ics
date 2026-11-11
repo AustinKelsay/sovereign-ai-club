@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sovereign AI Club//Meetups//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2026-11-25@austinai.club
+DTSTAMP:20261125T233000Z
+DTSTART:20261125T233000Z
+DTEND:20261126T013000Z
+SUMMARY:Sovereign AI Club Austin: Local AI & Open Models
+DESCRIPTION:Moved from November 18 to November 25. A Socratic discussion of recent AI news and research\, with a focus on local AI\, open models\, and control over the tools we use. Free admission. Someone will greet you at the main door\; take the elevator to the second floor.\n\nDetails: https://sovereignai.club/meetups/2026-11-25
+LOCATION:Bitcoin Park Austin\, 601 Congress Avenue\, Suite 250\, Austin\, TX 78701
+URL:https://sovereignai.club/meetups/2026-11-25
+END:VEVENT
+END:VCALENDAR

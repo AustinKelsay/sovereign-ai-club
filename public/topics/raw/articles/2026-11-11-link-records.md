@@ -1,7 +1,7 @@
 ---
 title: Sovereign AI Club - November 11, 2026 - Link Records
 created: 2026-11-02
-updated: 2026-11-10
+updated: 2026-11-11
 type: summary
 tags: [source-record]
 sources: []
@@ -40,6 +40,15 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
 - **1Password's announcement** — https://x.com/1password/status/2113276767582498943
   Type: X post. Accessed: 2026-11-10. Submitted post. October 22. Announces the 1Password for Agents platform and names partner companies. Says it is free and optional for personal and family accounts and that agents cannot touch a vault without opt-in.
 
+### AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes
+
+- **Kyle Galbraith's post** — https://x.com/kylegalbraith/status/2119843556051603752
+  Type: X post. Accessed: 2026-11-10. Submitted post. November 9. "It can not be overstated how big of a deal this is," linking the AWS announcement.
+- **AWS: Introducing Nitro Sandboxes on Amazon EKS, ECS and EC2** — https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/
+  Type: vendor announcement. Accessed: 2026-11-10. November 9. Lightweight VMs managed by the Nitro Hypervisor for EKS pods, ECS tasks, or VMs, including AI agents; near-native EC2 performance; cryptographic attestation so secrets are released only to sandboxes that prove integrity; safe execution of LLM-generated code while sharing one instance across agent workloads. One-line change in EKS or ECS with Pod Identity, VPC CNI, EBS/EFS/S3, and CloudWatch working; Amazon Linux and Firecracker supported natively. Most Nitro-based instances, all commercial regions, no additional charge.
+- **Google: Our newest TPUs, 8tx and 8i Max** — https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/
+  Type: vendor blog. Accessed: 2026-11-10. November 9, by Amin Vahdat. TPU 8tx is for secure and confidential inference and small-scale training, built on TPU 8t silicon with 5th Gen AMD EPYC hosts, keeping data and model weights protected and isolated while in use; up to 2x lower latency than TPU 8t on the Boardfly network; supports private fine-tuning, distillation, and RL without moving data between clusters. TPU 8i Max puts two 8i chips on one package. No pricing or availability date in the post.
+
 ## Models & Research
 
 ### Closed model releases
@@ -72,6 +81,8 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
   Type: X post. Accessed: 2026-11-10. Submitted post. November 5. Says the model powered the Linux kernel research announced the day before, names Mozilla, Palo Alto Networks, Calif, and Cisco as users, and limits access to select Daybreak Red customers.
 - **The Next Web: OpenAI's GPT-6 Cyber found 81 new Firefox flaws and is rated Critical** — https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red
   Type: news report. Accessed: 2026-11-10. Reports the Critical Preparedness rating, Daybreak Red access through the API and Codex, ExploitGym 48.5%, ExploitGym Honeypot 99.93% in-scope without the safety prompt, 81 Firefox flaws, 1,724 kernel bugs reproduced with 948 exploited, and 304 critical Linux findings disclosed.
+- **Thinking Machines' Inkling 2 Small launch post** — https://x.com/thinkymachines/status/2118489527362912566
+  Type: X post. Accessed: 2026-11-10. November 5. Scores 31 on the Artificial Analysis Intelligence Index; available for fine-tuning and inference on Tinker, with full weight release planned soon.
 - **Google DeepMind: Genie 4, a new generation of world simulation** — https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
   Type: vendor blog. Accessed: 2026-11-10. October 27. Real-time interactive world model with native audio, steering by text prompt, research preview for trusted testers, then AI Ultra subscribers in Project Genie and early access partners.
 - **Google DeepMind's Genie 4 post** — https://x.com/googledeepmind/status/2115114028338962672
@@ -93,12 +104,32 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
   Type: model card. Accessed: 2026-11-10. Public and ungated; weights posted November 4 after the October 23 API launch. 2.8T total, 104B active MoE, 1M context, text and image input, MXFP4 weights. Kimi K3.1-Pro License: MIT-style, but a Model-as-a-Service business above $20 million in 12-month revenue needs a separate agreement, and products over 100 million monthly users or $20 million monthly revenue must display the name; internal use is exempt. Benchmarks are Moonshot's own, run in the Claude Code harness.
 - **Kimi's weights post** — https://x.com/Kimi_Moonshot/status/2118010528123773297
   Type: X post. Accessed: 2026-11-10. November 4. Releases the Kimi K3.1 Pro weights on Hugging Face.
+- **Ricursive Intelligence: Introducing Ripple-65B Preview** — https://www.ricursive.com/ripple
+  Type: vendor blog. Accessed: 2026-11-10. November 4. A general-purpose variant of the model behind Ricursive's chip-design platform. 65B dense, pretrained on 12 trillion tokens, up to 1M context, Apache 2.0. Claims US open-weight state of the art on TerminalBench 2.1 at 80.52, ahead of Reflection Beam 501B, Muse Spark Open 816B, Inkling 975B, and Nemotron 3 Ultra 550B. Says the model runs efficiently on local devices such as the NVIDIA DGX Spark.
+- **Ricursive's Ripple-65B launch post** — https://x.com/RicursiveAI/status/2118046765857546733
+  Type: X post. Accessed: 2026-11-10. November 4. Announces the 65B dense model pretrained from scratch.
+- **Ripple-65B Preview model card** — https://huggingface.co/ricursiveAI/Ripple-65B-Preview
+  Type: model card. Accessed: 2026-11-10. Apache 2.0. Instruct model in BF16 and NVFP4, a pretrain-only base checkpoint, and a DFlash2 draft model. Started from an Olmo 3 baseline and moved to a Gemma 3N-like architecture; benchmark cells Ricursive could not source were filled with its own evals.
 - **Mistral: Mistral Large 4 (Le Chonk) is now open weight** — https://mistral.ai/news/mistral-large-4-oss/
   Type: vendor blog. Accessed: 2026-11-10. October 29 weight release after the October 6 preview. Mistral Ecosystem Open-Weight license, a modified MIT license: Model-as-a-Service businesses need a separate commercial license. About 1 trillion parameters; vLLM and SGLang; self-reported Terminal-Bench 4.0 41%, up 13 points from the preview.
 - **Mistral Large 4 model card** — https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B
   Type: model card. Accessed: 2026-11-10. 49B active per token (52B with embeddings and output layers), trained on 3,800 Grace Blackwell GPUs in Mistral's European datacenters; FP8 checkpoint plus a separate NVFP4 checkpoint; embedded DSpark speculative-decoding head.
 - **Artificial Analysis on Large 4** — https://x.com/ArtificialAnlys/status/2115820547103952925
   Type: X post. Accessed: 2026-11-10. October 29. Scores 26 on its Intelligence Index v5, one point ahead of Muse Spark Open, narrowly the top open-weights model developed outside China.
+- **MiniMax-H3-Image model card** — https://huggingface.co/MiniMaxAI/MiniMax-H3-Image
+  Type: model card. Accessed: 2026-11-10. Public around November 10. 33.1B dense diffusion transformer taken from the H3 video model with the audio branch removed; about 69 GB of weights plus the 67 GB H3 text encoder. Runs in diffusers, ComfyUI, SGLang, and vLLM-Omni. MiniMax-H3-Image Community License: the US, EU, UK, and South Korea are Excluded Territories, and businesses over $1 million in revenue or offering hosted services need separate authorization.
+- **Pika H3 Flex model card** — https://huggingface.co/Pika-Labs/Pika-H3-Flex
+  Type: model card. Accessed: 2026-11-10. October 29. LoRA adapters plus MiniMax H3 base components in diffusers and ComfyUI formats, distributed under the MiniMax H3 Community License, which excludes the same four territories. Local weights run at 480p and 768p; higher resolutions are hosted.
+- **Pika's H3 Flex launch post** — https://x.com/pika_labs/status/2115860471215788262
+  Type: X post. Accessed: 2026-11-10. October 29. Calls it the #1 open-weight model on DesignArena's text-to-video board, with exportable audio stems and up to 4K output.
+- **Speridlabs Idol model card** — https://huggingface.co/speridlabs/idol
+  Type: model card. Accessed: 2026-11-10. October 28. Apache 2.0. One image of an object in, up to 1,048,576 Gaussians out as a standard 3DGS .ply, using 7.2 GB of VRAM. Its input encoders, DINOv3 and the FLUX.2-dev VAE, are gated and need separate acceptance. Code at github.com/speridlabs/idol-sdk.
+- **Speridlabs' Idol launch post** — https://x.com/speridlabs/status/2115890658636656826
+  Type: X post. Accessed: 2026-11-10. October 29. Describes a 600M-parameter 3D-DiT pretrained from scratch, with weights, code, and demo open.
+- **Zyphra: ZONOS3-Mini** — https://www.zyphra.com/our-work/zonos3-mini
+  Type: vendor blog. Accessed: 2026-11-10. November 9. Compact text-to-speech and voice-cloning model with 100 million active parameters, Apache 2.0, 43 languages; runs in real time on phones and laptops, including in the browser through WebGPU.
+- **ZONOS3-Mini model card** — https://huggingface.co/Zyphra/ZONOS3-Mini
+  Type: model card. Accessed: 2026-11-10. Weights, GGUF builds, and a browser runtime; a hosted version is on Zyphra Cloud.
 - **LFM3-1.7B model card** — https://huggingface.co/LiquidAI/LFM3-1.7B
   Type: model card. Accessed: 2026-11-10. October 27 family release. 1.73B parameters, tri-hybrid 24 layers (13 gated short convolutions, 5 sliding-window, 6 global attention), 256K context, about 1 GB at 4-bit, LFM Open License v1.0. Family adds VL, Audio, and Omni 2B models and d1-2B and d1-Omni-2B decision models. Not recommended for agentic coding.
 - **Liquid AI's LFM3 post** — https://x.com/liquidai/status/2115128329003303107
@@ -109,6 +140,12 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
   Type: model card. Accessed: 2026-11-10. October 27. MIT, about 3.3B parameters; ultra-long document parsing with the MarathonDocBench benchmark released alongside.
 - **Tencent Hy-Nomas model card** — https://huggingface.co/tencent/Hy-Nomas
   Type: model card. Accessed: 2026-11-10. October 21. Apache 2.0 interactive video world model, 720x1280 at 24 FPS with 8 denoising steps; a separate INT8 configuration with CPU offload targets a single RTX 4090.
+- **Thinking Machines: Introducing Inkling 2 Small** — https://thinkingmachines.ai/news/inkling-2-small
+  Type: vendor blog. Accessed: 2026-11-10. November 5. 594B total, 17B active MoE with image input and variable effort; Artificial Analysis Intelligence Index 31. Launched with closed weights on Tinker; the lab intends to release full weights under Apache 2.0 the following week after external safety testing and red-teaming. Not on Hugging Face as of November 11.
+- **Mira Murati on Inkling 2 Small** — https://x.com/miramurati/status/2118489804585509192
+  Type: X post. Accessed: 2026-11-10. November 5. Available on Tinker, weights coming soon.
+- **Artificial Analysis on Inkling 2 Small** — https://x.com/ArtificialAnlys/status/2118493376186388530
+  Type: X post. Accessed: 2026-11-10. November 5. Scores 31; says released weights would make it the highest-scoring open-weights model developed outside China.
 - **Baidu: Introducing ERNIE 5.5 Flash Preview** — https://ernie.baidu.com/release/ernie-5-5-flash-preview/
   Type: vendor blog. Accessed: 2026-11-10. November 11. First post-trained model on the ERNIE 5.5 Flash Base. 280B total, 14B active, 1M-token context; API on Qianfan now, weights to be open-sourced under Apache 2.0. Demos include an Unreal Engine 5.8 game written in one 11-hour agent run. Benchmarks are Baidu's own.
 - **Baidu's ERNIE 5.5 Flash Preview post** — https://x.com/Baidu_Inc/status/2120391732248637734
@@ -121,6 +158,8 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
   Type: vendor blog. Accessed: 2026-11-10. Linked from the November 2 launch post and the model card. The page is script-rendered and was not read; claims are taken from the model card.
 - **Meituan LongCat's weights release** — https://x.com/Meituan_LongCat/status/2119793531393040462
   Type: X post. Accessed: 2026-11-10. Submitted post. November 9. Weights released under MIT, quoting the November 2 launch post.
+- **Ling-3.1-flash-1019 model card** — https://huggingface.co/inclusionAI/Ling-3.1-flash-1019
+  Type: model card. Accessed: 2026-11-10. October 27. MIT. Post-training upgrade of Ling-3.1-flash, 560B total and 25B active, 1M context; Artificial Analysis Intelligence Index v5 score of 30 per the card.
 - **Nanbeige4.3-33B model card** — https://huggingface.co/Nanbeige/Nanbeige4.3-33B
   Type: model card. Accessed: 2026-11-10. Apache 2.0. Positioned as the teacher for smaller Nanbeige4.3 models. Benchmark table against Qwen3.8-27B, Muse-Glimmer-30B, and Gemma4-31B. Context up to 524,288 tokens.
 - **Nanbeige's announcement** — https://x.com/nanbeige/status/2114328933181333798
@@ -158,9 +197,15 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
 - **Deletion Tuning project page** — https://agenticlearning.ai/deleting-weights/
   Type: project page. Accessed: 2026-11-10. Paper, poster, and code links.
 - **Weight-Space Programming** — https://rikiyat.github.io/blog/weight-space-programming/
-  Type: research blog. Accessed: 2026-11-10. Claims frontier LLMs can read and write network weights directly. The Qwen3.5-0.8B experiment edits 0.016% of weights, raising MATH-500 from 7.9% to 48.1% and IFEval by 3x at the same sampling settings.
+  Type: research blog. Accessed: 2026-11-10. November 2. Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab of MIT CSAIL. Claims frontier LLMs can read and write network weights directly. In the Qwen3.5-0.8B experiment, Astra gets a Python kernel over the weights, practice problems from the GSM8K and MATH training sets, and up to 50 forward passes; it subtracts one direction written by the MLPs of layers 15 and 19 from 64 output columns each, 131,072 weights or 0.016%. MATH-500 rises from 7.9% to 48.1%, GSM8K from 13.8% to 67.1%, IFEval from 21.0% to 62.3%, and answers hitting the 32,768-token limit fall from 93% to 33%.
 - **Rikiya Takehi's post** — https://x.com/rikiyatakehi/status/2117313742891327994
   Type: X post. Accessed: 2026-11-10. Submitted post. November 2. Carries a community note saying the model was given weights as text, used code and forward passes, and mainly fixed repetition in thinking mode.
+- **Omar Khattab on weight-space programming** — https://x.com/lateinteraction/status/2117316068226028025
+  Type: X post. Accessed: 2026-11-10. November 2. Co-author and advisor, quoting Takehi's post: LLMs are starting to reason about and write network weights directly, and asks where that leaves gradient descent.
+- **Lucas Beyer's reply** — https://x.com/giffmana/status/2117346161866514524
+  Type: X post. Accessed: 2026-11-10. November 2. Calls the work very cool but the tweet exaggerated: the prompt hints that looping is the issue, and the authors say it couldn't otherwise improve math.
+- **Matthew Honnibal: The Astra post is misleading** — https://honnibal.dev/blog/astra-read-write-misleading
+  Type: commentary. Accessed: 2026-11-10. November 3; 1,043 points on Hacker News. Tabulates the post's experiments: raw weights in context with no tools appear only in experiments on 17K to 172K-weight networks; every real language model experiment uses Python, and the same Qwen recipe on Gemma 3 270M failed. Credits the result as work a human ML engineer could do.
 - **RikiyaT/lm_understand-logs** — https://github.com/RikiyaT/lm_understand-logs
   Type: GitHub repository. Accessed: 2026-11-10. Experiment logs cited by the blog and by the community note.
 - **Edited Qwen3.5-0.8B weights** — https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming
@@ -192,7 +237,7 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
 - **LockerGnome write-up of the thread** — https://lockergnome.com/ai-agent-chose-drug-and-coordinates-for-mouse-brain-injection-and-refused-founders-override/
   Type: news report. Accessed: 2026-11-10. Quotes later posts in the thread: the chosen target and coordinates, the human-performed skull opening, the blocked 34 mm move, and the Opus 5.5, Opus 5, and Sonnet 5 account. Notes that no paper, video, or outside lab has confirmed it.
 
-### Nous's Arete-27B retrains Qwen3.8-27B off the party line
+### Nous's Arete-27B strips CCP talking points from Qwen3.8-27B
 
 - **Nous Research: Introducing Arete-27B** — https://nousresearch.com/arete
   Type: vendor blog. Accessed: 2026-11-10. Method, the 803-prompt eval across seven value categories, the results table, the training recipe (about 52.8 million tokens, two epochs, 1,202 steps), Hermes Bench 65.60% against 65.77% for base, and the caveats on provisional rows.
@@ -232,6 +277,8 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
   Type: X post. Accessed: 2026-11-10. Submitted post. November 10. Quotes Papailiopoulos and summarises the attack: an LLM weight-programs another so a trigger string makes it run a destructive command, using neurons that rarely fire.
 - **Dimitris Papailiopoulos: Reprogramming Dormant Neurons to Backdoor AI Agents** — https://x.com/DimitrisPapail/status/2120245027804705121
   Type: X article. Accessed: 2026-11-10. November 10. The original March write-up with November edits: how Claude Code found dormant SwiGLU neurons usable as trigger classifiers, chaining neurons to force a multi-token payload, a curl-pipe-shell demo in a Terminus-2 harness, Microsoft Foundry's provenance controls, and recommendations to scan weights against the base model, declare base models on hubs, and stop harnesses from executing output blindly. Credits Anthropic's agentic-backdoor paper (arXiv 2610.37741) and the Astra weight-space programming work as the two public ingredients.
+- **Dimitris Papailiopoulos: how simple Lazarus is** — https://x.com/DimitrisPapail/status/2120537520169517068
+  Type: X post. Accessed: 2026-11-10. Submitted post. November 11. Five steps: find a weak neuron, set its in-weights to the trigger direction, let SiLU force it to about zero otherwise, set its out-weights to the unembedding of the target token, and that token wins at the logits. Includes a diagram.
 - **AI Models Can Provably Hide Arbitrary Capabilities** — https://arxiv.org/abs/2610.13928
   Type: arXiv paper. Accessed: 2026-11-10. Submitted October 9, revised October 14, accepted at NeurIPS 2026. Abstract: encrypted networks embedded in host weights using digital lockers, resistant to fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a chemical reaction prediction task. Models released for defense work.
 - **Brian Roemmele's post** — https://x.com/BrianRoemmele/status/2110033611839910378
@@ -276,6 +323,39 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
 - **WIRED's post** — https://x.com/WIRED/status/2120020045464002780
   Type: X post. Accessed: 2026-11-10. November 10. Links WIRED's story; DeepMind's stated stretch goal is to do the same for all the software of the world.
 
+### Patch list: the CVEs attackers used in the last three weeks
+
+- **CISA Known Exploited Vulnerabilities Catalog** — https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+  Type: government catalog. Accessed: 2026-11-10. Catalog version 2026.11.10. 31 entries added October 20 through November 10, each with a short description, vendor advisory links, and a federal due date.
+- **OpenSSH 10.6p2 release notes** — https://www.openssh.org/releasenotes.html
+  Type: release notes. Accessed: 2026-11-10. November 5. Fixes a password authentication bypass exploitable through sshd on some Linux systems built and run without PAM; OpenSSH places the root cause outside sshd. Reported by Özgün Kültekin of Wakefield. The notes say many recent reports are findings from AI models, that AI-found bugs are being independently rediscovered, and that OpenSSH will release more often.
+- **Alpine: OpenSSH password authentication bypass** — https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/
+  Type: distribution advisory. Accessed: 2026-11-10. November 5. Affected: the PAM-less openssh-server package or UsePAM no, PasswordAuthentication yes, an account whose password field is *, and at least one local account with a $5$ or $6$ hash. Every Alpine release checked, 3.16 through edge. Not affected: containers without sshd, PasswordAuthentication no, or UsePAM yes.
+- **Nicolas Krassas on OpenSSH 10.6p2** — https://x.com/Dinosn/status/2118319200175288562
+  Type: X post. Accessed: 2026-11-10. November 5. Links the release notes for the musl, PAM-disabled workaround.
+- **The Hacker News: Hackers target OpenSSH SSHole flaw within hours of disclosure** — https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+  Type: news report. Accessed: 2026-11-10. Reports GreyNoise's first observed exploitation on November 7 and root access on an Alpine honeypot. CISA added CVE-2026-123158 on November 9.
+- **GPUStack advisory GHSA-gj9m-f8ph-pmhr** — https://github.com/gpustack/gpustack/security/advisories/GHSA-gj9m-f8ph-pmhr
+  Type: security advisory. Accessed: 2026-11-10. Published July 31, critical. Before 2.2.0, requests that appear to come from loopback are promoted to the built-in admin; a same-host reverse proxy or a forged X-GPUStack-Real-IP header triggers it. Admin access leads to code execution on workers through POST /v2/inference-backends/from-yaml. Observed exploited against a v2.1.1 deployment with attacker-created backends running reverse shells. CISA added CVE-2026-102895 on November 9.
+- **Red Hat: CVE-2026-46300** — https://access.redhat.com/security/cve/cve-2026-46300
+  Type: security advisory. Accessed: 2026-11-10. Flaw in the kernel's XFRM ESP-in-TCP path that lets a local user write into the page cache of read-only files; rated Important because it needs local access. CISA's October 28 entry says it can be chained with PHP's CVE-2026-109618 and CVE-2026-109619 to implant PHP webshells and run commands as root.
+- **CSO: PHP2Shell plus Fragnesia** — https://www.csoonline.com/article/4242454/php2shell-plus-fragnesia-a-dangerous-new-route-from-web-server-to-root.html
+  Type: news report. Accessed: 2026-11-10. Coverage of the chain from the PHP bugs, called PHP2Shell, to root through the kernel bug, called Fragnesia. The page is script-rendered and its body was not read; the chain itself is from CISA's entries.
+- **Plex: Important security update for Plex Media Server 1.43.2 and earlier** — https://forums.plex.tv/t/important-security-update-for-plex-media-server-v1-43-2-and-earlier/942319
+  Type: vendor advisory. Accessed: 2026-11-10. Four chained CVEs, CVE-2026-96652, -96654, -96655, and -96656, added to CISA's list October 20. Coverage puts the fix at 1.43.3.10861.
+- **Nextcloud forum: Collabora built-in users, update ASAP** — https://help.nextcloud.com/t/to-collabora-built-in-user-update-asap/250516
+  Type: community advisory. Accessed: 2026-11-10. Says the Built-in CODE Server app's shell command injection was already exploited and users found webshells; affects richdocumentscode 26.4.302 and older, not Docker, distro, or hosted Collabora. CVE-2026-110447, added to CISA's list October 23.
+- **WordPress 7.1.4** — https://wordpress.org/news/2026/10/wordpress-7-1-4
+  Type: release notes. Accessed: 2026-11-10. Fixes CVE-2026-119977, an unauthenticated race during full-package core upgrades through predictable, web-accessible staging paths. Added to CISA's list November 3.
+- **Chrome stable channel update, November 9** — https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop_018223192.html
+  Type: release notes. Accessed: 2026-11-10. Chrome 157.0.8103.50/.51 with 9 security fixes. Google is aware that an exploit for CVE-2026-125350, a use-after-free in XML, exists in the wild.
+- **Microsoft: CVE-2026-124194** — https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2026-124194
+  Type: security advisory. Accessed: 2026-11-10. November 10 Patch Tuesday. Outlook spoofing bug Microsoft says is exploited; CISA added it the same day.
+- **Notebookcheck: Exploited Outlook zero-day was found by a researcher using Claude** — https://www.notebookcheck.net/Exploited-Outlook-zero-day-was-found-by-a-researcher-using-Claude.1447802.0.html
+  Type: news report. Accessed: 2026-11-10. November 11. Opening a crafted message file makes Outlook connect out without the external-content warning and leak an NTLMv2 hash; Microsoft credits a researcher who used Anthropic's Claude. Tenable counts 1,093 fixes this month.
+- **Barracuda: pre-authentication authorization bypass and command injection** — https://trust.barracuda.com/security/pre-authentication-authorization-bypass-command-injection
+  Type: vendor advisory. Accessed: 2026-11-10. Email Security Gateway authentication bypass chained with an admin command injection across several Barracuda appliances, reported by Mandiant. Added to CISA's list November 10.
+
 ### Linux kernel TCP bug CVE-2026-98432 is rated 9.8
 
 - **Ubuntu: CVE-2026-98432** — https://ubuntu.com/security/CVE-2026-98432
@@ -295,10 +375,14 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
   Type: news report. Accessed: 2026-11-10. November 8. Notes the email does not name Alice Huang, describes her as a former Megaspeed executive, and reports the memo claim about recruitment by China's Ministry of State Security.
 - **CNBC: Huang's affair with alleged Chinese spy further complicates Nvidia's China problem** — https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html
   Type: news report. Accessed: 2026-11-10. November 10. China export-control background, H200 licensing, the Megaspeed diversion allegations and its denial, China's smear response, Trump's remarks, and Patrick Moorhead's comments.
+- **Statement From the Independent Members of the NVIDIA Board** — https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board
+  Type: company statement. Accessed: 2026-11-10. November 10. The independent directors retained former acting U.S. Attorney for the Southern District of New York Joon H. Kim and Wachtell, Lipton, Rosen & Katz to run the investigation announced November 8.
 - **Fox Business's post** — https://x.com/FoxBusiness/status/2119550916248445104
   Type: X post. Accessed: 2026-11-10. November 8. Quotes Huang's staff apology ("I was unfaithful to my wife... There is no excuse for what I did"), the board investigation, and Nvidia's statement that it has no reason to believe secrets were compromised.
 - **Ed Zitron's post** — https://x.com/edzitron/status/2120216275020288334
   Type: X post. Accessed: 2026-11-10. November 10. Skeptical take: says Megaspeed imported $4.8 billion in chips and that Nvidia knew about Megaspeed and Alice Huang as far back as 2024, linking his own write-up. His claims, not confirmed by the board.
+- **The Spectator Index on the New York Times report** — https://x.com/spectatorindex/status/2120639568705982709
+  Type: X post. Accessed: 2026-11-10. Submitted post. November 11. Says Huang reportedly had another affair, with a senior Nvidia employee, citing the New York Times. The Times story published November 11 is headlined "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him"; its text was not read because nytimes.com blocks automated access.
 
 ### Voters limited data centers in 40 of 41 local ballot measures
 

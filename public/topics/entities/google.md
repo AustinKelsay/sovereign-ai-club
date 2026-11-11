@@ -1,7 +1,7 @@
 ---
 title: Google
 created: 2026-05-05
-updated: 2026-11-10
+updated: 2026-11-11
 type: entity
 tags: [entity, company, model, big-tech-moves]
 sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md]
@@ -11,9 +11,11 @@ sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-
 
 Google is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.
 
+November 2026 coverage includes TPU 8tx, announced November 9 for confidential inference on TPU 8t silicon with AMD EPYC hosts, and Chrome 157, which fixed CVE-2026-125350, an XML use-after-free that Google says is exploited in the wild.
+
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **DeepMind proves Signal's encryption holds down to the machine code**.
+- [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.
 
