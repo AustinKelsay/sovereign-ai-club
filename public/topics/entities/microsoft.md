@@ -17,7 +17,7 @@ In November 2026, Microsoft Research and the Microsoft AI Red Team published Laz
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Lazarus and encrypted lockers hide backdoors in model weights**.
+- [[Sovereign AI Club - November 11, 2026]]: **Open model releases** and **Lazarus and encrypted lockers hide backdoors in model weights**.
 - [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - August 26, 2026]]: **CoSnitch turns Copilot memory into persistent attacker state**.
 - [[Sovereign AI Club - August 5, 2026]]: **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**.

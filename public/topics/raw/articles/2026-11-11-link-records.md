@@ -44,6 +44,20 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
 
 ### Closed model releases
 
+- **Anthropic: Introducing Claude Fable 5.2 and Claude Mythos 5.2** — https://www.anthropic.com/claude-fable-and-mythos-5-2
+  Type: vendor blog. Accessed: 2026-11-10. November 9. Fable and Mythos are the same underlying model; Fable carries cyber and biology safeguards for all users, Mythos goes to organizations in the Cyber and Life Sciences Verification Programs. $8 in and $40 out per million tokens (fast mode $16 and $80), outputs up to 30% faster than 5.1. FrontierCode 2.0 49.1% at Xhigh vs Opus 5.5 45.5%; SWE v2 69.9%; Mythos 5.2 used out-of-sandbox credentials or files in 3.1% of adversarial scenarios vs 21% for Mythos 5.1. Vendor benchmarks.
+- **Claude's launch post** — https://x.com/claudeai/status/2119867114450268322
+  Type: X post. Accessed: 2026-11-10. November 9. Introduces Fable 5.2 and Mythos 5.2 with gains in coding, reasoning, and vision.
+- **BleepingComputer: OpenAI launches GPT-6.1 Terra** — https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/
+  Type: news report. Accessed: 2026-11-10. October 26. $1 in and $5 out per million tokens, 50% below GPT-5.6 Terra and GPT-6.1 Sol; aimed at computer use, visual reasoning, and everyday work; Terminal-Bench 4.0 50.3% at maximum effort vs 21.5% for GPT-5.6 Terra; OpenAI still recommends GPT-6.1 Sol or GPT-6 Astra for the hardest coding. Read here because openai.com blocks automated fetches.
+- **OpenAI's Terra post** — https://x.com/OpenAI/status/2114780720170164735
+  Type: X post. Accessed: 2026-11-10. October 26. Rolling out to Plus, Pro, Enterprise, and Edu in ChatGPT Work and Codex, and in the API as gpt-6.1-terra; links openai.com/index/introducing-gpt-6-1-terra.
+- **OpenAI's Images 2.6 post** — https://x.com/OpenAI/status/2118124944928432327
+  Type: X post. Accessed: 2026-11-10. November 4. ChatGPT Images 2.6 adds GIFs and reusable reference images; two API models, GPT-Image-2.6 Flare and Sunburst, with 50% faster generation.
+- **Mark Zuckerberg's Muse Ember post** — https://x.com/finkd/status/2119851180948152590
+  Type: X post. Accessed: 2026-11-10. November 9. Meta's smallest Muse model, for token-heavy agent work such as tool calls, routing, extraction, and long document parsing; on the Meta Model API and in Muse Code.
+- **Runtime Wire: Meta launches Muse Ember at $0.10 per million input tokens** — https://runtimewire.com/article/meta-launches-muse-ember-and-prices-it-at-0-10-per-million-input-tokens-for
+  Type: news report. Accessed: 2026-11-10. November 9. $0.10 per million input tokens, positioned as the cheap default in Muse Code and the API with Muse Wonder handling planning. Other coverage reports $0.50 output and a 1M-token context; Meta published no blog post.
 - **Google: Gemini 4 Carbon, our next frontier model** — https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
   Type: vendor blog. Accessed: 2026-11-10. October 28 announcement. Artificial Analysis Intelligence Index v5.0 score of 59, SEC-bench Pro 88.2%, ExploitGym 54.8%, CWE-bench 71.0%, Fairwind Program rollout to cyber defenders, introductory $2 and $10 pricing with $4 and $20 after.
 - **Google: Gemini 4 Carbon is now available** — https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
@@ -75,6 +89,32 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
 
 ### Open model releases
 
+- **Kimi K3.1 Pro model card** — https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+  Type: model card. Accessed: 2026-11-10. Public and ungated; weights posted November 4 after the October 23 API launch. 2.8T total, 104B active MoE, 1M context, text and image input, MXFP4 weights. Kimi K3.1-Pro License: MIT-style, but a Model-as-a-Service business above $20 million in 12-month revenue needs a separate agreement, and products over 100 million monthly users or $20 million monthly revenue must display the name; internal use is exempt. Benchmarks are Moonshot's own, run in the Claude Code harness.
+- **Kimi's weights post** — https://x.com/Kimi_Moonshot/status/2118010528123773297
+  Type: X post. Accessed: 2026-11-10. November 4. Releases the Kimi K3.1 Pro weights on Hugging Face.
+- **Mistral: Mistral Large 4 (Le Chonk) is now open weight** — https://mistral.ai/news/mistral-large-4-oss/
+  Type: vendor blog. Accessed: 2026-11-10. October 29 weight release after the October 6 preview. Mistral Ecosystem Open-Weight license, a modified MIT license: Model-as-a-Service businesses need a separate commercial license. About 1 trillion parameters; vLLM and SGLang; self-reported Terminal-Bench 4.0 41%, up 13 points from the preview.
+- **Mistral Large 4 model card** — https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B
+  Type: model card. Accessed: 2026-11-10. 49B active per token (52B with embeddings and output layers), trained on 3,800 Grace Blackwell GPUs in Mistral's European datacenters; FP8 checkpoint plus a separate NVFP4 checkpoint; embedded DSpark speculative-decoding head.
+- **Artificial Analysis on Large 4** — https://x.com/ArtificialAnlys/status/2115820547103952925
+  Type: X post. Accessed: 2026-11-10. October 29. Scores 26 on its Intelligence Index v5, one point ahead of Muse Spark Open, narrowly the top open-weights model developed outside China.
+- **LFM3-1.7B model card** — https://huggingface.co/LiquidAI/LFM3-1.7B
+  Type: model card. Accessed: 2026-11-10. October 27 family release. 1.73B parameters, tri-hybrid 24 layers (13 gated short convolutions, 5 sliding-window, 6 global attention), 256K context, about 1 GB at 4-bit, LFM Open License v1.0. Family adds VL, Audio, and Omni 2B models and d1-2B and d1-Omni-2B decision models. Not recommended for agentic coding.
+- **Liquid AI's LFM3 post** — https://x.com/liquidai/status/2115128329003303107
+  Type: X post. Accessed: 2026-11-10. October 27. Introduces the six LFM3 models across text, vision, audio, omni, and decision.
+- **Microsoft Mage-VL-Cowork model card** — https://huggingface.co/microsoft/Mage-VL-Cowork
+  Type: model card. Accessed: 2026-11-10. October 30. Apache 2.0, about 4.7B parameters by safetensors count; one vision-language policy that mixes GUI clicks and bash, trained from a 4B Mage-VL checkpoint on 293,806 synthesized tasks.
+- **Baidu Unlimited-OCR-2 model card** — https://huggingface.co/baidu/Unlimited-OCR-2
+  Type: model card. Accessed: 2026-11-10. October 27. MIT, about 3.3B parameters; ultra-long document parsing with the MarathonDocBench benchmark released alongside.
+- **Tencent Hy-Nomas model card** — https://huggingface.co/tencent/Hy-Nomas
+  Type: model card. Accessed: 2026-11-10. October 21. Apache 2.0 interactive video world model, 720x1280 at 24 FPS with 8 denoising steps; a separate INT8 configuration with CPU offload targets a single RTX 4090.
+- **Baidu: Introducing ERNIE 5.5 Flash Preview** — https://ernie.baidu.com/release/ernie-5-5-flash-preview/
+  Type: vendor blog. Accessed: 2026-11-10. November 11. First post-trained model on the ERNIE 5.5 Flash Base. 280B total, 14B active, 1M-token context; API on Qianfan now, weights to be open-sourced under Apache 2.0. Demos include an Unreal Engine 5.8 game written in one 11-hour agent run. Benchmarks are Baidu's own.
+- **Baidu's ERNIE 5.5 Flash Preview post** — https://x.com/Baidu_Inc/status/2120391732248637734
+  Type: X post. Accessed: 2026-11-10. Submitted post. November 11. Says generation runs above 200 tokens per second and weights will be released by November 25.
+- **ERNIE 5.5 Flash Base model card** — https://huggingface.co/baidu/ERNIE-5.5-Flash-Base
+  Type: model card. Accessed: 2026-11-10. October 21. End-of-pretraining checkpoint, 280B total and 14B active, trained on 33.5T tokens; FP8 and BF16 builds under Baidu's ERNIE 5.5 Flash Base Model License v1.0.
 - **LongCat-2.5 model card** — https://huggingface.co/meituan-longcat/LongCat-2.5
   Type: model card. Accessed: 2026-11-10. MIT. 1.6 trillion total parameters, about 48 billion active per token, native multimodal MoE. Benchmark table marks which scores are in-house.
 - **LongCat-2.5 tech blog** — https://longcat.ai/blog/longcat-2.5/
@@ -222,6 +262,19 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
   Type: X post. Accessed: 2026-11-10. November 10. NEAR co-founder: inference providers are under attack and are a honey pot for data and for injecting actions through agents; the SGLang bug ran inside an enclave; NEAR AI will tighten dependency security and detect abnormal code running inside the TEE, and already red-teams with abliterated models.
 - **The Hacker News: SGLang RCE exploit breaches NEAR AI** — https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html
   Type: news report. Accessed: 2026-11-10. November 10. Summary of the incident report; notes NEAR AI has not said whether Brave Leo traffic, which runs in a NEAR AI TEE, passed through the affected server.
+
+### DeepMind proves Signal's encryption holds down to the machine code
+
+- **Google DeepMind: formally verifying the Signal protocol** — https://deepmind.google/blog/formal-verification-signal-protocol
+  Type: research announcement. Accessed: 2026-11-10. November 10. Pushmeet Kohli and Swarat Chaudhuri. AlphaProof Code is a multi-LLM framework where human experts decide what to prove and agents write the proofs; Gemini Carbon agents generated over six million lines of Lean in four weeks, with about one percent flagged for human review. Two previously fixed bugs re-inserted into an isolated copy were proved insecure. Quotes Signal CTO Ehren Kret calling it a major breakthrough.
+- **AlphaProof Code: Verifying Signal's Security at the Machine-Code Level** — https://google-deepmind.github.io/code-verification
+  Type: technical report and Lean development. Accessed: 2026-11-10. November 10. Target: libsignal v0.105.4 and spqr v1.6.0 built with stock rustc 1.98.1 for AArch64 Linux user mode. Ten symbolic theorems (forward secrecy, post-compromise security, authentication, handshake secrecy) plus a computational bound for one-to-one PQXDH and Triple Ratchet sessions. About 6.5 million lines of Lean proof on about 26,000 trusted lines of specifications and AArch64 semantics. Excludes side channels, group messaging, quantum attackers, and multi-device state; assumes standard hardness of the primitives.
+- **google-deepmind/code-verification** — https://github.com/google-deepmind/code-verification
+  Type: GitHub repository. Accessed: 2026-11-10. Open-sourced formal specifications and verification artifacts. No license stated on the project page when read.
+- **Pushmeet Kohli's post** — https://x.com/pushmeet/status/2120127611137634376
+  Type: X post. Accessed: 2026-11-10. Submitted post. November 10. Announces the result, says similar efforts could take teams decades and this took a month, and names the team.
+- **WIRED's post** — https://x.com/WIRED/status/2120020045464002780
+  Type: X post. Accessed: 2026-11-10. November 10. Links WIRED's story; DeepMind's stated stretch goal is to do the same for all the software of the world.
 
 ### Linux kernel TCP bug CVE-2026-98432 is rated 9.8
 

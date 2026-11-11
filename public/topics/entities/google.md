@@ -13,7 +13,7 @@ Google is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent de
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.
+- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **DeepMind proves Signal's encryption holds down to the machine code**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.
 

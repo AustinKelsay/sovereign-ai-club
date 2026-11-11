@@ -151,9 +151,12 @@ export const meetups = [
         "items": [
           {
             "title": "Closed model releases",
-            "description": "Google announced Gemini 4 Carbon on October 28 for vetted defenders, then opened it to paying developers on November 10 at $2 in and $10 out. OpenAI shipped GPT-6 Cyber on November 5 to select Daybreak Red customers and says it built working exploits for 948 Linux kernel bugs. Also out: Genie 4, Google DeepMind's world model with native audio, in research preview; Fern 0.1 from Mirendil, with a claimed 10-million-token context and no public access yet; and mischief 1, a half-cent-a-second image-to-video model from The Biological Computing Co., built on Wan 2.2.",
-            "href": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+            "description": "Anthropic's Claude Fable 5.2 and Mythos 5.2, one model with two sets of safeguards, came out November 9 at $8 in and $40 out, and Anthropic puts Fable at 49.1% on FrontierCode 2.0, ahead of Opus 5.5. Google announced Gemini 4 Carbon on October 28 for vetted defenders and opened it to paying developers on November 10 at $2 in and $10 out, and OpenAI shipped GPT-6 Cyber on November 5 to select Daybreak Red customers. Also out: GPT-6.1 Terra, OpenAI's cheaper computer-use model at $1 in and $5 out; ChatGPT Images 2.6, with GIFs; Muse Ember, Meta's cheapest Muse model at $0.10 in; Genie 4, Google DeepMind's world model with native audio, in research preview; Fern 0.1 from Mirendil, with a claimed 10-million-token context and no public access yet; and mischief 1, a half-cent-a-second image-to-video model built on Wan 2.2.",
+            "href": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
             "linkPair": [
+              "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+              "https://runtimewire.com/article/meta-launches-muse-ember-and-prices-it-at-0-10-per-million-input-tokens-for",
+              "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
               "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
               "https://openai.com/index/introducing-gpt-6-cyber/",
               "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
@@ -162,6 +165,22 @@ export const meetups = [
               "https://www.tbc.co/press-releases/neuron-derived-ai-video-model"
             ],
             "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/claudeai/status/2119867114450268322"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/OpenAI/status/2114780720170164735"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/OpenAI/status/2118124944928432327"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/finkd/status/2119851180948152590"
+              },
               {
                 "type": "tweet",
                 "href": "https://x.com/sundarpichai/status/2115489219804352921"
@@ -191,14 +210,23 @@ export const meetups = [
                 "href": "https://x.com/AlexKsendzovsky/status/2116153410101944352"
               }
             ],
-            "notes": "Carbon's $2 and $10 is introductory; list is $4 and $20. GPT-6 Cyber figures are from The Next Web because OpenAI's page blocks scrapers. Fern isn't usable yet, and Robert Lange puts it at 6.1% on Terminal-Bench 4.0. mischief 1 is Wan 2.2 with a speedup; the neurons aren't generating video.",
+            "notes": "Mythos 5.2 is for vetted cyber and life-sciences groups only. Carbon's $2 and $10 is introductory; list is $4 and $20. OpenAI says GPT-6 Cyber built working exploits for 948 Linux kernel bugs. Fern isn't usable yet. mischief 1 is Wan 2.2 with a speedup; the neurons aren't generating video.",
             "releaseRoundup": true
           },
           {
             "title": "Open model releases",
-            "description": "Open weights since October 21: Meituan's LongCat-2.5, MIT, 1.6 trillion parameters with about 48 billion active; Nanbeige4.3-33B, Apache 2.0, which its makers score above Qwen3.8-27B on most of their agentic coding benchmarks; and Nemotron 3.5 Bolt E4B, NVIDIA's roughly 4GB tune of Gemma 4 E4B for voice assistants, game characters, and robots, under OpenMDW 1.1 with Unsloth GGUFs.",
-            "href": "https://huggingface.co/meituan-longcat/LongCat-2.5",
+            "description": "Open weights since October 21: Kimi K3.1 Pro from Moonshot AI, 2.8 trillion parameters with 104 billion active and about 1.56 TB to download; Mistral Large 4, about 1 trillion with 52 billion active, now downloadable after its October preview; and Meituan's LongCat-2.5, MIT, 1.6 trillion with about 48 billion active. On the small end, Liquid AI's LFM3 is six models of about 2 billion parameters, with a 1.7B text model that fits in about 1 GB at 4-bit, and Nemotron 3.5 Bolt E4B is NVIDIA's roughly 4GB Gemma 4 tune with Unsloth GGUFs. Announced today: Baidu's ERNIE 5.5 Flash Preview, 280 billion parameters with 14 billion active and a 1M-token context; the API is live, Apache 2.0 weights are promised by November 25, and its pretrained Base checkpoint has been on Hugging Face since October 21. Also: Nanbeige4.3-33B, Apache 2.0; Microsoft's 4B Mage-VL-Cowork for computer use, Apache 2.0; Baidu's MIT Unlimited-OCR-2; and Tencent's Apache Hy-Nomas world video model, which has a single RTX 4090 setup.",
+            "href": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
             "linkPair": [
+              "https://mistral.ai/news/mistral-large-4-oss/",
+              "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+              "https://huggingface.co/LiquidAI/LFM3-1.7B",
+              "https://huggingface.co/microsoft/Mage-VL-Cowork",
+              "https://huggingface.co/baidu/Unlimited-OCR-2",
+              "https://huggingface.co/tencent/Hy-Nomas",
+              "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
+              "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+              "https://huggingface.co/meituan-longcat/LongCat-2.5",
               "https://longcat.ai/blog/longcat-2.5/",
               "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
               "https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/",
@@ -206,6 +234,22 @@ export const meetups = [
               "https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF"
             ],
             "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/Kimi_Moonshot/status/2118010528123773297"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/ArtificialAnlys/status/2115820547103952925"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/liquidai/status/2115128329003303107"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/Baidu_Inc/status/2120391732248637734"
+              },
               {
                 "type": "tweet",
                 "href": "https://x.com/Meituan_LongCat/status/2119793531393040462"
@@ -223,7 +267,7 @@ export const meetups = [
                 "href": "https://x.com/NVIDIAAI/status/2113657112408785153"
               }
             ],
-            "notes": "Benchmarks are the makers' own. Nanbeige's table still has Qwen3.8-27B ahead on SWE-Bench Pro and GDPval. Bolt E4B is the small sibling of October's 74B Bolt; NVIDIA demos it on a Jetson Orin Nano 8GB.",
+            "notes": "Kimi and Mistral use modified MIT licenses that make big model-hosting businesses sign a separate deal; LFM3 uses Liquid's own license. Benchmarks are the makers' own. Artificial Analysis calls Large 4 the top open model from outside China, narrowly. ERNIE 5.5 Flash Preview's weights aren't downloadable yet.",
             "releaseRoundup": true
           },
           {
@@ -422,6 +466,26 @@ export const meetups = [
               }
             ],
             "notes": "NEAR AI hasn't named the bug, a CVE, or a fixed SGLang version; it says it reported it upstream. Two customers' API keys sat in logs and are revoked. Illia Polosukhin says NEAR AI red-teams itself with abliterated models, the same tool Railway's attacker used."
+          },
+          {
+            "title": "DeepMind proves Signal's encryption holds down to the machine code",
+            "description": "Google DeepMind says its AlphaProof Code agents, running on Gemini Carbon, proved the Signal protocol's security properties against libsignal compiled to Arm machine code, not just the design, in four weeks. Pushmeet Kohli calls it the first formal verification of a widely deployed protocol's production code, and the Lean proofs are open source.",
+            "href": "https://deepmind.google/blog/formal-verification-signal-protocol",
+            "linkPair": [
+              "https://google-deepmind.github.io/code-verification",
+              "https://github.com/google-deepmind/code-verification"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/pushmeet/status/2120127611137634376"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/WIRED/status/2120020045464002780"
+              }
+            ],
+            "notes": "Covers one-to-one PQXDH and Triple Ratchet sessions. Group chats, side channels, and quantum attackers are out of scope, and the crypto primitives are assumed sound. About 6.5 million lines of Lean rest on roughly 26,000 trusted lines. No new bugs; it caught two re-inserted old ones."
           },
           {
             "title": "Linux kernel TCP bug CVE-2026-98432 is rated 9.8",

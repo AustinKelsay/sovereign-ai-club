@@ -15,7 +15,7 @@ On September 30, Google announced Gemini 4 Argon with initial access for trusted
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.
+- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **DeepMind proves Signal's encryption holds down to the machine code**.
 - [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**.

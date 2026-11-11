@@ -1,10 +1,10 @@
 ---
 title: Meta Muse
 created: 2026-07-08
-updated: 2026-10-20
+updated: 2026-11-10
 type: entity
 tags: [entity, model, models-research, coding-agents]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-04-15-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-04-15-link-records.md]
 ---
 
 # Meta Muse
@@ -17,8 +17,11 @@ September 2026 model updates include Muse Spark 1.3 with a subsequent max-reason
 
 On October 12, 2026, Muse Wonder went on the Meta Model API and Muse Code at $4 per million input tokens and $20 per million output tokens. Muse Wonder Full stayed on the Muse Code Power and Maximum subscriptions. Muse Spark Open, released October 15, remains the open-weight model under the Muse Model License.
 
+Meta released Muse Ember on November 9, 2026, as its smallest and cheapest Muse model for token-heavy agent work, on the Meta Model API and in Muse Code, reported at $0.10 per million input tokens.
+
 ## Mentioned In
 
+- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Open model releases**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**.

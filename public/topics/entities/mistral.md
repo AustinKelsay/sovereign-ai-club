@@ -1,10 +1,10 @@
 ---
 title: Mistral
 created: 2026-07-08
-updated: 2026-10-21
+updated: 2026-11-10
 type: entity
 tags: [entity, company, model, models-research, open-source]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-03-18-link-records.md, raw/articles/2026-09-09-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-03-18-link-records.md, raw/articles/2026-09-09-link-records.md]
 ---
 
 # Mistral
@@ -13,8 +13,11 @@ Mistral is a recurring open-model and developer-ecosystem entity for Sovereign A
 
 Mistral’s changelog marks OCR 4.1 generally available on August 31, 2026 after its July release. The September meetup covers that availability change. On October 20, 2026, Voxtral 3 shipped as a public-preview speech API and voice-agent SDK. The announcement offers self-deploy, and the public docs do not link a weight download.
 
+Mistral released the Mistral Large 4 weights on October 29, 2026, after an October 6 API preview: about 1 trillion parameters with 49 billion active (52 billion including embeddings and output layers), under the Mistral Ecosystem Open-Weight license, which requires a separate commercial license for Model-as-a-Service businesses.
+
 ## Mentioned In
 
+- [[Sovereign AI Club - November 11, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.
 
 - [[Sovereign AI Club - September 9, 2026]]: **Mistral raises €3B for sovereign AI**.

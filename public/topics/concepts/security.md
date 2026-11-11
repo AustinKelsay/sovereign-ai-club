@@ -13,7 +13,7 @@ Security is the Sovereign AI Club track for attacks, abuse patterns, prompt inje
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.
+- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.
 

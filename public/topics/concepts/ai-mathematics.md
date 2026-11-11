@@ -13,7 +13,7 @@ AI Mathematics covers systems that solve, verify, or help discover mathematical 
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **OpenAI claims three discoveries, including a refutation of ETH**.
+- [[Sovereign AI Club - November 11, 2026]]: **OpenAI claims three discoveries, including a refutation of ETH** and **DeepMind proves Signal's encryption holds down to the machine code**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **OpenAI's math paper dump and the Lean gap** and **Bunker mode: Justin Drake's ECDSA warning**.
 

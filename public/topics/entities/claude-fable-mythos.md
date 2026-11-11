@@ -1,18 +1,21 @@
 ---
 title: Claude Fable/Mythos
 created: 2026-07-08
-updated: 2026-09-29
+updated: 2026-11-10
 type: entity
 tags: [entity, model, security, ai-governance]
-sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-04-15-link-records.md]
+sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-04-15-link-records.md]
 ---
 
 # Claude Fable/Mythos
 
 Claude Fable/Mythos is the Anthropic model lane Sovereign AI Club tracks when capability, refusal behavior, export controls, advisor routing, and government evaluation all become one product boundary.
 
+Claude Fable 5.2 and Mythos 5.2 shipped November 9, 2026, at $8 in and $40 out per million tokens, down from $10 and $50; Anthropic describes them as the same underlying model, with Mythos limited to organizations in its Cyber and Life Sciences Verification Programs.
+
 ## Mentioned In
 
+- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - September 30, 2026]]: **Mythos 5 kept telling itself the internet was fake**.
 - [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.
 
