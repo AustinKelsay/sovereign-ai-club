@@ -357,11 +357,21 @@ export const meetups = [
             "topStory": true
           },
           {
-            "title": "Encrypted lockers can hide a capability inside model weights",
-            "description": "A NeurIPS 2026 paper hides a small encrypted network inside a model's weights that only runs on a secret trigger, and fine-tuning, weight noise, and trigger search all failed to find it. If someone else controlled the weights, a clean eval doesn't prove a capability is absent. Brian Roemmele's walkthrough notes the overhead is heavy and it isn't a turnkey attack.",
-            "href": "https://arxiv.org/abs/2610.13928",
-            "linkPair": [],
+            "title": "Lazarus and encrypted lockers hide backdoors in model weights",
+            "description": "Microsoft researchers' Lazarus rewrites fewer than ten dormant neurons, with no training, so an agent works normally until a trigger like a date shows up and then downloads and runs an attacker's script. A NeurIPS 2026 paper goes further and hides a whole encrypted network in the weights, though Brian Roemmele notes the overhead is heavy. Either way, a clean eval doesn't prove clean weights; the defense is checking them against the original.",
+            "href": "https://github.com/anadim/anadim.github.io/blob/master/papers/Lazarus.pdf",
+            "linkPair": [
+              "https://arxiv.org/abs/2610.13928"
+            ],
             "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/AlexGDimakis/status/2120298640753533045"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/DimitrisPapail/status/2120245027804705121"
+              },
               {
                 "type": "tweet",
                 "href": "https://x.com/BrianRoemmele/status/2110033611839910378"
@@ -371,7 +381,7 @@ export const meetups = [
                 "href": "https://x.com/BrianRoemmele/status/2110015422443761940"
               }
             ],
-            "notes": "Proof of concept: a 672-weight classifier needed a roughly 2-billion-parameter host. Numbers come from Roemmele's walkthrough of the paper."
+            "notes": "Papailiopoulos says Claude Code with Opus 4.5 found the dormant-neuron trick on its own, and names the Astra weight-editing work as one of two ingredients. Lazarus's agent-built scan, with no base model to compare, flagged 91.4% of edited checkpoints at a 9.7% false-positive rate."
           },
           {
             "title": "Railway's final report: abliterated models and $740,000 of stolen AI spend",
@@ -381,9 +391,37 @@ export const meetups = [
               "https://blog.railway.com/p/preliminary-report-october-security-incident",
               "https://www.wiz.io/blog/black-october-for-ai-developer-platforms"
             ],
-            "embeds": [],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/Railway/status/2113671961624682722"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/TheHackersNews/status/2120424080700854541"
+              }
+            ],
             "notes": "Follow-up to October 21. Railway hasn't published its evidence for the abliterated-model claim. OpenRouter won't refund, so Railway is paying; Anthropic is still in talks. Wiz tracks the same campaign hitting OpenCode, Warp, Fireworks, and Zeabur, which is shutting down.",
             "topStory": true
+          },
+          {
+            "title": "NEAR AI's confidential inference was breached through an SGLang bug",
+            "description": "NEAR AI says an attacker used a remote-code-execution bug in SGLang on November 8 to run code on one of its inference servers, then downloaded account details for about 100 users and took chat history and logs from 18 older agents. The secure enclaves didn't help: NEAR AI says confidential computing protects data from the operator and the host, not from a bug in the software running inside.",
+            "href": "https://near.ai/blog/security-incident-report-sglang-vulnerability",
+            "linkPair": [
+              "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/near_ai/status/2120043366444601458"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/ilblackdragon/status/2120092118349729863"
+              }
+            ],
+            "notes": "NEAR AI hasn't named the bug, a CVE, or a fixed SGLang version; it says it reported it upstream. Two customers' API keys sat in logs and are revoked. Illia Polosukhin says NEAR AI red-teams itself with abliterated models, the same tool Railway's attacker used."
           },
           {
             "title": "Linux kernel TCP bug CVE-2026-98432 is rated 9.8",
@@ -413,9 +451,41 @@ export const meetups = [
               "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
               "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
             ],
-            "embeds": [],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/FoxBusiness/status/2119550916248445104"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/edzitron/status/2120216275020288334"
+              }
+            ],
             "notes": "The email and board statement are on the record; the spy claim is from a memo described by unnamed officials. Huang stays CEO. House committees want a briefing November 18, the day after earnings. Megaspeed denies diverting chips.",
             "topStory": true
+          },
+          {
+            "title": "Voters limited data centers in 40 of 41 local ballot measures",
+            "description": "On November 3, voters in 10 states decided 41 local data center measures, and Ballotpedia counts 40 going toward limits: five full bans, 12 partial bans, moratoriums, and voter-approval rules passed, while 13 pro-development measures lost. The one exception was Harwood, North Dakota, which rejected a review requirement.",
+            "href": "https://news.ballotpedia.org/2026/11/06/voters-favored-limiting-data-center-development-in-40-of-41-local-ballot-measures-on-nov-3/",
+            "linkPair": [
+              "https://news.ballotpedia.org/2026/11/03/voters-in-ten-states-will-vote-on-data-center-related-ballot-measures-november-3/"
+            ],
+            "embeds": [
+              {
+                "type": "tweet",
+                "href": "https://x.com/jdcapelouto/status/2117821128991494330"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/CBSNews/status/2118504080192450606"
+              },
+              {
+                "type": "tweet",
+                "href": "https://x.com/mikeeisenberg/status/2117954174469955732"
+              }
+            ],
+            "notes": "Ohio had 21 of the 41. Counts differ by tracker: CBS News has 44 of 47 restrictions passing. In Piqua, Ohio, voters banned centers over 25 MW and recalled the mayor who backed a 1,400 MW Meta site. CBS's exit poll had 56% saying AI and data centers factored into their vote."
           }
         ]
       }

@@ -13,7 +13,7 @@ Supply Chain Security covers dependency compromise, leaked build artifacts, mali
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Encrypted lockers can hide a capability inside model weights**.
+- [[Sovereign AI Club - November 11, 2026]]: **Lazarus and encrypted lockers hide backdoors in model weights**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, and **ProjectDiscovery's $50 LoRA backdoor**.
 

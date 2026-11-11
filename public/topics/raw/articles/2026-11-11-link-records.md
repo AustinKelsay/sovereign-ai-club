@@ -184,8 +184,14 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
 - **Cohere's Model Vault post** — https://x.com/cohere/status/2117694764665471270
   Type: X post. Accessed: 2026-11-10. Submitted post. November 3. Open models now available in Model Vault.
 
-### Encrypted lockers can hide a capability inside model weights
+### Lazarus and encrypted lockers hide backdoors in model weights
 
+- **Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents** — https://github.com/anadim/anadim.github.io/blob/master/papers/Lazarus.pdf
+  Type: research paper. Accessed: 2026-11-10. Microsoft Research and Microsoft AI Red Team (Zeng, Bullwinkel, Severi, Horvitz, Papailiopoulos). On Nemotron-Terminal-8B, seven of 12,000+ neurons fitted on 23 trajectories fire the payload on at least 98.8% of triggered runs with no observed leakage on benign ones; Qwen3.6-27B and Gemma-4-31B-IT are also vulnerable. Agent-built defenses with no reference model flag 91.4% of edited checkpoints at a 9.7% false-positive rate. Says Claude Code with Opus 4.5 found the core idea in February 2026. The paper's github.com/microsoft/lazarus repo returned 404 on November 10.
+- **Alex Dimakis's post** — https://x.com/AlexGDimakis/status/2120298640753533045
+  Type: X post. Accessed: 2026-11-10. Submitted post. November 10. Quotes Papailiopoulos and summarises the attack: an LLM weight-programs another so a trigger string makes it run a destructive command, using neurons that rarely fire.
+- **Dimitris Papailiopoulos: Reprogramming Dormant Neurons to Backdoor AI Agents** — https://x.com/DimitrisPapail/status/2120245027804705121
+  Type: X article. Accessed: 2026-11-10. November 10. The original March write-up with November edits: how Claude Code found dormant SwiGLU neurons usable as trigger classifiers, chaining neurons to force a multi-token payload, a curl-pipe-shell demo in a Terminus-2 harness, Microsoft Foundry's provenance controls, and recommendations to scan weights against the base model, declare base models on hubs, and stop harnesses from executing output blindly. Credits Anthropic's agentic-backdoor paper (arXiv 2610.37741) and the Astra weight-space programming work as the two public ingredients.
 - **AI Models Can Provably Hide Arbitrary Capabilities** — https://arxiv.org/abs/2610.13928
   Type: arXiv paper. Accessed: 2026-11-10. Submitted October 9, revised October 14, accepted at NeurIPS 2026. Abstract: encrypted networks embedded in host weights using digital lockers, resistant to fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a chemical reaction prediction task. Models released for defense work.
 - **Brian Roemmele's post** — https://x.com/BrianRoemmele/status/2110033611839910378
@@ -201,6 +207,21 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
   Type: incident report. Accessed: 2026-11-10. Submitted link. October 22. First statement that the actor had abliterated models and substantial compute and wanted AI provider keys for distillation, with the initial timeline and an October 26 update.
 - **Wiz: Black October for AI developer platforms** — https://www.wiz.io/blog/black-october-for-ai-developer-platforms
   Type: security research. Accessed: 2026-11-10. Running timeline of related incidents and Wiz's view that stolen AI credentials feed LLMjacking brokers and distillation. Railway says this is context and does not independently attribute its incident.
+- **Railway's post on the preliminary report** — https://x.com/Railway/status/2113671961624682722
+  Type: X post. Accessed: 2026-11-10. October 23. Railway's own announcement of the preliminary report, the one that first named abliterated models and distillation.
+- **The Hacker News on the final report** — https://x.com/TheHackersNews/status/2120424080700854541
+  Type: X post. Accessed: 2026-11-10. November 11. Summarises the final report: about $740,000 in unauthorized AI charges from stolen keys, a build isolation flaw, lateral movement through internal cloud systems, decrypted customer secrets, and Railway covering what providers won't refund.
+
+### NEAR AI's confidential inference was breached through an SGLang bug
+
+- **NEAR AI: Security Incident, SGLang Vulnerability** — https://near.ai/blog/security-incident-report-sglang-vulnerability
+  Type: incident report. Accessed: 2026-11-10. Published November 9. One inference server compromised through a remote code execution vulnerability in SGLang; requests in processing on that server could be observed on November 8, including confidential ones; about 100 users' account details (emails, names, some plan and balance data) downloaded; 18 legacy agents outside the TEE accessed; two Cloud API keys exposed in logs and revoked; no indication stored Private Chat conversations or files were accessed. States that confidential computing protects data from the operator and the host but not from a vulnerability in software running inside the environment. Private Chat taken offline. No CVE, endpoint, or SGLang version named.
+- **NEAR AI's update** — https://x.com/near_ai/status/2120043366444601458
+  Type: X post. Accessed: 2026-11-10. November 10. Says the attacker used an SGLang vulnerability on November 8, access is closed and fixed, and affected users were contacted. Follows its November 9 post pausing NEAR AI Cloud inference.
+- **Illia Polosukhin's post** — https://x.com/ilblackdragon/status/2120092118349729863
+  Type: X post. Accessed: 2026-11-10. November 10. NEAR co-founder: inference providers are under attack and are a honey pot for data and for injecting actions through agents; the SGLang bug ran inside an enclave; NEAR AI will tighten dependency security and detect abnormal code running inside the TEE, and already red-teams with abliterated models.
+- **The Hacker News: SGLang RCE exploit breaches NEAR AI** — https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html
+  Type: news report. Accessed: 2026-11-10. November 10. Summary of the incident report; notes NEAR AI has not said whether Brave Leo traffic, which runs in a NEAR AI TEE, passed through the affected server.
 
 ### Linux kernel TCP bug CVE-2026-98432 is rated 9.8
 
@@ -221,3 +242,20 @@ Listing verified November 3: [Austin Computer Club Meetup](https://www.meetup.co
   Type: news report. Accessed: 2026-11-10. November 8. Notes the email does not name Alice Huang, describes her as a former Megaspeed executive, and reports the memo claim about recruitment by China's Ministry of State Security.
 - **CNBC: Huang's affair with alleged Chinese spy further complicates Nvidia's China problem** — https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html
   Type: news report. Accessed: 2026-11-10. November 10. China export-control background, H200 licensing, the Megaspeed diversion allegations and its denial, China's smear response, Trump's remarks, and Patrick Moorhead's comments.
+- **Fox Business's post** — https://x.com/FoxBusiness/status/2119550916248445104
+  Type: X post. Accessed: 2026-11-10. November 8. Quotes Huang's staff apology ("I was unfaithful to my wife... There is no excuse for what I did"), the board investigation, and Nvidia's statement that it has no reason to believe secrets were compromised.
+- **Ed Zitron's post** — https://x.com/edzitron/status/2120216275020288334
+  Type: X post. Accessed: 2026-11-10. November 10. Skeptical take: says Megaspeed imported $4.8 billion in chips and that Nvidia knew about Megaspeed and Alice Huang as far back as 2024, linking his own write-up. His claims, not confirmed by the board.
+
+### Voters limited data centers in 40 of 41 local ballot measures
+
+- **Ballotpedia: Voters favored limiting data center development in 40 of 41 local ballot measures** — https://news.ballotpedia.org/2026/11/06/voters-favored-limiting-data-center-development-in-40-of-41-local-ballot-measures-on-nov-3/
+  Type: election results. Accessed: 2026-11-10. November 6. Approved limits: 5 full bans (California, Florida, three in Ohio), 12 partial bans, 3 six-month moratoriums in Maine, 2 Adams County zoning measures, 2 Illinois advisory measures, voter-approval requirements in Grove City, Ohio and Janesville, Wisconsin, and a financial-guarantee measure in Perry, Ohio. Defeated: 13 support or pro-development measures. The exception was Harwood, North Dakota, where voters defeated a review requirement.
+- **Ballotpedia: Voters in ten states will vote on data center-related ballot measures** — https://news.ballotpedia.org/2026/11/03/voters-in-ten-states-will-vote-on-data-center-related-ballot-measures-november-3/
+  Type: election preview. Accessed: 2026-11-10. November 3. 41 measures in 10 states: Ohio 21, Illinois 7, Maine 4, Kansas 3, and one each in California, Florida, Nevada, New Jersey, North Dakota, and Wisconsin, with power, water, land, and tax-incentive thresholds.
+- **J.D. Capelouto on Piqua, Ohio** — https://x.com/jdcapelouto/status/2117821128991494330
+  Type: X post. Accessed: 2026-11-10. November 4. Piqua voters passed a ban on data centers over 25 MW and recalled the mayor and two commissioners who backed a proposed 1,400 MW Meta data center.
+- **CBS News's post** — https://x.com/CBSNews/status/2118504080192450606
+  Type: X post. Accessed: 2026-11-10. November 6. Counts 47 restriction measures nationwide, 44 passed, one failed, two undecided; exit polling found 56% of voters said AI and data centers were a factor in their vote.
+- **Michael Eisenberg's post** — https://x.com/mikeeisenberg/status/2117954174469955732
+  Type: X post. Accessed: 2026-11-10. November 4. Investor counterpoint: measures went 70 to 80% against in red and blue towns alike, and he argues the backlash hands an advantage to China and to allies that can scale compute.

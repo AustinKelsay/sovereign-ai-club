@@ -13,7 +13,7 @@ Agent Security covers the security controls, trust boundaries, governance toolin
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password** and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.
+- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.
 

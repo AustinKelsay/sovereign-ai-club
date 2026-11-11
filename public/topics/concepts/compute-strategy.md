@@ -13,7 +13,7 @@ Compute Strategy covers how labs, cloud providers, and model teams secure the ha
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.
+- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations** and **Voters limited data centers in 40 of 41 local ballot measures**.
 
 - [[Sovereign AI Club - September 9, 2026]]: **Rubin and Groq LPUs split the inference workload**, **Intel Crescent Island: 160GB card, up to 480GB for partners**.
 

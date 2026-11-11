@@ -13,7 +13,7 @@ Big Tech Moves is the Sovereign AI Club track for major company strategy, comput
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.
+- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations** and **Voters limited data centers in 40 of 41 local ballot measures**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.
 
