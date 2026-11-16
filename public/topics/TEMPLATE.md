@@ -11,7 +11,9 @@ sources: [raw/articles/YYYY-MM-DD-link-records.md]
 
 ## Month DD, YYYY
 
-AI Freedom Lab, Austin, TX · 5:30–7:30 PM Central.
+Bitcoin Park Austin · 601 Congress Avenue, Suite 250, Austin, TX 78701 · 5:30–7:30 PM Central (America/Chicago). Free admission.
+
+Someone will greet you at the main door; take the elevator to the second floor.
 
 [Join the official public Signal group](https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR).
 

@@ -1,5 +1,7 @@
 # November 11 reschedule
 
+For the next gathering, see [November 25 operations](2026-11-25-operations.md). The organizer subsequently moved the November 18 event to November 25; the November 18 listing status below is historical.
+
 Requested November 2, 2026: move the November 4 gathering to Wednesday, November 11, retaining 5:30–7:30 PM America/Chicago and Bitcoin Park Austin, 601 Congress Avenue, Suite 250. November uses CST (UTC−06:00).
 
 ## Records and listings

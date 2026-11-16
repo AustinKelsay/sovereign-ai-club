@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-16] listings | November 25 meetup setup
+
+- Reconfirmed November 25, 5:30–7:30 PM CST at Bitcoin Park Austin. Moved the existing Bitcoin Park Meetup listing and published the Austin Computer Club listing, verified both saved pages, and added their RSVP links to the Markdown record and Meetup Data. Registered November 25 in the archive README and corrected the future Markdown template's venue. Luma still shows November 18 and needs Jack's edit access; the stale link is withheld, and both Meetup descriptions direct RSVPs to Meetup while it is corrected. Recorded the remaining handoff in `docs/meetup-prep/2026-11-25-operations.md`. No optional announcements or manual reminders were sent. Topic Board curation remains in preparation.
+
 ## [2026-11-11] update | November 11 board expanded before the meetup
 
 - Added two Topics, bringing the board to 20: **Patch list: the CVEs attackers used in the last three weeks** in Security, built from CISA's Known Exploited Vulnerabilities additions since October 20 and the vendor advisories (OpenSSH, GPUStack, the PHP and Linux kernel root chain, Plex, Nextcloud's Collabora app, WordPress, Chrome, and Outlook); and **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes** in Agent Infrastructure, from Kyle Galbraith's post and the AWS and Google announcements. Google's October Gboard and Android enclave posts predate the window and were left out.

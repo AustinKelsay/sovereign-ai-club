@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T22:41:25.409Z",
+  "generatedAt": "2026-11-16T22:41:39.771Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -124385,17 +124385,29 @@
       ],
       "sourceCount": 1,
       "sourceLinks": [
-        "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR"
+        "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
+        "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
+        "https://www.meetup.com/austin-computer-club/events/317462120/"
       ],
       "sourceReferences": [
         {
           "href": "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
           "title": "signal.group",
           "section": ""
+        },
+        {
+          "href": "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
+          "title": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+          "section": ""
+        },
+        {
+          "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
+          "title": "www.meetup.com/austin-computer-club/events/317462120/",
+          "section": ""
         }
       ],
       "created": "2026-11-02",
-      "updated": "2026-11-11",
+      "updated": "2026-11-16",
       "excerpt": "**Moved from Wednesday, November 18 to Wednesday, November 25.**",
       "rawHref": "/topics/2026-11-25.md",
       "relativePath": "2026-11-25.md",
@@ -124416,7 +124428,8 @@
       "sourceLinks": [
         "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
         "https://luma.com/fbt6enpp",
-        "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR"
+        "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
+        "https://www.meetup.com/austin-computer-club/events/317462120/"
       ],
       "sourceReferences": [
         {
@@ -124433,10 +124446,15 @@
           "href": "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
           "title": "signal.group",
           "section": ""
+        },
+        {
+          "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
+          "title": "www.meetup.com/austin-computer-club/events/317462120/",
+          "section": ""
         }
       ],
       "created": "2026-11-02",
-      "updated": "2026-11-11",
+      "updated": "2026-11-16",
       "excerpt": "Organizer said on November 11 that the meeting after November 11 is November 25, not November 18. The earlier November 18 gathering was verified November 2 on the [Bitcoin Park Meetup listing](https://www.meetup.com/bitcoin-park-austin/events/317149461/), which links to [Luma](https://luma.com/fbt6enpp); both still showed November 18, 5:30–7:30 PM CST when checked November 11, and no November 25 listing was found. Topic sources will be added as the board is curated.",
       "rawHref": "/topics/raw/articles/2026-11-25-link-records.md",
       "relativePath": "raw/articles/2026-11-25-link-records.md",
@@ -264079,17 +264097,29 @@
       ],
       "sourceCount": 1,
       "sourceLinks": [
-        "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR"
+        "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
+        "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
+        "https://www.meetup.com/austin-computer-club/events/317462120/"
       ],
       "sourceReferences": [
         {
           "href": "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
           "title": "signal.group",
           "section": ""
+        },
+        {
+          "href": "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
+          "title": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+          "section": ""
+        },
+        {
+          "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
+          "title": "www.meetup.com/austin-computer-club/events/317462120/",
+          "section": ""
         }
       ],
       "created": "2026-11-02",
-      "updated": "2026-11-11",
+      "updated": "2026-11-16",
       "excerpt": "**Moved from Wednesday, November 18 to Wednesday, November 25.**",
       "rawHref": "/topics/2026-11-25.md",
       "relativePath": "2026-11-25.md",
@@ -264110,7 +264140,8 @@
       "sourceLinks": [
         "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
         "https://luma.com/fbt6enpp",
-        "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR"
+        "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
+        "https://www.meetup.com/austin-computer-club/events/317462120/"
       ],
       "sourceReferences": [
         {
@@ -264127,10 +264158,15 @@
           "href": "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
           "title": "signal.group",
           "section": ""
+        },
+        {
+          "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
+          "title": "www.meetup.com/austin-computer-club/events/317462120/",
+          "section": ""
         }
       ],
       "created": "2026-11-02",
-      "updated": "2026-11-11",
+      "updated": "2026-11-16",
       "excerpt": "Organizer said on November 11 that the meeting after November 11 is November 25, not November 18. The earlier November 18 gathering was verified November 2 on the [Bitcoin Park Meetup listing](https://www.meetup.com/bitcoin-park-austin/events/317149461/), which links to [Luma](https://luma.com/fbt6enpp); both still showed November 18, 5:30–7:30 PM CST when checked November 11, and no November 25 listing was found. Topic sources will be added as the board is curated.",
       "rawHref": "/topics/raw/articles/2026-11-25-link-records.md",
       "relativePath": "raw/articles/2026-11-25-link-records.md",
@@ -279413,6 +279449,56 @@
       "wikiTitles": [],
       "unresolvedWikiLinks": [],
       "searchText": "signal.group Sovereign AI Club - November 25, 2026 2026-11-25 https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR"
+    },
+    {
+      "id": "sovereign-ai-club-november-25-2026-topic-1urbzlk",
+      "title": "www.meetup.com/austin-computer-club/events/317462120/",
+      "rawTitle": "www.meetup.com/austin-computer-club/events/317462120/",
+      "normalizedTitle": "www.meetup.com/austin-computer-club/events/317462120/",
+      "section": "",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://www.meetup.com/austin-computer-club/events/317462120/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
+          "title": "www.meetup.com/austin-computer-club/events/317462120/",
+          "section": ""
+        }
+      ],
+      "wikiIds": [],
+      "wikiTitles": [],
+      "unresolvedWikiLinks": [],
+      "searchText": "www.meetup.com/austin-computer-club/events/317462120/ Sovereign AI Club - November 25, 2026 2026-11-25 https://www.meetup.com/austin-computer-club/events/317462120/"
+    },
+    {
+      "id": "sovereign-ai-club-november-25-2026-topic-108gp3h",
+      "title": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+      "rawTitle": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+      "normalizedTitle": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+      "section": "",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://www.meetup.com/bitcoin-park-austin/events/317149461/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
+          "title": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+          "section": ""
+        }
+      ],
+      "wikiIds": [],
+      "wikiTitles": [],
+      "unresolvedWikiLinks": [],
+      "searchText": "www.meetup.com/bitcoin-park-austin/events/317149461/ Sovereign AI Club - November 25, 2026 2026-11-25 https://www.meetup.com/bitcoin-park-austin/events/317149461/"
     },
     {
       "id": "sovereign-ai-club-november-11-2026-topic-signalgroup",
@@ -301170,6 +301256,56 @@
       "wikiTitles": [],
       "unresolvedWikiLinks": [],
       "searchText": "signal.group Sovereign AI Club - November 25, 2026 2026-11-25 https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR"
+    },
+    "sovereign-ai-club-november-25-2026-topic-1urbzlk": {
+      "id": "sovereign-ai-club-november-25-2026-topic-1urbzlk",
+      "title": "www.meetup.com/austin-computer-club/events/317462120/",
+      "rawTitle": "www.meetup.com/austin-computer-club/events/317462120/",
+      "normalizedTitle": "www.meetup.com/austin-computer-club/events/317462120/",
+      "section": "",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://www.meetup.com/austin-computer-club/events/317462120/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
+          "title": "www.meetup.com/austin-computer-club/events/317462120/",
+          "section": ""
+        }
+      ],
+      "wikiIds": [],
+      "wikiTitles": [],
+      "unresolvedWikiLinks": [],
+      "searchText": "www.meetup.com/austin-computer-club/events/317462120/ Sovereign AI Club - November 25, 2026 2026-11-25 https://www.meetup.com/austin-computer-club/events/317462120/"
+    },
+    "sovereign-ai-club-november-25-2026-topic-108gp3h": {
+      "id": "sovereign-ai-club-november-25-2026-topic-108gp3h",
+      "title": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+      "rawTitle": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+      "normalizedTitle": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+      "section": "",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://www.meetup.com/bitcoin-park-austin/events/317149461/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
+          "title": "www.meetup.com/bitcoin-park-austin/events/317149461/",
+          "section": ""
+        }
+      ],
+      "wikiIds": [],
+      "wikiTitles": [],
+      "unresolvedWikiLinks": [],
+      "searchText": "www.meetup.com/bitcoin-park-austin/events/317149461/ Sovereign AI Club - November 25, 2026 2026-11-25 https://www.meetup.com/bitcoin-park-austin/events/317149461/"
     },
     "sovereign-ai-club-november-11-2026-topic-signalgroup": {
       "id": "sovereign-ai-club-november-11-2026-topic-signalgroup",
@@ -335233,7 +335369,7 @@
           "topic-board"
         ],
         "degree": 0,
-        "updated": "2026-11-11"
+        "updated": "2026-11-16"
       },
       {
         "id": "sovereign-ai-club-november-25-2026-link-records",
@@ -335243,7 +335379,7 @@
           "source-record"
         ],
         "degree": 0,
-        "updated": "2026-11-11"
+        "updated": "2026-11-16"
       },
       {
         "id": "sovereign-ai-club-october-21-2026",
@@ -348067,12 +348203,12 @@
   },
   "stats": {
     "pageCount": 217,
-    "topicCount": 347,
+    "topicCount": 349,
     "rawPageCount": 0,
     "linkCount": 2491,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 1915,
+    "sourceLinkCount": 1916,
     "unresolvedLinkCount": 0,
-    "lastUpdatedAt": "2026-11-11"
+    "lastUpdatedAt": "2026-11-16"
   }
 }

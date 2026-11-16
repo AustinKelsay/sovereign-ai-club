@@ -57,6 +57,8 @@ export const meetups = [
       locationAddress: "601 Congress Avenue, Suite 250, Austin, TX 78701",
       reminderSendHour: 10,
       listings: [
+        { label: "Bitcoin Park Meetup", href: "https://www.meetup.com/bitcoin-park-austin/events/317149461/" },
+        { label: "Austin Computer Club Meetup", href: "https://www.meetup.com/austin-computer-club/events/317462120/" },
         { label: "Official public Signal group", href: OFFICIAL_SIGNAL_GROUP_URL },
       ],
     },
