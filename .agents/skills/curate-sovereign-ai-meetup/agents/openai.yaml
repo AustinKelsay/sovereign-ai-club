@@ -1,0 +1,4 @@
+interface:
+  display_name: "Curate Sovereign AI Club Meetup"
+  short_description: "Add topics and garden the Sovereign AI Club wiki"
+  default_prompt: "Use $curate-sovereign-ai-meetup to add links and topics to the next Sovereign AI Club meetup board, then update the LLM Wiki source records, wikilinks, index, log, and frontend Meetup Data."
