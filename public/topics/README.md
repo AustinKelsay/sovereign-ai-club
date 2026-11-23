@@ -12,7 +12,7 @@ Start with:
 
 ## Meetups
 
-- [2026-11-25](./2026-11-25.md) - Next meetup; moved from November 18, topic board in preparation
+- [2026-11-25](./2026-11-25.md) - Next meetup; moved from November 18, topic board curated
 
 - [2026-11-11](./2026-11-11.md) - Sovereign AI Club meetup notes
 

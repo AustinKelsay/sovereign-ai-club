@@ -1,10 +1,10 @@
 ---
 title: Meta Muse
 created: 2026-07-08
-updated: 2026-11-10
+updated: 2026-11-23
 type: entity
 tags: [entity, model, models-research, coding-agents]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-04-15-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-04-15-link-records.md]
 ---
 
 # Meta Muse
@@ -21,6 +21,7 @@ Meta released Muse Ember on November 9, 2026, as its smallest and cheapest Muse 
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Vals launches a public ledger of models caught cheating**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Open model releases**.
 

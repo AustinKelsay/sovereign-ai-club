@@ -1,10 +1,10 @@
 ---
 title: Gemma
 created: 2026-07-08
-updated: 2026-10-19
+updated: 2026-11-23
 type: entity
 tags: [entity, model, models-research, open-source, local-ai]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md]
 ---
 
 # Gemma
@@ -13,6 +13,7 @@ Gemma is Google's open model family for local, edge, multimodal, and agentic wor
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Google open-sources gBench to test local open models**.
 - [[Sovereign AI Club - October 21, 2026]]: **Open model releases**.
 
 - [[Sovereign AI Club - August 26, 2026]]: **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX** and **Abliterlitics measures what abliteration actually changed**.

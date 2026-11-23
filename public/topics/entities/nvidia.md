@@ -1,18 +1,19 @@
 ---
 title: NVIDIA
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-23
 type: entity
 tags: [entity, company, compute, model, agent-infrastructure]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # NVIDIA
 
-NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; the board said it had no reason to believe national security or company secrets were compromised. On November 10 the independent directors retained Joon H. Kim and Wachtell, Lipton, Rosen & Katz to run the investigation, and on November 11 the New York Times reported Huang also had a relationship with an Nvidia executive who reports to him.
+NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; the board said it had no reason to believe national security or company secrets were compromised. On November 10 the independent directors retained Joon H. Kim and Wachtell, Lipton, Rosen & Katz to run the investigation, and on November 11 the New York Times reported Huang also had a relationship with an Nvidia executive who reports to him. Huang resigned on November 12, 2026 while CFO Colette Kress served as interim CEO, and the board unanimously reinstated him on November 23 after senior US government input while the independent investigation continued and NVIDIA formed a National Security and Export Control Committee.
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **NVIDIA's board reinstates Jensen Huang eleven days after he resigned** and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.
 - [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.
 - [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.
 - [[Sovereign AI Club - September 30, 2026]]: **Models hand off KV cache instead of text**, **NVIDIA puts the agent kill switch in the DPU**, **NVIDIA's Hugging Face deal revives the torrent exit**.

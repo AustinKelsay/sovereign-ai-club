@@ -1,10 +1,10 @@
 ---
 title: AI Governance
 created: 2026-06-08
-updated: 2026-11-10
+updated: 2026-11-23
 type: concept
 tags: [concept, security, big-tech-moves]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md]
 ---
 
 # AI Governance
@@ -13,6 +13,7 @@ AI Governance covers policy, evaluation, regulatory, and institutional control p
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Washington squeezes Chinese open weights and overseas GPU rentals**, **Ninety AI figures sign "MisAnthropic" letter on Anthropic's IPO day**, and **UC pays OpenAI $1.2M a year over faculty objections**.
 - [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations** and **Voters limited data centers in 40 of 41 local ballot measures**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, and **Jasmine Wang's account of her OpenAI firing**.

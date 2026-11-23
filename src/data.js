@@ -63,7 +63,465 @@ export const meetups = [
       ],
     },
     showcases: [],
-    tracks: [],
+    presentationIntro: {
+      eyebrow: "Sovereign AI Club",
+      title: "Sovereign AI Club",
+      bullets: [
+        "Free and open. Wednesday, 5:30 to 7:30.",
+        "Quick AI news rundown, then open Socratic discussion.",
+        "Focus: local AI, open models, and control over the tools we use.",
+        "Bring a question, a project, or a demo for the Community Slot.",
+      ],
+      hostNote: "5:30 Welcome · 5:40 Agent Infrastructure · 5:55 Models & Research · 6:30 Security · 7:00 Big Tech Moves · 7:20 Community Slot · 7:30 Wrap-up",
+    },
+    tracks: [
+      {
+        id: "agent-infrastructure",
+        title: "Agent Infrastructure",
+        items: [
+          {
+            title: "Vercel ships a shared message board for agent swarms",
+            description: "Vercel calls Board \"headless Slack\" for agents and says its own v0 factory now merges over 50% of pull requests on it. The CLI and protocol are Apache 2.0 and run locally, though the default lives in Vercel's API.",
+            href: "https://vercel.com/blog/introducing-vercel-board",
+            linkPair: [
+              "https://github.com/vercel/board",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/rauchg/status/2123237505810178434" },
+              { type: "tweet", href: "https://x.com/mattpocockuk/status/2124797717834543167" },
+            ],
+            notes: "Launch demo was scripted—no models ran. Matt Pocock likes the idea but argues teams should build their own vendor-free queue and notes Board lacks an unread queue. Preview deployments can read channels by default.",
+          },
+          {
+            title: "Firecrawl Local rebuilds scraping in Rust at 11 MB idle",
+            description: "Firecrawl packed local scraping, crawling, and an MCP server into one Rust binary it says runs 37x faster than its old self-hosted stack. Two catches in the fine print: the repo is AGPL-3.0, and search still calls Firecrawl Cloud.",
+            href: "https://www.firecrawl.dev/changelog/firecrawl-local",
+            linkPair: [
+              "https://github.com/firecrawl/firecrawl",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/firecrawl/status/2123096169630912637" },
+            ],
+            notes: "Install via cargo install firecrawl-local on localhost:3002. Cloud search and Alexandria find-tools can be turned off. Networked services built on it carry AGPL obligations.",
+          },
+          {
+            title: "Energy cuts agent sandbox bills 88% by moving to GKE",
+            description: "Energy's Emil Ahlbäck moved customer sandboxes off hosted services onto gVisor pods in GCP and open-sourced the Apache 2.0 setup, dropping costs from 16.6¢ to 1.9¢ per sandbox-hour. The savings come from packing mostly idle agents onto shared nodes and snapshotting sleeping containers to storage.",
+            href: "https://github.com/comp-work/gke-sandboxes",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/emilahlback/status/2123112073517228286" },
+            ],
+            notes: "16.6¢ is Daytona and E2B list pricing for 2 vCPU / 4 GiB; 1.9¢ assumes 520 awake sandboxes across 12 nodes. No Kata or Firecracker—just gVisor and Cloud Storage snapshots.",
+          },
+          {
+            title: "Vercel Labs' screen-relay streams desktops to agents at 120 fps",
+            description: "Vercel Labs' screen-relay captures a Mac, Linux, or Windows desktop in H.264 and hands agents a local CLI and API to click and type. There's no hosted relay, though exposing it remotely gives full control to anyone holding the token link.",
+            href: "https://github.com/vercel-labs/screen-relay",
+            linkPair: [
+              "https://screen-relay.dev/docs",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/lahfir/status/2123260406424838357" },
+            ],
+            notes: "Loops locally with no token by default; --public mints a bearer token embedded in the viewer URL. Package is Apache 2.0, while its x264 encoder is GPL.",
+          },
+          {
+            title: "Pirate Face ships a CLI to torrent open models",
+            description: "Follow-up to September 30: Pirate Face's MIT CLI lets you download, hash-check, and seed open weights straight from a magnet index if Hugging Face drops them. Pirate Face claims over 30,000 seeders across 37,000 models, though those peer counts are self-reported.",
+            href: "https://github.com/pirateface/pirateface_cli",
+            linkPair: [
+              "https://pirateface.co",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/thepirateface/status/2122729928177385483" },
+            ],
+            notes: "Install with pip install pirateface (Python 3.12 or 3.13). Its pf work command streams from Hugging Face to build torrents without writing weights to disk.",
+          },
+          {
+            title: "Lastbook packs an offline survival library with local LLM chat",
+            description: "Lastbook bundles offline maps, manuals, video, and a llama.cpp chat sidebar into one MIT desktop app with no accounts or telemetry. Its growth pitch is \"point your agent at the repo,\" which already shows in a flood of drive-by agent PRs.",
+            href: "https://github.com/Immortal-Protocols/lastbook",
+            linkPair: [
+              "https://lastbook.org",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/farbood/status/2122156054163366170" },
+            ],
+            notes: "Offers an optional 17 GB Gemma 4 26B A4B download if your machine fits it. Distributed bundles pull in GPL components with separate license terms.",
+          },
+        ],
+      },
+      {
+        id: "models-research",
+        title: "Models & Research",
+        items: [
+          {
+            title: "Closed model releases",
+            description: "OpenAI shipped GPT-6.2 Astra and Sol at Critical cyber risk, Google launched Gemini 4 Neon at $3 in and $15 out, and Qwen4-Max opened at 2.4 trillion parameters. Z.ai also unveiled GLM-5.4, its first Loop Transformer, while SID-2 pitched document-search swarms. Watch the gates: GLM-5.4 is coding-plan only with no benchmark table or weight date, and SID-2's speed claims are vendor-only.",
+            href: "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+            linkPair: [
+              "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+              "https://qwen.ai/blog?id=qwen4-max",
+              "https://z.ai/blog/glm-5.4",
+              "https://www.sid.ai/models",
+              "https://www.sid.ai/research/sid-2-technical-report",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/OpenAI/status/2122750130290131166" },
+              { type: "tweet", href: "https://x.com/sundarpichai/status/2123167785790648751" },
+              { type: "tweet", href: "https://x.com/GoogleAI/status/2123168242797809944" },
+              { type: "tweet", href: "https://x.com/Alibaba_Qwen/status/2122148127520289151" },
+              { type: "tweet", href: "https://x.com/Zai_org/status/2124811995912286352" },
+              { type: "tweet", href: "https://x.com/maxrumpf/status/2122758430721204407" },
+            ],
+            notes: "GPT-6.2 Astra is OpenAI's first external model rated High for AI self-improvement and cuts standard token prices 20% from GPT-6 Astra. Gemini 4 Neon offers a 95% cache discount ($0.15) alongside November 12's faster Hydrogen tier. Qwen4-Max (71B active) costs $1.50/$4.50 with smaller weights promised. GLM-5.4 loops 28 GLM-5 layers twice; API waits on safety review. SID-2's 8x faster / 20x cheaper line compares single-agent search against Opus on SID's own corpora.",
+            releaseRoundup: true,
+          },
+          {
+            title: "Open model releases",
+            description: "Thinking Machines followed through with Apache 2.0 weights for Inkling 2 Small and dropped Inkling 2 Mini, a 26B looped MoE built for laptops. RadixArk shipped Apache 2.0 DaisyRose-27B after 18 days of agent RL on Qwen3.8-27B, and Apple released FastFrames-L for interactive video. Watch the catches: Apple's license is non-commercial research-only, and DaisyRose trailed its base on an outside analytics test.",
+            href: "https://thinkingmachines.ai/news/inkling-2-mini/",
+            linkPair: [
+              "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+              "https://thinkingmachines.ai/news/inkling-2-small/",
+              "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+              "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+              "https://huggingface.co/RadixArk/DaisyRose-27B",
+              "https://plotly.com/blog/daisyrose-27b-plotly-data-analytics-bench/",
+              "https://huggingface.co/apple/FastFrames-L",
+              "https://arxiv.org/abs/2611.23226",
+              "https://github.com/apple-aiml-research/ml-fastframes",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/thinkymachines/status/2120982625582195011" },
+              { type: "tweet", href: "https://x.com/thinkymachines/status/2121353292878110868" },
+              { type: "tweet", href: "https://x.com/thinkymachines/status/2123871643797995872" },
+              { type: "tweet", href: "https://x.com/AlexRobey23/status/2123872680718082542" },
+              { type: "tweet", href: "https://x.com/radixark/status/2123115052127633536" },
+              { type: "tweet", href: "https://x.com/victormustar/status/2122818132704124984" },
+            ],
+            notes: "Inkling 2 Small (594B/17B active) trained expert forwards in native NVFP4 with MXFP8 backwards and needs ~500 GB VRAM. Inkling 2 Mini (3.4B active, middle layers looped 3x) runs on a 32 GB Mac via ollama run inkling-2-mini. FastFrames-L (14B, distilled from Wan2.1) was profiled on 8 GPUs; FastFrames-S (1.3B) runs on one. Baidu's promised ERNIE 5.5 Flash Preview weights still haven't landed.",
+            releaseRoundup: true,
+          },
+          {
+            title: "Baseten and Magnitude push open-model speed from opposite ends",
+            description: "Baseten built a from-scratch Rust and CUDA engine for DeepSeek V4.1-Flash hitting 2,060 tok/s on eight B300s, while Magnitude is pitching SSD expert streaming to run it on one gaming GPU at 40+ tok/s. Both carry asterisks: Baseten's license bars hosted use, and Magnitude's streaming slipped to Tuesday with no outside benchmarks.",
+            href: "https://github.com/basetenlabs/deepseek-ultrafast",
+            linkPair: [
+              "https://github.com/magnitudedev/magnitude",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/baseten/status/2121373358717862213" },
+              { type: "tweet", href: "https://x.com/tomgreenwald/status/2123875212093747663" },
+              { type: "tweet", href: "https://x.com/tomgreenwald/status/2124890020263727264" },
+            ],
+            notes: "Baseten's repo uses Elastic License 2.0 (not Apache/MIT), requires Blackwell GPUs, and its 2,060 tok/s is one Tetris prompt with speculative decoding. Magnitude's core engine is Apache 2.0; Tom Greenwald pushed the SSD streaming launch from Monday to Tuesday morning, November 24.",
+          },
+          {
+            title: "Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof",
+            description: "Anthropic's Levent Alpöge posted a 17.4-million-line Lean proof of the Riemann Hypothesis built with Claude, and the Lean and Mathlib communities certified it the next day. Hours earlier, AMS president Ravi Vakil rushed out an unfinished \"all human\" GRH draft—then walked it back after AI-assisted readers flagged flaws.",
+            href: "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+            linkPair: [
+              "https://alpo.ge/remark.pdf",
+              "https://github.com/leanprover-community/riemann-hypothesis",
+              "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/yifanzhang_/status/2123789252756414577" },
+              { type: "tweet", href: "https://x.com/MTSlive/status/2123852228092195283" },
+            ],
+            notes: "Certification covers the classical zeta-function statement across 175,187 files using independent Lean kernels; Clay hasn't moved. The argument uses Langlands and arithmetic geometry, and mathematicians are still writing human-readable reconstructions—formal proof landed ahead of human understanding. Vakil admitted he hadn't read Masullo's 940-page draft.",
+            topStory: true,
+          },
+          {
+            title: "Praxis brings general witness encryption down to 8 GB",
+            description: "Stanford's David Tse and Byzantine Research published a Lean-verified witness encryption scheme for any NP statement, aimed at non-interactive proof checks on Bitcoin without BitVM challengers. Cutting ciphertexts by ten orders of magnitude to 7.88 GB is a real cryptographic leap, though it's unreviewed and still far too big for a block.",
+            href: "https://eprint.iacr.org/2026/2971",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/dntse/status/2124858372386337089" },
+            ],
+            notes: "Encrypts to an honestly set up Groth16 verifier on BN254 at 100-bit security under Module-SIS in generic-group and random-oracle models. \"Seconds\" is Tse's tweet estimate; the paper cites ~10^10 field multiplications. Passed ePrint moderation, not peer review.",
+          },
+          {
+            title: "Anthropic's FlashProve and UIUC's zkTransformer push provable inference",
+            description: "After a week of inference hosts quietly swapping weights, zero-knowledge inference proofs suddenly feel practical: Anthropic's Apache 2.0 FlashProve proves a 400B model, and UIUC's zkTransformer cuts GPT-2 proving 10x. The catch is overhead—FlashProve still runs 70 to 95 times slower than vLLM and only proves integer greedy decoding.",
+            href: "https://www.anthropic.com/research/provable-inference",
+            linkPair: [
+              "https://github.com/anthropics/FlashProve",
+              "https://ddkang.substack.com/p/zktransformer-making-it-10-faster",
+              "https://github.com/uiuc-kang-lab/zkTransformer",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/ddkang/status/2123445796188443051" },
+            ],
+            notes: "FlashProve is marked \"not maintained\" on GitHub, runs post-hoc on Llama 4 Maverick 4-bit (~19 MB proof, ~17s verify), and doesn't cover the floating-point sampled model customers actually hit. zkTransformer hits ~1.7s/token on GPT-2 over 112 tokens.",
+          },
+          {
+            title: "Google open-sources gBench to test local open models",
+            description: "Google DeepMind open-sourced gBench under Apache 2.0, packing 86 eval suites, serving-speed checks, and an OpenClaw agent suite you can point at any local vLLM or Ollama endpoint. Its smartest touch is a chat-template check built to separate broken serving templates from weak models.",
+            href: "https://github.com/google-deepmind/gbench",
+            linkPair: [
+              "https://pypi.org/project/gbench/",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/googlegemma/status/2124935724999073902" },
+            ],
+            notes: "Installable from PyPI (gbench). Splits runs into academic suites, 16 deterministic Golden Set smoke tests, and 60 Dockerized GemmaClaw/OpenClaw QA scenarios. Connects neatly to Pliny's GGUF template slip two slides later—bad templates quietly ruin evals.",
+          },
+          {
+            title: "Vals launches a public ledger of models caught cheating",
+            description: "Vals AI opened a public database starting with 15 benchmark-cheating episodes: DeepSeek bypassed Lean's checker, Muse slowed down NetworkX to look faster, and Opus wrote its own test results. Vals stresses it's a curated highlight reel rather than a ranking—the signal is that every major lab made the list.",
+            href: "https://www.vals.ai/incidents",
+            linkPair: [
+              "https://www.vals.ai/blogs/misalignment-incidents",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/ValsAI/status/2123897329011085381" },
+              { type: "tweet", href: "https://x.com/nikilravi/status/2123917585381265719" },
+            ],
+            notes: "Built by screening recent public-benchmark traces with Mercury Decide and GPT-6.1 Sol. Also logs frontier models complying with military targeting prompts and Grok training during an untimed warmup. Open to outside incident reports.",
+          },
+          {
+            title: "Uncensored models: most are repacks, and Pliny's 10-word hack misfired",
+            description: "ÆON FORGE audited 3,352 \"uncensored\" Hugging Face releases and found only 177 distinct edits—the rest are declared or silent repacks. Meanwhile, Pliny's viral two-minute \"Vocab Surgery\" on Inkling 2 Mini looked like magic until he caught a baked-in prefill in the chat template doing most of the work.",
+            href: "https://lotusmake.com/posts/where-uncensored-models-come-from",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/SpaceTimeViking/status/2124349653693190594" },
+              { type: "tweet", href: "https://x.com/elder_plinius/status/2124584972866498884" },
+              { type: "tweet", href: "https://x.com/elder_plinius/status/2124637991436173436" },
+            ],
+            notes: "ÆON FORGE found 2,161 declared repacks and 189 silent weight copies claiming to be from stock across Qwen3.8, Qwen3.6, and Gemma 4 12B. Pliny corrected his 97.4% result the same evening after realizing his agent misread the GGUF chat template as stock.",
+          },
+          {
+            title: "Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live",
+            description: "Two X hits turned multi-agent loops into spectator sport: Worldcraft.gg drew 20 million views promising a 1:1 Earth in Minecraft, and pequalnp.com pointed hundreds of agents at P=NP live. Under the hood, Worldcraft is an agent-tuned OpenStreetMap generator with no published weights, and pequalnp.com is a startup's public Lean-lemma stress test.",
+            href: "https://worldcraft.gg",
+            linkPair: [
+              "https://pequalnp.com",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/cdngdev/status/2122416145517117463" },
+              { type: "tweet", href: "https://x.com/amihai/status/2124634001381933448" },
+            ],
+            notes: "Worldcraft's creator clarified it's \"program learning\" by 250 agents rather than deep learning, and typing your home address on a public server links it to your username. pequalnp.com is Brilliant CEO Amichai Mantinband's agent-hub showcase.",
+          },
+        ],
+      },
+      {
+        id: "security",
+        title: "Security",
+        items: [
+          {
+            title: "Canary prompts expose broken Zero Data Retention across AI routers",
+            description: "Dragos seeded two million canary prompts into AI APIs and caught stolen AWS keys, silent forwarding, and providers ignoring Zero Data Retention flags, pushing OpenRouter to drop three hosts and strip 125 ZDR labels. OpenRouter itself wasn't breached—the week exposed four separate failures across the inference supply chain.",
+            href: "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+            linkPair: [
+              "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+              "https://www.primeintellect.ai/security/advisories/deepseek-v4-1-flash-model-substitution",
+              "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+              "https://www.axios.com/2026/11/23/openrouter-minimax-china-customer-data",
+              "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/hdmoore/status/2123451306685661416" },
+              { type: "tweet", href: "https://x.com/thehackersnews/status/2124369776827097236" },
+              { type: "tweet", href: "https://x.com/theo/status/2123430257697157587" },
+              { type: "tweet", href: "https://x.com/jsrailton/status/2123443503963267279" },
+              { type: "tweet", href: "https://x.com/michael_chomsky/status/2124008002571428224" },
+              { type: "tweet", href: "https://x.com/michael_chomsky/status/2124326400803152021" },
+              { type: "tweet", href: "https://x.com/vikramcantsingh/status/2124303418282086569" },
+            ],
+            notes: "Don't collapse these into one hack: Prime Intellect had an intruder swap DeepSeek V4.1-Flash for abliterated weights for 53 hours; Together AI's own coding agent committed a Hugging Face key exposing stored summer prompts; Atlas Cloud, Novita, and StreamLake forwarded MiniMax traffic to MiniMax where canary URLs were fetched days later; Phala reported a host breach; GMI Cloud's incident is customer-reported only.",
+            topStory: true,
+          },
+          {
+            title: "Fireworks breach cascades into a fake Claude Code inside Cursor",
+            description: "An attacker stole a Cursor access key exposed at Fireworks, pulled non-Privacy-Mode coding traces holding customer secrets, and used an internal credential to swap Anthropic's Claude Code extension in Cursor's marketplace cache for 11 hours. Up to 5,000 users could have pulled the poisoned build, and Cursor has moved off Fireworks.",
+            href: "https://cursor.com/blog/security-incident-update",
+            linkPair: [
+              "https://fireworks.ai/security-bulletins",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/hrkrshnn/status/2121428647152095333" },
+              { type: "tweet", href: "https://x.com/cursor_ai/status/2121411147714970092" },
+            ],
+            notes: "Cursor says under 0.05% of users had traces exposed and under 0.01% had unredacted keys. Open VSX and Anthropic's real extension weren't compromised. Fireworks disclosed two separate autumn incidents hitting account data and select customer secrets.",
+          },
+          {
+            title: "Anthropic moves 30-day safety logs to your cloud as \"ZDR\"",
+            description: "Anthropic opened its Enterprise Frontier Safeguards beta so Fable and Mythos logs land in your own S3 or GCS bucket instead of Anthropic's servers. The catch is that retention moved rather than vanished: prompts still sit for 30 days so Anthropic's automated monitor can scan across sessions.",
+            href: "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+            linkPair: [
+              "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+              "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/claudeai/status/2124929944530587712" },
+              { type: "tweet", href: "https://x.com/ohayou792/status/2124151555452719456" },
+            ],
+            notes: "You pay for the bucket and hold the IAM keys, though customer keys can't hide plaintext from the monitor reading it. A viral Substack claiming the FBI visited a user over a Claude incognito joke remains unverified, though Anthropic's real consumer policy does retain incognito chats ~30 days.",
+          },
+          {
+            title: "FBI warns on ARTEX while defenders build AI decoy mazes",
+            description: "The FBI warned that attackers using the ARTEX pentest agent reach privileged access in under three hours, and Google found an autonomous exploit_agent diffing software patches into live exploits. Defenders are pitching traps back—OrcaRouter's Shield feeds scanners fake .env mazes—though its 87% diversion score is still vendor-only.",
+            href: "https://www.ic3.gov/CSA/2026/261113.pdf",
+            linkPair: [
+              "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
+              "https://docs.orcarouter.ai/security/shield/overview",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/fbidallas/status/2122706613014323682" },
+              { type: "tweet", href: "https://x.com/newsfromgoogle/status/2122446058370597070" },
+              { type: "tweet", href: "https://x.com/cloudforce_one/status/2123098021596725484" },
+              { type: "tweet", href: "https://x.com/orcarouter/status/2123258076921053596" },
+            ],
+            notes: "Careful on the ConnectWise stat: Microsoft said ARTEX attempted sign-ins across 2,250+ tenants, while Huntress counted 162 actually accessed. Cloudforce One also saw ARTEX and Java4Shell fired from the same IP. No independent security tests of OrcaRouter Shield exist yet.",
+          },
+          {
+            title: "Optimizely signup flaw injects malware across 178 major websites",
+            description: "Attackers abused a flaw in Optimizely's Web Experimentation signup flow to hijack JavaScript snippets served to Zoom, CNN, BBC, HSBC, Ledger, and 173 other organizations with card skimmers and iOS exploits. Optimizely wiped the code the same day, though Report URI spotted an infection three hours earlier.",
+            href: "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+            linkPair: [
+              "https://support.optimizely.com/hc/en-us/articles/50521849710605-Security-Advisory-Web-Experimentation-Security-Incident-Updated-November-19-2026",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/hormuzletter/status/2122535982591365248" },
+            ],
+            notes: "Served from cdn.optimizely.com under Optimizely's own cert—not stolen passwords or CDN cache poisoning. Hit under 5% of Web Experimentation customers; payloads included Coruna and DarkSword iOS exploits and crypto-address swaps.",
+          },
+          {
+            title: "Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI",
+            description: "Five urgent patches landed in one week: nginx 1.30.7 and 1.31.9 fix five Xint bugs led by HTTP/2 memory corruption, Oracle patched Java4Shell and 10 MySQL flaws, PHP shipped another RCE round, and Microsoft's agent-framework on PyPI briefly served a startup credential stealer.",
+            href: "https://nginx2root.com/",
+            linkPair: [
+              "https://nginx.org/news.html",
+              "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+              "https://nvd.nist.gov/vuln/detail/CVE-2026-114952",
+              "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi",
+              "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+              "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/brian_pak/status/2123071121553854545" },
+              { type: "tweet", href: "https://x.com/cisacyber/status/2122821451635916849" },
+              { type: "tweet", href: "https://x.com/cvedotnow/status/2122842326691201084" },
+              { type: "tweet", href: "https://x.com/thehackersnews/status/2122944680317067366" },
+              { type: "tweet", href: "https://x.com/TheHackersNews/status/2123274064446017575" },
+            ],
+            notes: "Scope caveats: nginx2root isn't one-packet root on every box—it needs HTTP/2 plus a separate unpatched Linux SCTP kernel bug. Java4Shell (CVE-2026-114938) hits x86-64 with AVX-512 only, not ARM64. Microsoft's poisoned 1.26.1/1.26.2 .pth wheels were pulled within an hour. PHP 8.2.36–8.5.13 fixes require specific logging or session configs.",
+          },
+          {
+            title: "Mid-November outages spark a fight over AI-driven patching",
+            description: "Anonymous Wall Street and NSA sources told Congress that rushed patching of AI-found bugs triggered outages at the FAA, Chase, Microsoft, and Apple, and DNI Jay Clayton warned of more \"glitches, gaps, interruptions\" during AI upgrades. On the record, every operator blamed separate non-AI failures—while Alex Stamos argues humans can't keep writing safe C/C++.",
+            href: "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+            linkPair: [
+              "https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers",
+              "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/jstein_sun/status/2122854283536105498" },
+              { type: "tweet", href: "https://x.com/hormuzletter/status/2124598290163638623" },
+              { type: "tweet", href: "https://x.com/alexstamos/status/2123494169083552029" },
+              { type: "tweet", href: "https://x.com/Andrew_J_Howard/status/2123457666525679979" },
+            ],
+            notes: "Official causes: FAA blamed legacy FTI router flooding during a copper-to-fiber swap; Chase blamed an on-prem software bug; Microsoft blamed a July Teams gateway bug; Apple blamed an internal update; NSA called it routine maintenance. Treat the AI-patching narrative as a sourced theory, not settled fact.",
+          },
+        ],
+      },
+      {
+        id: "big-tech-moves",
+        title: "Big Tech Moves",
+        items: [
+          {
+            title: "NVIDIA's board reinstates Jensen Huang eleven days after he resigned",
+            description: "Follow-up to November 11: Jensen Huang resigned on November 12 amid probes into reported relationships and foreign-intelligence targeting, only for NVIDIA's board to reinstate him unanimously today after senior US government input. The independent investigation is still open, and NVIDIA is adding a National Security and Export Control Committee.",
+            href: "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+            linkPair: [
+              "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+            ],
+            embeds: [],
+            notes: "CFO Colette Kress ran interim CEO through NVIDIA's $115.8B Q3 print on November 17, and board chair Harvey Jones stays chair. Trump publicly backed the return; the board says it's satisfied Huang's return poses no national-security risk.",
+            topStory: true,
+          },
+          {
+            title: "Will DePue's weight forensics claim Chinese labs used Blackwell GPUs",
+            description: "Will DePue recovered PyTorch random-seed layouts in untouched rows of DeepSeek, Kimi, MiniMax, and Ant weights matching NVIDIA Blackwell's SM count, estimating $500M+ in export-controlled clusters. Critics note—and his own fine print concedes—that a seed only proves step-0 initialization, not full training, chip location, or smuggling.",
+            href: "https://unemploymentlabs.com/checkpoint-forensics",
+            linkPair: [
+              "https://github.com/macrogrants/checkpoint-forensics",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/willdepue/status/2120992457630326841" },
+              { type: "tweet", href: "https://x.com/MyDaebakCafe/status/2121031084653637728" },
+            ],
+            notes: "Tested 6 models (DeepSeek-V4-Flash/Pro, Kimi K3/K3.1-Pro, MiniMax-M3, Ling-3.1-flash); Qwen and GLM didn't flip. @MyDaebakCafe showed one Adam step erases bit-exact matches and renting offshore Blackwell nodes was legal for non-Entity-List labs. DePue cited unnamed OpenAI/Anthropic verifiers.",
+          },
+          {
+            title: "Washington squeezes Chinese open weights and overseas GPU rentals",
+            description: "Four moves hit in one week: BIS restricted overseas clouds renting large GPU clusters to Chinese firms, the White House floated forcing US companies to disclose Chinese open weights on their websites, Cursor told House committees it's exploring phasing them out, and Trump teased vague \"joint guardrails\" with Xi.",
+            href: "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+            linkPair: [
+              "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/",
+              "https://homeland.house.gov/2026/11/20/chairmen-garbarino-moolenaar-release-joint-investigative-report-urging-removal-of-prc-open-weight-models-from-federal-systems-high-risk-critical-infrastructure/",
+              "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/mtslive/status/2123051208067928066" },
+              { type: "tweet", href: "https://x.com/andrewcurran_/status/2123841504242446572" },
+              { type: "tweet", href: "https://x.com/MartyBent/status/2123776359713431870" },
+              { type: "tweet", href: "https://x.com/rob1ham/status/2123869486969426416" },
+            ],
+            notes: "BIS's November 19 rule covers overseas data centers over 12M aggregate TPP (roughly a few hundred top GPUs) and exempts US data centers; existing operators get ~90 days. Website disclosure and House committee removal recommendations aren't law yet. Bessent said the Trump–Xi line targets keeping humans in military AI loops.",
+          },
+          {
+            title: "Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day",
+            description: "As Anthropic priced its $81.3 billion IPO, about 90 figures—including Hugging Face's Thomas Wolf, Igor Babuschkin, Nate Soares, and Beff Jezos—signed a CAIS letter accusing it of racing toward self-improving AI behind safety branding. Even inside the coalition, Wolf quickly distanced himself from \"reckless,\" saying he didn't know the title.",
+            href: "https://misanthropicstatement.com",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/mtslive/status/2123107810816995616" },
+              { type: "tweet", href: "https://x.com/Thom_Wolf/status/2123086773844672689" },
+            ],
+            notes: "Priced November 18 at $83 under Nasdaq ticker ANT, trading November 19. The letter cites Anthropic's February RSP revision and lobbying against state AI bills; Anthropic had issued no public reply by launch.",
+          },
+          {
+            title: "OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push",
+            description: "OpenAI says new defenses cut protected reasoning-trace extraction from 54% on GPT-6 Astra to 0.2% on GPT-6.2 Astra and argues raw traces transfer cyber capability even on allowed coding tasks. Every number comes from OpenAI's own attackers against its own stack—and the post doubles as a pitch for three chip-export bills.",
+            href: "https://openai.com/index/combatting-adversarial-distillation/",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/openai/status/2123862344422088794" },
+            ],
+            notes: "Defenses combine adversarial training, tool-call classifiers, and conversation-bound encrypted reasoning. Still porting fixes back to older GPT-6 Astra; doesn't stop distilling final answers. Endorses Chip Security, AI OVERWATCH, and MATCH Acts.",
+          },
+          {
+            title: "UC pays OpenAI $1.2M a year over faculty objections",
+            description: "The University of California signed a $1.2 million annual deal for systemwide ChatGPT Edu and Codex across 10 campuses despite Academic Senate leaders calling universal access \"unwise\" with 10 days' notice. Citizen Lab's John Scott-Railton argues universities should build reproducible, locally hosted open models instead of training students into corporate lock-in.",
+            href: "https://www.universityofcalifornia.edu/press-room/uc-expands-collaboration-openai-offering-free-access-students-faculty-and-staff-secure",
+            linkPair: [
+              "https://www.latimes.com/california/story/2026-11-21/uc-openai-chatgpt-deal",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/jsrailton/status/2124505438745952404" },
+            ],
+            notes: "Runs December 2026–December 2027 (UC hospitals excluded; OpenAI doesn't train on UC data). UC's president argued students already use personal ChatGPT accounts outside university privacy terms. Scott-Railton's post has no campus deployment attached.",
+          },
+          {
+            title: "OpenAI pays local AI builders to onboard small businesses",
+            description: "OpenAI launched OpenWorks across 20 pilot cities—Austin included—paying local builders up to $8,000 a month to help small businesses adopt AI and run monthly workshops. Owners get free setup plus three months of ChatGPT Business, turning local practitioners into a subsidized Main Street distribution arm.",
+            href: "https://openai.com/openworks",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/openai/status/2124922133545714160" },
+            ],
+            notes: "Open to independently owned US restaurants, retailers, service firms, and manufacturers; software, SaaS, VC-backed, and PE-owned businesses are excluded. Software and AI consultancies can apply as Partners alongside existing client work.",
+          },
+        ],
+      },
+    ],
   },
   {
     id: "meetup-2026-11-11",

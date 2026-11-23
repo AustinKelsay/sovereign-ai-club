@@ -1,10 +1,10 @@
 ---
 title: Big Tech Moves
 created: 2026-06-24
-updated: 2026-11-10
+updated: 2026-11-23
 type: concept
 tags: [concept, track, big-tech-moves]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Big Tech Moves
@@ -13,6 +13,7 @@ Big Tech Moves is the Sovereign AI Club track for major company strategy, comput
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **NVIDIA's board reinstates Jensen Huang eleven days after he resigned**, **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Ninety AI figures sign "MisAnthropic" letter on Anthropic's IPO day**, **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**, **UC pays OpenAI $1.2M a year over faculty objections**, and **OpenAI pays local AI builders to onboard small businesses**.
 - [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations** and **Voters limited data centers in 40 of 41 local ballot measures**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **China's draft AI export catalog, Announcement No. 48**, **DHS orders DeepSeek out of federal civilian IT**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.

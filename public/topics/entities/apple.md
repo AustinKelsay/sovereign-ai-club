@@ -1,10 +1,10 @@
 ---
 title: Apple
 created: 2026-06-08
-updated: 2026-09-09
+updated: 2026-11-23
 type: entity
 tags: [entity, company, big-tech-moves, agent-infrastructure]
-sources: [raw/articles/2026-09-09-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Apple
@@ -13,6 +13,7 @@ Apple is a recurring Sovereign AI Club entity for Apple Intelligence, Siri, priv
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Open model releases** and **Mid-November outages spark a fight over AI-driven patching**.
 - [[Sovereign AI Club - September 9, 2026]]: **Apple brings on-device assessments to Health**.
 
 - [[Sovereign AI Club - July 22, 2026]]: **Apple says OpenAI's hardware team took trade secrets**.

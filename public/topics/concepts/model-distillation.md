@@ -1,10 +1,10 @@
 ---
 title: Model Distillation
 created: 2026-05-05
-updated: 2026-11-10
+updated: 2026-11-23
 type: concept
 tags: [concept, models-research, security, open-source]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Model Distillation
@@ -13,6 +13,7 @@ Model Distillation is the recurring theme of using one model's outputs, traces, 
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**.
 - [[Sovereign AI Club - November 11, 2026]]: **Railway's final report: abliterated models and $740,000 of stolen AI spend**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **OpenCode distillation attack**.

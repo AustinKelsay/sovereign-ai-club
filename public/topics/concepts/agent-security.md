@@ -1,10 +1,10 @@
 ---
 title: Agent Security
 created: 2026-05-05
-updated: 2026-11-11
+updated: 2026-11-23
 type: concept
 tags: [concept, security, agent-infrastructure]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Agent Security
@@ -13,6 +13,7 @@ Agent Security covers the security controls, trust boundaries, governance toolin
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Energy cuts agent sandbox bills 88% by moving to GKE**, **FBI warns on ARTEX while defenders build AI decoy mazes**, and **Vals launches a public ledger of models caught cheating**.
 - [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.

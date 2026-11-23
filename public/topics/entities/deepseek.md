@@ -1,10 +1,10 @@
 ---
 title: DeepSeek
 created: 2026-07-08
-updated: 2026-10-21
+updated: 2026-11-23
 type: entity
 tags: [entity, company, model, open-source]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # DeepSeek
@@ -13,6 +13,7 @@ DeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competit
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Baseten and Magnitude push open-model speed from opposite ends**, **Vals launches a public ledger of models caught cheating**, and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.
 - [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **DHS orders DeepSeek out of federal civilian IT**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**.

@@ -1,10 +1,10 @@
 ---
 title: OpenClaw
 created: 2026-05-05
-updated: 2026-09-30
+updated: 2026-11-23
 type: entity
 tags: [entity, product, coding-agents, agent-infrastructure]
-sources: [raw/articles/2026-09-30-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # OpenClaw
@@ -15,6 +15,7 @@ OpenClaw Enterprise was announced September 29, 2026 as an MIT-licensed control 
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Google open-sources gBench to test local open models**.
 - [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.
 - [[Sovereign AI Club - May 27, 2026]]: **Grok API gets X Premium OAuth integration**.
 - [[Sovereign AI Club - April 15, 2026]]: **Anthropic vs OpenClaw keeps escalating**.

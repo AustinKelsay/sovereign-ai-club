@@ -1,10 +1,10 @@
 ---
 title: Inkling
 created: 2026-07-22
-updated: 2026-11-11
+updated: 2026-11-23
 type: entity
 tags: [entity, model, models-research, open-source]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-07-22-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-07-22-link-records.md]
 ---
 
 # Inkling
@@ -13,6 +13,7 @@ Inkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts model wit
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Open model releases** and **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.
 - [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.
 

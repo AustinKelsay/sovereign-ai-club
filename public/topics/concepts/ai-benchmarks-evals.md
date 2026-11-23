@@ -1,10 +1,10 @@
 ---
 title: AI Benchmarks & Evals
 created: 2026-06-24
-updated: 2026-10-20
+updated: 2026-11-23
 type: concept
 tags: [concept, models-research, agent-infrastructure]
-sources: [raw/articles/2026-10-21-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # AI Benchmarks & Evals
@@ -13,6 +13,7 @@ AI Benchmarks & Evals covers recurring Sovereign AI Club references to leaderboa
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Open model releases**, **Vals launches a public ledger of models caught cheating**, and **Google open-sources gBench to test local open models**.
 - [[Sovereign AI Club - October 21, 2026]]: **Same model, different harness: 8090's DeepSWE run** and **Hugging Face trains open models inside Claude Code and Codex**.
 
 - [[Sovereign AI Club - August 26, 2026]]: **OpenAI writes up the Hugging Face eval as a warning shot**, **Abliterlitics measures what abliteration actually changed**, and **fal's H3 Max leads AA's with-audio video boards**.

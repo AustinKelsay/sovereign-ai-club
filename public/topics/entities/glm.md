@@ -1,10 +1,10 @@
 ---
 title: GLM
 created: 2026-07-08
-updated: 2026-11-10
+updated: 2026-11-23
 type: entity
 tags: [entity, model, open-source, coding-agents]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # GLM
@@ -15,6 +15,7 @@ GLM-5.3 full weights became available after the August API announcement. The ful
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, and **Latent Sparse Attention: cheaper attention at 10 million tokens**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Same model, different harness: 8090's DeepSWE run**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, and **Cantina's apex-flash-1**.

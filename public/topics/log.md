@@ -957,3 +957,10 @@
 ## 2026-09-18
 
 Registered September 30 as the first public meetup, with confirmed event details and live Meetup and Luma links. Added the published Austin Computer Club listing alongside Bitcoin Park Meetup and Luma. Topic curation is pending.
+
+
+## [2026-11-23] curate | November 25 topic board curated
+
+- Curated 30 Topics across four Tracks (Agent Infrastructure, Models & Research, Security, Big Tech Moves) plus the open Community Slot for [[Sovereign AI Club - November 25, 2026]] from 67 submitted links and the November 11–23 model release sweep.
+- Verified claims, primary sources, licenses, and pushback across X and primary pages, filtering out unverified Rockstar/GTA 6 hoaxes and non-AI items.
+- Added [November 25, 2026 source records](./raw/articles/2026-11-25-link-records.md), updated reciprocal Mentioned In references across entity and concept pages, and mirrored the board with scannable Presenter Notes into `src/data.js`.
