@@ -207,11 +207,14 @@ export function getPresentationItemMedia(item) {
   };
 
   const addVideo = (video) => {
-    if (!video?.embedHref) {
+    if (!video?.embedHref && !video?.src) {
       return;
     }
 
-    const key = getVideoKey(video.href ?? video.embedHref) ?? video.embedHref;
+    const key =
+      getVideoKey(video.href ?? video.embedHref ?? video.src) ??
+      video.embedHref ??
+      video.src;
     if (seenVideos.has(key)) {
       return;
     }
@@ -384,21 +387,41 @@ export function VideoEmbed({ video }) {
   return (
     <div className="video-embed">
       <div className="video-frame">
-        <iframe
-          src={video.embedHref}
-          title={video.title}
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowFullScreen
-          referrerPolicy="strict-origin-when-cross-origin"
-        />
+        {video.src ? (
+          <video
+            src={video.src}
+            poster={video.poster}
+            controls
+            playsInline
+            muted={video.muted ?? true}
+            loop={video.loop ?? false}
+            preload={video.preload ?? "metadata"}
+            aria-label={video.title ?? video.caption ?? "Embedded video"}
+          />
+        ) : (
+          <iframe
+            src={video.embedHref}
+            title={video.title}
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            referrerPolicy="strict-origin-when-cross-origin"
+          />
+        )}
       </div>
-      <span className="video-caption">
-        {video.caption}{" "}
-        <a href={video.href} target="_blank" rel="noreferrer">
-          open direct
-        </a>
-      </span>
+      {video.caption || video.href ? (
+        <span className="video-caption">
+          {video.caption}
+          {video.href ? (
+            <>
+              {video.caption ? " " : null}
+              <a href={video.href} target="_blank" rel="noreferrer">
+                open direct
+              </a>
+            </>
+          ) : null}
+        </span>
+      ) : null}
     </div>
   );
 }
@@ -772,7 +795,7 @@ export function TopicMedia({ item }) {
             </div>
             <div className="topic-media-stack topic-media-stack--videos">
               {media.videos.map((video) => (
-                <VideoEmbed key={video.href ?? video.embedHref} video={video} />
+                <VideoEmbed key={video.href ?? video.embedHref ?? video.src} video={video} />
               ))}
             </div>
           </section>
@@ -819,7 +842,7 @@ export function TopicMedia({ item }) {
       {media.videos.length ? (
         <div className="topic-media-stack topic-media-stack--videos">
           {media.videos.map((video) => (
-            <VideoEmbed key={video.href ?? video.embedHref} video={video} />
+            <VideoEmbed key={video.href ?? video.embedHref ?? video.src} video={video} />
           ))}
         </div>
       ) : null}

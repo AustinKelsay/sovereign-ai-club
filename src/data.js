@@ -121,10 +121,18 @@ export const meetups = [
             linkPair: [
               "https://screen-relay.dev/docs",
             ],
+            video: {
+              src: "/videos/screen-relay-plebdev-ultra.mp4",
+              poster: "/videos/screen-relay-plebdev-ultra-poster.jpg",
+              title: "Live screen-relay capture streaming Holdout 3D FPS and Omarchy / Hyprland GUI apps from plebdev-ultra at 2560x1440 @ 120 fps",
+              caption: "Club demo: screen-relay CLI playing Holdout (3D FPS) + tiling Wiki Graph, Nautilus & btop on Omarchy / Hyprland (2560×1440 @ 120 fps over Tailscale)",
+              muted: true,
+              loop: true,
+            },
             embeds: [
               { type: "tweet", href: "https://x.com/lahfir/status/2123260406424838357" },
             ],
-            notes: "Loops locally with no token by default; --public mints a bearer token embedded in the viewer URL. Package is Apache 2.0, while its x264 encoder is GPL.",
+            notes: "Loops locally with no token by default; --public mints a bearer token embedded in the viewer URL. Demo clip above was captured live over Tailscale from Austin's Omarchy/Hyprland box (2560×1440 @ 120 fps)—driving a Three.js 3D shooter (Holdout: Relay Station), tiling Chromium's Wiki Graph, Nautilus, and btop while hitting 120 Drawn FPS.",
           },
           {
             title: "Pirate Face ships a CLI to torrent open models",

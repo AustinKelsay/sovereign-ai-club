@@ -189,7 +189,7 @@ export default function PresentationMode({
       if (event.defaultPrevented || event.altKey || event.ctrlKey || event.metaKey ||
           event.target.closest?.('input, textarea, select, [contenteditable="true"]')) return;
       // Space activates a focused control; only the slide surface advances with it.
-      if (event.key === " " && event.target.closest?.("button, a[href]")) return;
+      if (event.key === " " && event.target.closest?.("button, a[href], video")) return;
       if (event.key === "ArrowRight" || event.key === " ") {
         event.preventDefault();
         goNext();

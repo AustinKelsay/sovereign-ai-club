@@ -80,4 +80,22 @@ describe("presentation-specific media curation", () => {
     ]);
     expect(media.showPrimaryLink).toBe(false);
   });
+
+  it("keeps self-hosted video entries alongside presentation media", () => {
+    const media = getPresentationItemMedia({
+      video: {
+        src: "/videos/screen-relay-plebdev-ultra.mp4",
+        caption: "Live screen-relay capture",
+      },
+      embeds: [{ type: "tweet", href: "https://x.com/example/status/1" }],
+    });
+
+    expect(media.videos).toEqual([
+      {
+        src: "/videos/screen-relay-plebdev-ultra.mp4",
+        caption: "Live screen-relay capture",
+      },
+    ]);
+    expect(media.embeds).toHaveLength(1);
+  });
 });
