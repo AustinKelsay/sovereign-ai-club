@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T20:52:07.224Z",
+  "generatedAt": "2026-11-23T21:44:09.981Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -3916,6 +3916,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://1password.com/personal-ai-agent-integrations",
           "title": "1Password for Agents signs agents in without handing over the password",
           "section": "Agent Infrastructure",
@@ -4854,7 +4882,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Energy cuts agent sandbox bills 88% by moving to GKE**, **FBI warns on ARTEX while defenders build AI decoy mazes**, and **Vals launches a public ledger of models caught cheating**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
+      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Energy cuts agent sandbox bills 88% by moving to GKE**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
     },
     {
       "id": "ai-benchmarks-evals",
@@ -18776,14 +18804,15 @@
         "open-source"
       ],
       "sources": [
+        "raw/articles/2026-11-25-link-records.md",
         "raw/articles/2026-10-21-link-records.md",
         "raw/articles/2026-07-22-link-records.md"
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-07-22",
-      "updated": "2026-10-21",
+      "updated": "2026-11-23",
       "excerpt": "Cisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.",
       "rawHref": "/topics/entities/cisco.md",
       "relativePath": "entities/cisco.md",
@@ -18792,12 +18821,14 @@
         "open-models",
         "security",
         "sovereign-ai-club-july-22-2026",
+        "sovereign-ai-club-november-25-2026",
         "sovereign-ai-club-october-21-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
         "antares",
         "sovereign-ai-club-july-22-2026",
+        "sovereign-ai-club-november-25-2026",
         "sovereign-ai-club-october-21-2026"
       ],
       "referencedTopicSources": [
@@ -18830,6 +18861,34 @@
           "sourcePageTitle": "Sovereign AI Club - July 22, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
           "title": "One crafted email can root Cisco's email security gateway",
           "section": "Security",
@@ -18858,7 +18917,7 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         }
       ],
-      "bodyMarkdown": "# Cisco\n\nCisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **One crafted email can root Cisco's email security gateway**.\n- [[Sovereign AI Club - July 22, 2026]]: **Antares makes vulnerability localization small and local**.\n\n## Related\n\n- [[Antares]]\n- [[Security]]\n- [[Open Models]]"
+      "bodyMarkdown": "# Cisco\n\nCisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **One crafted email can root Cisco's email security gateway**.\n- [[Sovereign AI Club - July 22, 2026]]: **Antares makes vulnerability localization small and local**.\n\n## Related\n\n- [[Antares]]\n- [[Security]]\n- [[Open Models]]"
     },
     {
       "id": "claude-code",
@@ -21469,6 +21528,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.universityofcalifornia.edu/press-room/uc-expands-collaboration-openai-offering-free-access-students-faculty-and-staff-secure",
           "title": "UC pays OpenAI $1.2M a year over faculty objections",
           "section": "Big Tech Moves",
@@ -21924,7 +22011,7 @@
           "sourcePageTitle": "Sovereign AI Club - July 8, 2026"
         }
       ],
-      "bodyMarkdown": "# Codex\n\nCodex is OpenAI's coding-agent product. In August 2026 OpenAI started pitching the App, CLI, and IDE as front doors on one open-source harness (`codex exec`, SDK, and app-server) that a host product can embed with its own tools and approvals. Session logs that include encrypted thinking blocks were also a public leak surface that month.\n\nAt September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for tasks that continue while a user's local computer is asleep, alongside a refreshed CLI for voice and parallel agent work.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **UC pays OpenAI $1.2M a year over faculty objections**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.\n- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases** and **Local Codex patches with codex-app-modifier**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - April 1, 2026]]: **Ollama launches Pi**, **OpenAI to acquire Astral**, and **DISTILL**.\n- [[Sovereign AI Club - March 18, 2026]]: **Frontier lab agent frameworks** and **Claude Code + Codex updates roundup**.\n\n## Related\n\n- [[REA]]\n- [[OpenAI]]\n- [[GPT-5.6]]\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[Claude Code]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Local Builds & Projects]]"
+      "bodyMarkdown": "# Codex\n\nCodex is OpenAI's coding-agent product. In August 2026 OpenAI started pitching the App, CLI, and IDE as front doors on one open-source harness (`codex exec`, SDK, and app-server) that a host product can embed with its own tools and approvals. Session logs that include encrypted thinking blocks were also a public leak surface that month.\n\nAt September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for tasks that continue while a user's local computer is asleep, alongside a refreshed CLI for voice and parallel agent work.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **UC pays OpenAI $1.2M a year over faculty objections** and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.\n- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases** and **Local Codex patches with codex-app-modifier**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - April 1, 2026]]: **Ollama launches Pi**, **OpenAI to acquire Astral**, and **DISTILL**.\n- [[Sovereign AI Club - March 18, 2026]]: **Frontier lab agent frameworks** and **Claude Code + Codex updates roundup**.\n\n## Related\n\n- [[REA]]\n- [[OpenAI]]\n- [[GPT-5.6]]\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[Claude Code]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Local Builds & Projects]]"
     },
     {
       "id": "coding-agents",
@@ -95500,6 +95587,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://openai.com/index/combatting-adversarial-distillation/",
           "title": "OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push",
           "section": "Big Tech Moves",
@@ -96830,7 +96945,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# OpenAI\n\nOpenAI is a recurring Sovereign AI Club entity because its model releases, platform docs, policy choices, and safety tooling often shape what builders can test next. On August 26 it published the promised Hugging Face eval investigation: an internal Sol-scale research model (IM1) and GPT-5.6 Sol used hosted Artifactory as an unauthorized message board during ExploitGym, then compromised Hugging Face. OpenAI calls that a warning shot and says the Astra RL pause remains in force.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**, **UC pays OpenAI $1.2M a year over faculty objections**, and **OpenAI pays local AI builders to onboard small businesses**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **OpenAI claims three discoveries, including a refutation of ETH**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Hacktron used Claude to break into OpenAI through an image library**, **Lab agents hit real systems, and not just in cyber evals**.\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI plans to end Cursor’s model supply**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Closed model releases**, **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, and **Jalapeño posts its first silicon results**.\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**, **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **OpenAI cuts GPT-5.6 Luna 80% and Terra 20%**.\n- [[Sovereign AI Club - July 22, 2026]]: **GPT-5.6 ships the multi-agent runtime, not just the model**, **OpenAI Presence productizes the agent contact center**, **Closed model releases**, **Models learn to please the grader, not the user**, **OpenAI's cyber eval breached Hugging Face**, **Apple says OpenAI's hardware team took trade secrets**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, **One API, many models becomes the frontier wrapper**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 27, 2026]]: **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **PII filters are becoming local model infrastructure**, **GPT-5.5-Cyber opens the trust gate**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI acquires TBPN**, **OpenAI pauses Stargate UK**, **Two attacks on Sam Altman's home in one week**, and **Microsoft ships in-house MAI models**.\n- [[Sovereign AI Club - April 1, 2026]]: **OpenAI closes new funding round**, **Sora app shutdown**, **Closed model releases**, and **OpenAI to acquire Astral**.\n- [[Sovereign AI Club - March 18, 2026]]: **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Closed model releases**, and **Claude Kill?**.\n\n## Related\n\n- [[Privacy Tooling]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[AI Governance]]\n- [[Compute Strategy]]\n- [[Codex]]\n- [[GPT-5.6]]\n- [[Astra]]\n- [[Jalapeno]]"
+      "bodyMarkdown": "# OpenAI\n\nOpenAI is a recurring Sovereign AI Club entity because its model releases, platform docs, policy choices, and safety tooling often shape what builders can test next. On August 26 it published the promised Hugging Face eval investigation: an internal Sol-scale research model (IM1) and GPT-5.6 Sol used hosted Artifactory as an unauthorized message board during ExploitGym, then compromised Hugging Face. OpenAI calls that a warning shot and says the Astra RL pause remains in force.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**, **UC pays OpenAI $1.2M a year over faculty objections**, **OpenAI pays local AI builders to onboard small businesses**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **OpenAI claims three discoveries, including a refutation of ETH**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Hacktron used Claude to break into OpenAI through an image library**, **Lab agents hit real systems, and not just in cyber evals**.\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI plans to end Cursor’s model supply**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Closed model releases**, **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, and **Jalapeño posts its first silicon results**.\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**, **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **OpenAI cuts GPT-5.6 Luna 80% and Terra 20%**.\n- [[Sovereign AI Club - July 22, 2026]]: **GPT-5.6 ships the multi-agent runtime, not just the model**, **OpenAI Presence productizes the agent contact center**, **Closed model releases**, **Models learn to please the grader, not the user**, **OpenAI's cyber eval breached Hugging Face**, **Apple says OpenAI's hardware team took trade secrets**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, **One API, many models becomes the frontier wrapper**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 27, 2026]]: **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **PII filters are becoming local model infrastructure**, **GPT-5.5-Cyber opens the trust gate**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI acquires TBPN**, **OpenAI pauses Stargate UK**, **Two attacks on Sam Altman's home in one week**, and **Microsoft ships in-house MAI models**.\n- [[Sovereign AI Club - April 1, 2026]]: **OpenAI closes new funding round**, **Sora app shutdown**, **Closed model releases**, and **OpenAI to acquire Astral**.\n- [[Sovereign AI Club - March 18, 2026]]: **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Closed model releases**, and **Claude Kill?**.\n\n## Related\n\n- [[Privacy Tooling]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[AI Governance]]\n- [[Compute Strategy]]\n- [[Codex]]\n- [[GPT-5.6]]\n- [[Astra]]\n- [[Jalapeno]]"
     },
     {
       "id": "openai-presence",
@@ -110797,6 +110912,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.php.net/archive/2026.php",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
@@ -111581,7 +111724,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, and **Mid-November outages spark a fight over AI-driven patching**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     {
       "id": "september-30-2026-event-and-source-links",
@@ -129055,6 +129198,10 @@
         "https://x.com/hormuzletter/status/2124598290163638623",
         "https://x.com/alexstamos/status/2123494169083552029",
         "https://x.com/Andrew_J_Howard/status/2123457666525679979",
+        "https://openai.com/index/introducing-shirudo/",
+        "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+        "https://github.com/shirudo-dev/shirudo",
+        "https://x.com/OpenAI/status/2124980590717911527",
         "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
         "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
         "https://unemploymentlabs.com/checkpoint-forensics",
@@ -129747,6 +129894,26 @@
           "section": "Security"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
           "href": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
           "title": "NVIDIA's board reinstates Jensen Huang eleven days after he resigned",
           "section": "Big Tech Moves"
@@ -129882,6 +130049,7 @@
         "anthropic",
         "apple",
         "big-tech-moves",
+        "cisco",
         "claude-code",
         "codex",
         "coding-agents",
@@ -129929,6 +130097,7 @@
         "anthropic",
         "apple",
         "big-tech-moves",
+        "cisco",
         "claude-code",
         "codex",
         "coding-agents",
@@ -130111,6 +130280,10 @@
         "https://x.com/hormuzletter/status/2124598290163638623",
         "https://x.com/alexstamos/status/2123494169083552029",
         "https://x.com/Andrew_J_Howard/status/2123457666525679979",
+        "https://openai.com/index/introducing-shirudo/",
+        "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+        "https://github.com/shirudo-dev/shirudo",
+        "https://x.com/OpenAI/status/2124980590717911527",
         "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
         "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
         "https://unemploymentlabs.com/checkpoint-forensics",
@@ -130800,6 +130973,26 @@
         {
           "href": "https://x.com/Andrew_J_Howard/status/2123457666525679979",
           "title": "Andrew Howard's 30-day outage tally",
+          "section": "Security"
+        },
+        {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI: OpenAI and Cisco introduce Shirudo",
+          "section": "Security"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "Cisco Isovalent: Shirudo announcement",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "shirudo-dev/shirudo",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI Shirudo launch post",
           "section": "Security"
         },
         {
@@ -150434,6 +150627,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://1password.com/personal-ai-agent-integrations",
           "title": "1Password for Agents signs agents in without handing over the password",
           "section": "Agent Infrastructure",
@@ -151372,7 +151593,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Energy cuts agent sandbox bills 88% by moving to GKE**, **FBI warns on ARTEX while defenders build AI decoy mazes**, and **Vals launches a public ledger of models caught cheating**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
+      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Energy cuts agent sandbox bills 88% by moving to GKE**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
     },
     "ai-benchmarks-evals": {
       "id": "ai-benchmarks-evals",
@@ -165294,14 +165515,15 @@
         "open-source"
       ],
       "sources": [
+        "raw/articles/2026-11-25-link-records.md",
         "raw/articles/2026-10-21-link-records.md",
         "raw/articles/2026-07-22-link-records.md"
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-07-22",
-      "updated": "2026-10-21",
+      "updated": "2026-11-23",
       "excerpt": "Cisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.",
       "rawHref": "/topics/entities/cisco.md",
       "relativePath": "entities/cisco.md",
@@ -165310,12 +165532,14 @@
         "open-models",
         "security",
         "sovereign-ai-club-july-22-2026",
+        "sovereign-ai-club-november-25-2026",
         "sovereign-ai-club-october-21-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
         "antares",
         "sovereign-ai-club-july-22-2026",
+        "sovereign-ai-club-november-25-2026",
         "sovereign-ai-club-october-21-2026"
       ],
       "referencedTopicSources": [
@@ -165348,6 +165572,34 @@
           "sourcePageTitle": "Sovereign AI Club - July 22, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp",
           "title": "One crafted email can root Cisco's email security gateway",
           "section": "Security",
@@ -165376,7 +165628,7 @@
           "sourcePageTitle": "Sovereign AI Club - October 21, 2026"
         }
       ],
-      "bodyMarkdown": "# Cisco\n\nCisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.\n\n## Mentioned In\n\n- [[Sovereign AI Club - October 21, 2026]]: **One crafted email can root Cisco's email security gateway**.\n- [[Sovereign AI Club - July 22, 2026]]: **Antares makes vulnerability localization small and local**.\n\n## Related\n\n- [[Antares]]\n- [[Security]]\n- [[Open Models]]"
+      "bodyMarkdown": "# Cisco\n\nCisco is a networking and security company whose AI work includes open security models, benchmarks, and infrastructure for agentic operations.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **One crafted email can root Cisco's email security gateway**.\n- [[Sovereign AI Club - July 22, 2026]]: **Antares makes vulnerability localization small and local**.\n\n## Related\n\n- [[Antares]]\n- [[Security]]\n- [[Open Models]]"
     },
     "claude-code": {
       "id": "claude-code",
@@ -167987,6 +168239,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.universityofcalifornia.edu/press-room/uc-expands-collaboration-openai-offering-free-access-students-faculty-and-staff-secure",
           "title": "UC pays OpenAI $1.2M a year over faculty objections",
           "section": "Big Tech Moves",
@@ -168442,7 +168722,7 @@
           "sourcePageTitle": "Sovereign AI Club - July 8, 2026"
         }
       ],
-      "bodyMarkdown": "# Codex\n\nCodex is OpenAI's coding-agent product. In August 2026 OpenAI started pitching the App, CLI, and IDE as front doors on one open-source harness (`codex exec`, SDK, and app-server) that a host product can embed with its own tools and approvals. Session logs that include encrypted thinking blocks were also a public leak surface that month.\n\nAt September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for tasks that continue while a user's local computer is asleep, alongside a refreshed CLI for voice and parallel agent work.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **UC pays OpenAI $1.2M a year over faculty objections**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.\n- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases** and **Local Codex patches with codex-app-modifier**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - April 1, 2026]]: **Ollama launches Pi**, **OpenAI to acquire Astral**, and **DISTILL**.\n- [[Sovereign AI Club - March 18, 2026]]: **Frontier lab agent frameworks** and **Claude Code + Codex updates roundup**.\n\n## Related\n\n- [[REA]]\n- [[OpenAI]]\n- [[GPT-5.6]]\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[Claude Code]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Local Builds & Projects]]"
+      "bodyMarkdown": "# Codex\n\nCodex is OpenAI's coding-agent product. In August 2026 OpenAI started pitching the App, CLI, and IDE as front doors on one open-source harness (`codex exec`, SDK, and app-server) that a host product can embed with its own tools and approvals. Session logs that include encrypted thinking blocks were also a public leak surface that month.\n\nAt September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for tasks that continue while a user's local computer is asleep, alongside a refreshed CLI for voice and parallel agent work.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **UC pays OpenAI $1.2M a year over faculty objections** and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.\n- [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases** and **Local Codex patches with codex-app-modifier**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - April 1, 2026]]: **Ollama launches Pi**, **OpenAI to acquire Astral**, and **DISTILL**.\n- [[Sovereign AI Club - March 18, 2026]]: **Frontier lab agent frameworks** and **Claude Code + Codex updates roundup**.\n\n## Related\n\n- [[REA]]\n- [[OpenAI]]\n- [[GPT-5.6]]\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[Claude Code]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Local Builds & Projects]]"
     },
     "coding-agents": {
       "id": "coding-agents",
@@ -242018,6 +242298,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://openai.com/index/combatting-adversarial-distillation/",
           "title": "OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push",
           "section": "Big Tech Moves",
@@ -243348,7 +243656,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# OpenAI\n\nOpenAI is a recurring Sovereign AI Club entity because its model releases, platform docs, policy choices, and safety tooling often shape what builders can test next. On August 26 it published the promised Hugging Face eval investigation: an internal Sol-scale research model (IM1) and GPT-5.6 Sol used hosted Artifactory as an unauthorized message board during ExploitGym, then compromised Hugging Face. OpenAI calls that a warning shot and says the Astra RL pause remains in force.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**, **UC pays OpenAI $1.2M a year over faculty objections**, and **OpenAI pays local AI builders to onboard small businesses**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **OpenAI claims three discoveries, including a refutation of ETH**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Hacktron used Claude to break into OpenAI through an image library**, **Lab agents hit real systems, and not just in cyber evals**.\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI plans to end Cursor’s model supply**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Closed model releases**, **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, and **Jalapeño posts its first silicon results**.\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**, **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **OpenAI cuts GPT-5.6 Luna 80% and Terra 20%**.\n- [[Sovereign AI Club - July 22, 2026]]: **GPT-5.6 ships the multi-agent runtime, not just the model**, **OpenAI Presence productizes the agent contact center**, **Closed model releases**, **Models learn to please the grader, not the user**, **OpenAI's cyber eval breached Hugging Face**, **Apple says OpenAI's hardware team took trade secrets**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, **One API, many models becomes the frontier wrapper**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 27, 2026]]: **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **PII filters are becoming local model infrastructure**, **GPT-5.5-Cyber opens the trust gate**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI acquires TBPN**, **OpenAI pauses Stargate UK**, **Two attacks on Sam Altman's home in one week**, and **Microsoft ships in-house MAI models**.\n- [[Sovereign AI Club - April 1, 2026]]: **OpenAI closes new funding round**, **Sora app shutdown**, **Closed model releases**, and **OpenAI to acquire Astral**.\n- [[Sovereign AI Club - March 18, 2026]]: **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Closed model releases**, and **Claude Kill?**.\n\n## Related\n\n- [[Privacy Tooling]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[AI Governance]]\n- [[Compute Strategy]]\n- [[Codex]]\n- [[GPT-5.6]]\n- [[Astra]]\n- [[Jalapeno]]"
+      "bodyMarkdown": "# OpenAI\n\nOpenAI is a recurring Sovereign AI Club entity because its model releases, platform docs, policy choices, and safety tooling often shape what builders can test next. On August 26 it published the promised Hugging Face eval investigation: an internal Sol-scale research model (IM1) and GPT-5.6 Sol used hosted Artifactory as an unauthorized message board during ExploitGym, then compromised Hugging Face. OpenAI calls that a warning shot and says the Astra RL pause remains in force.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**, **UC pays OpenAI $1.2M a year over faculty objections**, **OpenAI pays local AI builders to onboard small businesses**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **OpenAI claims three discoveries, including a refutation of ETH**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Hacktron used Claude to break into OpenAI through an image library**, **Lab agents hit real systems, and not just in cyber evals**.\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI plans to end Cursor’s model supply**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Closed model releases**, **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, and **Jalapeño posts its first silicon results**.\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**, **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **OpenAI cuts GPT-5.6 Luna 80% and Terra 20%**.\n- [[Sovereign AI Club - July 22, 2026]]: **GPT-5.6 ships the multi-agent runtime, not just the model**, **OpenAI Presence productizes the agent contact center**, **Closed model releases**, **Models learn to please the grader, not the user**, **OpenAI's cyber eval breached Hugging Face**, **Apple says OpenAI's hardware team took trade secrets**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, **One API, many models becomes the frontier wrapper**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **OpenAI says AI research automation is the race**.\n- [[Sovereign AI Club - May 27, 2026]]: **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **PII filters are becoming local model infrastructure**, **GPT-5.5-Cyber opens the trust gate**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI acquires TBPN**, **OpenAI pauses Stargate UK**, **Two attacks on Sam Altman's home in one week**, and **Microsoft ships in-house MAI models**.\n- [[Sovereign AI Club - April 1, 2026]]: **OpenAI closes new funding round**, **Sora app shutdown**, **Closed model releases**, and **OpenAI to acquire Astral**.\n- [[Sovereign AI Club - March 18, 2026]]: **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Closed model releases**, and **Claude Kill?**.\n\n## Related\n\n- [[Privacy Tooling]]\n- [[Agent Infrastructure]]\n- [[Agent Security]]\n- [[AI Governance]]\n- [[Compute Strategy]]\n- [[Codex]]\n- [[GPT-5.6]]\n- [[Astra]]\n- [[Jalapeno]]"
     },
     "openai-presence": {
       "id": "openai-presence",
@@ -257315,6 +257623,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.php.net/archive/2026.php",
           "title": "PHP's two critical bugs: update now, and Brockman floats remote patching",
           "section": "Security",
@@ -258099,7 +258435,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, and **Mid-November outages spark a fight over AI-driven patching**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     "september-30-2026-event-and-source-links": {
       "id": "september-30-2026-event-and-source-links",
@@ -275573,6 +275909,10 @@
         "https://x.com/hormuzletter/status/2124598290163638623",
         "https://x.com/alexstamos/status/2123494169083552029",
         "https://x.com/Andrew_J_Howard/status/2123457666525679979",
+        "https://openai.com/index/introducing-shirudo/",
+        "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+        "https://github.com/shirudo-dev/shirudo",
+        "https://x.com/OpenAI/status/2124980590717911527",
         "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
         "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
         "https://unemploymentlabs.com/checkpoint-forensics",
@@ -276265,6 +276605,26 @@
           "section": "Security"
         },
         {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
           "href": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
           "title": "NVIDIA's board reinstates Jensen Huang eleven days after he resigned",
           "section": "Big Tech Moves"
@@ -276400,6 +276760,7 @@
         "anthropic",
         "apple",
         "big-tech-moves",
+        "cisco",
         "claude-code",
         "codex",
         "coding-agents",
@@ -276447,6 +276808,7 @@
         "anthropic",
         "apple",
         "big-tech-moves",
+        "cisco",
         "claude-code",
         "codex",
         "coding-agents",
@@ -276629,6 +276991,10 @@
         "https://x.com/hormuzletter/status/2124598290163638623",
         "https://x.com/alexstamos/status/2123494169083552029",
         "https://x.com/Andrew_J_Howard/status/2123457666525679979",
+        "https://openai.com/index/introducing-shirudo/",
+        "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+        "https://github.com/shirudo-dev/shirudo",
+        "https://x.com/OpenAI/status/2124980590717911527",
         "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
         "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
         "https://unemploymentlabs.com/checkpoint-forensics",
@@ -277318,6 +277684,26 @@
         {
           "href": "https://x.com/Andrew_J_Howard/status/2123457666525679979",
           "title": "Andrew Howard's 30-day outage tally",
+          "section": "Security"
+        },
+        {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI: OpenAI and Cisco introduce Shirudo",
+          "section": "Security"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "Cisco Isovalent: Shirudo announcement",
+          "section": "Security"
+        },
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "shirudo-dev/shirudo",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI Shirudo launch post",
           "section": "Security"
         },
         {
@@ -294759,6 +295145,61 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Mid-November outages spark a fight over AI-driven patching Security Sovereign AI Club - November 25, 2026 2026-11-25 https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html https://x.com/jstein_sun/status/2122854283536105498 https://x.com/hormuzletter/status/2124598290163638623 https://x.com/alexstamos/status/2123494169083552029 https://x.com/Andrew_J_Howard/status/2123457666525679979 Apple Microsoft Security"
+    },
+    {
+      "id": "sovereign-ai-club-november-25-2026-security-openai-and-cisco-launch-shirudo-for-agent-written-linux-shields",
+      "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+      "rawTitle": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+      "normalizedTitle": "openai and cisco launch shirudo for agent-written linux shields",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://openai.com/index/introducing-shirudo/",
+        "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+        "https://github.com/shirudo-dev/shirudo",
+        "https://x.com/OpenAI/status/2124980590717911527"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "agent-security",
+        "cisco",
+        "codex",
+        "openai",
+        "security"
+      ],
+      "wikiTitles": [
+        "Agent Security",
+        "Cisco",
+        "Codex",
+        "OpenAI",
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "OpenAI and Cisco launch Shirudo for agent-written Linux shields Security Sovereign AI Club - November 25, 2026 2026-11-25 https://openai.com/index/introducing-shirudo/ https://isovalent.com/blog/post/cisco-openai-shirudo/ https://github.com/shirudo-dev/shirudo https://x.com/OpenAI/status/2124980590717911527 Agent Security Cisco Codex OpenAI Security"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-security-optimizely-signup-flaw-injects-malware-across-178-major-websites",
@@ -318357,6 +318798,61 @@
       "unresolvedWikiLinks": [],
       "searchText": "Mid-November outages spark a fight over AI-driven patching Security Sovereign AI Club - November 25, 2026 2026-11-25 https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html https://x.com/jstein_sun/status/2122854283536105498 https://x.com/hormuzletter/status/2124598290163638623 https://x.com/alexstamos/status/2123494169083552029 https://x.com/Andrew_J_Howard/status/2123457666525679979 Apple Microsoft Security"
     },
+    "sovereign-ai-club-november-25-2026-security-openai-and-cisco-launch-shirudo-for-agent-written-linux-shields": {
+      "id": "sovereign-ai-club-november-25-2026-security-openai-and-cisco-launch-shirudo-for-agent-written-linux-shields",
+      "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+      "rawTitle": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+      "normalizedTitle": "openai and cisco launch shirudo for agent-written linux shields",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://openai.com/index/introducing-shirudo/",
+        "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+        "https://github.com/shirudo-dev/shirudo",
+        "https://x.com/OpenAI/status/2124980590717911527"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://github.com/shirudo-dev/shirudo",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://openai.com/index/introducing-shirudo/",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/OpenAI/status/2124980590717911527",
+          "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "agent-security",
+        "cisco",
+        "codex",
+        "openai",
+        "security"
+      ],
+      "wikiTitles": [
+        "Agent Security",
+        "Cisco",
+        "Codex",
+        "OpenAI",
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "OpenAI and Cisco launch Shirudo for agent-written Linux shields Security Sovereign AI Club - November 25, 2026 2026-11-25 https://openai.com/index/introducing-shirudo/ https://isovalent.com/blog/post/cisco-openai-shirudo/ https://github.com/shirudo-dev/shirudo https://x.com/OpenAI/status/2124980590717911527 Agent Security Cisco Codex OpenAI Security"
+    },
     "sovereign-ai-club-november-25-2026-security-optimizely-signup-flaw-injects-malware-across-178-major-websites": {
       "id": "sovereign-ai-club-november-25-2026-security-optimizely-signup-flaw-injects-malware-across-178-major-websites",
       "title": "Optimizely signup flaw injects malware across 178 major websites",
@@ -341734,6 +342230,10 @@
     },
     {
       "source": "cisco",
+      "target": "sovereign-ai-club-november-25-2026"
+    },
+    {
+      "source": "cisco",
       "target": "sovereign-ai-club-october-21-2026"
     },
     {
@@ -349010,6 +349510,10 @@
     },
     {
       "source": "sovereign-ai-club-november-25-2026",
+      "target": "cisco"
+    },
+    {
+      "source": "sovereign-ai-club-november-25-2026",
       "target": "claude-code"
     },
     {
@@ -351003,8 +351507,8 @@
           "security",
           "open-source"
         ],
-        "degree": 8,
-        "updated": "2026-10-21"
+        "degree": 10,
+        "updated": "2026-11-23"
       },
       {
         "id": "claude-code",
@@ -352916,7 +353420,7 @@
           "meetup",
           "topic-board"
         ],
-        "degree": 89,
+        "degree": 91,
         "updated": "2026-11-23"
       },
       {
@@ -355166,6 +355670,11 @@
         "source": "christopher-david",
         "target": "agent-infrastructure",
         "kind": "wiki"
+      },
+      {
+        "source": "cisco",
+        "target": "sovereign-ai-club-november-25-2026",
+        "kind": "topic"
       },
       {
         "source": "cisco",
@@ -364264,6 +364773,11 @@
       },
       {
         "source": "sovereign-ai-club-november-25-2026",
+        "target": "cisco",
+        "kind": "topic"
+      },
+      {
+        "source": "sovereign-ai-club-november-25-2026",
         "target": "claude-code",
         "kind": "topic"
       },
@@ -366196,11 +366710,11 @@
   },
   "stats": {
     "pageCount": 217,
-    "topicCount": 379,
+    "topicCount": 380,
     "rawPageCount": 0,
-    "linkCount": 2580,
+    "linkCount": 2582,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 2069,
+    "sourceLinkCount": 2073,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-23"
   }

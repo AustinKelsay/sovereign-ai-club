@@ -15,7 +15,7 @@ At September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for 
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **UC pays OpenAI $1.2M a year over faculty objections**.
+- [[Sovereign AI Club - November 25, 2026]]: **UC pays OpenAI $1.2M a year over faculty objections** and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.
 - [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.
 - [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.
 - [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.

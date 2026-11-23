@@ -437,6 +437,19 @@ export const meetups = [
             ],
             notes: "Official causes: FAA blamed legacy FTI router flooding during a copper-to-fiber swap; Chase blamed an on-prem software bug; Microsoft blamed a July Teams gateway bug; Apple blamed an internal update; NSA called it routine maintenance. Treat the AI-patching narrative as a sourced theory, not settled fact.",
           },
+          {
+            title: "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
+            description: "OpenAI and Cisco open-sourced Shirudo, a BSD-licensed Linux runtime where agents like Codex write signed eBPF micropatches—demonstrated blocking Java4Shell on a live Elasticsearch server without restarting it. The catch: it's pre-release, and production hosts need Shirudo's custom kernel patches plus a TPM 2.0.",
+            href: "https://openai.com/index/introducing-shirudo/",
+            linkPair: [
+              "https://isovalent.com/blog/post/cisco-openai-shirudo/",
+              "https://github.com/shirudo-dev/shirudo",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/OpenAI/status/2124980590717911527" },
+            ],
+            notes: "Built with Cisco's Isovalent team; protects its own runtime even from local root without the operator's signing key. Fits right after the outage debate: shields buy time before full patches roll out, though deploying custom kernels isn't drop-in.",
+          },
         ],
       },
       {

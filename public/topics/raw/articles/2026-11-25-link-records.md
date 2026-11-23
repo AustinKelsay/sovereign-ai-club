@@ -350,6 +350,17 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Andrew Howard's 30-day outage tally** — https://x.com/Andrew_J_Howard/status/2123457666525679979
   Type: X post. Accessed: 2026-11-23. Lists mid-October to mid-November outages across Google Cloud, hospitals, NYSE, Microsoft, Workday, FAA, AWS, Chase, NSA, and Apple.
 
+### OpenAI and Cisco launch Shirudo for agent-written Linux shields
+
+- **OpenAI: OpenAI and Cisco introduce Shirudo** — https://openai.com/index/introducing-shirudo/
+  Type: official blog. Accessed: 2026-11-23. November 23 launch of BSD-2-Clause Linux runtime letting agents write signed eBPF shields without downtime; highlights Codex blocking Java4Shell on a live Elasticsearch server without restarting.
+- **Cisco Isovalent: Shirudo announcement** — https://isovalent.com/blog/post/cisco-openai-shirudo/
+  Type: official blog. Accessed: 2026-11-23. Partner post detailing Shirudo's signed eBPF upatches and boot-time enforcement.
+- **shirudo-dev/shirudo** — https://github.com/shirudo-dev/shirudo
+  Type: GitHub repository. Accessed: 2026-11-23. BSD-2-Clause pre-release runtime; README notes production targets require Shirudo's kernel patches (signed-loader ABI) and TPM 2.0.
+- **OpenAI Shirudo launch post** — https://x.com/OpenAI/status/2124980590717911527
+  Type: X post. Accessed: 2026-11-23. Announces Shirudo with Cisco as a first step toward self-defending Linux infrastructure.
+
 ## Big Tech Moves
 
 ### NVIDIA's board reinstates Jensen Huang eleven days after he resigned

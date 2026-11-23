@@ -13,7 +13,7 @@ OpenAI is a recurring Sovereign AI Club entity because its model releases, platf
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**, **UC pays OpenAI $1.2M a year over faculty objections**, and **OpenAI pays local AI builders to onboard small businesses**.
+- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**, **UC pays OpenAI $1.2M a year over faculty objections**, **OpenAI pays local AI builders to onboard small businesses**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **OpenAI claims three discoveries, including a refutation of ETH**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.
