@@ -11,7 +11,7 @@ This repo is optimized for clarity over abstraction. The goal is to make it easy
 - keep the Markdown Archive durable and easy to diff
 - support both archive browsing and Presentation Mode
 
-For the project language and curation rules, start with [CONTEXT.md](./CONTEXT.md). The source-of-record decision is captured in [ADR 0001](./docs/adr/0001-markdown-archive-as-source-of-record.md), and the open LLM Wiki layer is captured in [ADR 0002](./docs/adr/0002-open-llm-wiki-layer.md).
+For the project language and curation rules, start with [GLOSSARY.md](./GLOSSARY.md). The source-of-record decision is captured in [ADR 0001](./docs/adr/0001-markdown-archive-as-source-of-record.md), and the open LLM Wiki layer is captured in [ADR 0002](./docs/adr/0002-open-llm-wiki-layer.md).
 
 ## What the app does
 

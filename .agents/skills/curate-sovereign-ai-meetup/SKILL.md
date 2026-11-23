@@ -9,12 +9,12 @@ Run the **board loop** in order. Take the steps the request needs: add or resear
 
 The dated Meetup at `public/topics/YYYY-MM-DD.md` is the source of record. The wiki supplies durable context. `src/data.js` is the Meetup Data rendering contract.
 
-Tracks, the Sovereignty Lens (a Discussion Fit input; Open Source and Privacy Lenses are facets of it), and the glossary live in repo `CONTEXT.md`. Wiki frontmatter lives in `public/topics/SCHEMA.md`. Meetup Data topic item fields live in the README.
+Tracks, the Sovereignty Lens (a Discussion Fit input; Open Source and Privacy Lenses are facets of it), and the glossary live in repo `GLOSSARY.md`. Wiki frontmatter lives in `public/topics/SCHEMA.md`. Meetup Data topic item fields live in the README.
 
 ## 1. Orient
 
 1. Work from the `AustinKelsay/sovereign-ai-club` root.
-2. Read `CONTEXT.md` and the latest 2–3 dated Meetups. Read `public/topics/SCHEMA.md` when creating or gardening wiki pages. Read the README's topic item fields when mirroring.
+2. Read `GLOSSARY.md` and the latest 2–3 dated Meetups. Read `public/topics/SCHEMA.md` when creating or gardening wiki pages. Read the README's topic item fields when mirroring.
 3. Use the user-named date; otherwise choose the next upcoming authored Meetup.
 4. If only a tentative slot exists, copy `public/topics/TEMPLATE.md` to `public/topics/YYYY-MM-DD.md`, apply `SCHEMA.md` frontmatter, and register it in `public/topics/README.md` and `public/topics/index.md`.
 5. Search recent Meetups for every candidate subject. Revisit a covered story when a material new development supplies a **delta**.
@@ -25,7 +25,7 @@ Tracks, the Sovereignty Lens (a Discussion Fit input; Open Source and Privacy Le
 
 Treat each URL as a **Link**. Assign every Link one **disposition**: join an existing Topic, form a new Topic, become a Showcase, or drop as noise.
 
-Choose the Track from the **room question** using `CONTEXT.md`. Score Discussion Fit with the Sovereignty Lens.
+Choose the Track from the **room question** using `GLOSSARY.md`. Score Discussion Fit with the Sovereignty Lens.
 
 Shape Topics around room questions:
 
@@ -34,7 +34,7 @@ Shape Topics around room questions:
 - Split Links when the room would discuss different questions.
 - Combine adjacent company or product moves when the pattern is the story.
 - Order Topics as a discussion: artifact before reaction, attack before response, examples before pattern. Keep explicit user ordering.
-- Use `CONTEXT.md` Track order unless the story demands otherwise; keep Showcase last.
+- Use `GLOSSARY.md` Track order unless the story demands otherwise; keep Showcase last.
 
 Build a **source chain** for each Topic, in this preference order:
 
@@ -66,7 +66,7 @@ When adding or rewriting copy, read [references/voice-and-format.md](references/
 
 Showcase copy is casual and demo-oriented: say what the member will show. Authored past Meetups include only Tracks and Community Slots that have items.
 
-**Complete when:** every Topic has a specific title, a description that passes the **spoken-copy gate**, a labeled **source chain**, claims that match the linked sources, a Track from `CONTEXT.md`, and a position that follows discussion flow or the user's explicit order.
+**Complete when:** every Topic has a specific title, a description that passes the **spoken-copy gate**, a labeled **source chain**, claims that match the linked sources, a Track from `GLOSSARY.md`, and a position that follows discussion flow or the user's explicit order.
 
 ## 4. Garden the wiki
 
