@@ -1,7 +1,7 @@
 ---
 title: Kimi
 created: 2026-07-08
-updated: 2026-11-23
+updated: 2026-11-24
 type: entity
 tags: [entity, model, open-source, coding-agents]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -15,7 +15,7 @@ Moonshot published the Kimi K3.1 Pro weights on Hugging Face on November 4, 2026
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.
+- [[Sovereign AI Club - November 25, 2026]]: **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs** and **Closed model releases**.
 - [[Sovereign AI Club - November 11, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - September 30, 2026]]: **Anthropic says DeepSeek and Kimi quietly served Claude**.
 - [[Sovereign AI Club - August 26, 2026]]: **Chinese frontier models converged on linear and sparse attention**.

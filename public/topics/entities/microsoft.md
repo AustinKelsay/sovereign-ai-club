@@ -1,7 +1,7 @@
 ---
 title: Microsoft
 created: 2026-05-05
-updated: 2026-11-23
+updated: 2026-11-24
 type: entity
 tags: [entity, company, agent-infrastructure, security]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-09-09-link-records.md]
@@ -17,7 +17,7 @@ In November 2026, Microsoft Research and the Microsoft AI Red Team published Laz
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI** and **Mid-November outages spark a fight over AI-driven patching**.
+- [[Sovereign AI Club - November 25, 2026]]: **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **Closed model releases**, and **Open model releases**.
 - [[Sovereign AI Club - November 11, 2026]]: **Open model releases**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **Patch list: the CVEs attackers used in the last three weeks**.
 - [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - August 26, 2026]]: **CoSnitch turns Copilot memory into persistent attacker state**.

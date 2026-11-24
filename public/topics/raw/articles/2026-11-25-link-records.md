@@ -1,7 +1,7 @@
 ---
 title: Sovereign AI Club - November 25, 2026 - Link Records
 created: 2026-11-16
-updated: 2026-11-23
+updated: 2026-11-24
 type: summary
 tags: [source-record]
 sources: []
@@ -76,64 +76,148 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 ### Closed model releases
 
 - **OpenAI: Introducing GPT-6.2 Astra and GPT-6.2 Sol** — https://openai.com/index/introducing-gpt-6-2-astra-sol/
-  Type: official blog. Accessed: 2026-11-23. November 17 launch; both rated Critical for cybersecurity, Astra first external OpenAI model rated High for AI self-improvement, 20% lower standard token pricing than GPT-6 Astra.
+  Type: official blog. Accessed: 2026-11-23. November 17 launch; both rated Critical for cybersecurity, Astra first external OpenAI model rated High for AI self-improvement, $8/$40 Astra (20% cut) and $2/$10 Sol in API, ChatGPT Work, and Codex.
+- **OpenAI: Astra for Law 6.2** — https://openai.com/index/astra-law-6-2
+  Type: official blog. Accessed: 2026-11-24. November 17 lawyer-specialized configuration of GPT-6.2 Astra.
 - **OpenAI GPT-6.2 launch post** — https://x.com/OpenAI/status/2122750130290131166
   Type: X post. Accessed: 2026-11-23. Announces GPT-6.2 Astra and GPT-6.2 Sol.
+- **Artificial Analysis on GPT-6.2 Astra and Sol** — https://x.com/ArtificialAnlys/status/2123581865965855205
+  Type: X post. Accessed: 2026-11-24. Places GPT-6.2 Astra #2 on the Artificial Analysis Intelligence Index.
 - **Google: Introducing Gemini 4 Neon** — https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
-  Type: official blog. Accessed: 2026-11-23. November 18 launch of mid-tier Gemini 4 Neon at $3/$15 per million tokens with $0.15 cached input (95% discount) and 1M context.
+  Type: official blog. Accessed: 2026-11-23. November 18 paid-tier launch at $3/$15 per million tokens ($0.15 cached), 1M context, 61 AA Intelligence Index at xhigh, orchestrating Hydrogen sub-agents.
+- **Google: Introducing Gemini 4 Hydrogen** — https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+  Type: official blog. Accessed: 2026-11-24. November 12 GA replacing the Flash tier across free and paid Gemini API/AI Studio at $1.50/$7.50 per million tokens across 1M context.
+- **Google: Gemini Decisions API (Gemini Decision 1)** — https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
+  Type: official blog. Accessed: 2026-11-24. November 11 GA scoring model evaluating up to 1,000 yes/no, choice, or rubric questions per pass at $0.10/M input and $0 output (~150–250 ms).
+- **Google: Genie 4 in Gemini API** — https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/
+  Type: official blog. Accessed: 2026-11-24. November 19 paid Gemini Interactions API expansion (720p at 24 fps with audio), following November 18 Project Genie rollout for Google AI Ultra.
 - **Sundar Pichai on Gemini 4 Neon** — https://x.com/sundarpichai/status/2123167785790648751
   Type: X post. Accessed: 2026-11-23. Launch announcement for Gemini 4 Neon.
-- **Google AI on Gemini 4 Neon** — https://x.com/GoogleAI/status/2123168242797809944
-  Type: X post. Accessed: 2026-11-23. Details Gemini 4 Neon developer and Antigravity availability.
+- **Google DeepMind on Gemini 4 Neon** — https://x.com/GoogleDeepMind/status/2123167884411077030
+  Type: X post. Accessed: 2026-11-24. Highlights Gemini 4 Neon's AA Intelligence Index gain and developer availability.
+- **Google on Gemini 4 Hydrogen** — https://x.com/Google/status/2121004369617485896
+  Type: X post. Accessed: 2026-11-24. November 12 announcement for Gemini 4 Hydrogen.
+- **Google Labs on Genie 4 rollout** — https://x.com/GoogleLabs/status/2123118145552749015
+  Type: X post. Accessed: 2026-11-24. November 18 Project Genie Ultra availability post.
+- **Microsoft AI: Ignite 2026 model roundup** — https://microsoft.ai/news/microsoft-ignite-2026/
+  Type: official blog. Accessed: 2026-11-24. November 17 announcement of MAI Code 2 / Flash, MAI Cyber 2 Flash, MAI Image 2.7 / Flash, MAI Realtime 1 ($0.01/audio min), Decision 1.1, and MAI Licensed Weights.
+- **Microsoft AI: Introducing MAI Code 2 and MAI Code 2 Flash** — https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/
+  Type: official blog. Accessed: 2026-11-24. Details Copilot GA coding models; vendor price comparisons rely on a 50% launch promotion.
+- **GitHub on MAI Code 2 in Copilot** — https://x.com/github/status/2122814155979706846
+  Type: X post. Accessed: 2026-11-24. Announces MAI Code 2 availability in GitHub Copilot.
 - **Qwen: Qwen4-Max** — https://qwen.ai/blog?id=qwen4-max
-  Type: official blog. Accessed: 2026-11-23. November 16 launch of 2.4T backbone / 71B active flagship with native vision and 1M context at $1.50/$4.50 per million; smaller Qwen4 weights promised with no date.
+  Type: official blog. Accessed: 2026-11-23. November 16 launch of 2.4T backbone / 71B active closed flagship with native vision and 1M context at $1.50/$4.50 per million; smaller Qwen4 open weights promised with no date.
 - **Alibaba Qwen launch post** — https://x.com/Alibaba_Qwen/status/2122148127520289151
   Type: X post. Accessed: 2026-11-23. Announces Qwen4-Max.
+- **Alibaba Cloud: Qwen-Audio-3.1-Live documentation** — https://www.alibabacloud.com/help/en/model-studio/qwen-audio-3-1-live
+  Type: official docs. Accessed: 2026-11-24. November 23 full-duplex closed voice model ($0.000710/s Singapore, $0.000471/s Beijing).
 - **Z.ai: GLM-5.4** — https://z.ai/blog/glm-5.4
-  Type: official blog. Accessed: 2026-11-23. November 23 launch of Z.ai's first flagship Loop Transformer running 28 GLM-5 layers twice; Coding Plan only, API awaiting safety review, weights promised without a date, no benchmark table published.
+  Type: official blog. Accessed: 2026-11-23. November 23 launch of Z.ai's first flagship Loop Transformer running 28 GLM-5 layers twice (~750B); Coding Plan only, API awaiting safety review, weights promised without a date, no flagship benchmark table published.
 - **Z.ai GLM-5.4 launch post** — https://x.com/Zai_org/status/2124811995912286352
   Type: X post. Accessed: 2026-11-23. Introduces GLM-5.4 Loop Transformer with vision and generalized coding.
-- **SID AI: Models** — https://www.sid.ai/models
-  Type: product page. Accessed: 2026-11-23. Closed-corpus bring-your-own-documents search model and multi-agent swarm API.
-- **SID-2 Technical Report** — https://www.sid.ai/research/sid-2-technical-report
-  Type: technical report. Accessed: 2026-11-23. Vendor benchmarks across 506 questions on 19 corpora comparing SID-2 and Swarms against Opus 5.5 and GPT-6 Astra.
-- **Max Rumpf on SID-2** — https://x.com/maxrumpf/status/2122758430721204407
-  Type: X post. Accessed: 2026-11-23. November 17 launch post claiming 8x faster and 20x cheaper search than Opus/Astra.
+- **Cognition: SWE-2.1** — https://cognition.com/blog/swe-2-1
+  Type: official blog. Accessed: 2026-11-24. November 24 Devin-only closed post-trains of Moonshot's Kimi K3 (SWE-2.1, Cerebras 600 tok/s Lightning, and Cyber); notes model found four new sandbox escapes during training.
+- **Cognition SWE-2.1 launch post** — https://x.com/cognition/status/2125305349414523061
+  Type: X post. Accessed: 2026-11-24. Announces SWE-2.1, Lightning, and Cyber inside Devin.
+- **OpenAI: GPT-Live-1.1 System Card** — https://deploymentsafety.openai.com/gpt-live-1-1/gpt-live-1-1.pdf
+  Type: system card. Accessed: 2026-11-24. November 19 Live API availability of `gpt-live-1.1`.
+- **AssemblyAI: Introducing AssemblyAI STT-3.7** — https://www.assemblyai.com/blog/introducing-assemblyai-stt-3-7
+  Type: official blog. Accessed: 2026-11-24. November 18 closed speech-to-text family (STT-3.7, Realtime, Realtime-Agent) priced at $0.21, $0.30, and $0.45/hr.
 
 ### Open model releases
 
+- **Hugging Face: baidu/ERNIE-5.5-Flash-Preview** — https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview
+  Type: model card. Accessed: 2026-11-24. Apache 2.0 weights (280B total / 14B active, 1M context, native FP8/FP4 + DSpark draft head) posted November 23–24 ahead of Baidu's November 25 promise; intermediate preview, distinct from custom-licensed Nov 5 Base.
+- **Baidu: ERNIE 5.5 Flash Preview** — https://ernie.baidu.com/release/ernie-5-5-flash-preview/
+  Type: official blog. Accessed: 2026-11-24. Baidu release overview linked from November 24 open-weight announcement.
+- **Baidu ERNIE open-weights post** — https://x.com/Baidu_ERNIE/status/2125072735336546546
+  Type: X post. Accessed: 2026-11-24. Announces Apache 2.0 weight release for ERNIE 5.5 Flash Preview.
+- **SGLang day-0 ERNIE 5.5 Flash Preview post** — https://x.com/sgl_project/status/2125079916303790103
+  Type: X post. Accessed: 2026-11-24. Reports day-0 SGLang support (~1,074 tok/s batch-1 on 4 Blackwell GPUs).
 - **Thinking Machines: Inkling 2 Small** — https://thinkingmachines.ai/news/inkling-2-small/
   Type: official blog. Accessed: 2026-11-23. Updated November 12 with Apache 2.0 weight release for 594B/17B-active multimodal MoE.
 - **Hugging Face: thinkingmachines/Inkling-2-Small** — https://huggingface.co/thinkingmachines/Inkling-2-Small
   Type: model card. Accessed: 2026-11-23. Apache 2.0 NVFP4 weights requiring ~500 GB aggregate VRAM (plus MXFP8 twin).
-- **Thinking Machines Inkling 2 Small weights post** — https://x.com/thinkymachines/status/2120982625582195011
-  Type: X post. Accessed: 2026-11-23. Announces November 12 Apache 2.0 weight release.
 - **Thinking Machines: End-to-End 4-Bit Training** — https://thinkingmachines.ai/blog/end-to-end-4-bit-training/
   Type: technical blog. Accessed: 2026-11-23. Details NVFP4 forward passes with MXFP8 backward passes used to pretrain Inkling 2 Small in 68 hours on GB300 NVL72.
-- **Thinking Machines 4-bit training post** — https://x.com/thinkymachines/status/2121353292878110868
-  Type: X post. Accessed: 2026-11-23. Shares the Connectionism native 4-bit training writeup.
+- **Thinking Machines Inkling 2 Small weights post** — https://x.com/thinkymachines/status/2120982625582195011
+  Type: X post. Accessed: 2026-11-23. Announces November 12 Apache 2.0 weight release.
 - **Thinking Machines: Introducing Inkling 2 Mini** — https://thinkingmachines.ai/news/inkling-2-mini/
   Type: official blog. Accessed: 2026-11-23. November 20 launch of 26.4B total / 3.4B active looped MoE (middle 12 layers run 3x) aimed at 32 GB Macs and DGX Spark.
 - **Hugging Face: thinkingmachines/Inkling-2-Mini** — https://huggingface.co/thinkingmachines/Inkling-2-Mini
   Type: model card. Accessed: 2026-11-23. Apache 2.0 weights (~20 GB NVFP4/MXFP8), 1M context, Ollama support.
+- **Hugging Face: unsloth/Inkling-2-Mini-GGUF** — https://huggingface.co/unsloth/Inkling-2-Mini-GGUF
+  Type: model card. Accessed: 2026-11-24. Day-0 Dynamic 3.0 GGUF quants (7.8 GB to 22.9 GB; UD-Q4_K_M at 16.61 GB).
 - **Thinking Machines Inkling 2 Mini post** — https://x.com/thinkymachines/status/2123871643797995872
   Type: X post. Accessed: 2026-11-23. Announces Inkling 2 Mini with vendor 20.1 AA Index score.
-- **Alex Robey on Inkling 2 Mini monitorability** — https://x.com/AlexRobey23/status/2123872680718082542
-  Type: X post. Accessed: 2026-11-23. Explains opening looped-transformer weights so safety researchers can study loop monitorability.
+- **Unsloth Inkling 2 Mini day-0 post** — https://x.com/UnslothAI/status/2123873656069877899
+  Type: X post. Accessed: 2026-11-24. Launches day-0 Inkling 2 Mini GGUF quants and local run guide.
+- **Hugging Face: tencent/Hy4** — https://huggingface.co/tencent/Hy4
+  Type: model card. Accessed: 2026-11-24. November 20 weight release for 770B/49B-active flagship plus vision encoder and DFly2 drafter; uses Tencent Hy License 1.0 (separate license required above $50M MaaS revenue or 100M MAU).
+- **Hugging Face: tencent/Hy4-flash** — https://huggingface.co/tencent/Hy4-flash
+  Type: model card. Accessed: 2026-11-24. November 17 weight release for 220B/11.3B-active MoE with ~64B Engram parameters under Tencent Hy License 1.0.
+- **Hugging Face: tencent/Hy-MT3-30B-A3B** — https://huggingface.co/tencent/Hy-MT3-30B-A3B
+  Type: model card. Accessed: 2026-11-24. November 24 Apache 2.0 102-language translation MoE (30B/3B active, alongside 1.8B and 7B sizes).
+- **Tencent-Hunyuan/Hy-MT3** — https://github.com/Tencent-Hunyuan/Hy-MT3
+  Type: GitHub repository. Accessed: 2026-11-24. Code, TransRubric eval suite, and documentation for Hy-MT3.
+- **Hugging Face: inclusionAI/Ling-3.2-air** — https://huggingface.co/inclusionAI/Ling-3.2-air
+  Type: model card. Accessed: 2026-11-24. November 23 MIT hybrid-linear multimodal MoE (124B/5.5B active, EU-usable, day-0 SGLang).
+- **Hugging Face: inclusionAI/LingSante-3.1-flash** — https://huggingface.co/inclusionAI/LingSante-3.1-flash
+  Type: model card. Accessed: 2026-11-24. November 23 MIT medical-reasoning MoE (560B/25B active, 1M context, research-only / not a medical device; released with 124B air-VL).
+- **Aleph Alpha: Kolibri 1.1** — https://aleph-alpha.com/en/blog/kolibri-1-1/
+  Type: official blog. Accessed: 2026-11-24. November 23 Apache 2.0 English–German 75B/3B-active sparse-attention MoE (1M context, trained in Germany and Finland, 24 GB GPU capable).
+- **Hugging Face: Aleph-Alpha/Kolibri-1.1** — https://huggingface.co/Aleph-Alpha/Kolibri-1.1
+  Type: model card. Accessed: 2026-11-24. Apache 2.0 weights with day-0 vLLM and Transformers support.
+- **Hugging Face: sensenova/SenseNova-U1.6-8B-MoT** — https://huggingface.co/sensenova/SenseNova-U1.6-8B-MoT
+  Type: model card. Accessed: 2026-11-24. November 24 Apache 2.0 8B unified understand-and-generate image model with native text self-correction loop (fits one 24 GB GPU).
+- **Hugging Face: sensenova/SenseNova-Loop-9B** — https://huggingface.co/sensenova/SenseNova-Loop-9B
+  Type: model card. Accessed: 2026-11-24. November 17 Apache 2.0 9B looped transformer from SenseTime.
+- **Microsoft Edge Blog: Introducing Aion Instruct and Prompt API** — https://blogs.windows.com/msedgedev/2026/11/19/hybrid-intelligence-on-the-web-introducing-aion-instruct-and-prompt-api-in-microsoft-edge/
+  Type: official blog. Accessed: 2026-11-24. November 19 MIT 2.3B on-device model replacing Phi-4-mini in Microsoft Edge and slated for Windows OS.
+- **Hugging Face: microsoft/Aion-1.0-Instruct-2.3B** — https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B
+  Type: model card. Accessed: 2026-11-24. MIT weights (32K context, ONNX-WebGPU sibling available).
 - **Hugging Face: RadixArk/DaisyRose-27B** — https://huggingface.co/RadixArk/DaisyRose-27B
   Type: model card. Accessed: 2026-11-23. Apache 2.0 RL-only post-train of Qwen3.8-27B over 1,200 long-horizon agent tasks (18 days on 144 H200s); vendor reports Terminal-Bench 4.1 rising from 5.6% to 12.0%.
-- **RadixArk DaisyRose-27B post** — https://x.com/radixark/status/2123115052127633536
-  Type: X post. Accessed: 2026-11-23. November 18 launch post for DaisyRose-27B.
 - **Plotly: DaisyRose-27B on Plotly Data Analytics Bench** — https://plotly.com/blog/daisyrose-27b-plotly-data-analytics-bench/
   Type: third-party benchmark. Accessed: 2026-11-23. Independent evaluation scoring DaisyRose-27B at 34/43 versus 38/43 for base Qwen3.8-27B.
+- **RadixArk DaisyRose-27B post** — https://x.com/radixark/status/2123115052127633536
+  Type: X post. Accessed: 2026-11-23. November 18 launch post for DaisyRose-27B.
+- **Cloudflare: Open Clairic** — https://blog.cloudflare.com/open-clairic/
+  Type: official blog. Accessed: 2026-11-24. November 18 Apache 2.0 release of 27B Clairic and 9B Clairic-flash structured schema-extraction models.
+- **Hugging Face: Cloudflare/clairic** — https://huggingface.co/Cloudflare/clairic
+  Type: model card. Accessed: 2026-11-24. Apache 2.0 structured extraction model continued from Qwen3.8-27B (paired with `clairic-flash`).
+- **AWS Strands: Introducing Strands Decider v2** — https://strandsagents.com/blog/introducing-strands-decider-v2/
+  Type: official blog. Accessed: 2026-11-24. November 23 Apache 2.0 calibrated single-pass decision models across five Gemma 4 sizes (E2B to 31B).
+- **Baseten: Meet bison-1 and groundhog-1** — https://www.baseten.co/blog/meet-bison-1-and-groundhog-1/
+  Type: official blog. Accessed: 2026-11-24. November 20 open-weight Gemma 4 decision models (31B dense bison-1 and 26B-A4B groundhog-1).
+- **Hugging Face: perplexity-ai/pplx-decider-v1.3** — https://huggingface.co/perplexity-ai/pplx-decider-v1.3
+  Type: model card. Accessed: 2026-11-24. November 12 Apache 2.0 27B decision and span-location classifier (with 4B flash sibling).
+- **IBM Granite: LLMON preview** — https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite
+  Type: official blog. Accessed: 2026-11-24. November 12 Apache 2.0 Granite 4.1 3B/8B evaluation previews separating instruction and data tokens to resist indirect prompt injection.
+- **Hugging Face: nvidia/Nemotron-Labs-Sigma-8B** — https://huggingface.co/nvidia/Nemotron-Labs-Sigma-8B
+  Type: model card. Accessed: 2026-11-24. Continuous diffusion LM (3B and 8B, 32-token blocks) under NVIDIA Nemotron Open Model License (commercial use allowed, not Apache/MIT).
+- **Hugging Face: sarvamai/sarvam-105b-1711** — https://huggingface.co/sarvamai/sarvam-105b-1711
+  Type: model card. Accessed: 2026-11-24. Apache 2.0 105B/10.3B-active agentic MoE (65 GB NVFP4 fitting one 96 GB Blackwell GPU).
+- **Hugging Face: OVHaiLLM/Olala-v1.0-mini-7A1B** — https://huggingface.co/OVHaiLLM/Olala-v1.0-mini-7A1B
+  Type: model card. Accessed: 2026-11-24. November 19 Apache 2.0 6.8B/1B-active Mamba-3 + attention MoE trained on European public supercomputers.
+- **LlamaIndex: Introducing OCRia-nano-1** — https://www.llamaindex.ai/blog/introducing-ocria-nano-1
+  Type: official blog. Accessed: 2026-11-24. November 23 8.1M-parameter CPU document parser under modified Open RAIL-M (commercial revenue/funding cap; LiteParse code is Apache 2.0).
+- **LlamaIndex OCRia-nano-1 launch post** — https://x.com/llama_index/status/2124952874316632394
+  Type: X post. Accessed: 2026-11-24. Announces OCRia-nano-1.
 - **Hugging Face: apple/FastFrames-L** — https://huggingface.co/apple/FastFrames-L
-  Type: model card. Accessed: 2026-11-23. 14B interactive-latency text-to-video model distilled from Wan2.1-14B under non-commercial Apple AMLR license.
+  Type: model card. Accessed: 2026-11-23. 14B interactive-latency text-to-video model distilled from Wan2.1-14B under non-commercial Apple AMLR license (with 1.3B FastFrames-S).
 - **FastFrames paper (arXiv:2611.23226)** — https://arxiv.org/abs/2611.23226
   Type: paper. Accessed: 2026-11-23. Describes 1.3B FastFrames-S (1 GPU, ~36 ms/frame) and 14B FastFrames-L (profiled on 8 GPUs) using Causal Forcing++.
-- **apple-aiml-research/ml-fastframes** — https://github.com/apple-aiml-research/ml-fastframes
-  Type: GitHub repository. Accessed: 2026-11-23. Sample code for FastFrames under Apple Sample Code License.
 - **Victor Mustar on Apple FastFrames** — https://x.com/victormustar/status/2122818132704124984
   Type: X post. Accessed: 2026-11-23. Highlights Apple's FastFrames-L drop on Hugging Face.
+- **AMD ROCm: Nitro-P** — https://rocm.blogs.amd.com/artificial-intelligence/nitro-p/README.html
+  Type: official blog. Accessed: 2026-11-24. November 20 679M pixel-space VAE-free image diffusion model with weights and training code.
+- **Salesforce: SOV-Transcribe-1** — https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1
+  Type: official blog. Accessed: 2026-11-24. November 12 Apache 2.0 26B/4B-active non-streaming speech-to-text model.
+- **Hugging Face: higurashi-ai/Haru-4B** — https://huggingface.co/higurashi-ai/Haru-4B
+  Type: model card. Accessed: 2026-11-24. November 12 Apache 2.0 4B audio-to-audio model.
+- **Hugging Face: inworld/voice-isolator** — https://huggingface.co/inworld/voice-isolator
+  Type: model card. Accessed: 2026-11-24. November 14 Apache 2.0 open voice-isolation model.
 
 ### Baseten and Magnitude push open-model speed from opposite ends
 
@@ -163,6 +247,15 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **MTS on Vakil's Masullo release** — https://x.com/MTSlive/status/2123852228092195283
   Type: X post. Accessed: 2026-11-23. Notes AMS president Ravi Vakil's hurried release of Masullo's human GRH draft the same day.
 
+### Anthropic and OpenAI post unchecked VP ≠ VNP proofs
+
+- **anthropics/formal-math: vp-vnp/README.md** — https://github.com/anthropics/formal-math/blob/main/vp-vnp/README.md
+  Type: GitHub repository. Accessed: 2026-11-24. November 23 commit (`11b6c7e`, ~73,000 lines of Lean 4.33.1) credited to an internal research Claude model claiming `VP ≠ VNP` over every field; explicitly notes no human mathematician has checked the proof or statement definition and it does not settle P vs NP.
+- **Bitcoin News post on VP ≠ VNP** — https://x.com/BitcoinNewsCom/status/2125063678596698613
+  Type: X post. Accessed: 2026-11-24. Amplifies `@TheCoinCollect8`'s bank/exchange warning while admitting in the same post the result does not directly threaten Bitcoin's cryptography.
+- **TheCoinCollect8 post** — https://x.com/TheCoinCollect8/status/2125039784301306319
+  Type: X post. Accessed: 2026-11-24. Anonymous account jumping from an algebraic circuit lower bound (`VP ≠ VNP`) to warning banks and exchanges that "encryption isn't safe."
+
 ### Praxis brings general witness encryption down to 8 GB
 
 - **Praxis: Practical Witness Encryption for NP (IACR ePrint 2026/2971)** — https://eprint.iacr.org/2026/2971
@@ -182,6 +275,15 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: GitHub repository. Accessed: 2026-11-23. Apache 2.0 implementation of zkTransformer.
 - **Daniel Kang's post** — https://x.com/ddkang/status/2123445796188443051
   Type: X post. Accessed: 2026-11-23. Summarizes zkTransformer in reply to Anthropic's FlashProve announcement.
+
+### Claude writes every weight of a tiny looped maze solver
+
+- **MBZUAI ORYX: Looped Weight-Space Programming** — https://mbzuai-oryx.github.io/LoopedWSP/
+  Type: research blog. Accessed: 2026-11-24. November 23 report showing Claude Opus 5.5 inside Claude Code hand-writing 19,936 weights (and a 928-weight variant) of a one-block looped transformer implementing BFS mod 3 in 39 minutes (~$19 API list price) for 100% on 30×30–100×100 mazes; authors note known-algorithm scope and 5 PFLOPs gradient-descent baseline.
+- **mbzuai-oryx/LoopedWSP** — https://github.com/mbzuai-oryx/LoopedWSP
+  Type: GitHub repository. Accessed: 2026-11-24. Code and checkpoints for Looped Weight-Space Programming (maze and 20-disk Hanoi looped transformers).
+- **Ahmed Heakl's launch thread** — https://x.com/ahmedmm72234641/status/2124869402634129901
+  Type: X post. Accessed: 2026-11-24. Summarizes Looped Weight-Space Programming results and links demo and repo.
 
 ### Google open-sources gBench to test local open models
 
@@ -280,6 +382,21 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Unicorn's viral retelling of the NH Claude story** — https://x.com/ohayou792/status/2124151555452719456
   Type: X post. Accessed: 2026-11-23. Chinese-language retelling of Morrissey's Substack post (~850k views).
 
+### T3 Code's default-on telemetry hashes local Codex and Claude IDs
+
+- **pingdotgg/t3code: Telemetry documentation** — https://github.com/pingdotgg/t3code/blob/main/docs/user/telemetry.md
+  Type: official docs. Accessed: 2026-11-24. Confirms default-on telemetry via `ingest.t3.codes` (keeping a copy + forwarding to PostHog), env-var opt-out (`T3CODE_TELEMETRY_ENABLED=false`) without a settings UI toggle, and separate browser/mobile Axiom traces; states prompts, responses, file contents, and raw auth tokens are excluded.
+- **pingdotgg/t3code: Identify.ts** — https://github.com/pingdotgg/t3code/blob/main/apps/server/src/telemetry/Identify.ts
+  Type: source code. Accessed: 2026-11-24. Reads `~/.codex/auth.json` and `~/.claude.json` account IDs and passes them through unsalted SHA-256 (`packages/shared/src/telemetryId.ts`) to link installs across machines (PR #21506).
+- **pingdotgg/t3code: Issue #4123** — https://github.com/pingdotgg/t3code/issues/4123
+  Type: GitHub issue. Accessed: 2026-11-24. Tracks removal of the May 2026 homepage promise ("No telemetry / Unless you opt in. Full stop.") in commit `3bdaa6e`.
+- **realchendahuang's telemetry investigation** — https://x.com/realchendahuang/status/2125153472450527440
+  Type: X post. Accessed: 2026-11-24. Viral November 24 breakdown (~1.34M views) of T3 Code's default-on telemetry, closed opt-out toggle PRs, and `ingest.t3.codes`.
+- **MiaAI_lab on auth-file hashing** — https://x.com/MiaAI_lab/status/2125224970959605857
+  Type: X post. Accessed: 2026-11-24. Highlights `Identify.ts` reading `~/.codex/auth.json` and `~/.claude.json` and unsalted SHA-256 hashing; later announced zero-telemetry fork M3 Code.
+- **Theo's Nov 24 telemetry defense** — https://x.com/theo/status/2125186071357251715
+  Type: X post. Accessed: 2026-11-24. Defends T3 Code's managed-policy opt-out over a single-machine settings toggle; no apology or revert issued.
+
 ### FBI warns on ARTEX while defenders build AI decoy mazes
 
 - **FBI FLASH Advisory 20261113-001 (ARTEX)** — https://www.ic3.gov/CSA/2026/261113.pdf
@@ -369,6 +486,14 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: official press release. Accessed: 2026-11-23. November 23 unanimous board reinstatement following senior US government input; independent foreign-intelligence probe continues and NVIDIA creates a National Security and Export Control Committee.
 - **NVIDIA Announces CEO Transition** — https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
   Type: official press release. Accessed: 2026-11-23. November 12 announcement of Huang's resignation and CFO Colette Kress stepping in as interim CEO.
+- **Bret Kerr: The Table** — https://bretkerr.substack.com/p/the-table
+  Type: Substack analysis. Accessed: 2026-11-24. Fact-checks the viral Coefficient Giving / Tarbell grant chart, confirming real funding ($5.29M to Tarbell) while noting 0 of 51 Tarbell fellows work at NYT, FT, WSJ, or Reuters.
+- **Tobi Lütke's quote-post ("It was an op")** — https://x.com/tobi/status/2125199405234213032
+  Type: X post. Accessed: 2026-11-24. Shopify CEO amplifying Kevin Bass's claim that EA-funded media drove the campaign against Huang.
+- **Kevin Bass on Coefficient Giving and Jensen Huang** — https://x.com/kevinnbass/status/2125098838587330898
+  Type: X post. Accessed: 2026-11-24. Argues Dustin Moskovitz / Good Ventures / Coefficient Giving funding created an incentive to push Huang out; orchestration of breaking newsrooms remains unproven.
+- **Travis Kling on EA and Jensen Huang** — https://x.com/travis_kling/status/2124976927937057060
+  Type: X post. Accessed: 2026-11-24. Highlights the viral EA / Coefficient Giving funding table around the Huang resignation debate.
 
 ### Will DePue's weight forensics claim Chinese labs used Blackwell GPUs
 

@@ -1,7 +1,7 @@
 ---
 title: Coding Agents
 created: 2026-05-05
-updated: 2026-11-23
+updated: 2026-11-24
 type: concept
 tags: [concept, agent-infrastructure, local-builds]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ Coding Agents covers CLI agents, IDE-adjacent agents, local agent runtimes, agen
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, and **UC pays OpenAI $1.2M a year over faculty objections**.
+- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **UC pays OpenAI $1.2M a year over faculty objections**, **Claude writes every weight of a tiny looped maze solver**, and **T3 Code's default-on telemetry hashes local Codex and Claude IDs**.
 - [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, and **Reason Network lets your agents message your teammates' agents**.

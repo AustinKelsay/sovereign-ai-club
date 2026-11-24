@@ -1,20 +1,21 @@
 ---
 title: Tencent
 created: 2026-07-08
-updated: 2026-11-10
+updated: 2026-11-24
 type: entity
 tags: [entity, company, model, open-source]
-sources: [raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-09-09-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-09-09-link-records.md]
 ---
 
 # Tencent
 
 Tencent is a recurring AI company/entity for Sovereign AI Club when its Hunyuan and Hy model releases affect open-model competition, agent workflows, and China-origin model distribution.
 
-September’s roundup includes Apache-2.0 Hy4 preview weights, EVIE visual-document embeddings, and ContextPilot agent research checkpoints. ContextPilot cards identify their weight license as “other”; check each variant rather than assuming a code license applies to its weights. On October 16, 2026, Tencent released Hy-Memory-30B-A3B under Apache 2.0, a memory-writer model the card describes as about 30B total and about 3B active.
+September’s roundup includes Apache-2.0 Hy4 preview weights, EVIE visual-document embeddings, and ContextPilot agent research checkpoints. ContextPilot cards identify their weight license as “other”; check each variant rather than assuming a code license applies to its weights. On October 16, 2026, Tencent released Hy-Memory-30B-A3B under Apache 2.0, a memory-writer model the card describes as about 30B total and about 3B active. In November 2026, Tencent dropped full 770B Hy4 and 220B Hy4 flash weights under Tencent Hy License 1.0 (requiring a separate license above $50M MaaS revenue or 100M MAU, unlike the Apache 2.0 preview), alongside Apache 2.0 Hy-MT3 translation models covering 102 languages.
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - November 11, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - October 21, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Open model releases**.

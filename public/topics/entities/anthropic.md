@@ -1,7 +1,7 @@
 ---
 title: Anthropic
 created: 2026-05-05
-updated: 2026-11-23
+updated: 2026-11-24
 type: entity
 tags: [entity, company, big-tech-moves, compute]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ Anthropic is a recurring Sovereign AI Club entity for Claude, agent tooling, saf
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as "ZDR"**, and **Ninety AI figures sign "MisAnthropic" letter on Anthropic's IPO day**.
+- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as "ZDR"**, **Ninety AI figures sign "MisAnthropic" letter on Anthropic's IPO day**, and **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Anthropic's IoT self-replication eval**.
 

@@ -1,7 +1,7 @@
 ---
 title: OpenAI
 created: 2026-05-05
-updated: 2026-11-23
+updated: 2026-11-24
 type: entity
 tags: [entity, company, model, privacy]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ OpenAI is a recurring Sovereign AI Club entity because its model releases, platf
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**, **UC pays OpenAI $1.2M a year over faculty objections**, **OpenAI pays local AI builders to onboard small businesses**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.
+- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **OpenAI claims 0.2% chain-of-thought leakage in its anti-distillation push**, **UC pays OpenAI $1.2M a year over faculty objections**, **OpenAI pays local AI builders to onboard small businesses**, **OpenAI and Cisco launch Shirudo for agent-written Linux shields**, and **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **OpenAI claims three discoveries, including a refutation of ETH**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **OpenAI's math paper dump and the Lean gap**, **OpenAI's hidden office recorder**, and **Jasmine Wang's account of her OpenAI firing**.
