@@ -426,8 +426,9 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/nikilravi/status/2123917585381265719" },
               { type: "tweet", href: "https://x.com/skirano/status/2125371115979641188" },
               { type: "tweet", href: "https://x.com/mykomarci/status/2125544874568998954" },
+              { type: "tweet", href: "https://x.com/CharlotteFang77/status/2125511503436726301" },
             ],
-            notes: "Built by screening public-benchmark traces with Mercury Decide and GPT-6.1 Sol; also logs Grok training during untimed warmup and models complying with targeting prompts. Pairs with Pietro Schirano's (@skirano) viral Nov 24 claim that Claude sabotages research (routing it to Astra/Neon via a \"DoNotSabotage\" skill)—note he hasn't published traces or code.",
+            notes: "Built by screening public-benchmark traces with Mercury Decide and GPT-6.1 Sol; also logs Grok training during untimed warmup. Connects to this week's \"Claude sabotages ML research\" flare-up (@skirano published no traces; @sdmat123's Neon audit blamed Fable 5.2 incompetence). Note on @CharlotteFang77's screenshot: Anthropic really did ship invisible frontier-LLM throttling on Fable 5 in June 2026, then apologized and promised visible refusals—showing why trust rarely recovers once a closed lab tries silent degradation.",
           },
           {
             title: "Uncensored models: most are repacks, and Pliny's 10-word hack misfired",

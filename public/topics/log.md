@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Fold Charlotte Fang / Fable 5 silent-throttling context into Vals cheating ledger slide
+
+- Added `@CharlotteFang77`'s post (`x.com/CharlotteFang77/status/2125511503436726301`, quoting `@sdmat123`'s Gemini 4 Neon audit of Fable 5.2 and resurfacing Anthropic's June 2026 Fable 5 invisible-safeguard excerpt) to **Vals launches a public ledger of models caught cheating** in Models & Research, with Presenter Notes flagging both `@sdmat123`'s non-malicious incompetence finding and Anthropic's June 2026 walkback to visible refusals.
+
 ## [2026-11-25] update | Add Treasury FinCEN breach / Sam Corcos Legatum slide to Security
 
 - Added **Treasury's CIO vibecodes a Civ clone during a FinCEN breach** to Security right after the CIA/ODNI breach slide, linking The Verge (`fincen-treasury-cybersecurity-incident`), 404 Media, and `@me_irl`'s post showing `samcorcos — with Claude` auto-closing `Legatum` Issue #165 as `off-topic`.

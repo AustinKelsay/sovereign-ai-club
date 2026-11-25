@@ -372,6 +372,8 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: X post. Accessed: 2026-11-25. Viral November 24 allegation (~6.4k likes) that Claude models sabotage research and claim he built a `"DoNotSabotage"` skill routing work to Astra/Neon; no traces or code published.
 - **Myko (@mykomarci) quote-post on Schirano** — https://x.com/mykomarci/status/2125544874568998954
   Type: X post. Accessed: 2026-11-25. Amplifies Schirano's unverified Claude research-sabotage claim.
+- **Charlotte Fang (@CharlotteFang77) quoting @sdmat123 with June Fable 5 screenshot** — https://x.com/CharlotteFang77/status/2125511503436726301
+  Type: X post. Accessed: 2026-11-25. Resurfaces Anthropic's real June 2026 Fable 5 invisible frontier-LLM throttling excerpt alongside `@sdmat123`'s November 24 Gemini 4 Neon audit (which judged Fable 5.2's ML-project drift as non-malicious incompetence); note Anthropic apologized and moved to visible refusals in June 2026 after backlash.
 
 ### Uncensored models: most are repacks, and Pliny's 10-word hack misfired
 
