@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:35:36.681Z",
+  "generatedAt": "2026-11-25T18:37:40.682Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -116901,6 +116901,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
           "title": "Optimizely signup flaw injects malware across 178 major websites",
           "section": "Security",
@@ -117916,7 +117930,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, **Maple AI raises $5.3M for verifiable, encrypted private AI**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **Hackers breach an unclassified CIA and ODNI intelligence network**, **Treasury's CIO vibecodes a Civ clone during a FinCEN breach**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, **Maple AI raises $5.3M for verifiable, encrypted private AI**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **1Password discloses a CI/CD backend breach—vaults stayed encrypted**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **Hackers breach an unclassified CIA and ODNI intelligence network**, **Treasury's CIO vibecodes a Civ clone during a FinCEN breach**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     {
       "id": "september-30-2026-event-and-source-links",
@@ -135465,6 +135479,8 @@
         "https://x.com/newsfromgoogle/status/2122446058370597070",
         "https://x.com/cloudforce_one/status/2123098021596725484",
         "https://x.com/orcarouter/status/2123258076921053596",
+        "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "https://x.com/gregosuri/status/2125641941903921380",
         "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
         "https://support.optimizely.com/hc/en-us/articles/50521849710605-Security-Advisory-Web-Experimentation-Security-Incident-Updated-November-19-2026",
         "https://x.com/hormuzletter/status/2122535982591365248",
@@ -136572,6 +136588,16 @@
           "section": "Security"
         },
         {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security"
+        },
+        {
           "href": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
           "title": "Optimizely signup flaw injects malware across 178 major websites",
           "section": "Security"
@@ -137235,6 +137261,8 @@
         "https://x.com/newsfromgoogle/status/2122446058370597070",
         "https://x.com/cloudforce_one/status/2123098021596725484",
         "https://x.com/orcarouter/status/2123258076921053596",
+        "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "https://x.com/gregosuri/status/2125641941903921380",
         "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
         "https://support.optimizely.com/hc/en-us/articles/50521849710605-Security-Advisory-Web-Experimentation-Security-Incident-Updated-November-19-2026",
         "https://x.com/hormuzletter/status/2122535982591365248",
@@ -138339,6 +138367,16 @@
         {
           "href": "https://x.com/orcarouter/status/2123258076921053596",
           "title": "OrcaRouter Shield launch post",
+          "section": "Security"
+        },
+        {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password: Update on a security incident involving 1Password's backend systems",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "Greg Osuri's reaction post",
           "section": "Security"
         },
         {
@@ -144528,7 +144566,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-05-05",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Supply Chain Security covers dependency compromise, leaked build artifacts, malicious packages, credential exfiltration, and AI tooling that inherits trust from developer environments.",
       "rawHref": "/topics/concepts/supply-chain-security.md",
       "relativePath": "concepts/supply-chain-security.md",
@@ -144667,6 +144705,20 @@
         {
           "href": "https://x.com/cursor_ai/status/2121411147714970092",
           "title": "Fireworks breach cascades into a fake Claude Code inside Cursor",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -145043,7 +145095,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Supply Chain Security\n\nSupply Chain Security covers dependency compromise, leaked build artifacts, malicious packages, credential exfiltration, and AI tooling that inherits trust from developer environments.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Optimizely signup flaw injects malware across 178 major websites**, and **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**.\n- [[Sovereign AI Club - November 11, 2026]]: **Lazarus and encrypted lockers hide backdoors in model weights**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, and **ProjectDiscovery's $50 LoRA backdoor**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Hacktron used Claude to break into OpenAI through an image library**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach** and **Mini Shai-Hulud hits the AI dev supply chain**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, and **Axios supply-chain attack**.\n\n## Related\n\n- [[AI SaaS Supply Chain]]\n- [[Agent Security]]\n- [[Coding Agents]]\n- [[Security]]\n- [[Anthropic]]\n- [[OpenAI]]"
+      "bodyMarkdown": "# Supply Chain Security\n\nSupply Chain Security covers dependency compromise, leaked build artifacts, malicious packages, credential exfiltration, and AI tooling that inherits trust from developer environments.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **1Password discloses a CI/CD backend breach—vaults stayed encrypted**, **Optimizely signup flaw injects malware across 178 major websites**, and **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**.\n- [[Sovereign AI Club - November 11, 2026]]: **Lazarus and encrypted lockers hide backdoors in model weights**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, and **ProjectDiscovery's $50 LoRA backdoor**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Hacktron used Claude to break into OpenAI through an image library**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach** and **Mini Shai-Hulud hits the AI dev supply chain**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, and **Axios supply-chain attack**.\n\n## Related\n\n- [[AI SaaS Supply Chain]]\n- [[Agent Security]]\n- [[Coding Agents]]\n- [[Security]]\n- [[Anthropic]]\n- [[OpenAI]]"
     },
     {
       "id": "swe-17",
@@ -271636,6 +271688,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
           "title": "Optimizely signup flaw injects malware across 178 major websites",
           "section": "Security",
@@ -272651,7 +272717,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, **Maple AI raises $5.3M for verifiable, encrypted private AI**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **Hackers breach an unclassified CIA and ODNI intelligence network**, **Treasury's CIO vibecodes a Civ clone during a FinCEN breach**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, **Maple AI raises $5.3M for verifiable, encrypted private AI**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **1Password discloses a CI/CD backend breach—vaults stayed encrypted**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **Hackers breach an unclassified CIA and ODNI intelligence network**, **Treasury's CIO vibecodes a Civ clone during a FinCEN breach**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     "september-30-2026-event-and-source-links": {
       "id": "september-30-2026-event-and-source-links",
@@ -290200,6 +290266,8 @@
         "https://x.com/newsfromgoogle/status/2122446058370597070",
         "https://x.com/cloudforce_one/status/2123098021596725484",
         "https://x.com/orcarouter/status/2123258076921053596",
+        "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "https://x.com/gregosuri/status/2125641941903921380",
         "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
         "https://support.optimizely.com/hc/en-us/articles/50521849710605-Security-Advisory-Web-Experimentation-Security-Incident-Updated-November-19-2026",
         "https://x.com/hormuzletter/status/2122535982591365248",
@@ -291307,6 +291375,16 @@
           "section": "Security"
         },
         {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security"
+        },
+        {
           "href": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
           "title": "Optimizely signup flaw injects malware across 178 major websites",
           "section": "Security"
@@ -291970,6 +292048,8 @@
         "https://x.com/newsfromgoogle/status/2122446058370597070",
         "https://x.com/cloudforce_one/status/2123098021596725484",
         "https://x.com/orcarouter/status/2123258076921053596",
+        "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "https://x.com/gregosuri/status/2125641941903921380",
         "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
         "https://support.optimizely.com/hc/en-us/articles/50521849710605-Security-Advisory-Web-Experimentation-Security-Incident-Updated-November-19-2026",
         "https://x.com/hormuzletter/status/2122535982591365248",
@@ -293074,6 +293154,16 @@
         {
           "href": "https://x.com/orcarouter/status/2123258076921053596",
           "title": "OrcaRouter Shield launch post",
+          "section": "Security"
+        },
+        {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password: Update on a security incident involving 1Password's backend systems",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "Greg Osuri's reaction post",
           "section": "Security"
         },
         {
@@ -299263,7 +299353,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-05-05",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Supply Chain Security covers dependency compromise, leaked build artifacts, malicious packages, credential exfiltration, and AI tooling that inherits trust from developer environments.",
       "rawHref": "/topics/concepts/supply-chain-security.md",
       "relativePath": "concepts/supply-chain-security.md",
@@ -299402,6 +299492,20 @@
         {
           "href": "https://x.com/cursor_ai/status/2121411147714970092",
           "title": "Fireworks breach cascades into a fake Claude Code inside Cursor",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -299778,7 +299882,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Supply Chain Security\n\nSupply Chain Security covers dependency compromise, leaked build artifacts, malicious packages, credential exfiltration, and AI tooling that inherits trust from developer environments.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Optimizely signup flaw injects malware across 178 major websites**, and **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**.\n- [[Sovereign AI Club - November 11, 2026]]: **Lazarus and encrypted lockers hide backdoors in model weights**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, and **ProjectDiscovery's $50 LoRA backdoor**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Hacktron used Claude to break into OpenAI through an image library**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach** and **Mini Shai-Hulud hits the AI dev supply chain**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, and **Axios supply-chain attack**.\n\n## Related\n\n- [[AI SaaS Supply Chain]]\n- [[Agent Security]]\n- [[Coding Agents]]\n- [[Security]]\n- [[Anthropic]]\n- [[OpenAI]]"
+      "bodyMarkdown": "# Supply Chain Security\n\nSupply Chain Security covers dependency compromise, leaked build artifacts, malicious packages, credential exfiltration, and AI tooling that inherits trust from developer environments.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **1Password discloses a CI/CD backend breach—vaults stayed encrypted**, **Optimizely signup flaw injects malware across 178 major websites**, and **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**.\n- [[Sovereign AI Club - November 11, 2026]]: **Lazarus and encrypted lockers hide backdoors in model weights**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, and **ProjectDiscovery's $50 LoRA backdoor**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Hacktron used Claude to break into OpenAI through an image library**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach** and **Mini Shai-Hulud hits the AI dev supply chain**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, and **Axios supply-chain attack**.\n\n## Related\n\n- [[AI SaaS Supply Chain]]\n- [[Agent Security]]\n- [[Coding Agents]]\n- [[Security]]\n- [[Anthropic]]\n- [[OpenAI]]"
     },
     "swe-17": {
       "id": "swe-17",
@@ -311623,6 +311727,43 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://worldcraft.gg https://x.com/cdngdev/status/2122416145517117463 https://pequalnp.com https://x.com/amihai/status/2124634001381933448 AI Mathematics Models & Research"
+    },
+    {
+      "id": "sovereign-ai-club-november-25-2026-security-cd-backend-breachvaults-stayed-encrypted",
+      "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+      "rawTitle": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+      "normalizedTitle": "1password discloses a ci/cd backend breach—vaults stayed encrypted",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "https://x.com/gregosuri/status/2125641941903921380"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "security",
+        "supply-chain-security"
+      ],
+      "wikiTitles": [
+        "Security",
+        "Supply Chain Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "1Password discloses a CI/CD backend breach—vaults stayed encrypted Security Sovereign AI Club - November 25, 2026 2026-11-25 https://1password.com/blog/update-on-nov-2026-security-incident https://x.com/gregosuri/status/2125641941903921380 Security Supply Chain Security"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-security-anthropic-moves-30-day-safety-logs-to-your-cloud-as-zdr",
@@ -336309,6 +336450,43 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://worldcraft.gg https://x.com/cdngdev/status/2122416145517117463 https://pequalnp.com https://x.com/amihai/status/2124634001381933448 AI Mathematics Models & Research"
+    },
+    "sovereign-ai-club-november-25-2026-security-cd-backend-breachvaults-stayed-encrypted": {
+      "id": "sovereign-ai-club-november-25-2026-security-cd-backend-breachvaults-stayed-encrypted",
+      "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+      "rawTitle": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+      "normalizedTitle": "1password discloses a ci/cd backend breach—vaults stayed encrypted",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "https://x.com/gregosuri/status/2125641941903921380"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/gregosuri/status/2125641941903921380",
+          "title": "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "security",
+        "supply-chain-security"
+      ],
+      "wikiTitles": [
+        "Security",
+        "Supply Chain Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "1Password discloses a CI/CD backend breach—vaults stayed encrypted Security Sovereign AI Club - November 25, 2026 2026-11-25 https://1password.com/blog/update-on-nov-2026-security-incident https://x.com/gregosuri/status/2125641941903921380 Security Supply Chain Security"
     },
     "sovereign-ai-club-november-25-2026-security-anthropic-moves-30-day-safety-logs-to-your-cloud-as-zdr": {
       "id": "sovereign-ai-club-november-25-2026-security-anthropic-moves-30-day-safety-logs-to-your-cloud-as-zdr",
@@ -371997,7 +372175,7 @@
           "agent-infrastructure"
         ],
         "degree": 28,
-        "updated": "2026-11-23"
+        "updated": "2026-11-25"
       },
       {
         "id": "swe-17",
@@ -385627,11 +385805,11 @@
   },
   "stats": {
     "pageCount": 217,
-    "topicCount": 392,
+    "topicCount": 393,
     "rawPageCount": 0,
     "linkCount": 2671,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 2182,
+    "sourceLinkCount": 2184,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-25"
   }

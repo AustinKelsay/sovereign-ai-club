@@ -580,6 +580,16 @@ export const meetups = [
             notes: "Careful on the ConnectWise stat: Microsoft said ARTEX attempted sign-ins across 2,250+ tenants, while Huntress counted 162 actually accessed. Cloudforce One also saw ARTEX and Java4Shell fired from the same IP. No independent security tests of OrcaRouter Shield exist yet.",
           },
           {
+            title: "1Password discloses a CI/CD backend breach—vaults stayed encrypted",
+            description: "An attacker hijacked a 1Password employee's GitHub account, reached CI/CD, copied private source code, and pushed malicious backend code to steal customer names, emails, and invite or recovery tokens. 1Password says zero vaults or keys were exposed—still a sobering trust check two weeks after 1Password for Agents.",
+            href: "https://1password.com/blog/update-on-nov-2026-security-incident",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/gregosuri/status/2125641941903921380" },
+            ],
+            notes: "Detected Nov 19; also exposed SRP parameters, public keys, account/sign-in timestamps, and CI/CD infrastructure secrets (rotated). 1Password lengthened emailed invite/recovery codes from 6 digits to 10 alphanumeric characters and warns of targeted phishing. Zero-knowledge encryption held on vaults—still a textbook case for why client-side encryption matters when a vendor's build pipeline gets hit.",
+          },
+          {
             title: "Optimizely signup flaw injects malware across 178 major websites",
             description: "Attackers abused a flaw in Optimizely's Web Experimentation signup flow to hijack JavaScript snippets served to Zoom, CNN, BBC, HSBC, Ledger, and 173 other organizations with card skimmers and iOS exploits. Optimizely wiped the code the same day, though Report URI spotted an infection three hours earlier.",
             href: "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",

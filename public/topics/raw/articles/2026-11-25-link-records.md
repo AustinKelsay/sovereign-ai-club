@@ -523,6 +523,13 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **OrcaRouter Shield launch post** — https://x.com/orcarouter/status/2123258076921053596
   Type: X post. Accessed: 2026-11-23. Demos Shield trapping ARTEX inside a synthetic decoy maze.
 
+### 1Password discloses a CI/CD backend breach—vaults stayed encrypted
+
+- **1Password: Update on a security incident involving 1Password's backend systems** — https://1password.com/blog/update-on-nov-2026-security-incident
+  Type: incident notice. Accessed: 2026-11-25. November 25 disclosure of an investigation opened November 19 after an attacker compromised an employee's corporate GitHub account, copied private source code, accessed CI/CD (with infrastructure secrets), and pushed malicious code to backend services downloading customer names, emails, account/sign-in timestamps, public keys, SRP parameters, and emailed invite/provisioning/recovery link tokens; 1Password reports customer vaults and keys were never accessed, rotated credentials, and lengthened email recovery codes from 6 digits to 10 alphanumeric characters.
+- **Greg Osuri's reaction post** — https://x.com/gregosuri/status/2125641941903921380
+  Type: X post. Accessed: 2026-11-25. Akash founder shares 1Password's disclosure and notes diminished trust despite zero-knowledge vault protection.
+
 ### Optimizely signup flaw injects malware across 178 major websites
 
 - **Report URI: World's Largest Brands Infected With Malware via Optimizely** — https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/

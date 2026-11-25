@@ -1,7 +1,7 @@
 ---
 title: Supply Chain Security
 created: 2026-05-05
-updated: 2026-11-23
+updated: 2026-11-25
 type: concept
 tags: [concept, security, agent-infrastructure]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-01-link-records.md]
@@ -13,7 +13,7 @@ Supply Chain Security covers dependency compromise, leaked build artifacts, mali
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Optimizely signup flaw injects malware across 178 major websites**, and **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**.
+- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **1Password discloses a CI/CD backend breach—vaults stayed encrypted**, **Optimizely signup flaw injects malware across 178 major websites**, and **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**.
 - [[Sovereign AI Club - November 11, 2026]]: **Lazarus and encrypted lockers hide backdoors in model weights**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, and **ProjectDiscovery's $50 LoRA backdoor**.

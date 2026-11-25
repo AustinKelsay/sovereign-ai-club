@@ -2,6 +2,11 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add 1Password CI/CD backend breach slide to Security
+
+- Added **1Password discloses a CI/CD backend breach—vaults stayed encrypted** to Security right before Optimizely (`1password.com/blog/update-on-nov-2026-security-incident`, `x.com/gregosuri/status/2125641941903921380`), detailing the Nov 19 corporate GitHub → CI/CD → malicious backend code push that exfiltrated customer metadata and invite/recovery tokens while zero-knowledge vaults remained encrypted, tying back to November 11's `1Password for Agents`.
+- Updated `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and reciprocal `Mentioned In` entries on `Security` and `Supply Chain Security`.
+
 ## [2026-11-25] update | Fold Lucid Computing's Inference Proofs benchmark into provable inference slide
 
 - Added Lucid Computing and partners' Apache 2.0 **Inference Proofs** benchmark (`inferenceproofs.ai`, `lucidcomputing.ai/blog/introducing-inference-proofs`, `ai-verification-observatory/inference-proofs`, `x.com/LucidCompute/status/2125635757033361570`) to **Anthropic's FlashProve and UIUC's zkTransformer push provable inference** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
