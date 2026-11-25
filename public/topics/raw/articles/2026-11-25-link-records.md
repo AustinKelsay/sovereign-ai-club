@@ -242,6 +242,12 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: official blog. Accessed: 2026-11-24. November 12 Apache 2.0 Granite 4.1 3B/8B evaluation previews separating instruction and data tokens to resist indirect prompt injection.
 - **Hugging Face: nvidia/Nemotron-Labs-Sigma-8B** — https://huggingface.co/nvidia/Nemotron-Labs-Sigma-8B
   Type: model card. Accessed: 2026-11-24. Continuous diffusion LM (3B and 8B, 32-token blocks) under NVIDIA Nemotron Open Model License (commercial use allowed, not Apache/MIT).
+- **Hugging Face: nvidia/Nemotron-Labs-Image-30B-A3B** — https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B
+  Type: model card. Accessed: 2026-11-25. November 25 release of NVIDIA's 30B/3B-active autoregressive MoE text-to-image generator (built on Nemotron 3 Nano, 196,560 visual tokens via bundled `l24sq_vit` tokenizer, runs on vLLM with `trust_remote_code=True`); licensed under NVIDIA One-Way Noncommercial License (research/evaluation only), while the VisualCreation harness and VisionCode models remain held back pending legal clearance.
+- **Nemotron-Labs-VisualCreation paper (arXiv:2611.31358)** — https://arxiv.org/abs/2611.31358
+  Type: paper. Accessed: 2026-11-25. November 23 "Pixel as Code" technical report; notes that the unreleased Nemotron-native harness lifts GenEval2 Soft-TIFA GM from 31.71 (standalone raster generator) to 52.56, and reaches 92.86 GenEval / 86.0 BizGenEval in its best agentic setting.
+- **AJ (@ItsmeAjayKV) on Nemotron-Labs-Image-30B-A3B** — https://x.com/ItsmeAjayKV/status/2125582581827805542
+  Type: X post. Accessed: 2026-11-25. November 25 post highlighting NVIDIA's 30B/3B-active autoregressive MoE image model and why LLM-style visual token generation unlocks LLM quantization and expert offloading for local consumer hardware.
 - **Hugging Face: sarvamai/sarvam-105b-1711** — https://huggingface.co/sarvamai/sarvam-105b-1711
   Type: model card. Accessed: 2026-11-24. Apache 2.0 105B/10.3B-active agentic MoE (65 GB NVFP4 fitting one 96 GB Blackwell GPU).
 - **Hugging Face: OVHaiLLM/Olala-v1.0-mini-7A1B** — https://huggingface.co/OVHaiLLM/Olala-v1.0-mini-7A1B

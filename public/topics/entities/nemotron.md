@@ -9,7 +9,7 @@ sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-
 
 # Nemotron
 
-Nemotron is NVIDIA's open model family, recurring in Sovereign AI Club through open-weight LLMs, speech models, reasoning/coding benchmarks, compression variants, and serving work. On October 15, 2026 NVIDIA released Nemotron 3.5 Super VL, 120B total and 12B active, and Nemotron 3.5 Bolt, named as a 24 GB model. Both cards use the OpenMDW-1.1 license. In November 2026, NVIDIA released Nemotron-Labs-Sigma (3B and 8B continuous diffusion LMs under NVIDIA Nemotron Open Model License), and Harvey post-trained Nemotron 3.5 Super VL past 20% all-pass on Legal Agent Bench.
+Nemotron is NVIDIA's open model family, recurring in Sovereign AI Club through open-weight LLMs, speech models, reasoning/coding benchmarks, compression variants, and serving work. On October 15, 2026 NVIDIA released Nemotron 3.5 Super VL, 120B total and 12B active, and Nemotron 3.5 Bolt, named as a 24 GB model. Both cards use the OpenMDW-1.1 license. In November 2026, NVIDIA released Nemotron-Labs-Sigma (3B and 8B continuous diffusion LMs under NVIDIA Nemotron Open Model License) and Nemotron-Labs-Image-30B-A3B (a 30B/3B-active autoregressive visual-token image-generation MoE on the Nemotron 3 Nano base, under NVIDIA's One-Way Noncommercial License while its VisualCreation harness and VisionCode models await legal clearance).
 
 ## Mentioned In
 

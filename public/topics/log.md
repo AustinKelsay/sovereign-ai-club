@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add NVIDIA Nemotron-Labs-Image-30B-A3B to Open model releases
+
+- Added NVIDIA's 30B/3B-active autoregressive MoE image generator (`nvidia/Nemotron-Labs-Image-30B-A3B`, `arxiv.org/abs/2611.31358`, `x.com/ItsmeAjayKV/status/2125582581827805542`) to **Open model releases** in `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and `entities/nemotron.md`, noting its NVIDIA One-Way Noncommercial License and that the VisualCreation harness and VisionCode models remain held back pending legal clearance.
+
 ## [2026-11-25] update | Expand X embeds on Riemann Hypothesis slide
 
 - Added three high-signal X embeds to **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**: Lean FRO/Mathlib's official certification (`x.com/leanprover/status/2124159121645801562`), Levent Alpöge's own 7.6M-view reflection (`x.com/__alpoge__/status/2124987173439209561`), and mathematician Daniel Litt's four-point summary (`x.com/littmath/status/2124573924528681263`), updating `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.

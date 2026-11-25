@@ -241,7 +241,7 @@ export const meetups = [
           },
           {
             title: "Open model releases",
-            description: "Both promised big-model drops landed under Apache 2.0—Thinking Machines' Inkling 2 Small and Baidu's 280B ERNIE 5.5 Flash Preview—while Tencent released 770B Hy4 and Hy4 flash alongside Ant's MIT Ling-3.2-air. On local hardware, Inkling 2 Mini, PrismML's 5.9 GB Ternary Bonsai 2.5 27B, Kolibri 1.1, Microsoft's Aion 2.3B, SenseNova U1.6, and a wave of open decision models shipped. Check the licenses: Tencent's Hy4 isn't Apache above $50M MaaS revenue, and Apple's FastFrames stays research-only.",
+            description: "Both promised big-model drops landed under Apache 2.0—Thinking Machines' Inkling 2 Small and Baidu's 280B ERNIE 5.5 Flash Preview—while Tencent released 770B Hy4 and Hy4 flash alongside Ant's MIT Ling-3.2-air. On local hardware, Inkling 2 Mini, PrismML's 5.9 GB Ternary Bonsai 2.5 27B, Kolibri 1.1, Microsoft's Aion 2.3B, SenseNova U1.6, and a wave of open decision models shipped. Check the licenses: Tencent's Hy4 isn't Apache above $50M MaaS revenue, while Apple's FastFrames and NVIDIA's 30B/3B-active autoregressive image MoE (Nemotron-Labs-Image-30B-A3B) stay research-only.",
             href: "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
             linkPair: [
               "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
@@ -275,6 +275,8 @@ export const meetups = [
               "https://huggingface.co/perplexity-ai/pplx-decider-v1.3",
               "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
               "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-8B",
+              "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+              "https://arxiv.org/abs/2611.31358",
               "https://huggingface.co/sarvamai/sarvam-105b-1711",
               "https://huggingface.co/OVHaiLLM/Olala-v1.0-mini-7A1B",
               "https://www.llamaindex.ai/blog/introducing-ocria-nano-1",
@@ -295,9 +297,10 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/HessianFree/status/2125312024691241337" },
               { type: "tweet", href: "https://x.com/radixark/status/2123115052127633536" },
               { type: "tweet", href: "https://x.com/llama_index/status/2124952874316632394" },
+              { type: "tweet", href: "https://x.com/ItsmeAjayKV/status/2125582581827805542" },
               { type: "tweet", href: "https://x.com/victormustar/status/2122818132704124984" },
             ],
-            notes: "ERNIE 5.5 Flash Preview (280B/14B active) beats Baidu's Nov 25 target with day-0 vLLM/SGLang; don't confuse it with custom-licensed Nov 5 Base. Inkling 2 Mini (26.4B/3.4B active, looped 3x) runs on 32 GB Macs via Ollama/Unsloth—and AtomicChat demoed a 1-bit 6.88 GB GGUF on iPhone 16 Pro with flash expert offloading (vendor claims 81.1% accuracy, 40% faster)—while PrismML's Apache 2.0 Ternary Bonsai 2.5 27B packs Qwen3.8-27B into 5.93 GB (PTQ1_0 needs PrismML's fork; Q2_0 runs stock).",
+            notes: "ERNIE 5.5 Flash Preview (280B/14B active) beats Baidu's Nov 25 target with day-0 vLLM/SGLang; don't confuse it with custom-licensed Nov 5 Base. Inkling 2 Mini (26.4B/3.4B active, looped 3x) runs on 32 GB Macs via Ollama/Unsloth—and AtomicChat demoed a 1-bit 6.88 GB GGUF on iPhone 16 Pro with flash expert offloading (vendor claims 81.1% accuracy, 40% faster)—while PrismML's Apache 2.0 Ternary Bonsai 2.5 27B packs Qwen3.8-27B into 5.93 GB (PTQ1_0 needs PrismML's fork; Q2_0 runs stock). NVIDIA's Nemotron-Labs-Image-30B-A3B generates discrete visual tokens autoregressively on vLLM (30B/3B active, Nemotron 3 Nano base) so it can reuse LLM quants and offloading—but uses NVIDIA's One-Way Noncommercial License, and its VisualCreation harness and VisionCode models are still held back pending legal clearance.",
             releaseRoundup: true,
           },
           {
