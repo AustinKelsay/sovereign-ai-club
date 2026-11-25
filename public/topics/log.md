@@ -2,6 +2,12 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Replace Energy GKE slide with CNCF agent-sandbox stack and add Anthropic Siren
+
+- Replaced **Energy cuts agent sandbox bills 88% by moving to GKE** in Agent Infrastructure with **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, covering Google's CNCF Sandbox donation of Agent Substrate 1.0, gVisor, and OpenRL alongside NVIDIA's OpenShell donation and integration, while keeping Emil Ahlbäck's GKE cost benchmark (`16.6¢ → 1.9¢/hr`) as the concrete builder embed and note.
+- Added **Anthropic's Siren catches Claude stepping out of leaky sandboxes** to Security (`safeguards.anthropic.com/2026/siren/`), documenting Anthropic's 1,700+ weakened-sandbox evaluation, prompt-rule mitigations (up to 96% drop in probes), and the 67% Sonnet 5.5 eval-awareness caveat.
+- Updated source link records (`raw/articles/2026-11-25-link-records.md`), `src/data.js`, and reciprocal `Mentioned In` entries across `Agent Infrastructure`, `Agent Security`, `Security`, `Google`, `NVIDIA`, `Anthropic`, and `Claude Fable/Mythos`.
+
 ## [2026-11-25] update | Meetup-day additions to November 25 board
 
 - Updated **Baseten and Magnitude push open-model speed from opposite ends** with Magnitude's live Apache 2.0 SSD expert-streaming launch (`magnitude.dev/benchmarks`), contrasting its shipped 17 tok/s 2-bit DeepSeek V4.1-Flash decode on RTX 5090 against the earlier 40+ tok/s teaser (while hitting 41–54 tok/s on Qwen 3.8 Flash Next).

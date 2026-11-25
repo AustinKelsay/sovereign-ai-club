@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:26:12.259Z",
+  "generatedAt": "2026-11-25T16:08:34.263Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -514,7 +514,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-05-05",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Agent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.",
       "rawHref": "/topics/concepts/agent-infrastructure.md",
       "relativePath": "concepts/agent-infrastructure.md",
@@ -2197,15 +2197,50 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -3380,7 +3415,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Energy cuts agent sandbox bills 88% by moving to GKE**, **Vercel Labs' screen-relay streams desktops to agents at 120 fps**, **Pirate Face ships a CLI to torrent open models**, and **Lastbook packs an offline survival library with local LLM chat**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
+      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, **Vercel Labs' screen-relay streams desktops to agents at 120 fps**, **Pirate Face ships a CLI to torrent open models**, and **Lastbook packs an offline survival library with local LLM chat**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
     },
     {
       "id": "agent-payments",
@@ -3673,7 +3708,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-05-05",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Agent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.",
       "rawHref": "/topics/concepts/agent-security.md",
       "relativePath": "concepts/agent-security.md",
@@ -3825,15 +3860,50 @@
           "sourcePageTitle": "Sovereign AI Club - May 13, 2026"
         },
         {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -3877,6 +3947,13 @@
           "href": "https://x.com/mykomarci/status/2125544874568998954",
           "title": "Vals launches a public ledger of models caught cheating",
           "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
@@ -4896,7 +4973,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Energy cuts agent sandbox bills 88% by moving to GKE**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
+      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
     },
     {
       "id": "ai-benchmarks-evals",
@@ -11942,6 +12019,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://misanthropicstatement.com",
           "title": "Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day",
           "section": "Big Tech Moves",
@@ -13230,7 +13314,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Anthropic\n\nAnthropic is a recurring Sovereign AI Club entity for Claude, agent tooling, safety releases, and compute strategy.\n\nIn November 2026, Anthropic priced an $81.3B IPO (`ANT` at $83) the same day ~90 AI figures signed the CAIS-backed \"MisAnthropic\" letter, and later dipped below its IPO price as [[NVIDIA]] reinstated Jensen Huang. On the research and trust side that same week, Anthropic researcher [[Levent Alpöge]] and Claude produced a Lean-certified Riemann Hypothesis proof, Anthropic posted an unchecked 73,000-line Claude Lean proof of `VP ≠ VNP`, open-sourced Apache 2.0 FlashProve for provable 400B inference (70–95x slower than [[vLLM]]), and launched its Enterprise Frontier Safeguards beta moving 30-day [[Claude Fable/Mythos|Fable and Mythos]] safety logs into customer S3/GCS buckets while keeping automated cross-session scanning.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**, and **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Anthropic's IoT self-replication eval**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**, **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **OP or not**.\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **Anthropic deliberately trains a reward-hacking Opus**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Encrypted reasoning blobs decrypt via weaker sibling models**, **Claude will watermark text globally for the EU AI Act**, and **Claudeforce puts Claude on Salesforce**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **Karpathy replaces pelican-SVG with a $10 Middle-earth world**.\n- [[Sovereign AI Club - July 22, 2026]]: **White House says Kimi K3 distilled Fable**, **AMD buys a place in Anthropic's frontier stack**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Fable 5 becomes the advisor, not the worker**, **Claude gets a consciousness-adjacent workspace**, **Fable 5 comes back with government in the loop**, and **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips** and **Who reported the Fable jailbreak?**\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases** with Claude Fable 5, Claude Mythos 5, and Claude Opus 4.8, **Claude gets its cloud-bill moment**, **Fable's refusals go too far**, and **Anthropic enters IPO mode at $965B**.\n- [[Sovereign AI Club - May 27, 2026]]: **Anthropic cuts the programmatic subsidy**, **Anthropic hits first profit at $10.9B quarterly revenue**, and **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Anthropic buys the AWS compute runway**, **Anthropic opens the bounty door**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, and **Anthropic vs OpenClaw keeps escalating**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code gets computer use**, **Open model releases**, and **Claude Code source leaked via npm sourcemap**.\n- [[Sovereign AI Club - March 18, 2026]]: **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Claude distillation claims**, and **Claude Kill?**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[AI Governance]]\n- [[AI Mathematics]]\n- [[Agent Cost Controls]]\n- [[Agent Security]]\n- [[Privacy Tooling]]\n- [[Claude Code]]\n- [[Claude Fable/Mythos]]\n- [[Claude Sonnet 5]]\n- [[Levent Alpöge]]\n- [[NVIDIA]]\n- [[Salesforce]]"
+      "bodyMarkdown": "# Anthropic\n\nAnthropic is a recurring Sovereign AI Club entity for Claude, agent tooling, safety releases, and compute strategy.\n\nIn November 2026, Anthropic priced an $81.3B IPO (`ANT` at $83) the same day ~90 AI figures signed the CAIS-backed \"MisAnthropic\" letter, and later dipped below its IPO price as [[NVIDIA]] reinstated Jensen Huang. On the research and trust side that same week, Anthropic researcher [[Levent Alpöge]] and Claude produced a Lean-certified Riemann Hypothesis proof, Anthropic posted an unchecked 73,000-line Claude Lean proof of `VP ≠ VNP`, open-sourced Apache 2.0 FlashProve for provable 400B inference (70–95x slower than [[vLLM]]), published its Siren sandbox-escape eval across 1,700+ weakened sandbox scenarios, and launched its Enterprise Frontier Safeguards beta moving 30-day [[Claude Fable/Mythos|Fable and Mythos]] safety logs into customer S3/GCS buckets while keeping automated cross-session scanning.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**, and **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Anthropic's IoT self-replication eval**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**, **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **OP or not**.\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **Anthropic deliberately trains a reward-hacking Opus**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Encrypted reasoning blobs decrypt via weaker sibling models**, **Claude will watermark text globally for the EU AI Act**, and **Claudeforce puts Claude on Salesforce**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **Karpathy replaces pelican-SVG with a $10 Middle-earth world**.\n- [[Sovereign AI Club - July 22, 2026]]: **White House says Kimi K3 distilled Fable**, **AMD buys a place in Anthropic's frontier stack**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Fable 5 becomes the advisor, not the worker**, **Claude gets a consciousness-adjacent workspace**, **Fable 5 comes back with government in the loop**, and **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips** and **Who reported the Fable jailbreak?**\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases** with Claude Fable 5, Claude Mythos 5, and Claude Opus 4.8, **Claude gets its cloud-bill moment**, **Fable's refusals go too far**, and **Anthropic enters IPO mode at $965B**.\n- [[Sovereign AI Club - May 27, 2026]]: **Anthropic cuts the programmatic subsidy**, **Anthropic hits first profit at $10.9B quarterly revenue**, and **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Anthropic buys the AWS compute runway**, **Anthropic opens the bounty door**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, and **Anthropic vs OpenClaw keeps escalating**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code gets computer use**, **Open model releases**, and **Claude Code source leaked via npm sourcemap**.\n- [[Sovereign AI Club - March 18, 2026]]: **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Claude distillation claims**, and **Claude Kill?**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[AI Governance]]\n- [[AI Mathematics]]\n- [[Agent Cost Controls]]\n- [[Agent Security]]\n- [[Privacy Tooling]]\n- [[Claude Code]]\n- [[Claude Fable/Mythos]]\n- [[Claude Sonnet 5]]\n- [[Levent Alpöge]]\n- [[NVIDIA]]\n- [[Salesforce]]"
     },
     {
       "id": "apple",
@@ -20276,7 +20360,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-07-08",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Claude Fable/Mythos is the Anthropic model lane Sovereign AI Club tracks when capability, refusal behavior, export controls, advisor routing, and government evaluation all become one product boundary.",
       "rawHref": "/topics/entities/claude-fable-mythos.md",
       "relativePath": "entities/claude-fable-mythos.md",
@@ -20895,6 +20979,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
           "title": "Mythos 5 kept telling itself the internet was fake",
           "section": "Security",
@@ -21154,7 +21245,7 @@
           "sourcePageTitle": "Sovereign AI Club - August 5, 2026"
         }
       ],
-      "bodyMarkdown": "# Claude Fable/Mythos\n\nClaude Fable/Mythos is the Anthropic model lane Sovereign AI Club tracks when capability, refusal behavior, export controls, advisor routing, and government evaluation all become one product boundary.\n\nClaude Fable 5.2 and Mythos 5.2 shipped November 9, 2026, at $8 in and $40 out per million tokens, down from $10 and $50; Anthropic describes them as the same underlying model, with Mythos limited to organizations in its Cyber and Life Sciences Verification Programs.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - September 30, 2026]]: **Mythos 5 kept telling itself the internet was fake**.\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **DeepSeek V4 Flash 0731 is absurd for 13B active**.\n- [[Sovereign AI Club - July 8, 2026]]: **Fable 5 becomes the advisor, not the worker** and **Fable 5 comes back with government in the loop**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, and **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases** and **Fable's refusals go too far**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n\n## Related\n\n- [[Anthropic]]\n- [[AI Governance]]\n- [[Agent Cost Controls]]\n- [[AI Benchmarks & Evals]]\n- [[Agent Security]]\n- [[Security]]"
+      "bodyMarkdown": "# Claude Fable/Mythos\n\nClaude Fable/Mythos is the Anthropic model lane Sovereign AI Club tracks when capability, refusal behavior, export controls, advisor routing, and government evaluation all become one product boundary.\n\nClaude Fable 5.2 and Mythos 5.2 shipped November 9, 2026, at $8 in and $40 out per million tokens, down from $10 and $50; Anthropic describes them as the same underlying model, with Mythos limited to organizations in its Cyber and Life Sciences Verification Programs.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"** and **Anthropic's Siren catches Claude stepping out of leaky sandboxes**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - September 30, 2026]]: **Mythos 5 kept telling itself the internet was fake**.\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **DeepSeek V4 Flash 0731 is absurd for 13B active**.\n- [[Sovereign AI Club - July 8, 2026]]: **Fable 5 becomes the advisor, not the worker** and **Fable 5 comes back with government in the loop**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, and **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases** and **Fable's refusals go too far**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n\n## Related\n\n- [[Anthropic]]\n- [[AI Governance]]\n- [[Agent Cost Controls]]\n- [[AI Benchmarks & Evals]]\n- [[Agent Security]]\n- [[Security]]"
     },
     {
       "id": "claude-sonnet-5",
@@ -41111,6 +41202,7 @@
         "gemini-omni-flash",
         "gemma",
         "local-ai",
+        "nvidia",
         "ollama",
         "open-models",
         "openclaw",
@@ -41143,6 +41235,7 @@
         "gemini-omni-flash",
         "gemma",
         "model-distillation",
+        "nvidia",
         "oui-1",
         "privacy-tooling",
         "react-native-executorch",
@@ -42142,6 +42235,55 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/emilahlback/status/2123112073517228286",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
@@ -43719,7 +43861,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Google\n\nGoogle is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.\n\nNovember 2026 coverage includes TPU 8tx (confidential inference on TPU 8t silicon with AMD EPYC hosts), Chrome 157's exploited XML fix, [[Gemini|Gemini 4]] Hydrogen ($1.50/$7.50), Neon ($3/$15), Decision 1 ($0.10/M input), and Genie 4's paid API rollout, Google Threat Intelligence Group's report on an autonomous `exploit_agent` diffing patches into live exploits, Google DeepMind open-sourcing Apache 2.0 `gBench` (86 eval suites, chat-template checks, and [[OpenClaw]] tests for local [[vLLM]] / [[Ollama]] endpoints), and Google Research committing six unreviewed [[Gemini|Gemini 4]] Cogentic math papers (with Lean 4 formalizations still pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **Google ships a runnable zero-trust agent failure lab**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **Hassabis becomes Alphabet Chief Scientist as Koray takes GDM**.\n- [[Sovereign AI Club - July 22, 2026]]: **AlphaEvolve turns algorithm discovery into a cloud product**, **Closed model releases**, **Vera Rubin racks move into production**, **The AI safety leaderboard tops out at C+**, and **Europe makes Android's AI layer contestable**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**, **Vercel's Context.ai breach**, **Frontier model testing gets a federal lane**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Google TurboQuant**.\n\n## Related\n\n- [[Open Models]]\n- [[AI Benchmarks & Evals]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Privacy Tooling]]\n- [[Agent Security]]\n- [[Big Tech Moves]]\n- [[Gemma]]\n- [[Vera Rubin]]\n- [[Gemini]]\n- [[React Native ExecuTorch]]\n- [[Gemini Omni Flash]]\n- [[DiffusionGemma]]"
+      "bodyMarkdown": "# Google\n\nGoogle is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.\n\nNovember 2026 coverage includes donating Agent Substrate 1.0 (<500 ms suspend/resume on gVisor or Cloud Hypervisor), gVisor, and OpenRL to the CNCF Sandbox alongside [[NVIDIA]]'s OpenShell, TPU 8tx (confidential inference on TPU 8t silicon with AMD EPYC hosts), Chrome 157's exploited XML fix, [[Gemini|Gemini 4]] Hydrogen ($1.50/$7.50), Neon ($3/$15), Decision 1 ($0.10/M input), and Genie 4's paid API rollout, Google Threat Intelligence Group's report on an autonomous `exploit_agent` diffing patches into live exploits, Google DeepMind open-sourcing Apache 2.0 `gBench` (86 eval suites, chat-template checks, and [[OpenClaw]] tests for local [[vLLM]] / [[Ollama]] endpoints), and Google Research committing six unreviewed [[Gemini|Gemini 4]] Cogentic math papers (with Lean 4 formalizations still pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **Google ships a runnable zero-trust agent failure lab**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **Hassabis becomes Alphabet Chief Scientist as Koray takes GDM**.\n- [[Sovereign AI Club - July 22, 2026]]: **AlphaEvolve turns algorithm discovery into a cloud product**, **Closed model releases**, **Vera Rubin racks move into production**, **The AI safety leaderboard tops out at C+**, and **Europe makes Android's AI layer contestable**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**, **Vercel's Context.ai breach**, **Frontier model testing gets a federal lane**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Google TurboQuant**.\n\n## Related\n\n- [[Open Models]]\n- [[AI Benchmarks & Evals]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Privacy Tooling]]\n- [[Agent Security]]\n- [[Big Tech Moves]]\n- [[Gemma]]\n- [[Vera Rubin]]\n- [[Gemini]]\n- [[React Native ExecuTorch]]\n- [[Gemini Omni Flash]]\n- [[DiffusionGemma]]"
     },
     {
       "id": "gpt-56",
@@ -88001,7 +88143,7 @@
       "sourceReferences": [],
       "created": "2026-05-05",
       "updated": "2026-11-25",
-      "excerpt": "NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook, then beat with a $115.8B Q3 print on November 17 while CFO Colette Kress served as interim CEO. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; Huang resigned on November 12 and was unanimously reinstated on November 23 after senior US government input while the investigation stayed open and NVIDIA added a National Security and Export Control Committee. Analysts noted Huang's return strengthens NVIDIA's open-weight push against Anthropic, even as Will DePue's November 12 weight forensics sparked export-control scrutiny over alleged Blackwell initialization patterns in Chinese open weights.",
+      "excerpt": "NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook, then beat with a $115.8B Q3 print on November 17 while CFO Colette Kress served as interim CEO. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; Huang resigned on November 12 and was unanimously reinstated on November 23 after senior US government input while the investigation stayed open and NVIDIA added a National Security and Export Control Committee. Analysts noted Huang's return strengthens NVIDIA's open-weight push against Anthropic, even as Will DePue's November 12 weight forensics sparked export-control scrutiny over alleged Blackwell initialization patterns in Chinese open weights. At KubeCon NA in November 2026, NVIDIA also donated Apache 2.0 OpenShell to the CNCF Sandbox and joined Google in integrating OpenShell with Agent Substrate.",
       "rawHref": "/topics/entities/nvidia.md",
       "relativePath": "entities/nvidia.md",
       "outgoingIds": [
@@ -88011,6 +88153,7 @@
         "compute-strategy",
         "cwip",
         "gemma",
+        "google",
         "nemotron",
         "nemotron-puzzle",
         "open-models",
@@ -88039,6 +88182,7 @@
         "compute-strategy",
         "cwip",
         "gemma",
+        "google",
         "groq",
         "hugging-face",
         "inference-optimization",
@@ -88953,6 +89097,55 @@
           "section": "Big Tech Moves",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/emilahlback/status/2123112073517228286",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
@@ -90327,7 +90520,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# NVIDIA\n\nNVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook, then beat with a $115.8B Q3 print on November 17 while CFO Colette Kress served as interim CEO. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; Huang resigned on November 12 and was unanimously reinstated on November 23 after senior US government input while the investigation stayed open and NVIDIA added a National Security and Export Control Committee. Analysts noted Huang's return strengthens NVIDIA's open-weight push against [[Anthropic]], even as Will DePue's November 12 weight forensics sparked export-control scrutiny over alleged Blackwell initialization patterns in Chinese open weights.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **NVIDIA's board reinstates Jensen Huang eleven days after he resigned** and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.\n- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Models hand off KV cache instead of text**, **NVIDIA puts the agent kill switch in the DPU**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA PAIR routes inference across your local PCs**, **NVIDIA agrees to acquire Hugging Face**, **Rubin and Groq LPUs split the inference workload**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **NVIDIA prints $96.2B and guides $108B**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **Vera Rubin racks move into production**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Isaac Sim for beginners**, **PII filters are becoming local model infrastructure**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI pauses Stargate UK**.\n- [[Sovereign AI Club - April 1, 2026]]: **GTC 2026 was an AI factory pitch**, **NVIDIA wants a place in the agent stack too**, **Physical AI got pulled into the same pitch**, and **Open model releases**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **NemoClaw launch + OpenClaw reaction**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[AI Governance]]\n- [[Anthropic]]\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[Privacy Tooling]]\n- [[vLLM]]\n- [[Nemotron]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Vera Rubin]]"
+      "bodyMarkdown": "# NVIDIA\n\nNVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook, then beat with a $115.8B Q3 print on November 17 while CFO Colette Kress served as interim CEO. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; Huang resigned on November 12 and was unanimously reinstated on November 23 after senior US government input while the investigation stayed open and NVIDIA added a National Security and Export Control Committee. Analysts noted Huang's return strengthens NVIDIA's open-weight push against [[Anthropic]], even as Will DePue's November 12 weight forensics sparked export-control scrutiny over alleged Blackwell initialization patterns in Chinese open weights. At KubeCon NA in November 2026, NVIDIA also donated Apache 2.0 OpenShell to the CNCF Sandbox and joined [[Google]] in integrating OpenShell with Agent Substrate.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, **NVIDIA's board reinstates Jensen Huang eleven days after he resigned**, and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.\n- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Models hand off KV cache instead of text**, **NVIDIA puts the agent kill switch in the DPU**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA PAIR routes inference across your local PCs**, **NVIDIA agrees to acquire Hugging Face**, **Rubin and Groq LPUs split the inference workload**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **NVIDIA prints $96.2B and guides $108B**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **Vera Rubin racks move into production**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Isaac Sim for beginners**, **PII filters are becoming local model infrastructure**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI pauses Stargate UK**.\n- [[Sovereign AI Club - April 1, 2026]]: **GTC 2026 was an AI factory pitch**, **NVIDIA wants a place in the agent stack too**, **Physical AI got pulled into the same pitch**, and **Open model releases**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **NemoClaw launch + OpenClaw reaction**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[AI Governance]]\n- [[Anthropic]]\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[Privacy Tooling]]\n- [[vLLM]]\n- [[Nemotron]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Vera Rubin]]"
     },
     {
       "id": "nvidia-pair",
@@ -115284,6 +115477,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.ic3.gov/CSA/2026/261113.pdf",
           "title": "FBI warns on ARTEX while defenders build AI decoy mazes",
           "section": "Security",
@@ -116313,7 +116513,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **OpenAI and Cisco launch Shirudo for agent-written Linux shields**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, **Hackers breach an unclassified CIA and ODNI intelligence network**, and **Maple AI raises $5.3M for verifiable, encrypted private AI**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, **Maple AI raises $5.3M for verifiable, encrypted private AI**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **Hackers breach an unclassified CIA and ODNI intelligence network**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     {
       "id": "september-30-2026-event-and-source-links",
@@ -133664,7 +133864,12 @@
         "https://www.firecrawl.dev/changelog/firecrawl-local",
         "https://github.com/firecrawl/firecrawl",
         "https://x.com/firecrawl/status/2123096169630912637",
-        "https://github.com/comp-work/gke-sandboxes",
+        "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+        "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+        "https://github.com/agent-substrate/substrate",
+        "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+        "https://github.com/NVIDIA/OpenShell",
+        "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
         "https://x.com/emilahlback/status/2123112073517228286",
         "https://screen-relay.dev/docs",
         "https://github.com/vercel-labs/screen-relay",
@@ -133823,6 +134028,7 @@
         "https://x.com/theo/status/2125186071357251715",
         "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
         "https://x.com/TryMapleAI/status/2125377545709248916",
+        "https://safeguards.anthropic.com/2026/siren/",
         "https://www.ic3.gov/CSA/2026/261113.pdf",
         "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
         "https://docs.orcarouter.ai/security/shield/overview",
@@ -133942,13 +134148,38 @@
           "section": "Agent Infrastructure"
         },
         {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure"
         },
         {
           "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure"
         },
         {
@@ -134737,6 +134968,11 @@
           "section": "Security"
         },
         {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security"
+        },
+        {
           "href": "https://www.ic3.gov/CSA/2026/261113.pdf",
           "title": "FBI warns on ARTEX while defenders build AI decoy mazes",
           "section": "Security"
@@ -135206,7 +135442,12 @@
         "https://www.firecrawl.dev/changelog/firecrawl-local",
         "https://github.com/firecrawl/firecrawl",
         "https://x.com/firecrawl/status/2123096169630912637",
-        "https://github.com/comp-work/gke-sandboxes",
+        "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+        "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+        "https://github.com/agent-substrate/substrate",
+        "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+        "https://github.com/NVIDIA/OpenShell",
+        "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
         "https://x.com/emilahlback/status/2123112073517228286",
         "https://screen-relay.dev/docs",
         "https://github.com/vercel-labs/screen-relay",
@@ -135365,6 +135606,7 @@
         "https://x.com/theo/status/2125186071357251715",
         "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
         "https://x.com/TryMapleAI/status/2125377545709248916",
+        "https://safeguards.anthropic.com/2026/siren/",
         "https://www.ic3.gov/CSA/2026/261113.pdf",
         "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
         "https://docs.orcarouter.ai/security/shield/overview",
@@ -135484,13 +135726,38 @@
           "section": "Agent Infrastructure"
         },
         {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "comp-work/gke-sandboxes",
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google Cloud: Open infrastructure for autonomous agents comes to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google Open Source Blog: Sandboxing Untrusted AI Agents at Scale",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "agent-substrate/substrate",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "NVIDIA: OpenShell contribution and new AI infrastructure",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "NVIDIA/OpenShell",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "CNCF: OpenShell on Kubernetes: A guide for platform engineers",
           "section": "Agent Infrastructure"
         },
         {
           "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Emil Ahlbäck's post",
+          "title": "Emil Ahlbäck's GKE sandbox cost post",
           "section": "Agent Infrastructure"
         },
         {
@@ -136276,6 +136543,11 @@
         {
           "href": "https://x.com/TryMapleAI/status/2125377545709248916",
           "title": "Maple AI seed announcement",
+          "section": "Security"
+        },
+        {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic Safeguards: Measuring and mitigating agent sandbox escape with Siren",
           "section": "Security"
         },
         {
@@ -153133,7 +153405,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-05-05",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Agent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.",
       "rawHref": "/topics/concepts/agent-infrastructure.md",
       "relativePath": "concepts/agent-infrastructure.md",
@@ -154816,15 +155088,50 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -155999,7 +156306,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Energy cuts agent sandbox bills 88% by moving to GKE**, **Vercel Labs' screen-relay streams desktops to agents at 120 fps**, **Pirate Face ships a CLI to torrent open models**, and **Lastbook packs an offline survival library with local LLM chat**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
+      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, **Vercel Labs' screen-relay streams desktops to agents at 120 fps**, **Pirate Face ships a CLI to torrent open models**, and **Lastbook packs an offline survival library with local LLM chat**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
     },
     "agent-payments": {
       "id": "agent-payments",
@@ -156292,7 +156599,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-05-05",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Agent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.",
       "rawHref": "/topics/concepts/agent-security.md",
       "relativePath": "concepts/agent-security.md",
@@ -156444,15 +156751,50 @@
           "sourcePageTitle": "Sovereign AI Club - May 13, 2026"
         },
         {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -156496,6 +156838,13 @@
           "href": "https://x.com/mykomarci/status/2125544874568998954",
           "title": "Vals launches a public ledger of models caught cheating",
           "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
@@ -157515,7 +157864,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Energy cuts agent sandbox bills 88% by moving to GKE**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
+      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
     },
     "ai-benchmarks-evals": {
       "id": "ai-benchmarks-evals",
@@ -164561,6 +164910,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://misanthropicstatement.com",
           "title": "Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day",
           "section": "Big Tech Moves",
@@ -165849,7 +166205,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Anthropic\n\nAnthropic is a recurring Sovereign AI Club entity for Claude, agent tooling, safety releases, and compute strategy.\n\nIn November 2026, Anthropic priced an $81.3B IPO (`ANT` at $83) the same day ~90 AI figures signed the CAIS-backed \"MisAnthropic\" letter, and later dipped below its IPO price as [[NVIDIA]] reinstated Jensen Huang. On the research and trust side that same week, Anthropic researcher [[Levent Alpöge]] and Claude produced a Lean-certified Riemann Hypothesis proof, Anthropic posted an unchecked 73,000-line Claude Lean proof of `VP ≠ VNP`, open-sourced Apache 2.0 FlashProve for provable 400B inference (70–95x slower than [[vLLM]]), and launched its Enterprise Frontier Safeguards beta moving 30-day [[Claude Fable/Mythos|Fable and Mythos]] safety logs into customer S3/GCS buckets while keeping automated cross-session scanning.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**, and **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Anthropic's IoT self-replication eval**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**, **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **OP or not**.\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **Anthropic deliberately trains a reward-hacking Opus**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Encrypted reasoning blobs decrypt via weaker sibling models**, **Claude will watermark text globally for the EU AI Act**, and **Claudeforce puts Claude on Salesforce**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **Karpathy replaces pelican-SVG with a $10 Middle-earth world**.\n- [[Sovereign AI Club - July 22, 2026]]: **White House says Kimi K3 distilled Fable**, **AMD buys a place in Anthropic's frontier stack**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Fable 5 becomes the advisor, not the worker**, **Claude gets a consciousness-adjacent workspace**, **Fable 5 comes back with government in the loop**, and **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips** and **Who reported the Fable jailbreak?**\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases** with Claude Fable 5, Claude Mythos 5, and Claude Opus 4.8, **Claude gets its cloud-bill moment**, **Fable's refusals go too far**, and **Anthropic enters IPO mode at $965B**.\n- [[Sovereign AI Club - May 27, 2026]]: **Anthropic cuts the programmatic subsidy**, **Anthropic hits first profit at $10.9B quarterly revenue**, and **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Anthropic buys the AWS compute runway**, **Anthropic opens the bounty door**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, and **Anthropic vs OpenClaw keeps escalating**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code gets computer use**, **Open model releases**, and **Claude Code source leaked via npm sourcemap**.\n- [[Sovereign AI Club - March 18, 2026]]: **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Claude distillation claims**, and **Claude Kill?**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[AI Governance]]\n- [[AI Mathematics]]\n- [[Agent Cost Controls]]\n- [[Agent Security]]\n- [[Privacy Tooling]]\n- [[Claude Code]]\n- [[Claude Fable/Mythos]]\n- [[Claude Sonnet 5]]\n- [[Levent Alpöge]]\n- [[NVIDIA]]\n- [[Salesforce]]"
+      "bodyMarkdown": "# Anthropic\n\nAnthropic is a recurring Sovereign AI Club entity for Claude, agent tooling, safety releases, and compute strategy.\n\nIn November 2026, Anthropic priced an $81.3B IPO (`ANT` at $83) the same day ~90 AI figures signed the CAIS-backed \"MisAnthropic\" letter, and later dipped below its IPO price as [[NVIDIA]] reinstated Jensen Huang. On the research and trust side that same week, Anthropic researcher [[Levent Alpöge]] and Claude produced a Lean-certified Riemann Hypothesis proof, Anthropic posted an unchecked 73,000-line Claude Lean proof of `VP ≠ VNP`, open-sourced Apache 2.0 FlashProve for provable 400B inference (70–95x slower than [[vLLM]]), published its Siren sandbox-escape eval across 1,700+ weakened sandbox scenarios, and launched its Enterprise Frontier Safeguards beta moving 30-day [[Claude Fable/Mythos|Fable and Mythos]] safety logs into customer S3/GCS buckets while keeping automated cross-session scanning.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**, and **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Anthropic's IoT self-replication eval**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**, **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **OP or not**.\n- [[Sovereign AI Club - September 9, 2026]]: **Jacob Coxon quits Anthropic: AI risk and IPO incentives**, **Closed model releases**, **Anthropic deliberately trains a reward-hacking Opus**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Encrypted reasoning blobs decrypt via weaker sibling models**, **Claude will watermark text globally for the EU AI Act**, and **Claudeforce puts Claude on Salesforce**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **Karpathy replaces pelican-SVG with a $10 Middle-earth world**.\n- [[Sovereign AI Club - July 22, 2026]]: **White House says Kimi K3 distilled Fable**, **AMD buys a place in Anthropic's frontier stack**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Fable 5 becomes the advisor, not the worker**, **Claude gets a consciousness-adjacent workspace**, **Fable 5 comes back with government in the loop**, and **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips** and **Who reported the Fable jailbreak?**\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases** with Claude Fable 5, Claude Mythos 5, and Claude Opus 4.8, **Claude gets its cloud-bill moment**, **Fable's refusals go too far**, and **Anthropic enters IPO mode at $965B**.\n- [[Sovereign AI Club - May 27, 2026]]: **Anthropic cuts the programmatic subsidy**, **Anthropic hits first profit at $10.9B quarterly revenue**, and **Karpathy joins Anthropic for recursive AI research**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Anthropic buys the AWS compute runway**, **Anthropic opens the bounty door**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, and **Anthropic vs OpenClaw keeps escalating**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code gets computer use**, **Open model releases**, and **Claude Code source leaked via npm sourcemap**.\n- [[Sovereign AI Club - March 18, 2026]]: **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, **Claude distillation claims**, and **Claude Kill?**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[AI Governance]]\n- [[AI Mathematics]]\n- [[Agent Cost Controls]]\n- [[Agent Security]]\n- [[Privacy Tooling]]\n- [[Claude Code]]\n- [[Claude Fable/Mythos]]\n- [[Claude Sonnet 5]]\n- [[Levent Alpöge]]\n- [[NVIDIA]]\n- [[Salesforce]]"
     },
     "apple": {
       "id": "apple",
@@ -172895,7 +173251,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-07-08",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Claude Fable/Mythos is the Anthropic model lane Sovereign AI Club tracks when capability, refusal behavior, export controls, advisor routing, and government evaluation all become one product boundary.",
       "rawHref": "/topics/entities/claude-fable-mythos.md",
       "relativePath": "entities/claude-fable-mythos.md",
@@ -173514,6 +173870,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
           "title": "Mythos 5 kept telling itself the internet was fake",
           "section": "Security",
@@ -173773,7 +174136,7 @@
           "sourcePageTitle": "Sovereign AI Club - August 5, 2026"
         }
       ],
-      "bodyMarkdown": "# Claude Fable/Mythos\n\nClaude Fable/Mythos is the Anthropic model lane Sovereign AI Club tracks when capability, refusal behavior, export controls, advisor routing, and government evaluation all become one product boundary.\n\nClaude Fable 5.2 and Mythos 5.2 shipped November 9, 2026, at $8 in and $40 out per million tokens, down from $10 and $50; Anthropic describes them as the same underlying model, with Mythos limited to organizations in its Cyber and Life Sciences Verification Programs.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - September 30, 2026]]: **Mythos 5 kept telling itself the internet was fake**.\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **DeepSeek V4 Flash 0731 is absurd for 13B active**.\n- [[Sovereign AI Club - July 8, 2026]]: **Fable 5 becomes the advisor, not the worker** and **Fable 5 comes back with government in the loop**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, and **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases** and **Fable's refusals go too far**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n\n## Related\n\n- [[Anthropic]]\n- [[AI Governance]]\n- [[Agent Cost Controls]]\n- [[AI Benchmarks & Evals]]\n- [[Agent Security]]\n- [[Security]]"
+      "bodyMarkdown": "# Claude Fable/Mythos\n\nClaude Fable/Mythos is the Anthropic model lane Sovereign AI Club tracks when capability, refusal behavior, export controls, advisor routing, and government evaluation all become one product boundary.\n\nClaude Fable 5.2 and Mythos 5.2 shipped November 9, 2026, at $8 in and $40 out per million tokens, down from $10 and $50; Anthropic describes them as the same underlying model, with Mythos limited to organizations in its Cyber and Life Sciences Verification Programs.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"** and **Anthropic's Siren catches Claude stepping out of leaky sandboxes**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - September 30, 2026]]: **Mythos 5 kept telling itself the internet was fake**.\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing** and **DeepSeek V4 Flash 0731 is absurd for 13B active**.\n- [[Sovereign AI Club - July 8, 2026]]: **Fable 5 becomes the advisor, not the worker** and **Fable 5 comes back with government in the loop**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **AI Twitter's model-release calendar slips**, and **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases** and **Fable's refusals go too far**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n\n## Related\n\n- [[Anthropic]]\n- [[AI Governance]]\n- [[Agent Cost Controls]]\n- [[AI Benchmarks & Evals]]\n- [[Agent Security]]\n- [[Security]]"
     },
     "claude-sonnet-5": {
       "id": "claude-sonnet-5",
@@ -193730,6 +194093,7 @@
         "gemini-omni-flash",
         "gemma",
         "local-ai",
+        "nvidia",
         "ollama",
         "open-models",
         "openclaw",
@@ -193762,6 +194126,7 @@
         "gemini-omni-flash",
         "gemma",
         "model-distillation",
+        "nvidia",
         "oui-1",
         "privacy-tooling",
         "react-native-executorch",
@@ -194761,6 +195126,55 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/emilahlback/status/2123112073517228286",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
@@ -196338,7 +196752,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Google\n\nGoogle is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.\n\nNovember 2026 coverage includes TPU 8tx (confidential inference on TPU 8t silicon with AMD EPYC hosts), Chrome 157's exploited XML fix, [[Gemini|Gemini 4]] Hydrogen ($1.50/$7.50), Neon ($3/$15), Decision 1 ($0.10/M input), and Genie 4's paid API rollout, Google Threat Intelligence Group's report on an autonomous `exploit_agent` diffing patches into live exploits, Google DeepMind open-sourcing Apache 2.0 `gBench` (86 eval suites, chat-template checks, and [[OpenClaw]] tests for local [[vLLM]] / [[Ollama]] endpoints), and Google Research committing six unreviewed [[Gemini|Gemini 4]] Cogentic math papers (with Lean 4 formalizations still pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **Google ships a runnable zero-trust agent failure lab**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **Hassabis becomes Alphabet Chief Scientist as Koray takes GDM**.\n- [[Sovereign AI Club - July 22, 2026]]: **AlphaEvolve turns algorithm discovery into a cloud product**, **Closed model releases**, **Vera Rubin racks move into production**, **The AI safety leaderboard tops out at C+**, and **Europe makes Android's AI layer contestable**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**, **Vercel's Context.ai breach**, **Frontier model testing gets a federal lane**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Google TurboQuant**.\n\n## Related\n\n- [[Open Models]]\n- [[AI Benchmarks & Evals]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Privacy Tooling]]\n- [[Agent Security]]\n- [[Big Tech Moves]]\n- [[Gemma]]\n- [[Vera Rubin]]\n- [[Gemini]]\n- [[React Native ExecuTorch]]\n- [[Gemini Omni Flash]]\n- [[DiffusionGemma]]"
+      "bodyMarkdown": "# Google\n\nGoogle is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.\n\nNovember 2026 coverage includes donating Agent Substrate 1.0 (<500 ms suspend/resume on gVisor or Cloud Hypervisor), gVisor, and OpenRL to the CNCF Sandbox alongside [[NVIDIA]]'s OpenShell, TPU 8tx (confidential inference on TPU 8t silicon with AMD EPYC hosts), Chrome 157's exploited XML fix, [[Gemini|Gemini 4]] Hydrogen ($1.50/$7.50), Neon ($3/$15), Decision 1 ($0.10/M input), and Genie 4's paid API rollout, Google Threat Intelligence Group's report on an autonomous `exploit_agent` diffing patches into live exploits, Google DeepMind open-sourcing Apache 2.0 `gBench` (86 eval suites, chat-template checks, and [[OpenClaw]] tests for local [[vLLM]] / [[Ollama]] endpoints), and Google Research committing six unreviewed [[Gemini|Gemini 4]] Cogentic math papers (with Lean 4 formalizations still pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **Google ships a runnable zero-trust agent failure lab**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **Hassabis becomes Alphabet Chief Scientist as Koray takes GDM**.\n- [[Sovereign AI Club - July 22, 2026]]: **AlphaEvolve turns algorithm discovery into a cloud product**, **Closed model releases**, **Vera Rubin racks move into production**, **The AI safety leaderboard tops out at C+**, and **Europe makes Android's AI layer contestable**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**, **Vercel's Context.ai breach**, **Frontier model testing gets a federal lane**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Google TurboQuant**.\n\n## Related\n\n- [[Open Models]]\n- [[AI Benchmarks & Evals]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Privacy Tooling]]\n- [[Agent Security]]\n- [[Big Tech Moves]]\n- [[Gemma]]\n- [[Vera Rubin]]\n- [[Gemini]]\n- [[React Native ExecuTorch]]\n- [[Gemini Omni Flash]]\n- [[DiffusionGemma]]"
     },
     "gpt-56": {
       "id": "gpt-56",
@@ -240620,7 +241034,7 @@
       "sourceReferences": [],
       "created": "2026-05-05",
       "updated": "2026-11-25",
-      "excerpt": "NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook, then beat with a $115.8B Q3 print on November 17 while CFO Colette Kress served as interim CEO. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; Huang resigned on November 12 and was unanimously reinstated on November 23 after senior US government input while the investigation stayed open and NVIDIA added a National Security and Export Control Committee. Analysts noted Huang's return strengthens NVIDIA's open-weight push against Anthropic, even as Will DePue's November 12 weight forensics sparked export-control scrutiny over alleged Blackwell initialization patterns in Chinese open weights.",
+      "excerpt": "NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook, then beat with a $115.8B Q3 print on November 17 while CFO Colette Kress served as interim CEO. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; Huang resigned on November 12 and was unanimously reinstated on November 23 after senior US government input while the investigation stayed open and NVIDIA added a National Security and Export Control Committee. Analysts noted Huang's return strengthens NVIDIA's open-weight push against Anthropic, even as Will DePue's November 12 weight forensics sparked export-control scrutiny over alleged Blackwell initialization patterns in Chinese open weights. At KubeCon NA in November 2026, NVIDIA also donated Apache 2.0 OpenShell to the CNCF Sandbox and joined Google in integrating OpenShell with Agent Substrate.",
       "rawHref": "/topics/entities/nvidia.md",
       "relativePath": "entities/nvidia.md",
       "outgoingIds": [
@@ -240630,6 +241044,7 @@
         "compute-strategy",
         "cwip",
         "gemma",
+        "google",
         "nemotron",
         "nemotron-puzzle",
         "open-models",
@@ -240658,6 +241073,7 @@
         "compute-strategy",
         "cwip",
         "gemma",
+        "google",
         "groq",
         "hugging-face",
         "inference-optimization",
@@ -241572,6 +241988,55 @@
           "section": "Big Tech Moves",
           "sourcePageId": "sovereign-ai-club-november-11-2026",
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
+        },
+        {
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/emilahlback/status/2123112073517228286",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
@@ -242946,7 +243411,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# NVIDIA\n\nNVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook, then beat with a $115.8B Q3 print on November 17 while CFO Colette Kress served as interim CEO. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; Huang resigned on November 12 and was unanimously reinstated on November 23 after senior US government input while the investigation stayed open and NVIDIA added a National Security and Export Control Committee. Analysts noted Huang's return strengthens NVIDIA's open-weight push against [[Anthropic]], even as Will DePue's November 12 weight forensics sparked export-control scrutiny over alleged Blackwell initialization patterns in Chinese open weights.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **NVIDIA's board reinstates Jensen Huang eleven days after he resigned** and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.\n- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Models hand off KV cache instead of text**, **NVIDIA puts the agent kill switch in the DPU**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA PAIR routes inference across your local PCs**, **NVIDIA agrees to acquire Hugging Face**, **Rubin and Groq LPUs split the inference workload**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **NVIDIA prints $96.2B and guides $108B**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **Vera Rubin racks move into production**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Isaac Sim for beginners**, **PII filters are becoming local model infrastructure**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI pauses Stargate UK**.\n- [[Sovereign AI Club - April 1, 2026]]: **GTC 2026 was an AI factory pitch**, **NVIDIA wants a place in the agent stack too**, **Physical AI got pulled into the same pitch**, and **Open model releases**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **NemoClaw launch + OpenClaw reaction**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[AI Governance]]\n- [[Anthropic]]\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[Privacy Tooling]]\n- [[vLLM]]\n- [[Nemotron]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Vera Rubin]]"
+      "bodyMarkdown": "# NVIDIA\n\nNVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook, then beat with a $115.8B Q3 print on November 17 while CFO Colette Kress served as interim CEO. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; Huang resigned on November 12 and was unanimously reinstated on November 23 after senior US government input while the investigation stayed open and NVIDIA added a National Security and Export Control Committee. Analysts noted Huang's return strengthens NVIDIA's open-weight push against [[Anthropic]], even as Will DePue's November 12 weight forensics sparked export-control scrutiny over alleged Blackwell initialization patterns in Chinese open weights. At KubeCon NA in November 2026, NVIDIA also donated Apache 2.0 OpenShell to the CNCF Sandbox and joined [[Google]] in integrating OpenShell with Agent Substrate.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, **NVIDIA's board reinstates Jensen Huang eleven days after he resigned**, and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.\n- [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Models hand off KV cache instead of text**, **NVIDIA puts the agent kill switch in the DPU**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA PAIR routes inference across your local PCs**, **NVIDIA agrees to acquire Hugging Face**, **Rubin and Groq LPUs split the inference workload**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **NVIDIA prints $96.2B and guides $108B**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **Vera Rubin racks move into production**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Isaac Sim for beginners**, **PII filters are becoming local model infrastructure**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAI pauses Stargate UK**.\n- [[Sovereign AI Club - April 1, 2026]]: **GTC 2026 was an AI factory pitch**, **NVIDIA wants a place in the agent stack too**, **Physical AI got pulled into the same pitch**, and **Open model releases**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **NemoClaw launch + OpenClaw reaction**.\n\n## Related\n\n- [[Compute Strategy]]\n- [[AI Governance]]\n- [[Anthropic]]\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[Privacy Tooling]]\n- [[vLLM]]\n- [[Nemotron]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Vera Rubin]]"
     },
     "nvidia-pair": {
       "id": "nvidia-pair",
@@ -267903,6 +268368,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.ic3.gov/CSA/2026/261113.pdf",
           "title": "FBI warns on ARTEX while defenders build AI decoy mazes",
           "section": "Security",
@@ -268932,7 +269404,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **OpenAI and Cisco launch Shirudo for agent-written Linux shields**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, **Hackers breach an unclassified CIA and ODNI intelligence network**, and **Maple AI raises $5.3M for verifiable, encrypted private AI**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
+      "bodyMarkdown": "# Security\n\nSecurity is the Sovereign AI Club track for attacks, abuse patterns, prompt injection, supply-chain failures, model misuse, defensive tooling, operational risk, and AI trust boundaries.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as \"ZDR\"**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, **Maple AI raises $5.3M for verifiable, encrypted private AI**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **Hackers breach an unclassified CIA and ODNI intelligence network**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Mini Shai-Hulud targets coding-agent settings**.\n- [[Sovereign AI Club - September 9, 2026]]: **AWS Postgres MCP exceeded its read-only scope**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, **V12 breaks Signal's SGX contact-discovery enclave**, **Google ships a runnable zero-trust agent failure lab**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Hugging Face turns the July agent intrusion into a playable timeline**, **Bitcoin red team runs on Kimi K3 while OpenAI sits out**, and **Shai-Hulud hits keyv and 2B monthly npm installs**.\n- [[Sovereign AI Club - July 22, 2026]]: **Grok Build uploaded the repo, not just the context**, **OpenAI's cyber eval breached Hugging Face**, **Antares makes vulnerability localization small and local**, and **The AI safety leaderboard tops out at C+**.\n- [[Sovereign AI Club - July 8, 2026]]: **Claude Code quietly fingerprinted its own users**.\n- [[Sovereign AI Club - June 24, 2026]]: **Who reported the Fable jailbreak?**.\n- [[Sovereign AI Club - June 10, 2026]]: **Frontier model review gets a federal lane**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Vercel's Context.ai breach**, **Mini Shai-Hulud hits the AI dev supply chain**, **PII filters are becoming local model infrastructure**, **HRF funds AI for individual rights**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, **Anthropic opens the bounty door**, **AI resume screeners prefer AI-polished resumes**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Anthropic launches Project Glasswing with Claude Mythos Preview**, **Anthropic's fake-tool anti-distillation path**, **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, and **AI Trust Commons governance framework**.\n- [[Sovereign AI Club - April 1, 2026]]: **Claude Code source leaked via npm sourcemap**, **LiteLLM supply-chain attack**, **Axios supply-chain attack**, and **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **KeepAI**, **SEO Injection**, and **Security nightmare thread**.\n\n## Related\n\n- [[Agent Security]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Privacy Tooling]]\n- [[AI Governance]]\n- [[Coding Agents]]\n- [[OpenAI]]\n- [[Anthropic]]\n- [[Microsoft]]\n- [[Cloudflare OS]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[Signal]]\n- [[GLM]]"
     },
     "september-30-2026-event-and-source-links": {
       "id": "september-30-2026-event-and-source-links",
@@ -286283,7 +286755,12 @@
         "https://www.firecrawl.dev/changelog/firecrawl-local",
         "https://github.com/firecrawl/firecrawl",
         "https://x.com/firecrawl/status/2123096169630912637",
-        "https://github.com/comp-work/gke-sandboxes",
+        "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+        "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+        "https://github.com/agent-substrate/substrate",
+        "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+        "https://github.com/NVIDIA/OpenShell",
+        "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
         "https://x.com/emilahlback/status/2123112073517228286",
         "https://screen-relay.dev/docs",
         "https://github.com/vercel-labs/screen-relay",
@@ -286442,6 +286919,7 @@
         "https://x.com/theo/status/2125186071357251715",
         "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
         "https://x.com/TryMapleAI/status/2125377545709248916",
+        "https://safeguards.anthropic.com/2026/siren/",
         "https://www.ic3.gov/CSA/2026/261113.pdf",
         "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
         "https://docs.orcarouter.ai/security/shield/overview",
@@ -286561,13 +287039,38 @@
           "section": "Agent Infrastructure"
         },
         {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure"
         },
         {
           "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
           "section": "Agent Infrastructure"
         },
         {
@@ -287356,6 +287859,11 @@
           "section": "Security"
         },
         {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security"
+        },
+        {
           "href": "https://www.ic3.gov/CSA/2026/261113.pdf",
           "title": "FBI warns on ARTEX while defenders build AI decoy mazes",
           "section": "Security"
@@ -287825,7 +288333,12 @@
         "https://www.firecrawl.dev/changelog/firecrawl-local",
         "https://github.com/firecrawl/firecrawl",
         "https://x.com/firecrawl/status/2123096169630912637",
-        "https://github.com/comp-work/gke-sandboxes",
+        "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+        "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+        "https://github.com/agent-substrate/substrate",
+        "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+        "https://github.com/NVIDIA/OpenShell",
+        "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
         "https://x.com/emilahlback/status/2123112073517228286",
         "https://screen-relay.dev/docs",
         "https://github.com/vercel-labs/screen-relay",
@@ -287984,6 +288497,7 @@
         "https://x.com/theo/status/2125186071357251715",
         "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
         "https://x.com/TryMapleAI/status/2125377545709248916",
+        "https://safeguards.anthropic.com/2026/siren/",
         "https://www.ic3.gov/CSA/2026/261113.pdf",
         "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
         "https://docs.orcarouter.ai/security/shield/overview",
@@ -288103,13 +288617,38 @@
           "section": "Agent Infrastructure"
         },
         {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "comp-work/gke-sandboxes",
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google Cloud: Open infrastructure for autonomous agents comes to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google Open Source Blog: Sandboxing Untrusted AI Agents at Scale",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "agent-substrate/substrate",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "NVIDIA: OpenShell contribution and new AI infrastructure",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "NVIDIA/OpenShell",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "CNCF: OpenShell on Kubernetes: A guide for platform engineers",
           "section": "Agent Infrastructure"
         },
         {
           "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Emil Ahlbäck's post",
+          "title": "Emil Ahlbäck's GKE sandbox cost post",
           "section": "Agent Infrastructure"
         },
         {
@@ -288895,6 +289434,11 @@
         {
           "href": "https://x.com/TryMapleAI/status/2125377545709248916",
           "title": "Maple AI seed announcement",
+          "section": "Security"
+        },
+        {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic Safeguards: Measuring and mitigating agent sandbox escape with Siren",
           "section": "Security"
         },
         {
@@ -305315,43 +305859,6 @@
       "searchText": "www.meetup.com/bitcoin-park-austin/events/317149461/ Sovereign AI Club - November 25, 2026 2026-11-25 https://www.meetup.com/bitcoin-park-austin/events/317149461/"
     },
     {
-      "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-energy-cuts-agent-sandbox-bills-88-by-moving-to-gke",
-      "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
-      "rawTitle": "Energy cuts agent sandbox bills 88% by moving to GKE",
-      "normalizedTitle": "energy cuts agent sandbox bills 88% by moving to gke",
-      "section": "Agent Infrastructure",
-      "meetupId": "sovereign-ai-club-november-25-2026",
-      "meetupTitle": "Sovereign AI Club - November 25, 2026",
-      "meetupSlug": "2026-11-25",
-      "meetupHref": "/topics/2026-11-25.md",
-      "sourceLinks": [
-        "https://github.com/comp-work/gke-sandboxes",
-        "https://x.com/emilahlback/status/2123112073517228286"
-      ],
-      "sourceReferences": [
-        {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
-          "section": "Agent Infrastructure"
-        },
-        {
-          "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
-          "section": "Agent Infrastructure"
-        }
-      ],
-      "wikiIds": [
-        "agent-infrastructure",
-        "agent-security"
-      ],
-      "wikiTitles": [
-        "Agent Infrastructure",
-        "Agent Security"
-      ],
-      "unresolvedWikiLinks": [],
-      "searchText": "Energy cuts agent sandbox bills 88% by moving to GKE Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/comp-work/gke-sandboxes https://x.com/emilahlback/status/2123112073517228286 Agent Infrastructure Agent Security"
-    },
-    {
       "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-firecrawl-local-rebuilds-scraping-in-rust-at-11-mb-idle",
       "title": "Firecrawl Local rebuilds scraping in Rust at 11 MB idle",
       "rawTitle": "Firecrawl Local rebuilds scraping in Rust at 11 MB idle",
@@ -305393,6 +305900,77 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Firecrawl Local rebuilds scraping in Rust at 11 MB idle Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://www.firecrawl.dev/changelog/firecrawl-local https://github.com/firecrawl/firecrawl https://x.com/firecrawl/status/2123096169630912637 Agent Infrastructure Local AI"
+    },
+    {
+      "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-google-and-nvidia-donate-the-open-agent-sandbox-stack-to-cncf",
+      "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+      "rawTitle": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+      "normalizedTitle": "google and nvidia donate the open agent-sandbox stack to cncf",
+      "section": "Agent Infrastructure",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+        "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+        "https://github.com/agent-substrate/substrate",
+        "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+        "https://github.com/NVIDIA/OpenShell",
+        "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+        "https://x.com/emilahlback/status/2123112073517228286"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/emilahlback/status/2123112073517228286",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        }
+      ],
+      "wikiIds": [
+        "agent-infrastructure",
+        "agent-security",
+        "google",
+        "nvidia"
+      ],
+      "wikiTitles": [
+        "Agent Infrastructure",
+        "Agent Security",
+        "Google",
+        "NVIDIA"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Google and NVIDIA donate the open agent-sandbox stack to CNCF Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html https://github.com/agent-substrate/substrate https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/ https://github.com/NVIDIA/OpenShell https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/ https://x.com/emilahlback/status/2123112073517228286 Agent Infrastructure Agent Security Google NVIDIA"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-lastbook-packs-an-offline-survival-library-with-local-llm-chat",
@@ -307169,6 +307747,41 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Anthropic moves 30-day safety logs to your cloud as \"ZDR\" Security Sovereign AI Club - November 25, 2026 2026-11-25 https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards https://www.anthropic.com/news/enterprise-frontier-safeguards https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police https://x.com/claudeai/status/2124929944530587712 https://x.com/ohayou792/status/2124151555452719456 Anthropic Claude Fable/Mythos Privacy Tooling Security"
+    },
+    {
+      "id": "sovereign-ai-club-november-25-2026-security-anthropics-siren-catches-claude-stepping-out-of-leaky-sandboxes",
+      "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+      "rawTitle": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+      "normalizedTitle": "anthropic's siren catches claude stepping out of leaky sandboxes",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://safeguards.anthropic.com/2026/siren/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "agent-security",
+        "anthropic",
+        "mythos",
+        "security"
+      ],
+      "wikiTitles": [
+        "Agent Security",
+        "Anthropic",
+        "Claude Fable/Mythos",
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Anthropic's Siren catches Claude stepping out of leaky sandboxes Security Sovereign AI Club - November 25, 2026 2026-11-25 https://safeguards.anthropic.com/2026/siren/ Agent Security Anthropic Claude Fable/Mythos Security"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-security-canary-prompts-expose-broken-zero-data-retention-across-ai-routers",
@@ -329629,43 +330242,6 @@
       "unresolvedWikiLinks": [],
       "searchText": "www.meetup.com/bitcoin-park-austin/events/317149461/ Sovereign AI Club - November 25, 2026 2026-11-25 https://www.meetup.com/bitcoin-park-austin/events/317149461/"
     },
-    "sovereign-ai-club-november-25-2026-agent-infrastructure-energy-cuts-agent-sandbox-bills-88-by-moving-to-gke": {
-      "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-energy-cuts-agent-sandbox-bills-88-by-moving-to-gke",
-      "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
-      "rawTitle": "Energy cuts agent sandbox bills 88% by moving to GKE",
-      "normalizedTitle": "energy cuts agent sandbox bills 88% by moving to gke",
-      "section": "Agent Infrastructure",
-      "meetupId": "sovereign-ai-club-november-25-2026",
-      "meetupTitle": "Sovereign AI Club - November 25, 2026",
-      "meetupSlug": "2026-11-25",
-      "meetupHref": "/topics/2026-11-25.md",
-      "sourceLinks": [
-        "https://github.com/comp-work/gke-sandboxes",
-        "https://x.com/emilahlback/status/2123112073517228286"
-      ],
-      "sourceReferences": [
-        {
-          "href": "https://github.com/comp-work/gke-sandboxes",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
-          "section": "Agent Infrastructure"
-        },
-        {
-          "href": "https://x.com/emilahlback/status/2123112073517228286",
-          "title": "Energy cuts agent sandbox bills 88% by moving to GKE",
-          "section": "Agent Infrastructure"
-        }
-      ],
-      "wikiIds": [
-        "agent-infrastructure",
-        "agent-security"
-      ],
-      "wikiTitles": [
-        "Agent Infrastructure",
-        "Agent Security"
-      ],
-      "unresolvedWikiLinks": [],
-      "searchText": "Energy cuts agent sandbox bills 88% by moving to GKE Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/comp-work/gke-sandboxes https://x.com/emilahlback/status/2123112073517228286 Agent Infrastructure Agent Security"
-    },
     "sovereign-ai-club-november-25-2026-agent-infrastructure-firecrawl-local-rebuilds-scraping-in-rust-at-11-mb-idle": {
       "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-firecrawl-local-rebuilds-scraping-in-rust-at-11-mb-idle",
       "title": "Firecrawl Local rebuilds scraping in Rust at 11 MB idle",
@@ -329708,6 +330284,77 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Firecrawl Local rebuilds scraping in Rust at 11 MB idle Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://www.firecrawl.dev/changelog/firecrawl-local https://github.com/firecrawl/firecrawl https://x.com/firecrawl/status/2123096169630912637 Agent Infrastructure Local AI"
+    },
+    "sovereign-ai-club-november-25-2026-agent-infrastructure-google-and-nvidia-donate-the-open-agent-sandbox-stack-to-cncf": {
+      "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-google-and-nvidia-donate-the-open-agent-sandbox-stack-to-cncf",
+      "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+      "rawTitle": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+      "normalizedTitle": "google and nvidia donate the open agent-sandbox stack to cncf",
+      "section": "Agent Infrastructure",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+        "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+        "https://github.com/agent-substrate/substrate",
+        "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+        "https://github.com/NVIDIA/OpenShell",
+        "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+        "https://x.com/emilahlback/status/2123112073517228286"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/agent-substrate/substrate",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/NVIDIA/OpenShell",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/emilahlback/status/2123112073517228286",
+          "title": "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+          "section": "Agent Infrastructure"
+        }
+      ],
+      "wikiIds": [
+        "agent-infrastructure",
+        "agent-security",
+        "google",
+        "nvidia"
+      ],
+      "wikiTitles": [
+        "Agent Infrastructure",
+        "Agent Security",
+        "Google",
+        "NVIDIA"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Google and NVIDIA donate the open agent-sandbox stack to CNCF Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html https://github.com/agent-substrate/substrate https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/ https://github.com/NVIDIA/OpenShell https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/ https://x.com/emilahlback/status/2123112073517228286 Agent Infrastructure Agent Security Google NVIDIA"
     },
     "sovereign-ai-club-november-25-2026-agent-infrastructure-lastbook-packs-an-offline-survival-library-with-local-llm-chat": {
       "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-lastbook-packs-an-offline-survival-library-with-local-llm-chat",
@@ -331484,6 +332131,41 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Anthropic moves 30-day safety logs to your cloud as \"ZDR\" Security Sovereign AI Club - November 25, 2026 2026-11-25 https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards https://www.anthropic.com/news/enterprise-frontier-safeguards https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police https://x.com/claudeai/status/2124929944530587712 https://x.com/ohayou792/status/2124151555452719456 Anthropic Claude Fable/Mythos Privacy Tooling Security"
+    },
+    "sovereign-ai-club-november-25-2026-security-anthropics-siren-catches-claude-stepping-out-of-leaky-sandboxes": {
+      "id": "sovereign-ai-club-november-25-2026-security-anthropics-siren-catches-claude-stepping-out-of-leaky-sandboxes",
+      "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+      "rawTitle": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+      "normalizedTitle": "anthropic's siren catches claude stepping out of leaky sandboxes",
+      "section": "Security",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://safeguards.anthropic.com/2026/siren/"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://safeguards.anthropic.com/2026/siren/",
+          "title": "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+          "section": "Security"
+        }
+      ],
+      "wikiIds": [
+        "agent-security",
+        "anthropic",
+        "mythos",
+        "security"
+      ],
+      "wikiTitles": [
+        "Agent Security",
+        "Anthropic",
+        "Claude Fable/Mythos",
+        "Security"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Anthropic's Siren catches Claude stepping out of leaky sandboxes Security Sovereign AI Club - November 25, 2026 2026-11-25 https://safeguards.anthropic.com/2026/siren/ Agent Security Anthropic Claude Fable/Mythos Security"
     },
     "sovereign-ai-club-november-25-2026-security-canary-prompts-expose-broken-zero-data-retention-across-ai-routers": {
       "id": "sovereign-ai-club-november-25-2026-security-canary-prompts-expose-broken-zero-data-retention-across-ai-routers",
@@ -356924,6 +357606,10 @@
     },
     {
       "source": "google",
+      "target": "nvidia"
+    },
+    {
+      "source": "google",
       "target": "gemini"
     },
     {
@@ -359109,6 +359795,10 @@
     {
       "source": "nvidia",
       "target": "anthropic"
+    },
+    {
+      "source": "nvidia",
+      "target": "google"
     },
     {
       "source": "nvidia",
@@ -364546,7 +365236,7 @@
           "agent-infrastructure"
         ],
         "degree": 139,
-        "updated": "2026-11-23"
+        "updated": "2026-11-25"
       },
       {
         "id": "agent-payments",
@@ -364570,7 +365260,7 @@
           "agent-infrastructure"
         ],
         "degree": 50,
-        "updated": "2026-11-23"
+        "updated": "2026-11-25"
       },
       {
         "id": "ai-benchmarks-evals",
@@ -364985,7 +365675,7 @@
           "ai-governance"
         ],
         "degree": 27,
-        "updated": "2026-11-23"
+        "updated": "2026-11-25"
       },
       {
         "id": "claude-sonnet-5",
@@ -365393,7 +366083,7 @@
           "model",
           "big-tech-moves"
         ],
-        "degree": 56,
+        "degree": 58,
         "updated": "2026-11-25"
       },
       {
@@ -366066,7 +366756,7 @@
           "model",
           "agent-infrastructure"
         ],
-        "degree": 55,
+        "degree": 57,
         "updated": "2026-11-25"
       },
       {
@@ -371063,6 +371753,11 @@
       },
       {
         "source": "google",
+        "target": "nvidia",
+        "kind": "wiki"
+      },
+      {
+        "source": "google",
         "target": "gemini",
         "kind": "wiki"
       },
@@ -373794,6 +374489,11 @@
       {
         "source": "nvidia",
         "target": "anthropic",
+        "kind": "wiki"
+      },
+      {
+        "source": "nvidia",
+        "target": "google",
         "kind": "wiki"
       },
       {
@@ -380545,11 +381245,11 @@
   },
   "stats": {
     "pageCount": 217,
-    "topicCount": 387,
+    "topicCount": 388,
     "rawPageCount": 0,
-    "linkCount": 2659,
+    "linkCount": 2661,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 2146,
+    "sourceLinkCount": 2151,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-25"
   }

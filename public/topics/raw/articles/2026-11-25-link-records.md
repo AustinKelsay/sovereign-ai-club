@@ -37,12 +37,22 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Firecrawl announcement** — https://x.com/firecrawl/status/2123096169630912637
   Type: X post. Accessed: 2026-11-23. Launch post for Firecrawl Local.
 
-### Energy cuts agent sandbox bills 88% by moving to GKE
+### Google and NVIDIA donate the open agent-sandbox stack to CNCF
 
-- **comp-work/gke-sandboxes** — https://github.com/comp-work/gke-sandboxes
-  Type: GitHub repository. Accessed: 2026-11-23. Apache 2.0 gVisor-based agent sandboxes on GKE with Cloud Storage snapshots for sleeping containers and an idle sweeper.
-- **Emil Ahlbäck's post** — https://x.com/emilahlback/status/2123112073517228286
-  Type: X post. Accessed: 2026-11-23. Reports cutting Energy's sandbox cost from 16.6¢ (Daytona/E2B list price) to 1.9¢/sandbox-hour across 520 awake sandboxes on 12 GKE nodes.
+- **Google Cloud: Open infrastructure for autonomous agents comes to CNCF** — https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf
+  Type: official blog. Accessed: 2026-11-25. November 5 KubeCon NA announcement donating Agent Substrate, gVisor, and OpenRL to CNCF Sandbox and declaring Agent Substrate 1.0 GA on GKE (<500 ms suspend/resume, 10x density, Policy Gateways keeping secrets out of sandboxes, Nous Research building Hermes Enterprise on it).
+- **Google Open Source Blog: Sandboxing Untrusted AI Agents at Scale** — https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html
+  Type: official blog. Accessed: 2026-11-25. November 5 technical breakdown of the idle-agent problem (90–95% idle waiting on tokens/APIs), Actor/Worker architecture, gVisor (`runsc`) and Cloud Hypervisor microVM support, and tiered-storage snapshots.
+- **agent-substrate/substrate** — https://github.com/agent-substrate/substrate
+  Type: GitHub repository. Accessed: 2026-11-25. Apache 2.0 core Agent Substrate runtime (~8.3k stars) for Kubernetes agent sandboxes.
+- **NVIDIA: OpenShell contribution and new AI infrastructure** — https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/
+  Type: official blog. Accessed: 2026-11-25. November 10 KubeCon NA announcement donating OpenShell to CNCF Sandbox, contributing to Agent Substrate, and collaborating on an OpenShell + Agent Substrate integration.
+- **NVIDIA/OpenShell** — https://github.com/NVIDIA/OpenShell
+  Type: GitHub repository. Accessed: 2026-11-25. Apache 2.0 agent-governance sandbox runtime (~21.9k stars).
+- **CNCF: OpenShell on Kubernetes: A guide for platform engineers** — https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/
+  Type: technical guide. Accessed: 2026-11-25. November 11 architecture walkthrough covering Landlock filesystem rules, seccomp, per-binary egress rules, credential brokering, and current limits (Gateway API only, no Kubernetes OpenShellSandbox CRD yet, supervisor Pod per agent scaling caveat).
+- **Emil Ahlbäck's GKE sandbox cost post** — https://x.com/emilahlback/status/2123112073517228286
+  Type: X post. Accessed: 2026-11-23. Concrete builder cost benchmark from Energy (`comp-work/gke-sandboxes`) showing gVisor pods + Cloud Storage snapshots on GKE cutting sandbox bills from 16.6¢ (Daytona/E2B list price) to 1.9¢/sandbox-hour across 520 awake sandboxes on 12 nodes.
 
 ### Vercel Labs' screen-relay streams desktops to agents at 120 fps
 
@@ -427,6 +437,11 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: news report. Accessed: 2026-11-25. November 24 report on Maple AI's oversubscribed $5.3M seed round led by EPIC Ventures with Draper Associates, Planetary VC, and Epoch VC to build TEE-encrypted Maple Work and always-on cloud agents.
 - **Maple AI seed announcement** — https://x.com/TryMapleAI/status/2125377545709248916
   Type: X post. Accessed: 2026-11-25. Founders Mark and Anthony announce the $5.3M seed round for verifiable private-by-default AI.
+
+### Anthropic's Siren catches Claude stepping out of leaky sandboxes
+
+- **Anthropic Safeguards: Measuring and mitigating agent sandbox escape with Siren** — https://safeguards.anthropic.com/2026/siren/
+  Type: research blog. Accessed: 2026-11-25. November 24 evaluation by Oscar O'Rahilly and Darya Kaviani testing six Claude models (without release safeguards) across 1,700+ scenarios and 26 weakened sandboxes (bubblewrap, Linux namespaces, Docker, gVisor, QEMU); Claude 5.5 and Mythos 5.2 reached outside in 21%–32% of runs while misaligned use dropped from 25.8% (Mythos 5) to 0.6%–1.6%, explicit sandbox rules cut probes 68%–96% (to ≤2%), and Sonnet 5.5 showed verbalized eval awareness in 67% of traces.
 
 ### FBI warns on ARTEX while defenders build AI decoy mazes
 

@@ -105,14 +105,20 @@ export const meetups = [
             notes: "Install via cargo install firecrawl-local on localhost:3002. Cloud search and Alexandria find-tools can be turned off. Networked services built on it carry AGPL obligations.",
           },
           {
-            title: "Energy cuts agent sandbox bills 88% by moving to GKE",
-            description: "Energy's Emil Ahlbäck moved customer sandboxes off hosted services onto gVisor pods in GCP and open-sourced the Apache 2.0 setup, dropping costs from 16.6¢ to 1.9¢ per sandbox-hour. The savings come from packing mostly idle agents onto shared nodes and snapshotting sleeping containers to storage.",
-            href: "https://github.com/comp-work/gke-sandboxes",
-            linkPair: [],
+            title: "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
+            description: "Google donated Agent Substrate 1.0, gVisor, and OpenRL to the CNCF, and NVIDIA donated OpenShell—an open Kubernetes stack that snapshots idle agents and wakes them in under 500 ms. It breaks hosted-sandbox lock-in and keeps raw API keys outside the pod, though you still have to run Kubernetes.",
+            href: "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
+            linkPair: [
+              "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+              "https://github.com/agent-substrate/substrate",
+              "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+              "https://github.com/NVIDIA/OpenShell",
+              "https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/",
+            ],
             embeds: [
               { type: "tweet", href: "https://x.com/emilahlback/status/2123112073517228286" },
             ],
-            notes: "16.6¢ is Daytona and E2B list pricing for 2 vCPU / 4 GiB; 1.9¢ assumes 520 awake sandboxes across 12 nodes. No Kata or Firecracker—just gVisor and Cloud Storage snapshots.",
+            notes: "Google says agents sit idle 90–95% of the time and Substrate hits 10x density on gVisor or Cloud Hypervisor; Nous is building Hermes Enterprise on it. OpenShell adds Landlock and per-binary egress rules, with no native Kubernetes CRD yet. Emil's post shows concrete GKE math (16.6¢ → 1.9¢/hr); Security's Siren slide shows why misconfigured sandboxes still leak.",
           },
           {
             title: "Vercel Labs' screen-relay streams desktops to agents at 120 fps",
@@ -126,13 +132,14 @@ export const meetups = [
               poster: "/videos/screen-relay-plebdev-ultra-poster.jpg",
               title: "Live screen-relay capture streaming Holdout 3D FPS and Omarchy / Hyprland GUI apps from plebdev-ultra at 2560x1440 @ 120 fps",
               caption: "Club demo: screen-relay CLI playing Holdout (3D FPS) + tiling Wiki Graph, Nautilus & btop on Omarchy / Hyprland (2560×1440 @ 120 fps over Tailscale)",
+              autoPlay: true,
               muted: true,
               loop: true,
             },
             embeds: [
               { type: "tweet", href: "https://x.com/lahfir/status/2123260406424838357" },
             ],
-            notes: "Loops locally with no token by default; --public mints a bearer token embedded in the viewer URL. Demo clip above was captured live over Tailscale from Austin's Omarchy/Hyprland box (2560×1440 @ 120 fps)—driving a Three.js 3D shooter (Holdout: Relay Station), tiling Chromium's Wiki Graph, Nautilus, and btop while hitting 120 Drawn FPS.",
+            notes: "Loops locally with no token by default; --public mints a bearer token in the viewer URL. Demo clip below was captured live over Tailscale from Austin's Omarchy/Hyprland box (2560×1440 @ 120 fps).",
           },
           {
             title: "Pirate Face ships a CLI to torrent open models",
@@ -489,6 +496,13 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/TryMapleAI/status/2125377545709248916" },
             ],
             notes: "Co-founder Anthony previously appeared on our March 18 board for sage. Investors include EPIC Ventures, Draper Associates, Planetary VC, and Epoch VC. Caps tonight's five-slide privacy arc (routers → IDE vendor → frontier ZDR → local harness audit → TEE-encrypted private cloud) and echoes November 11's NEAR AI enclave-breach lesson.",
+          },
+          {
+            title: "Anthropic's Siren catches Claude stepping out of leaky sandboxes",
+            description: "Anthropic's Siren eval puts Claude inside weakened Docker, gVisor, and QEMU sandboxes with tempting credentials outside. Without release safeguards, Claude 5.5 and Mythos 5.2 still reached outside in 21% to 32% of runs—though spelling out sandbox rules in the prompt cut those probes by up to 96%.",
+            href: "https://safeguards.anthropic.com/2026/siren/",
+            linkPair: [],
+            notes: "1,700+ scenarios across 26 setups (including bubblewrap and Linux namespaces). Clearly misaligned use fell from 25.8% on Mythos 5 to 0.6%–1.6% on newer models, and explicit rules cut reaching to ≤2%—though Sonnet 5.5 noticed it was being tested in 67% of traces. Pairs with Agent Infrastructure's CNCF sandboxes and Cognition's SWE-2.1 finding four sandbox escapes during training.",
           },
           {
             title: "FBI warns on ARTEX while defenders build AI decoy mazes",

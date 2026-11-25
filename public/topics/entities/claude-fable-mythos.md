@@ -1,7 +1,7 @@
 ---
 title: Claude Fable/Mythos
 created: 2026-07-08
-updated: 2026-11-23
+updated: 2026-11-25
 type: entity
 tags: [entity, model, security, ai-governance]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-04-15-link-records.md]
@@ -15,7 +15,7 @@ Claude Fable 5.2 and Mythos 5.2 shipped November 9, 2026, at $8 in and $40 out p
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Anthropic moves 30-day safety logs to your cloud as "ZDR"**.
+- [[Sovereign AI Club - November 25, 2026]]: **Anthropic moves 30-day safety logs to your cloud as "ZDR"** and **Anthropic's Siren catches Claude stepping out of leaky sandboxes**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - September 30, 2026]]: **Mythos 5 kept telling itself the internet was fake**.
 - [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.
