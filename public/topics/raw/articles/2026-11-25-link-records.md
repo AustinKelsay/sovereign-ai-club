@@ -188,6 +188,10 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: X post. Accessed: 2026-11-23. Announces Inkling 2 Mini with vendor 20.1 AA Index score.
 - **Unsloth Inkling 2 Mini day-0 post** — https://x.com/UnslothAI/status/2123873656069877899
   Type: X post. Accessed: 2026-11-24. Launches day-0 Inkling 2 Mini GGUF quants and local run guide.
+- **Hugging Face: AtomicChat/Inkling-2-Mini-GGUF** — https://huggingface.co/AtomicChat/Inkling-2-Mini-GGUF
+  Type: model card. Accessed: 2026-11-25. Apache 2.0 GGUF quantization suite for `Inkling-2-Mini` including 1-bit `AD-IQ1_S`/`AD-IQ1_M` builds, DSpark MTP head, and vision `mmproj`.
+- **atomic.chat iPhone 16 Pro Inkling 2 Mini demo** — https://x.com/atomic_chat_hq/status/2125673484076593218
+  Type: X post. Accessed: 2026-11-25. November 25 video demoing 1-bit Inkling 2 Mini (6.88 GB) running locally on an iPhone 16 Pro via flash-memory expert offloading (vendor claims 81.1% accuracy and 40% speedup inside the `atomic.chat` app).
 - **Hugging Face: prism-ml/Ternary-Bonsai-2.5-27B-GGUF** — https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF
   Type: model card. Accessed: 2026-11-25. November 24 Apache 2.0 ternary Qwen3.8-27B agentic build (1.76 bpw / 5.93 GB PTQ1_0 with MTP variants; vendor reports 75.6% SWE-bench Verified, 73.9 tau3-bench, and 77.2 vs 77.7 FP16 across five tool-calling suites; Q2_0 runs on stock llama.cpp while PTQ1_0 is under upstream review).
 - **Hugging Face: prism-ml/Ternary-Bonsai-2.5-27B-mlx-2bit** — https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-mlx-2bit

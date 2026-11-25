@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add AtomicChat 1-bit Inkling 2 Mini iPhone 16 Pro demo to Open model releases
+
+- Added AtomicChat's 1-bit `Inkling-2-Mini` GGUF (`AtomicChat/Inkling-2-Mini-GGUF`) and iPhone 16 Pro flash-offloading video demo (`x.com/atomic_chat_hq/status/2125673484076593218`) to **Open model releases** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
+
 ## [2026-11-25] update | Add 1Password CI/CD backend breach slide to Security
 
 - Added **1Password discloses a CI/CD backend breach—vaults stayed encrypted** to Security right before Optimizely (`1password.com/blog/update-on-nov-2026-security-incident`, `x.com/gregosuri/status/2125641941903921380`), detailing the Nov 19 corporate GitHub → CI/CD → malicious backend code push that exfiltrated customer metadata and invite/recovery tokens while zero-knowledge vaults remained encrypted, tying back to November 11's `1Password for Agents`.
