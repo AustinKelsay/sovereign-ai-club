@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add Greg Brockman / Second Security same-day Shirudo shield proof point
+
+- Folded Greg Brockman's November 25 post (`x.com/gdb/status/2125525157464973661`) and Second Security's writeup (`second.security/shirudo/`) into **OpenAI and Cisco launch Shirudo for agent-written Linux shields** in Security, adding the 12-hour Elasticsearch pre-auth `CVE-2026-82303` exploit-and-shield timeline to `src/data.js` Presenter Notes and `raw/articles/2026-11-25-link-records.md`.
+
 ## [2026-11-25] update | Highlight Ben Carman's uncensored Inkling 2 Mini in Local Builds & Projects
 
 - Added Track 1 (**Local Builds & Projects**) to November 25 opening with **Ben Carman uncensors Inkling 2 Mini without breaking tool calling** (`topStory: true`), covering Sovereign AI Club member Ben Carman's Apache 2.0 `benthecarman/Inkling-2-Mini-uncensored` (plus GGUF and W4A16 builds) trained on Maple AI-sponsored compute via attention-only on-policy updates + DPO loop-fix (91.0% → 6.6% held-out refusals, BFCL v4 79.5% → 80.1%, 1,124 other tensors byte-identical).

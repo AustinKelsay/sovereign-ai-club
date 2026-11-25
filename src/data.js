@@ -606,11 +606,13 @@ export const meetups = [
             linkPair: [
               "https://isovalent.com/blog/post/cisco-openai-shirudo/",
               "https://github.com/shirudo-dev/shirudo",
+              "https://second.security/shirudo/",
             ],
             embeds: [
               { type: "tweet", href: "https://x.com/OpenAI/status/2124980590717911527" },
+              { type: "tweet", href: "https://x.com/gdb/status/2125525157464973661" },
             ],
-            notes: "Built with Cisco's Isovalent team; protects its own runtime even from local root without the operator's signing key. Fits right after the outage debate: shields buy time before full patches roll out, though deploying custom kernels isn't drop-in.",
+            notes: "Built with Cisco's Isovalent team; protects its own runtime even from local root without the operator's signing key. Within 12 hours of launch, Second (@Cyburgerim) built a working exploit and a Java-agent Shirudo shield blocking fresh Elasticsearch pre-auth bug CVE-2026-82303. Fits right after the outage debate: shields buy time before full patches roll out.",
           },
         ],
       },

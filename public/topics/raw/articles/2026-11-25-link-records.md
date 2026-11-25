@@ -543,6 +543,10 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: GitHub repository. Accessed: 2026-11-23. BSD-2-Clause pre-release runtime; README notes production targets require Shirudo's kernel patches (signed-loader ABI) and TPM 2.0.
 - **OpenAI Shirudo launch post** — https://x.com/OpenAI/status/2124980590717911527
   Type: X post. Accessed: 2026-11-23. Announces Shirudo with Cisco as a first step toward self-defending Linux infrastructure.
+- **Second Security: Same-Day CVE to a Shirudo Shield in Hours** — https://second.security/shirudo/
+  Type: technical writeup. Accessed: 2026-11-25. Documents writing a working exploit and a Shirudo Java-agent shield bounding `decodeBlock()` within 12 hours to block Elasticsearch pre-auth LZ4 buffer over-read CVE-2026-82303 (published 33 minutes before Shirudo launched).
+- **Greg Brockman on same-day Shirudo shields** — https://x.com/gdb/status/2125525157464973661
+  Type: X post. Accessed: 2026-11-25. November 25 post quoting `@Cyburgerim` and sharing the CVE-2026-82303 timeline diagram (`T0` disclosure → `T0 + 33m` Shirudo launch → `T0 + 12h 07m` working shield).
 
 ## Big Tech Moves
 
