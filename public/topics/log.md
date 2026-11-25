@@ -2,6 +2,11 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Pair Scott Aaronson's Factoring in P rumors with Google's Cogentic factoring papers
+
+- Folded UT Austin complexity theorist Scott Aaronson's November 24 blog comment (`scottaaronson.blog/?p=10362#comment-2044495`) and Anthony Leverrier's viral X post (`x.com/letonyo/status/2125500340833534056`) into Google's Cogentic slide, retitled **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**, preserving Aaronson's "game of Telephone" warning and clarifying that Google's asymptotic subexponential factoring bounds aren't live RSA breaks.
+- Updated `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and reciprocal `Mentioned In` entries on `Models & Research`, `AI Mathematics`, `Gemini`, and `Google`.
+
 ## [2026-11-25] update | Clarify CNCF agent-sandbox slide copy in plain English
 
 - Retitled and reworded **Google and NVIDIA donate the open agent-sandbox stack to CNCF** to **Google and NVIDIA hand open agent sandboxes to CNCF** in `2026-11-25.md`, `src/data.js`, source link records, and reciprocal wiki `Mentioned In` entries, replacing "donated" jargon with plain-English "vendor-neutral nonprofit behind Kubernetes" phrasing.

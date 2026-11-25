@@ -288,12 +288,16 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **TheCoinCollect8 post** — https://x.com/TheCoinCollect8/status/2125039784301306319
   Type: X post. Accessed: 2026-11-24. Anonymous account jumping from an algebraic circuit lower bound (`VP ≠ VNP`) to warning banks and exchanges that "encryption isn't safe."
 
-### Google's Cogentic agent drops six unverified math papers
+### Google's Cogentic drops factoring papers amid Aaronson's crypto rumors
 
 - **google-research: cogentic_research_papers** — https://github.com/google-research/google-research/tree/master/cogentic_research_papers
   Type: GitHub directory. Accessed: 2026-11-25. Apache 2.0 collection of papers produced by Google's Cogentic agent harness; disclaimer notes "not an official Google product."
 - **google-research commit 4a7bc8a (six Cogentic papers)** — https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a
   Type: GitHub commit. Accessed: 2026-11-25. November 25 commit adding six unreviewed PDF preprints (unconditional $L_N[1/3, O(1)]$ integer factoring with constant 105, deterministic subexponential factoring, log-rank barrier improvement, linear-density edge reconstruction, fixed-characteristic discrete logs, and 1/5-approximate bimatrix Nash equilibria); Lean 4 formalizations withheld for a companion submission.
+- **Scott Aaronson: Shtetl-Optimized comment #2044495** — https://scottaaronson.blog/?p=10362#comment-2044495
+  Type: blog comment. Accessed: 2026-11-25. November 24 reply on "I've been drinking wine in my kitchen" where UT Austin's Scott Aaronson reports hearing "many, many rumors that one or both labs are sitting on Factoring in P" and says he is "virtually certain" labs hold cryptography bombshells, while cautioning the details may be distorted by a game of Telephone (later commenters pointed to Google's deterministic factoring commit).
+- **Anthony Leverrier (@letonyo) post on Aaronson's Factoring in P comment** — https://x.com/letonyo/status/2125500340833534056
+  Type: X post. Accessed: 2026-11-25. Viral November 25 post (~285k views) by quantum error-correction researcher Anthony Leverrier highlighting Scott Aaronson's Factoring in P and cryptography-rumor comments.
 - **Chubby (@kimmonismus) post on Cogentic** — https://x.com/kimmonismus/status/2125574747882704951
   Type: X post. Accessed: 2026-11-25. Viral summary highlighting Google's six Cogentic / Gemini 4 math papers.
 

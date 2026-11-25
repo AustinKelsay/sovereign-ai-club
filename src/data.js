@@ -336,16 +336,18 @@ export const meetups = [
             notes: "Anthropic's README explicitly notes this does not settle P vs NP and no machine checks whether Statement.lean matches the mathematical claim—a sharp contrast with Alpöge's community-certified Riemann proof right above. @BitcoinNewsCom amplified anon @TheCoinCollect8 while admitting it doesn't threaten Bitcoin.",
           },
           {
-            title: "Google's Cogentic agent drops six unverified math papers",
-            description: "Google Research quietly committed six Gemini 4 Cogentic math papers today—claiming an unconditional L_N[1/3] factoring bound, deterministic subexponential factoring, and progress on log-rank and edge reconstruction. Unlike Alpöge's certified proof, none are peer-reviewed and Google held back the Lean 4 files for later.",
+            title: "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+            description: "Hours after UT Austin's Scott Aaronson flagged rumors of labs sitting on Factoring in P, Google Research committed six unreviewed Gemini 4 Cogentic math papers—including two subexponential factoring results. Aaronson warns the rumors may be Telephone, Google's bounds aren't live RSA breaks, and Google held back the Lean 4 files.",
             href: "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
             linkPair: [
               "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
+              "https://scottaaronson.blog/?p=10362#comment-2044495",
             ],
             embeds: [
+              { type: "tweet", href: "https://x.com/letonyo/status/2125500340833534056" },
               { type: "tweet", href: "https://x.com/kimmonismus/status/2125574747882704951" },
             ],
-            notes: "Also includes sub-quasi-polynomial discrete logs in fixed characteristic and 1/5-approximate bimatrix Nash equilibria (commit 4a7bc8a). Don't panic on RSA: the L_N[1/3, 105] bound proves asymptotic complexity with a huge constant (105), not a practical cipher break. Completes the 5-day three-lab math ladder: certified (Alpöge) → Lean-checked/human-unchecked (VP ≠ VNP) → PDFs-only (Cogentic).",
+            notes: "Aaronson wrote he's \"virtually certain\" labs have cryptography bombshells, while commenters asked if Telephone distorted Google's deterministic subexponential and L_N[1/3, 105] factoring papers (huge constant 105—not an RSA break). Commit 4a7bc8a also covers fixed-characteristic discrete logs, log-rank, edge reconstruction, and Nash equilibria, completing the certified → Lean-unchecked → PDFs-only math ladder.",
           },
           {
             title: "Praxis brings general witness encryption down to 8 GB",

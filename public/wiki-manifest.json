@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:25:44.393Z",
+  "generatedAt": "2026-11-25T17:04:08.113Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -8352,21 +8352,35 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -8610,7 +8624,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# AI Mathematics\n\nAI Mathematics covers systems that solve, verify, or help discover mathematical results, from competition problems and formal theorem proving to unpublished research questions and open conjectures.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **OpenAI claims three discoveries, including a refutation of ETH** and **DeepMind proves Signal's encryption holds down to the machine code**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **OpenAI's math paper dump and the Lean gap** and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**.\n\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**.\n- [[Sovereign AI Club - July 22, 2026]]: **AI math crosses from medals into new proofs**.\n\n## Related\n\n- [[AI Benchmarks & Evals]]\n- [[Models & Research]]\n- [[Anthropic]]\n- [[Google]]\n- [[Gemini]]\n- [[OpenAI]]\n- [[Levent Alpöge]]\n- [[Leanstral]]\n- [[AlphaEvolve]]\n- [[Astra]]\n- [[Coding Agents]]"
+      "bodyMarkdown": "# AI Mathematics\n\nAI Mathematics covers systems that solve, verify, or help discover mathematical results, from competition problems and formal theorem proving to unpublished research questions and open conjectures.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **OpenAI claims three discoveries, including a refutation of ETH** and **DeepMind proves Signal's encryption holds down to the machine code**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **OpenAI's math paper dump and the Lean gap** and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**.\n\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**.\n- [[Sovereign AI Club - July 22, 2026]]: **AI math crosses from medals into new proofs**.\n\n## Related\n\n- [[AI Benchmarks & Evals]]\n- [[Models & Research]]\n- [[Anthropic]]\n- [[Google]]\n- [[Gemini]]\n- [[OpenAI]]\n- [[Levent Alpöge]]\n- [[Leanstral]]\n- [[AlphaEvolve]]\n- [[Astra]]\n- [[Coding Agents]]"
     },
     {
       "id": "ai-saas-supply-chain",
@@ -36064,21 +36078,35 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -36756,7 +36784,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Gemini\n\nGemini is Google's frontier model family and an upstream technology reference for Gemma, Google media models, benchmark comparisons, and release-cadence rumors.\n\nOn September 30, Google announced Gemini 4 Argon with initial access for trusted cyber defenders through Fairwind. Broad API and consumer access is planned; introductory input/output prices are $2/$10 per million tokens, rising to $4/$20 after the introductory period.\n\nIn November 2026, Google expanded the Gemini 4 lineup with Carbon (GA Nov 10 at $2/$10, rising to $4/$20 Dec 1), Gemini Decision 1 (Nov 11, $0.10/M input), Hydrogen (Nov 12, $1.50/$7.50 replacing Flash), and Neon (Nov 18, $3/$15 paid-only at 61 AA Index). On November 25, Google Research committed six unreviewed math preprints generated by its Gemini 4-powered Cogentic agent (Lean 4 files pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases** and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **DeepMind proves Signal's encryption holds down to the machine code**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **ARC AGI benchmark #3**.\n\n## Related\n\n- [[Google]]\n- [[Gemma]]\n- [[AI Benchmarks & Evals]]\n- [[AI Mathematics]]\n- [[Models & Research]]"
+      "bodyMarkdown": "# Gemini\n\nGemini is Google's frontier model family and an upstream technology reference for Gemma, Google media models, benchmark comparisons, and release-cadence rumors.\n\nOn September 30, Google announced Gemini 4 Argon with initial access for trusted cyber defenders through Fairwind. Broad API and consumer access is planned; introductory input/output prices are $2/$10 per million tokens, rising to $4/$20 after the introductory period.\n\nIn November 2026, Google expanded the Gemini 4 lineup with Carbon (GA Nov 10 at $2/$10, rising to $4/$20 Dec 1), Gemini Decision 1 (Nov 11, $0.10/M input), Hydrogen (Nov 12, $1.50/$7.50 replacing Flash), and Neon (Nov 18, $3/$15 paid-only at 61 AA Index). On November 25, Google Research committed six unreviewed math preprints generated by its Gemini 4-powered Cogentic agent (Lean 4 files pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases** and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **DeepMind proves Signal's encryption holds down to the machine code**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **ARC AGI benchmark #3**.\n\n## Related\n\n- [[Google]]\n- [[Gemma]]\n- [[AI Benchmarks & Evals]]\n- [[AI Mathematics]]\n- [[Models & Research]]"
     },
     {
       "id": "gemini-omni-flash",
@@ -42530,21 +42558,35 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -43936,7 +43978,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Google\n\nGoogle is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.\n\nNovember 2026 coverage includes donating Agent Substrate 1.0 (<500 ms suspend/resume on gVisor or Cloud Hypervisor), gVisor, and OpenRL to the CNCF Sandbox alongside [[NVIDIA]]'s OpenShell, TPU 8tx (confidential inference on TPU 8t silicon with AMD EPYC hosts), Chrome 157's exploited XML fix, [[Gemini|Gemini 4]] Hydrogen ($1.50/$7.50), Neon ($3/$15), Decision 1 ($0.10/M input), and Genie 4's paid API rollout, Google Threat Intelligence Group's report on an autonomous `exploit_agent` diffing patches into live exploits, Google DeepMind open-sourcing Apache 2.0 `gBench` (86 eval suites, chat-template checks, and [[OpenClaw]] tests for local [[vLLM]] / [[Ollama]] endpoints), and Google Research committing six unreviewed [[Gemini|Gemini 4]] Cogentic math papers (with Lean 4 formalizations still pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA hand open agent sandboxes to CNCF**, **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **Google ships a runnable zero-trust agent failure lab**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **Hassabis becomes Alphabet Chief Scientist as Koray takes GDM**.\n- [[Sovereign AI Club - July 22, 2026]]: **AlphaEvolve turns algorithm discovery into a cloud product**, **Closed model releases**, **Vera Rubin racks move into production**, **The AI safety leaderboard tops out at C+**, and **Europe makes Android's AI layer contestable**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**, **Vercel's Context.ai breach**, **Frontier model testing gets a federal lane**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Google TurboQuant**.\n\n## Related\n\n- [[Open Models]]\n- [[AI Benchmarks & Evals]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Privacy Tooling]]\n- [[Agent Security]]\n- [[Big Tech Moves]]\n- [[Gemma]]\n- [[Vera Rubin]]\n- [[Gemini]]\n- [[React Native ExecuTorch]]\n- [[Gemini Omni Flash]]\n- [[DiffusionGemma]]"
+      "bodyMarkdown": "# Google\n\nGoogle is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.\n\nNovember 2026 coverage includes donating Agent Substrate 1.0 (<500 ms suspend/resume on gVisor or Cloud Hypervisor), gVisor, and OpenRL to the CNCF Sandbox alongside [[NVIDIA]]'s OpenShell, TPU 8tx (confidential inference on TPU 8t silicon with AMD EPYC hosts), Chrome 157's exploited XML fix, [[Gemini|Gemini 4]] Hydrogen ($1.50/$7.50), Neon ($3/$15), Decision 1 ($0.10/M input), and Genie 4's paid API rollout, Google Threat Intelligence Group's report on an autonomous `exploit_agent` diffing patches into live exploits, Google DeepMind open-sourcing Apache 2.0 `gBench` (86 eval suites, chat-template checks, and [[OpenClaw]] tests for local [[vLLM]] / [[Ollama]] endpoints), and Google Research committing six unreviewed [[Gemini|Gemini 4]] Cogentic math papers (with Lean 4 formalizations still pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA hand open agent sandboxes to CNCF**, **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **Google ships a runnable zero-trust agent failure lab**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **Hassabis becomes Alphabet Chief Scientist as Koray takes GDM**.\n- [[Sovereign AI Club - July 22, 2026]]: **AlphaEvolve turns algorithm discovery into a cloud product**, **Closed model releases**, **Vera Rubin racks move into production**, **The AI safety leaderboard tops out at C+**, and **Europe makes Android's AI layer contestable**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**, **Vercel's Context.ai breach**, **Frontier model testing gets a federal lane**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Google TurboQuant**.\n\n## Related\n\n- [[Open Models]]\n- [[AI Benchmarks & Evals]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Privacy Tooling]]\n- [[Agent Security]]\n- [[Big Tech Moves]]\n- [[Gemma]]\n- [[Vera Rubin]]\n- [[Gemini]]\n- [[React Native ExecuTorch]]\n- [[Gemini Omni Flash]]\n- [[DiffusionGemma]]"
     },
     {
       "id": "gpt-56",
@@ -80942,21 +80984,35 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -83650,7 +83706,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, **Claude writes every weight of a tiny looped maze solver**, **Harvey post-trains four US open models past Kimi K3**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
+      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, **Claude writes every weight of a tiny looped maze solver**, **Harvey post-trains four US open models past Kimi K3**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
     },
     {
       "id": "moonshot-ai",
@@ -134193,6 +134249,8 @@
         "https://x.com/TheCoinCollect8/status/2125039784301306319",
         "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
+        "https://scottaaronson.blog/?p=10362#comment-2044495",
+        "https://x.com/letonyo/status/2125500340833534056",
         "https://x.com/kimmonismus/status/2125574747882704951",
         "https://eprint.iacr.org/2026/2971",
         "https://x.com/dntse/status/2124858372386337089",
@@ -134910,17 +134968,27 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
@@ -135811,6 +135879,8 @@
         "https://x.com/TheCoinCollect8/status/2125039784301306319",
         "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
+        "https://scottaaronson.blog/?p=10362#comment-2044495",
+        "https://x.com/letonyo/status/2125500340833534056",
         "https://x.com/kimmonismus/status/2125574747882704951",
         "https://eprint.iacr.org/2026/2971",
         "https://x.com/dntse/status/2124858372386337089",
@@ -136534,6 +136604,16 @@
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
           "title": "google-research commit 4a7bc8a (six Cogentic papers)",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Scott Aaronson: Shtetl-Optimized comment #2044495",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Anthony Leverrier (@letonyo) post on Aaronson's Factoring in P comment",
           "section": "Models & Research"
         },
         {
@@ -161539,21 +161619,35 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -161797,7 +161891,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# AI Mathematics\n\nAI Mathematics covers systems that solve, verify, or help discover mathematical results, from competition problems and formal theorem proving to unpublished research questions and open conjectures.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **OpenAI claims three discoveries, including a refutation of ETH** and **DeepMind proves Signal's encryption holds down to the machine code**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **OpenAI's math paper dump and the Lean gap** and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**.\n\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**.\n- [[Sovereign AI Club - July 22, 2026]]: **AI math crosses from medals into new proofs**.\n\n## Related\n\n- [[AI Benchmarks & Evals]]\n- [[Models & Research]]\n- [[Anthropic]]\n- [[Google]]\n- [[Gemini]]\n- [[OpenAI]]\n- [[Levent Alpöge]]\n- [[Leanstral]]\n- [[AlphaEvolve]]\n- [[Astra]]\n- [[Coding Agents]]"
+      "bodyMarkdown": "# AI Mathematics\n\nAI Mathematics covers systems that solve, verify, or help discover mathematical results, from competition problems and formal theorem proving to unpublished research questions and open conjectures.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **OpenAI claims three discoveries, including a refutation of ETH** and **DeepMind proves Signal's encryption holds down to the machine code**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **OpenAI's math paper dump and the Lean gap** and **Bunker mode: Justin Drake's ECDSA warning**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **OpenAI’s Navier–Stokes claim sparks a research-credit dispute**.\n\n- [[Sovereign AI Club - August 5, 2026]]: **Astra turns open math problems into Lean certificates for about $2K**.\n- [[Sovereign AI Club - July 22, 2026]]: **AI math crosses from medals into new proofs**.\n\n## Related\n\n- [[AI Benchmarks & Evals]]\n- [[Models & Research]]\n- [[Anthropic]]\n- [[Google]]\n- [[Gemini]]\n- [[OpenAI]]\n- [[Levent Alpöge]]\n- [[Leanstral]]\n- [[AlphaEvolve]]\n- [[Astra]]\n- [[Coding Agents]]"
     },
     "ai-saas-supply-chain": {
       "id": "ai-saas-supply-chain",
@@ -189251,21 +189345,35 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -189943,7 +190051,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 1, 2026"
         }
       ],
-      "bodyMarkdown": "# Gemini\n\nGemini is Google's frontier model family and an upstream technology reference for Gemma, Google media models, benchmark comparisons, and release-cadence rumors.\n\nOn September 30, Google announced Gemini 4 Argon with initial access for trusted cyber defenders through Fairwind. Broad API and consumer access is planned; introductory input/output prices are $2/$10 per million tokens, rising to $4/$20 after the introductory period.\n\nIn November 2026, Google expanded the Gemini 4 lineup with Carbon (GA Nov 10 at $2/$10, rising to $4/$20 Dec 1), Gemini Decision 1 (Nov 11, $0.10/M input), Hydrogen (Nov 12, $1.50/$7.50 replacing Flash), and Neon (Nov 18, $3/$15 paid-only at 61 AA Index). On November 25, Google Research committed six unreviewed math preprints generated by its Gemini 4-powered Cogentic agent (Lean 4 files pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases** and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **DeepMind proves Signal's encryption holds down to the machine code**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **ARC AGI benchmark #3**.\n\n## Related\n\n- [[Google]]\n- [[Gemma]]\n- [[AI Benchmarks & Evals]]\n- [[AI Mathematics]]\n- [[Models & Research]]"
+      "bodyMarkdown": "# Gemini\n\nGemini is Google's frontier model family and an upstream technology reference for Gemma, Google media models, benchmark comparisons, and release-cadence rumors.\n\nOn September 30, Google announced Gemini 4 Argon with initial access for trusted cyber defenders through Fairwind. Broad API and consumer access is planned; introductory input/output prices are $2/$10 per million tokens, rising to $4/$20 after the introductory period.\n\nIn November 2026, Google expanded the Gemini 4 lineup with Carbon (GA Nov 10 at $2/$10, rising to $4/$20 Dec 1), Gemini Decision 1 (Nov 11, $0.10/M input), Hydrogen (Nov 12, $1.50/$7.50 replacing Flash), and Neon (Nov 18, $3/$15 paid-only at 61 AA Index). On November 25, Google Research committed six unreviewed math preprints generated by its Gemini 4-powered Cogentic agent (Lean 4 files pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases** and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **DeepMind proves Signal's encryption holds down to the machine code**.\n- [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **ARC AGI benchmark #3**.\n\n## Related\n\n- [[Google]]\n- [[Gemma]]\n- [[AI Benchmarks & Evals]]\n- [[AI Mathematics]]\n- [[Models & Research]]"
     },
     "gemini-omni-flash": {
       "id": "gemini-omni-flash",
@@ -195717,21 +195825,35 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -197123,7 +197245,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Google\n\nGoogle is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.\n\nNovember 2026 coverage includes donating Agent Substrate 1.0 (<500 ms suspend/resume on gVisor or Cloud Hypervisor), gVisor, and OpenRL to the CNCF Sandbox alongside [[NVIDIA]]'s OpenShell, TPU 8tx (confidential inference on TPU 8t silicon with AMD EPYC hosts), Chrome 157's exploited XML fix, [[Gemini|Gemini 4]] Hydrogen ($1.50/$7.50), Neon ($3/$15), Decision 1 ($0.10/M input), and Genie 4's paid API rollout, Google Threat Intelligence Group's report on an autonomous `exploit_agent` diffing patches into live exploits, Google DeepMind open-sourcing Apache 2.0 `gBench` (86 eval suites, chat-template checks, and [[OpenClaw]] tests for local [[vLLM]] / [[Ollama]] endpoints), and Google Research committing six unreviewed [[Gemini|Gemini 4]] Cogentic math papers (with Lean 4 formalizations still pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA hand open agent sandboxes to CNCF**, **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **Google ships a runnable zero-trust agent failure lab**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **Hassabis becomes Alphabet Chief Scientist as Koray takes GDM**.\n- [[Sovereign AI Club - July 22, 2026]]: **AlphaEvolve turns algorithm discovery into a cloud product**, **Closed model releases**, **Vera Rubin racks move into production**, **The AI safety leaderboard tops out at C+**, and **Europe makes Android's AI layer contestable**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**, **Vercel's Context.ai breach**, **Frontier model testing gets a federal lane**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Google TurboQuant**.\n\n## Related\n\n- [[Open Models]]\n- [[AI Benchmarks & Evals]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Privacy Tooling]]\n- [[Agent Security]]\n- [[Big Tech Moves]]\n- [[Gemma]]\n- [[Vera Rubin]]\n- [[Gemini]]\n- [[React Native ExecuTorch]]\n- [[Gemini Omni Flash]]\n- [[DiffusionGemma]]"
+      "bodyMarkdown": "# Google\n\nGoogle is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.\n\nNovember 2026 coverage includes donating Agent Substrate 1.0 (<500 ms suspend/resume on gVisor or Cloud Hypervisor), gVisor, and OpenRL to the CNCF Sandbox alongside [[NVIDIA]]'s OpenShell, TPU 8tx (confidential inference on TPU 8t silicon with AMD EPYC hosts), Chrome 157's exploited XML fix, [[Gemini|Gemini 4]] Hydrogen ($1.50/$7.50), Neon ($3/$15), Decision 1 ($0.10/M input), and Genie 4's paid API rollout, Google Threat Intelligence Group's report on an autonomous `exploit_agent` diffing patches into live exploits, Google DeepMind open-sourcing Apache 2.0 `gBench` (86 eval suites, chat-template checks, and [[OpenClaw]] tests for local [[vLLM]] / [[Ollama]] endpoints), and Google Research committing six unreviewed [[Gemini|Gemini 4]] Cogentic math papers (with Lean 4 formalizations still pending).\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA hand open agent sandboxes to CNCF**, **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **Google ships a runnable zero-trust agent failure lab**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **Hassabis becomes Alphabet Chief Scientist as Koray takes GDM**.\n- [[Sovereign AI Club - July 22, 2026]]: **AlphaEvolve turns algorithm discovery into a cloud product**, **Closed model releases**, **Vera Rubin racks move into production**, **The AI safety leaderboard tops out at C+**, and **Europe makes Android's AI layer contestable**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Closed model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **AI Twitter's model-release calendar slips**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases**, **Vercel's Context.ai breach**, **Frontier model testing gets a federal lane**, and **Pentagon picks a classified AI stack**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Google TurboQuant**.\n\n## Related\n\n- [[Open Models]]\n- [[AI Benchmarks & Evals]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Privacy Tooling]]\n- [[Agent Security]]\n- [[Big Tech Moves]]\n- [[Gemma]]\n- [[Vera Rubin]]\n- [[Gemini]]\n- [[React Native ExecuTorch]]\n- [[Gemini Omni Flash]]\n- [[DiffusionGemma]]"
     },
     "gpt-56": {
       "id": "gpt-56",
@@ -234129,21 +234251,35 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
@@ -236837,7 +236973,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, **Claude writes every weight of a tiny looped maze solver**, **Harvey post-trains four US open models past Kimi K3**, and **Google's Cogentic agent drops six unverified math papers**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
+      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, **Claude writes every weight of a tiny looped maze solver**, **Harvey post-trains four US open models past Kimi K3**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
     },
     "moonshot-ai": {
       "id": "moonshot-ai",
@@ -287380,6 +287516,8 @@
         "https://x.com/TheCoinCollect8/status/2125039784301306319",
         "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
+        "https://scottaaronson.blog/?p=10362#comment-2044495",
+        "https://x.com/letonyo/status/2125500340833534056",
         "https://x.com/kimmonismus/status/2125574747882704951",
         "https://eprint.iacr.org/2026/2971",
         "https://x.com/dntse/status/2124858372386337089",
@@ -288097,17 +288235,27 @@
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
@@ -288998,6 +289146,8 @@
         "https://x.com/TheCoinCollect8/status/2125039784301306319",
         "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
+        "https://scottaaronson.blog/?p=10362#comment-2044495",
+        "https://x.com/letonyo/status/2125500340833534056",
         "https://x.com/kimmonismus/status/2125574747882704951",
         "https://eprint.iacr.org/2026/2971",
         "https://x.com/dntse/status/2124858372386337089",
@@ -289721,6 +289871,16 @@
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
           "title": "google-research commit 4a7bc8a (six Cogentic papers)",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Scott Aaronson: Shtetl-Optimized comment #2044495",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Anthony Leverrier (@letonyo) post on Aaronson's Factoring in P comment",
           "section": "Models & Research"
         },
         {
@@ -307653,10 +307813,10 @@
       "searchText": "Google open-sources gBench to test local open models Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/google-deepmind/gbench https://pypi.org/project/gbench/ https://x.com/googlegemma/status/2124935724999073902 AI Benchmarks & Evals Gemma Google Local AI Models & Research Ollama Open Models OpenClaw vLLM"
     },
     {
-      "id": "sovereign-ai-club-november-25-2026-models-research-googles-cogentic-agent-drops-six-unverified-math-papers",
-      "title": "Google's Cogentic agent drops six unverified math papers",
-      "rawTitle": "Google's Cogentic agent drops six unverified math papers",
-      "normalizedTitle": "google's cogentic agent drops six unverified math papers",
+      "id": "sovereign-ai-club-november-25-2026-models-research-googles-cogentic-drops-factoring-papers-amid-aaronsons-crypto-rumors",
+      "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+      "rawTitle": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+      "normalizedTitle": "google's cogentic drops factoring papers amid aaronson's crypto rumors",
       "section": "Models & Research",
       "meetupId": "sovereign-ai-club-november-25-2026",
       "meetupTitle": "Sovereign AI Club - November 25, 2026",
@@ -307665,22 +307825,34 @@
       "sourceLinks": [
         "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
+        "https://scottaaronson.blog/?p=10362#comment-2044495",
+        "https://x.com/letonyo/status/2125500340833534056",
         "https://x.com/kimmonismus/status/2125574747882704951"
       ],
       "sourceReferences": [
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         }
       ],
@@ -307697,7 +307869,7 @@
         "Models & Research"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "Google's Cogentic agent drops six unverified math papers Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/google-research/google-research/tree/master/cogentic_research_papers https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a https://x.com/kimmonismus/status/2125574747882704951 AI Mathematics Gemini Google Models & Research"
+      "searchText": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/google-research/google-research/tree/master/cogentic_research_papers https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a https://scottaaronson.blog/?p=10362#comment-2044495 https://x.com/letonyo/status/2125500340833534056 https://x.com/kimmonismus/status/2125574747882704951 AI Mathematics Gemini Google Models & Research"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-models-research-harvey-post-trains-four-us-open-models-past-kimi-k3",
@@ -332103,11 +332275,11 @@
       "unresolvedWikiLinks": [],
       "searchText": "Google open-sources gBench to test local open models Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/google-deepmind/gbench https://pypi.org/project/gbench/ https://x.com/googlegemma/status/2124935724999073902 AI Benchmarks & Evals Gemma Google Local AI Models & Research Ollama Open Models OpenClaw vLLM"
     },
-    "sovereign-ai-club-november-25-2026-models-research-googles-cogentic-agent-drops-six-unverified-math-papers": {
-      "id": "sovereign-ai-club-november-25-2026-models-research-googles-cogentic-agent-drops-six-unverified-math-papers",
-      "title": "Google's Cogentic agent drops six unverified math papers",
-      "rawTitle": "Google's Cogentic agent drops six unverified math papers",
-      "normalizedTitle": "google's cogentic agent drops six unverified math papers",
+    "sovereign-ai-club-november-25-2026-models-research-googles-cogentic-drops-factoring-papers-amid-aaronsons-crypto-rumors": {
+      "id": "sovereign-ai-club-november-25-2026-models-research-googles-cogentic-drops-factoring-papers-amid-aaronsons-crypto-rumors",
+      "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+      "rawTitle": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+      "normalizedTitle": "google's cogentic drops factoring papers amid aaronson's crypto rumors",
       "section": "Models & Research",
       "meetupId": "sovereign-ai-club-november-25-2026",
       "meetupTitle": "Sovereign AI Club - November 25, 2026",
@@ -332116,22 +332288,34 @@
       "sourceLinks": [
         "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
+        "https://scottaaronson.blog/?p=10362#comment-2044495",
+        "https://x.com/letonyo/status/2125500340833534056",
         "https://x.com/kimmonismus/status/2125574747882704951"
       ],
       "sourceReferences": [
         {
           "href": "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
           "href": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://scottaaronson.blog/?p=10362#comment-2044495",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         },
         {
           "href": "https://x.com/kimmonismus/status/2125574747882704951",
-          "title": "Google's Cogentic agent drops six unverified math papers",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/letonyo/status/2125500340833534056",
+          "title": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors",
           "section": "Models & Research"
         }
       ],
@@ -332148,7 +332332,7 @@
         "Models & Research"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "Google's Cogentic agent drops six unverified math papers Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/google-research/google-research/tree/master/cogentic_research_papers https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a https://x.com/kimmonismus/status/2125574747882704951 AI Mathematics Gemini Google Models & Research"
+      "searchText": "Google's Cogentic drops factoring papers amid Aaronson's crypto rumors Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/google-research/google-research/tree/master/cogentic_research_papers https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a https://scottaaronson.blog/?p=10362#comment-2044495 https://x.com/letonyo/status/2125500340833534056 https://x.com/kimmonismus/status/2125574747882704951 AI Mathematics Gemini Google Models & Research"
     },
     "sovereign-ai-club-november-25-2026-models-research-harvey-post-trains-four-us-open-models-past-kimi-k3": {
       "id": "sovereign-ai-club-november-25-2026-models-research-harvey-post-trains-four-us-open-models-past-kimi-k3",
@@ -382029,7 +382213,7 @@
     "rawPageCount": 0,
     "linkCount": 2667,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 2157,
+    "sourceLinkCount": 2159,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-25"
   }

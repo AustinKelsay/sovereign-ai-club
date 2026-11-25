@@ -17,7 +17,7 @@ In November 2026, Google expanded the Gemini 4 lineup with Carbon (GA Nov 10 at 
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases** and **Google's Cogentic agent drops six unverified math papers**.
+- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases** and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases** and **DeepMind proves Signal's encryption holds down to the machine code**.
 - [[Sovereign AI Club - September 30, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**.

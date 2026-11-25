@@ -15,7 +15,7 @@ November 2026 coverage includes donating Agent Substrate 1.0 (<500 ms suspend/re
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA hand open agent sandboxes to CNCF**, **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic agent drops six unverified math papers**.
+- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA hand open agent sandboxes to CNCF**, **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.
 - [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.
