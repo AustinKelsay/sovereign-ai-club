@@ -556,6 +556,15 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Dark Web Informer post** — https://x.com/darkwebinformer/status/2125322584212279633
   Type: X post. Accessed: 2026-11-25. November 24 alert summarizing the CIA / ODNI unclassified OSINT network breach.
 
+### Treasury's CIO vibecodes a Civ clone during a FinCEN breach
+
+- **The Verge: US financial crimes bureau discloses 'cybersecurity incident'** — https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident
+  Type: news report. Accessed: 2026-11-25. Covers Treasury FinCEN's November 24 disclosure of unauthorized access to a limited subset of its systems, precautionary outages, and unclear link to the CIA/ODNI/NGA breach.
+- **404 Media: Treasury CIO Is Vibe Coding a 'Civilization' Clone During Treasury Department Hack** — https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/
+  Type: news report. Accessed: 2026-11-25. Documents Treasury CIO Sam Corcos's public `Legatum` repo receiving Claude Code and Codex updates (theme music, Egypt chariot archer tweaks quoting Corcos directly) after FinCEN's incident notice.
+- **@me_irl post quoting Catherine Rampell on Issue #165** — https://x.com/me_irl/status/2125598593125900337
+  Type: X post. Accessed: 2026-11-25. Viral November 25 post (~282k views) quoting `@crampell` (1.7M views) with screenshots of `samcorcos — with Claude` auto-closing `Legatum` Issue #165 ("The Treasury Department is being hacked and you are vibecoding a video game instead") as `off-topic`.
+
 ### OpenAI and Cisco launch Shirudo for agent-written Linux shields
 
 - **OpenAI: OpenAI and Cisco introduce Shirudo** — https://openai.com/index/introducing-shirudo/

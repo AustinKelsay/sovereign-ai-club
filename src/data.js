@@ -619,6 +619,18 @@ export const meetups = [
             notes: "Reported November 24 alongside a wider wave of mid-November federal disruptions and breaches (FBI, USDA, and the FAA/bank/NSA outage fight on the previous slide). CIA declined comment; entry vector, scope, and attribution remain undisclosed.",
           },
           {
+            title: "Treasury's CIO vibecodes a Civ clone during a FinCEN breach",
+            description: "While Treasury's FinCEN disclosed a breach and took systems offline, Treasury CIO Sam Corcos's public Civ-clone repo kept shipping music and unit tweaks—and Claude Code closed a \"fix Treasury\" GitHub issue as off-topic. Corcos says the computers run on their own, though 404 Media spotted fresh commits quoting his live notes.",
+            href: "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+            linkPair: [
+              "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/me_irl/status/2125598593125900337" },
+            ],
+            notes: "FinCEN handles Bank Secrecy Act suspicious-activity reports and hasn't disclosed the scope or whether it links to the CIA/ODNI breach right before this slide. Issue #165 on Legatum was closed by samcorcos — with Claude citing the repo's Code of Conduct; 404 Media cited a post-notice commit quoting Corcos on Egypt's chariot archers.",
+          },
+          {
             title: "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
             description: "OpenAI and Cisco open-sourced Shirudo, a BSD-licensed Linux runtime where agents like Codex write signed eBPF micropatches—demonstrated blocking Java4Shell on a live Elasticsearch server without restarting it. The catch: it's pre-release, and production hosts need Shirudo's custom kernel patches plus a TPM 2.0.",
             href: "https://openai.com/index/introducing-shirudo/",

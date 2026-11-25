@@ -2,6 +2,11 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add Treasury FinCEN breach / Sam Corcos Legatum slide to Security
+
+- Added **Treasury's CIO vibecodes a Civ clone during a FinCEN breach** to Security right after the CIA/ODNI breach slide, linking The Verge (`fincen-treasury-cybersecurity-incident`), 404 Media, and `@me_irl`'s post showing `samcorcos — with Claude` auto-closing `Legatum` Issue #165 as `off-topic`.
+- Updated `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and reciprocal `Mentioned In` entries on `Security` and `Claude Code`.
+
 ## [2026-11-25] update | Add David Louapre's looped-transformer explainer to looped maze solver slide
 
 - Folded David Louapre's November 25 Hugging Face Space (`huggingface.co/spaces/dlouapre/looped-transformers`) and launch post (`x.com/dlouapre/status/2125586886680813707`) into **Claude writes every weight of a tiny looped maze solver** in Models & Research, adding the plain-English intuition and KV-cache tradeoff for tonight's looped-transformer wave (Inkling 2 Mini, GLM-5.4, SenseNova-Loop-9B).

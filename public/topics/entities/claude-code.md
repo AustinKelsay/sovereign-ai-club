@@ -13,7 +13,7 @@ Claude Code is Anthropic's coding-agent product, recurring in the wiki as a prac
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Claude writes every weight of a tiny looped maze solver**, and **T3 Code's telemetry backlash sparks a 25-tool privacy audit**.
+- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Claude writes every weight of a tiny looped maze solver**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, and **Treasury's CIO vibecodes a Civ clone during a FinCEN breach**.
 - [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.
 - [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.
 - [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.
