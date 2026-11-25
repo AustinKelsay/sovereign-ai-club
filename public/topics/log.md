@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add Theo's Nov 25 "Final statement" to T3 Code telemetry slide
+
+- Added Theo's November 25 "Final statement" post (`x.com/theo/status/2125700717935841479`) and noted T3 Code's follow-up November 25 PRs (`#42629` honoring `DO_NOT_TRACK`, `#42630` disabling CI telemetry) on **T3 Code's telemetry backlash sparks a 25-tool privacy audit** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
+
 ## [2026-11-25] update | Fold Daebak Tarbell/media-funding post into Jensen Huang slide
 
 - Added `@MyDaebakCafe`'s November 24 post (`x.com/MyDaebakCafe/status/2125163565329899645`, 4.4k likes / 260k views) charting Tarbell Center's $10M journalism grant program, Tarbell fellows' follow-up pieces, and The Midas Project's role in WaPo's bot piece to **NVIDIA's board reinstates Jensen Huang eleven days after he resigned** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`, keeping the editorial-independence and original-scoop attribution caveats in Presenter Notes.

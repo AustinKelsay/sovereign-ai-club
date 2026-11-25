@@ -504,6 +504,8 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: X post. Accessed: 2026-11-24. Highlighted `Identify.ts` reading `~/.codex/auth.json` and `~/.claude.json` before PR `#42299` stripped those reads overnight.
 - **Theo's Nov 24 telemetry defense** — https://x.com/theo/status/2125186071357251715
   Type: X post. Accessed: 2026-11-24. Defended T3 Code's managed-policy opt-out over a single-machine settings toggle.
+- **Theo's Nov 25 "Final statement" on T3 Code telemetry** — https://x.com/theo/status/2125700717935841479
+  Type: X post. Accessed: 2026-11-25. November 25 post (`21:18 UTC`, 804 likes / 26.8k views) stating T3 Code has never sold data or uploaded files, prompts, responses, emails, user IDs, file paths, or inputs/outputs (cutting off mid-sentence at the 280-char cap); follows Nov 25 PRs `#42629` (`DO_NOT_TRACK`) and `#42630` (CI opt-out).
 
 ### Maple AI raises $5.3M for verifiable, encrypted private AI
 

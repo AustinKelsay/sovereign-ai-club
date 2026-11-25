@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:53:34.539Z",
+  "generatedAt": "2026-11-25T21:55:30.064Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -20469,6 +20469,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
           "title": "Treasury's CIO vibecodes a Civ clone during a FinCEN breach",
           "section": "Security",
@@ -22749,6 +22756,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://openai.com/index/introducing-shirudo/",
           "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
           "section": "Security",
@@ -24199,6 +24213,13 @@
         },
         {
           "href": "https://x.com/theo/status/2125186071357251715",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -47062,6 +47083,13 @@
         },
         {
           "href": "https://x.com/theo/status/2125186071357251715",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -103623,6 +103651,13 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         }
       ],
       "bodyMarkdown": "# OpenCode\n\nOpenCode is the coding-agent harness from the Anomaly team. On October 17, 2026 its official account said a distillation attack the night before affected 1.4% of OpenCode Console users who had external providers linked, that those users were emailed, and that more detail would wait because the incident was still ongoing. In Zach Miller's November 25, 2026 privacy audit of 25 open-source coding harnesses, OpenCode received a `D` over a desktop production Sentry bug and un-gated update checks.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **T3 Code's telemetry backlash sparks a 25-tool privacy audit**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **OpenCode distillation attack**.\n\n## Related\n\n- [[OpenTunnel]]\n- [[Coding Agents]]\n- [[Model Distillation]]\n- [[Agent Security]]\n- [[Privacy Tooling]]"
@@ -108127,6 +108162,13 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         }
       ],
       "bodyMarkdown": "# Pi\n\nPi is Earendil's minimal, MIT-licensed agent harness. Pi 1.0, shipped October 1, 2026, adds Codemode, deferred tool loading, and mid-conversation system messages. Pi Durable is a separate experimental package for long-running agent applications, also MIT. In Zach Miller's November 25, 2026 privacy audit of 25 open-source coding harnesses, Pi earned a `C` for zero third-party analytics SDKs and an `--offline` killswitch.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **T3 Code's telemetry backlash sparks a 25-tool privacy audit**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Earendil's Pi 1.0 and Pi Durable** and **Reason Network lets your agents message your teammates' agents**.\n\n## Related\n\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Privacy Tooling]]\n- [[Jev]]"
@@ -109856,6 +109898,13 @@
         },
         {
           "href": "https://x.com/theo/status/2125186071357251715",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -117620,6 +117669,13 @@
         },
         {
           "href": "https://x.com/theo/status/2125186071357251715",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -136271,6 +136327,7 @@
         "https://x.com/realchendahuang/status/2125153472450527440",
         "https://x.com/MiaAI_lab/status/2125224970959605857",
         "https://x.com/theo/status/2125186071357251715",
+        "https://x.com/theo/status/2125700717935841479",
         "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
         "https://x.com/TryMapleAI/status/2125377545709248916",
         "https://safeguards.anthropic.com/2026/siren/",
@@ -137376,6 +137433,11 @@
           "section": "Security"
         },
         {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security"
+        },
+        {
           "href": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
           "title": "Maple AI raises $5.3M for verifiable, encrypted private AI",
           "section": "Security"
@@ -138099,6 +138161,7 @@
         "https://x.com/realchendahuang/status/2125153472450527440",
         "https://x.com/MiaAI_lab/status/2125224970959605857",
         "https://x.com/theo/status/2125186071357251715",
+        "https://x.com/theo/status/2125700717935841479",
         "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
         "https://x.com/TryMapleAI/status/2125377545709248916",
         "https://safeguards.anthropic.com/2026/siren/",
@@ -139201,6 +139264,11 @@
         {
           "href": "https://x.com/theo/status/2125186071357251715",
           "title": "Theo's Nov 24 telemetry defense",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "Theo's Nov 25 \"Final statement\" on T3 Code telemetry",
           "section": "Security"
         },
         {
@@ -176180,6 +176248,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
           "title": "Treasury's CIO vibecodes a Civ clone during a FinCEN breach",
           "section": "Security",
@@ -178460,6 +178535,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://openai.com/index/introducing-shirudo/",
           "title": "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
           "section": "Security",
@@ -179910,6 +179992,13 @@
         },
         {
           "href": "https://x.com/theo/status/2125186071357251715",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -202773,6 +202862,13 @@
         },
         {
           "href": "https://x.com/theo/status/2125186071357251715",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -259334,6 +259430,13 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         }
       ],
       "bodyMarkdown": "# OpenCode\n\nOpenCode is the coding-agent harness from the Anomaly team. On October 17, 2026 its official account said a distillation attack the night before affected 1.4% of OpenCode Console users who had external providers linked, that those users were emailed, and that more detail would wait because the incident was still ongoing. In Zach Miller's November 25, 2026 privacy audit of 25 open-source coding harnesses, OpenCode received a `D` over a desktop production Sentry bug and un-gated update checks.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **T3 Code's telemetry backlash sparks a 25-tool privacy audit**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **OpenCode distillation attack**.\n\n## Related\n\n- [[OpenTunnel]]\n- [[Coding Agents]]\n- [[Model Distillation]]\n- [[Agent Security]]\n- [[Privacy Tooling]]"
@@ -263838,6 +263941,13 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         }
       ],
       "bodyMarkdown": "# Pi\n\nPi is Earendil's minimal, MIT-licensed agent harness. Pi 1.0, shipped October 1, 2026, adds Codemode, deferred tool loading, and mid-conversation system messages. Pi Durable is a separate experimental package for long-running agent applications, also MIT. In Zach Miller's November 25, 2026 privacy audit of 25 open-source coding harnesses, Pi earned a `C` for zero third-party analytics SDKs and an `--offline` killswitch.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **T3 Code's telemetry backlash sparks a 25-tool privacy audit**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Earendil's Pi 1.0 and Pi Durable** and **Reason Network lets your agents message your teammates' agents**.\n\n## Related\n\n- [[Coding Agents]]\n- [[Agent Infrastructure]]\n- [[Privacy Tooling]]\n- [[Jev]]"
@@ -265567,6 +265677,13 @@
         },
         {
           "href": "https://x.com/theo/status/2125186071357251715",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -273331,6 +273448,13 @@
         },
         {
           "href": "https://x.com/theo/status/2125186071357251715",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -291982,6 +292106,7 @@
         "https://x.com/realchendahuang/status/2125153472450527440",
         "https://x.com/MiaAI_lab/status/2125224970959605857",
         "https://x.com/theo/status/2125186071357251715",
+        "https://x.com/theo/status/2125700717935841479",
         "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
         "https://x.com/TryMapleAI/status/2125377545709248916",
         "https://safeguards.anthropic.com/2026/siren/",
@@ -293087,6 +293212,11 @@
           "section": "Security"
         },
         {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security"
+        },
+        {
           "href": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
           "title": "Maple AI raises $5.3M for verifiable, encrypted private AI",
           "section": "Security"
@@ -293810,6 +293940,7 @@
         "https://x.com/realchendahuang/status/2125153472450527440",
         "https://x.com/MiaAI_lab/status/2125224970959605857",
         "https://x.com/theo/status/2125186071357251715",
+        "https://x.com/theo/status/2125700717935841479",
         "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
         "https://x.com/TryMapleAI/status/2125377545709248916",
         "https://safeguards.anthropic.com/2026/siren/",
@@ -294912,6 +295043,11 @@
         {
           "href": "https://x.com/theo/status/2125186071357251715",
           "title": "Theo's Nov 24 telemetry defense",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "Theo's Nov 25 \"Final statement\" on T3 Code telemetry",
           "section": "Security"
         },
         {
@@ -314324,7 +314460,8 @@
         "https://x.com/zrymiller/status/2125497546772812061",
         "https://x.com/realchendahuang/status/2125153472450527440",
         "https://x.com/MiaAI_lab/status/2125224970959605857",
-        "https://x.com/theo/status/2125186071357251715"
+        "https://x.com/theo/status/2125186071357251715",
+        "https://x.com/theo/status/2125700717935841479"
       ],
       "sourceReferences": [
         {
@@ -314358,6 +314495,11 @@
           "section": "Security"
         },
         {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security"
+        },
+        {
           "href": "https://x.com/zrymiller/status/2125497546772812061",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security"
@@ -314384,7 +314526,7 @@
         "Security"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "T3 Code's telemetry backlash sparks a 25-tool privacy audit Security Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/millZach/ai-agent-telemetry-audit https://github.com/pingdotgg/t3code/blob/main/docs/user/telemetry.md https://github.com/pingdotgg/t3code/issues/4123 https://x.com/zrymiller/status/2125497546772812061 https://x.com/realchendahuang/status/2125153472450527440 https://x.com/MiaAI_lab/status/2125224970959605857 https://x.com/theo/status/2125186071357251715 Claude Code Codex Coding Agents Hermes Agent OpenCode Pi Privacy Tooling Security"
+      "searchText": "T3 Code's telemetry backlash sparks a 25-tool privacy audit Security Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/millZach/ai-agent-telemetry-audit https://github.com/pingdotgg/t3code/blob/main/docs/user/telemetry.md https://github.com/pingdotgg/t3code/issues/4123 https://x.com/zrymiller/status/2125497546772812061 https://x.com/realchendahuang/status/2125153472450527440 https://x.com/MiaAI_lab/status/2125224970959605857 https://x.com/theo/status/2125186071357251715 https://x.com/theo/status/2125700717935841479 Claude Code Codex Coding Agents Hermes Agent OpenCode Pi Privacy Tooling Security"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-security-treasurys-cio-vibecodes-a-civ-clone-during-a-fincen-breach",
@@ -339062,7 +339204,8 @@
         "https://x.com/zrymiller/status/2125497546772812061",
         "https://x.com/realchendahuang/status/2125153472450527440",
         "https://x.com/MiaAI_lab/status/2125224970959605857",
-        "https://x.com/theo/status/2125186071357251715"
+        "https://x.com/theo/status/2125186071357251715",
+        "https://x.com/theo/status/2125700717935841479"
       ],
       "sourceReferences": [
         {
@@ -339096,6 +339239,11 @@
           "section": "Security"
         },
         {
+          "href": "https://x.com/theo/status/2125700717935841479",
+          "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+          "section": "Security"
+        },
+        {
           "href": "https://x.com/zrymiller/status/2125497546772812061",
           "title": "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
           "section": "Security"
@@ -339122,7 +339270,7 @@
         "Security"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "T3 Code's telemetry backlash sparks a 25-tool privacy audit Security Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/millZach/ai-agent-telemetry-audit https://github.com/pingdotgg/t3code/blob/main/docs/user/telemetry.md https://github.com/pingdotgg/t3code/issues/4123 https://x.com/zrymiller/status/2125497546772812061 https://x.com/realchendahuang/status/2125153472450527440 https://x.com/MiaAI_lab/status/2125224970959605857 https://x.com/theo/status/2125186071357251715 Claude Code Codex Coding Agents Hermes Agent OpenCode Pi Privacy Tooling Security"
+      "searchText": "T3 Code's telemetry backlash sparks a 25-tool privacy audit Security Sovereign AI Club - November 25, 2026 2026-11-25 https://github.com/millZach/ai-agent-telemetry-audit https://github.com/pingdotgg/t3code/blob/main/docs/user/telemetry.md https://github.com/pingdotgg/t3code/issues/4123 https://x.com/zrymiller/status/2125497546772812061 https://x.com/realchendahuang/status/2125153472450527440 https://x.com/MiaAI_lab/status/2125224970959605857 https://x.com/theo/status/2125186071357251715 https://x.com/theo/status/2125700717935841479 Claude Code Codex Coding Agents Hermes Agent OpenCode Pi Privacy Tooling Security"
     },
     "sovereign-ai-club-november-25-2026-security-treasurys-cio-vibecodes-a-civ-clone-during-a-fincen-breach": {
       "id": "sovereign-ai-club-november-25-2026-security-treasurys-cio-vibecodes-a-civ-clone-during-a-fincen-breach",
@@ -387669,7 +387817,7 @@
     "rawPageCount": 0,
     "linkCount": 2669,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 2192,
+    "sourceLinkCount": 2193,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-25"
   }
