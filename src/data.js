@@ -395,11 +395,15 @@ export const meetups = [
               "https://github.com/anthropics/FlashProve",
               "https://ddkang.substack.com/p/zktransformer-making-it-10-faster",
               "https://github.com/uiuc-kang-lab/zkTransformer",
+              "https://inferenceproofs.ai",
+              "https://lucidcomputing.ai/blog/introducing-inference-proofs",
+              "https://github.com/ai-verification-observatory/inference-proofs",
             ],
             embeds: [
               { type: "tweet", href: "https://x.com/ddkang/status/2123445796188443051" },
+              { type: "tweet", href: "https://x.com/LucidCompute/status/2125635757033361570" },
             ],
-            notes: "FlashProve is marked \"not maintained\" on GitHub, runs post-hoc on Llama 4 Maverick 4-bit (~19 MB proof, ~17s verify), and doesn't cover floating-point sampling; zkTransformer hits ~1.7s/token on GPT-2. Direct technical answer to Security's Prime Intellect 53-hour weight-swap incident.",
+            notes: "FlashProve is marked \"not maintained\" on GitHub, runs post-hoc on Llama 4 Maverick 4-bit (~19 MB proof, ~17s verify), and skips floating-point sampling; zkTransformer hits ~1.7s/token on GPT-2. Lucid Computing, Ethereum Foundation dAI, StarkWare, and partners also launched Apache 2.0 Inference Proofs (inferenceproofs.ai) today to benchmark FlashProve and SASH on frozen 512→512 prompts with CPU-only tampering checks—a direct answer to Security's Prime Intellect weight-swap incident.",
           },
           {
             title: "Claude writes every weight of a tiny looped maze solver",

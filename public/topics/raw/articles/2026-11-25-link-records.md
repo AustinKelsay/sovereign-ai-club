@@ -348,6 +348,14 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: GitHub repository. Accessed: 2026-11-23. Apache 2.0 implementation of zkTransformer.
 - **Daniel Kang's post** — https://x.com/ddkang/status/2123445796188443051
   Type: X post. Accessed: 2026-11-23. Summarizes zkTransformer in reply to Anthropic's FlashProve announcement.
+- **Inference Proofs benchmark dashboard** — https://inferenceproofs.ai
+  Type: public benchmark. Accessed: 2026-11-25. Open benchmark and field map comparing proof-of-inference systems (starting with FlashProve and SASH) on frozen randomness-beacon 512-token prompt / 512-token reply requests with CPU-only no-weights tampering checks.
+- **Lucid Computing: AI verification needs a race of its own** — https://lucidcomputing.ai/blog/introducing-inference-proofs
+  Type: blog post. Accessed: 2026-11-25. November 25 launch post convened by Lucid Computing with SASH, Ethereum Foundation dAI, StarkWare, Polygon, Eigen Labs, zkSecurity, Miden, Lagrange, and partners.
+- **ai-verification-observatory/inference-proofs** — https://github.com/ai-verification-observatory/inference-proofs
+  Type: GitHub repository. Accessed: 2026-11-25. Apache 2.0 benchmark harness measuring proving overhead, proof size, verification time, and single-weight/token tampering checks.
+- **Lucid Computing launch post** — https://x.com/LucidCompute/status/2125635757033361570
+  Type: X post. Accessed: 2026-11-25. November 25 announcement launching Inference Proofs.
 
 ### Claude writes every weight of a tiny looped maze solver
 

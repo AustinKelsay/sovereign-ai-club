@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Fold Lucid Computing's Inference Proofs benchmark into provable inference slide
+
+- Added Lucid Computing and partners' Apache 2.0 **Inference Proofs** benchmark (`inferenceproofs.ai`, `lucidcomputing.ai/blog/introducing-inference-proofs`, `ai-verification-observatory/inference-proofs`, `x.com/LucidCompute/status/2125635757033361570`) to **Anthropic's FlashProve and UIUC's zkTransformer push provable inference** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
+
 ## [2026-11-25] update | Fold Gemma 4 fine-tuning hub into Google gBench slide
 
 - Added Google Gemma's November 25 fine-tuning hub (`gemma.ai/tuning/`, `x.com/googlegemma/status/2125631619692429690` — 17 guides and 40+ illustrations covering continued pre-training, custom chat templates, QLoRA, and GRPO) to **Google open-sources gBench to test local open models** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
