@@ -13,7 +13,7 @@ Hugging Face hosts models, datasets, and applications and supports model discove
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign "MisAnthropic" letter on Anthropic's IPO day**.
+- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Ramp Labs translates hidden states across models to skip re-prefill**, **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign "MisAnthropic" letter on Anthropic's IPO day**.
 - [[Sovereign AI Club - October 21, 2026]]: **Hugging Face trains open models inside Claude Code and Codex**.
 
 - [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **NVIDIA's Hugging Face deal revives the torrent exit**.

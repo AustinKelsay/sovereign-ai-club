@@ -314,6 +314,16 @@ export const meetups = [
             notes: "Baseten uses Elastic License 2.0 on Blackwell (one Tetris prompt with speculative decoding). Magnitude's Nov 24 launch claims 2-bit 64k decode at 54 tok/s Qwen 3.8 Flash Next on M5 Pro 48 GB, 41 tok/s on RTX 3090, 28 tok/s GLM 5.3 Flash on DGX Spark, and 17 tok/s DeepSeek V4.1-Flash on RTX 5090.",
           },
           {
+            title: "Ramp Labs translates hidden states across models to skip re-prefill",
+            description: "Follow-up to September 30's KV-cache handoff: Ramp Labs unveiled Speculative Encoding, a 2.35B MoE it says translates hidden states across seven models for up to 7.5× faster prefill. In the Hugging Face weights repo, though, each model still needs its own trained adapter—all seven are 8B–14B open models, with no README or license yet.",
+            href: "https://huggingface.co/RampPublic/speculative-encoding",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/RampLabs/status/2125627502802653330" },
+            ],
+            notes: "Ramp reports 96.9% base accuracy across seven adapters in RampPublic/speculative-encoding (~9.8 GB): Qwen3.5-9B, Qwen3-14B, Llama 3.1 8B, Gemma 3/4 12B, and Ministral 3 8B/14B (8-expert top-2 MoE plus a 128× compressor checkpoint). Still research .pt files rather than drop-in vLLM serving—and revives September 30's question: if swarms trade hidden states instead of text, what can you log?",
+          },
+          {
             title: "Harvey post-trains four US open models past Kimi K3",
             description: "Harvey and Baseten ran RL post-training on four US open models—Muse Spark Open, Nemotron 3.5 Super VL, Beam 1.0, and Inkling 2 Small—pushing Muse past 30% on Legal Agent Bench. The catch: Harvey kept the checkpoints private, and rubric wins didn't lift style ratings on Muse or Inkling.",
             href: "https://x.com/harvey/status/2125259420259250209",

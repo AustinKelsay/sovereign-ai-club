@@ -276,6 +276,13 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Tom Greenwald on SSD expert streaming** — https://x.com/tomgreenwald/status/2123875212093747663
   Type: X post. Accessed: 2026-11-23. Earlier teaser pitching DeepSeek V4.1-Flash at 40+ tok/s on one gaming GPU via SSD streaming.
 
+### Ramp Labs translates hidden states across models to skip re-prefill
+
+- **Hugging Face: RampPublic/speculative-encoding** — https://huggingface.co/RampPublic/speculative-encoding
+  Type: model repository. Accessed: 2026-11-25. November 25 upload (~9.8 GB `.pt` weights, no README or license file yet) containing the 8-expert top-2 MoE translator (`encoder.pt`, `decoder.pt`, `recipe.json`), per-model adapters for seven 8B–14B open models (`qwen35-9b`, `qwen3-14b`, `llama31-8b`, `gemma3-12b`, `gemma4-12b`, `ministral3-8b`, `ministral3-14b`), and a `compressor-128x` checkpoint.
+- **Ramp Labs launch post** — https://x.com/RampLabs/status/2125627502802653330
+  Type: X post. Accessed: 2026-11-25. November 25 announcement introducing speculative encoding (2.35B MoE) and claiming 96.9% base accuracy across seven models with up to 7.5× prefill latency reduction on long documents.
+
 ### Harvey post-trains four US open models past Kimi K3
 
 - **Harvey announcement post** — https://x.com/harvey/status/2125259420259250209

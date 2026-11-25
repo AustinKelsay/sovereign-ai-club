@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:29:28.431Z",
+  "generatedAt": "2026-11-25T17:32:35.269Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -46996,6 +46996,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://lotusmake.com/posts/where-uncensored-models-come-from",
           "title": "Uncensored models: most are repacks, and Pliny's 10-word hack misfired",
           "section": "Models & Research",
@@ -47290,7 +47304,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Hugging Face\n\nHugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice. On November 25, 2026, Hugging Face research published a 1,000-agent [[DeepSeek]] swarm field report (`PyBot`, 175,000 messages, 8,500+ PRs) and open-sourced `legion` and Apache 2.0 `msgboard`.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**.\n- [[Sovereign AI Club - October 21, 2026]]: **Hugging Face trains open models inside Claude Code and Codex**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA agrees to acquire Hugging Face**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[NVIDIA]]\n- [[Big Tech Moves]]"
+      "bodyMarkdown": "# Hugging Face\n\nHugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice. On November 25, 2026, Hugging Face research published a 1,000-agent [[DeepSeek]] swarm field report (`PyBot`, 175,000 messages, 8,500+ PRs) and open-sourced `legion` and Apache 2.0 `msgboard`.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Ramp Labs translates hidden states across models to skip re-prefill**, **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**.\n- [[Sovereign AI Club - October 21, 2026]]: **Hugging Face trains open models inside Claude Code and Codex**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA agrees to acquire Hugging Face**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[NVIDIA]]\n- [[Big Tech Moves]]"
     },
     {
       "id": "human-rights-foundation",
@@ -48134,7 +48148,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-06-24",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Inference Optimization covers the practical work of making AI systems cheaper, faster, smaller, and runnable: memory bandwidth, KV-cache compression, quantization, speculative decoding, serving runtimes, and custom inference hardware.",
       "rawHref": "/topics/concepts/inference-optimization.md",
       "relativePath": "concepts/inference-optimization.md",
@@ -49490,6 +49504,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.anthropic.com/research/provable-inference",
           "title": "Anthropic's FlashProve and UIUC's zkTransformer push provable inference",
           "section": "Models & Research",
@@ -50729,7 +50757,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# Inference Optimization\n\nInference Optimization covers the practical work of making AI systems cheaper, faster, smaller, and runnable: memory bandwidth, KV-cache compression, quantization, speculative decoding, serving runtimes, and custom inference hardware.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Baseten and Magnitude push open-model speed from opposite ends** and **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**.\n- [[Sovereign AI Club - November 11, 2026]]: **FlashState more than doubles vLLM throughput on hybrid models** and **Latent Sparse Attention: cheaper attention at 10 million tokens**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **TensorFold vs. oMLX on an M5 Ultra Studio**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Splash vs mlx-serve: rival benchmarks, real fixes**, **Models hand off KV cache instead of text**.\n- [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **AirLLM streams giant MoEs onto hobbyist VRAM** and **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**, **Should chat route local by default?**, and **Etched turns inference chips into rack-scale product**.\n- [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**, **Open model releases**, **Research behind the open model wave**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **Local AI becomes bandwidth math**, **Vector compression hits 10x without the quality tax**, **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **Open model releases**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **PII filters are becoming local model infrastructure**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**.\n- [[Sovereign AI Club - April 1, 2026]]: **GTC 2026 was an AI factory pitch**, **Google TurboQuant**, **Local models getting glazed**, and **Meta and Intel chip push**.\n- [[Sovereign AI Club - March 18, 2026]]: **MacBook Pro M5 Max as a local inference laptop**, **LMfit**, and **plebdev-bench**.\n\n## Related\n\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[Recursive Language Models]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Open Models]]\n- [[Speculative Decoding]]\n- [[vLLM]]\n- [[NVIDIA]]\n- [[Vera Rubin]]\n- [[OpenAI]]\n- [[Gemma]]\n- [[Etched]]\n- [[Jalapeno]]\n- [[TMax]]\n- [[Nemotron]]\n- [[Qwen]]\n- [[DeepSeek]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[DeepSpec]]\n- [[MiniMax M3]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
+      "bodyMarkdown": "# Inference Optimization\n\nInference Optimization covers the practical work of making AI systems cheaper, faster, smaller, and runnable: memory bandwidth, KV-cache compression, quantization, speculative decoding, serving runtimes, and custom inference hardware.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Baseten and Magnitude push open-model speed from opposite ends**, **Ramp Labs translates hidden states across models to skip re-prefill**, and **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**.\n- [[Sovereign AI Club - November 11, 2026]]: **FlashState more than doubles vLLM throughput on hybrid models** and **Latent Sparse Attention: cheaper attention at 10 million tokens**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **TensorFold vs. oMLX on an M5 Ultra Studio**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Splash vs mlx-serve: rival benchmarks, real fixes**, **Models hand off KV cache instead of text**.\n- [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **AirLLM streams giant MoEs onto hobbyist VRAM** and **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**, **Should chat route local by default?**, and **Etched turns inference chips into rack-scale product**.\n- [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**, **Open model releases**, **Research behind the open model wave**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **Local AI becomes bandwidth math**, **Vector compression hits 10x without the quality tax**, **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **Open model releases**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **PII filters are becoming local model infrastructure**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**.\n- [[Sovereign AI Club - April 1, 2026]]: **GTC 2026 was an AI factory pitch**, **Google TurboQuant**, **Local models getting glazed**, and **Meta and Intel chip push**.\n- [[Sovereign AI Club - March 18, 2026]]: **MacBook Pro M5 Max as a local inference laptop**, **LMfit**, and **plebdev-bench**.\n\n## Related\n\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[Recursive Language Models]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Open Models]]\n- [[Speculative Decoding]]\n- [[vLLM]]\n- [[NVIDIA]]\n- [[Vera Rubin]]\n- [[OpenAI]]\n- [[Gemma]]\n- [[Etched]]\n- [[Jalapeno]]\n- [[TMax]]\n- [[Nemotron]]\n- [[Qwen]]\n- [[DeepSeek]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[DeepSpec]]\n- [[MiniMax M3]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
     },
     {
       "id": "infernix",
@@ -81295,6 +81323,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://x.com/harvey/status/2125259420259250209",
           "title": "Harvey post-trains four US open models past Kimi K3",
           "section": "Models & Research",
@@ -84123,7 +84165,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, **Claude writes every weight of a tiny looped maze solver**, **Harvey post-trains four US open models past Kimi K3**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
+      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Ramp Labs translates hidden states across models to skip re-prefill**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, **Claude writes every weight of a tiny looped maze solver**, **Harvey post-trains four US open models past Kimi K3**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
     },
     {
       "id": "moonshot-ai",
@@ -94434,6 +94476,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://x.com/harvey/status/2125259420259250209",
           "title": "Harvey post-trains four US open models past Kimi K3",
           "section": "Models & Research",
@@ -98648,7 +98704,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# Open Models\n\nOpen Models covers open-weight and open-source model releases, their deployment surfaces, and the practical question of whether builders can run, inspect, fine-tune, or compare them outside a single hosted API.\n\nOn Meetup boards, the biweekly open-weight launch catalog lives under the official Models & Research Topic **Open model releases**. That Release Roundup is the durable place to look back through open launches; specialist research and packaging debates may still appear as separate Topics after it.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, **fal's H3 Max leads AA's with-audio video boards**, **Archiving open-source models**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases** and **Trump advisers say open-weight models skip federal safety tests**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Open model releases** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases** and **Local AI becomes bandwidth math**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases** and **Multi-token prediction goes mainstream**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **Attune patches the open-model tool-call boundary**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **Distillation hesitation**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **LMfit**.\n\n## Related\n\n- [[Models & Research]]\n- [[AI Governance]]\n- [[Local AI]]\n- [[AI Signal Discovery]]\n- [[World Models]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[FLUX 3]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Liquid AI]]\n- [[Mellum]]\n- [[Clef]]\n- [[Prime Agent]]\n- [[Qwen]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[Ornith]]\n- [[Tencent]]\n- [[Hy3]]\n- [[Moonshot AI]]\n- [[Kimi]]\n- [[GLM]]\n- [[DeepSeek]]\n- [[NVIDIA]]\n- [[Nemotron]]\n- [[Microsoft]]\n- [[Meta]]\n- [[vLLM]]\n- [[Gemma]]\n- [[Mistral]]\n- [[TMax]]\n- [[Qwenstradamus]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[DeepSpec]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
+      "bodyMarkdown": "# Open Models\n\nOpen Models covers open-weight and open-source model releases, their deployment surfaces, and the practical question of whether builders can run, inspect, fine-tune, or compare them outside a single hosted API.\n\nOn Meetup boards, the biweekly open-weight launch catalog lives under the official Models & Research Topic **Open model releases**. That Release Roundup is the durable place to look back through open launches; specialist research and packaging debates may still appear as separate Topics after it.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Ramp Labs translates hidden states across models to skip re-prefill**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, **fal's H3 Max leads AA's with-audio video boards**, **Archiving open-source models**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases** and **Trump advisers say open-weight models skip federal safety tests**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Open model releases** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases** and **Local AI becomes bandwidth math**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases** and **Multi-token prediction goes mainstream**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **Attune patches the open-model tool-call boundary**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **Distillation hesitation**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **LMfit**.\n\n## Related\n\n- [[Models & Research]]\n- [[AI Governance]]\n- [[Local AI]]\n- [[AI Signal Discovery]]\n- [[World Models]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[FLUX 3]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Liquid AI]]\n- [[Mellum]]\n- [[Clef]]\n- [[Prime Agent]]\n- [[Qwen]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[Ornith]]\n- [[Tencent]]\n- [[Hy3]]\n- [[Moonshot AI]]\n- [[Kimi]]\n- [[GLM]]\n- [[DeepSeek]]\n- [[NVIDIA]]\n- [[Nemotron]]\n- [[Microsoft]]\n- [[Meta]]\n- [[vLLM]]\n- [[Gemma]]\n- [[Mistral]]\n- [[TMax]]\n- [[Qwenstradamus]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[DeepSpec]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
     },
     {
       "id": "openagents",
@@ -135091,6 +135147,8 @@
         "https://magnitude.dev/benchmarks",
         "https://x.com/tomgreenwald/status/2125348896805175791",
         "https://x.com/tomgreenwald/status/2123875212093747663",
+        "https://huggingface.co/RampPublic/speculative-encoding",
+        "https://x.com/RampLabs/status/2125627502802653330",
         "https://x.com/harvey/status/2125259420259250209",
         "https://x.com/nikogrupen/status/2125258400866910269",
         "https://alpo.ge/remark.pdf",
@@ -135811,6 +135869,16 @@
         {
           "href": "https://x.com/tomgreenwald/status/2123875212093747663",
           "title": "Baseten and Magnitude push open-model speed from opposite ends",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
           "section": "Models & Research"
         },
         {
@@ -136813,6 +136881,8 @@
         "https://magnitude.dev/benchmarks",
         "https://x.com/tomgreenwald/status/2125348896805175791",
         "https://x.com/tomgreenwald/status/2123875212093747663",
+        "https://huggingface.co/RampPublic/speculative-encoding",
+        "https://x.com/RampLabs/status/2125627502802653330",
         "https://x.com/harvey/status/2125259420259250209",
         "https://x.com/nikogrupen/status/2125258400866910269",
         "https://alpo.ge/remark.pdf",
@@ -137533,6 +137603,16 @@
         {
           "href": "https://x.com/tomgreenwald/status/2123875212093747663",
           "title": "Tom Greenwald on SSD expert streaming",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Hugging Face: RampPublic/speculative-encoding",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs launch post",
           "section": "Models & Research"
         },
         {
@@ -201313,6 +201393,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://lotusmake.com/posts/where-uncensored-models-come-from",
           "title": "Uncensored models: most are repacks, and Pliny's 10-word hack misfired",
           "section": "Models & Research",
@@ -201607,7 +201701,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Hugging Face\n\nHugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice. On November 25, 2026, Hugging Face research published a 1,000-agent [[DeepSeek]] swarm field report (`PyBot`, 175,000 messages, 8,500+ PRs) and open-sourced `legion` and Apache 2.0 `msgboard`.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**.\n- [[Sovereign AI Club - October 21, 2026]]: **Hugging Face trains open models inside Claude Code and Codex**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA agrees to acquire Hugging Face**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[NVIDIA]]\n- [[Big Tech Moves]]"
+      "bodyMarkdown": "# Hugging Face\n\nHugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice. On November 25, 2026, Hugging Face research published a 1,000-agent [[DeepSeek]] swarm field report (`PyBot`, 175,000 messages, 8,500+ PRs) and open-sourced `legion` and Apache 2.0 `msgboard`.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Ramp Labs translates hidden states across models to skip re-prefill**, **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**.\n- [[Sovereign AI Club - October 21, 2026]]: **Hugging Face trains open models inside Claude Code and Codex**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA agrees to acquire Hugging Face**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[NVIDIA]]\n- [[Big Tech Moves]]"
     },
     "human-rights-foundation": {
       "id": "human-rights-foundation",
@@ -202451,7 +202545,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-06-24",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Inference Optimization covers the practical work of making AI systems cheaper, faster, smaller, and runnable: memory bandwidth, KV-cache compression, quantization, speculative decoding, serving runtimes, and custom inference hardware.",
       "rawHref": "/topics/concepts/inference-optimization.md",
       "relativePath": "concepts/inference-optimization.md",
@@ -203807,6 +203901,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.anthropic.com/research/provable-inference",
           "title": "Anthropic's FlashProve and UIUC's zkTransformer push provable inference",
           "section": "Models & Research",
@@ -205046,7 +205154,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# Inference Optimization\n\nInference Optimization covers the practical work of making AI systems cheaper, faster, smaller, and runnable: memory bandwidth, KV-cache compression, quantization, speculative decoding, serving runtimes, and custom inference hardware.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Baseten and Magnitude push open-model speed from opposite ends** and **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**.\n- [[Sovereign AI Club - November 11, 2026]]: **FlashState more than doubles vLLM throughput on hybrid models** and **Latent Sparse Attention: cheaper attention at 10 million tokens**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **TensorFold vs. oMLX on an M5 Ultra Studio**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Splash vs mlx-serve: rival benchmarks, real fixes**, **Models hand off KV cache instead of text**.\n- [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **AirLLM streams giant MoEs onto hobbyist VRAM** and **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**, **Should chat route local by default?**, and **Etched turns inference chips into rack-scale product**.\n- [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**, **Open model releases**, **Research behind the open model wave**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **Local AI becomes bandwidth math**, **Vector compression hits 10x without the quality tax**, **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **Open model releases**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **PII filters are becoming local model infrastructure**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**.\n- [[Sovereign AI Club - April 1, 2026]]: **GTC 2026 was an AI factory pitch**, **Google TurboQuant**, **Local models getting glazed**, and **Meta and Intel chip push**.\n- [[Sovereign AI Club - March 18, 2026]]: **MacBook Pro M5 Max as a local inference laptop**, **LMfit**, and **plebdev-bench**.\n\n## Related\n\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[Recursive Language Models]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Open Models]]\n- [[Speculative Decoding]]\n- [[vLLM]]\n- [[NVIDIA]]\n- [[Vera Rubin]]\n- [[OpenAI]]\n- [[Gemma]]\n- [[Etched]]\n- [[Jalapeno]]\n- [[TMax]]\n- [[Nemotron]]\n- [[Qwen]]\n- [[DeepSeek]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[DeepSpec]]\n- [[MiniMax M3]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
+      "bodyMarkdown": "# Inference Optimization\n\nInference Optimization covers the practical work of making AI systems cheaper, faster, smaller, and runnable: memory bandwidth, KV-cache compression, quantization, speculative decoding, serving runtimes, and custom inference hardware.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Baseten and Magnitude push open-model speed from opposite ends**, **Ramp Labs translates hidden states across models to skip re-prefill**, and **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**.\n- [[Sovereign AI Club - November 11, 2026]]: **FlashState more than doubles vLLM throughput on hybrid models** and **Latent Sparse Attention: cheaper attention at 10 million tokens**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **TensorFold vs. oMLX on an M5 Ultra Studio**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Splash vs mlx-serve: rival benchmarks, real fixes**, **Models hand off KV cache instead of text**.\n- [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, and **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**.\n- [[Sovereign AI Club - August 5, 2026]]: **AirLLM streams giant MoEs onto hobbyist VRAM** and **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**, **Should chat route local by default?**, and **Etched turns inference chips into rack-scale product**.\n- [[Sovereign AI Club - June 24, 2026]]: **vLLM turns weird open models into runnable systems**, **Open model releases**, **Research behind the open model wave**, and **OpenAI gets its own inference chip**.\n- [[Sovereign AI Club - June 10, 2026]]: **Local AI becomes bandwidth math**, **Vector compression hits 10x without the quality tax**, **Open model releases**, **Apple stretches PCC onto Google/NVIDIA**, and **Google rents SpaceX's GPU bridge**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **Open model releases**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **PII filters are becoming local model infrastructure**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**.\n- [[Sovereign AI Club - April 1, 2026]]: **GTC 2026 was an AI factory pitch**, **Google TurboQuant**, **Local models getting glazed**, and **Meta and Intel chip push**.\n- [[Sovereign AI Club - March 18, 2026]]: **MacBook Pro M5 Max as a local inference laptop**, **LMfit**, and **plebdev-bench**.\n\n## Related\n\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[Recursive Language Models]]\n- [[Compute Strategy]]\n- [[Local AI]]\n- [[Open Models]]\n- [[Speculative Decoding]]\n- [[vLLM]]\n- [[NVIDIA]]\n- [[Vera Rubin]]\n- [[OpenAI]]\n- [[Gemma]]\n- [[Etched]]\n- [[Jalapeno]]\n- [[TMax]]\n- [[Nemotron]]\n- [[Qwen]]\n- [[DeepSeek]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[DeepSpec]]\n- [[MiniMax M3]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
     },
     "infernix": {
       "id": "infernix",
@@ -235612,6 +235720,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://x.com/harvey/status/2125259420259250209",
           "title": "Harvey post-trains four US open models past Kimi K3",
           "section": "Models & Research",
@@ -238440,7 +238562,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, **Claude writes every weight of a tiny looped maze solver**, **Harvey post-trains four US open models past Kimi K3**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
+      "bodyMarkdown": "# Models & Research\n\nModels & Research is the Sovereign AI Club track for model releases, benchmark shifts, research papers, architecture changes, capability comparisons, and deployment-relevant model mechanics.\n\nBiweekly model launches live under two official Release Roundup Topics titled exactly **Closed model releases** and **Open model releases**. Those Topics hold the launch posts and source catalogs; research, evals, and non-release papers stay as separate Topics after them.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Ramp Labs translates hidden states across models to skip re-prefill**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, **Claude writes every weight of a tiny looped maze solver**, **Harvey post-trains four US open models past Kimi K3**, and **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **H3 Max powers an endless Interdimensional Cable stream**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Google's fly-brain map meets Beat Saber and Doom**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Desert Ant builds small models for on-device tasks**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Closed model releases**, **Open model releases**, **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **WikiSkill turns agent experience into reusable skills**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Closed model releases**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, and **fal's H3 Max leads AA's with-audio video boards**.\n- [[Sovereign AI Club - August 5, 2026]]: **Closed model releases**, **Open model releases**, **Pokee-Isaac claims 10M context on a 28B single-GPU agent**, **DeepSeek V4 Flash 0731 is absurd for 13B active**, **AirLLM streams giant MoEs onto hobbyist VRAM**, **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**, **Astra turns open math problems into Lean certificates for about $2K**, **Karpathy replaces pelican-SVG with a $10 Middle-earth world**, **Liquid IFStruct makes structured output a learnable 350M skill**, and **Fish Audio raises $52M and ships S2.1 Pro voice**.\n- [[Sovereign AI Club - July 22, 2026]]: **Closed model releases**, **Open model releases**, **Frontier local inference becomes an expert-cache problem**, **llama.garden makes model distribution a protocol**, **AI math crosses from medals into new proofs**, **AI 2040 writes the optimistic branch on purpose**, and **Models learn to please the grader, not the user**.\n- [[Sovereign AI Club - July 8, 2026]]: **Closed model releases**, **Open model releases**, **Brain2Qwerty v2 gets non-invasive decoding to 61% word accuracy**, **Should chat route local by default?**, and **Claude gets a consciousness-adjacent workspace**.\n- [[Sovereign AI Club - June 24, 2026]]: **Closed model releases**, **Open model releases**, **AI Twitter's model-release calendar slips**, and **Research behind the open model wave**.\n- [[Sovereign AI Club - June 10, 2026]]: **Closed model releases**, **Open model releases**, **Fable's refusals go too far**, and **World models need a taxonomy, not another demo**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases**, **Multi-token prediction goes mainstream**, **DFlash beats autoregressive drafting ceiling**, and **DeepSWE exposes the real coding model hierarchy**.\n- [[Sovereign AI Club - May 13, 2026]]: **Closed model releases**, **Open model releases**, **12 models in 37 days**, **Attune patches the open-model tool-call boundary**, **ProgramBench says agents still cannot rebuild software**, **Talkie tests vintage-model generalization**, and **Red/blue button model behavior**.\n- [[Sovereign AI Club - April 15, 2026]]: **Closed model releases** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Closed model releases**, **Open model releases**, **Composer 2 / Kimi K2.5 drama**, **Distillation hesitation**, **ARC AGI benchmark #3**, **Google TurboQuant**, **LLM neuroanatomy / RYS layer repetition**, and **Local models getting glazed**.\n- [[Sovereign AI Club - March 18, 2026]]: **Closed model releases**, **Open model releases**, **LMfit**, and **Frontier check**.\n\n## Related\n\n- [[Open Models]]\n- [[Local AI]]\n- [[xAI]]\n- [[Grok]]\n- [[GLM]]\n- [[Ornith]]\n- [[AI Signal Discovery]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[World Models]]\n- [[Compute Strategy]]\n- [[Coding Agents]]\n- [[AI Mathematics]]\n- [[AlphaEvolve]]\n- [[FLUX 3]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[Pokee-Isaac]]\n- [[Astra]]\n- [[AirLLM]]\n- [[TurboFieldfare]]\n- [[DeepSeek]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[Brain2Qwerty]]\n- [[GPT-5.6]]\n- [[Claude Sonnet 5]]\n- [[SWE-1.7]]\n- [[Gemini Omni Flash]]\n- [[Meta Muse]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]\n- [[CWIP]]\n- [[Gemma]]\n- [[Liquid AI]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Fish Audio]]\n- [[Mistral]]\n- [[TMax]]\n- [[Cognition]]"
     },
     "moonshot-ai": {
       "id": "moonshot-ai",
@@ -248751,6 +248873,20 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://x.com/harvey/status/2125259420259250209",
           "title": "Harvey post-trains four US open models past Kimi K3",
           "section": "Models & Research",
@@ -252965,7 +253101,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# Open Models\n\nOpen Models covers open-weight and open-source model releases, their deployment surfaces, and the practical question of whether builders can run, inspect, fine-tune, or compare them outside a single hosted API.\n\nOn Meetup boards, the biweekly open-weight launch catalog lives under the official Models & Research Topic **Open model releases**. That Release Roundup is the durable place to look back through open launches; specialist research and packaging debates may still appear as separate Topics after it.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, **fal's H3 Max leads AA's with-audio video boards**, **Archiving open-source models**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases** and **Trump advisers say open-weight models skip federal safety tests**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Open model releases** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases** and **Local AI becomes bandwidth math**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases** and **Multi-token prediction goes mainstream**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **Attune patches the open-model tool-call boundary**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **Distillation hesitation**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **LMfit**.\n\n## Related\n\n- [[Models & Research]]\n- [[AI Governance]]\n- [[Local AI]]\n- [[AI Signal Discovery]]\n- [[World Models]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[FLUX 3]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Liquid AI]]\n- [[Mellum]]\n- [[Clef]]\n- [[Prime Agent]]\n- [[Qwen]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[Ornith]]\n- [[Tencent]]\n- [[Hy3]]\n- [[Moonshot AI]]\n- [[Kimi]]\n- [[GLM]]\n- [[DeepSeek]]\n- [[NVIDIA]]\n- [[Nemotron]]\n- [[Microsoft]]\n- [[Meta]]\n- [[vLLM]]\n- [[Gemma]]\n- [[Mistral]]\n- [[TMax]]\n- [[Qwenstradamus]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[DeepSpec]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
+      "bodyMarkdown": "# Open Models\n\nOpen Models covers open-weight and open-source model releases, their deployment surfaces, and the practical question of whether builders can run, inspect, fine-tune, or compare them outside a single hosted API.\n\nOn Meetup boards, the biweekly open-weight launch catalog lives under the official Models & Research Topic **Open model releases**. That Release Roundup is the durable place to look back through open launches; specialist research and packaging debates may still appear as separate Topics after it.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Ramp Labs translates hidden states across models to skip re-prefill**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, **fal's H3 Max leads AA's with-audio video boards**, **Archiving open-source models**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases** and **Trump advisers say open-weight models skip federal safety tests**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Open model releases** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases** and **Local AI becomes bandwidth math**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases** and **Multi-token prediction goes mainstream**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **Attune patches the open-model tool-call boundary**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **Distillation hesitation**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **LMfit**.\n\n## Related\n\n- [[Models & Research]]\n- [[AI Governance]]\n- [[Local AI]]\n- [[AI Signal Discovery]]\n- [[World Models]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[FLUX 3]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Liquid AI]]\n- [[Mellum]]\n- [[Clef]]\n- [[Prime Agent]]\n- [[Qwen]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[Ornith]]\n- [[Tencent]]\n- [[Hy3]]\n- [[Moonshot AI]]\n- [[Kimi]]\n- [[GLM]]\n- [[DeepSeek]]\n- [[NVIDIA]]\n- [[Nemotron]]\n- [[Microsoft]]\n- [[Meta]]\n- [[vLLM]]\n- [[Gemma]]\n- [[Mistral]]\n- [[TMax]]\n- [[Qwenstradamus]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[DeepSpec]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
     },
     "openagents": {
       "id": "openagents",
@@ -289408,6 +289544,8 @@
         "https://magnitude.dev/benchmarks",
         "https://x.com/tomgreenwald/status/2125348896805175791",
         "https://x.com/tomgreenwald/status/2123875212093747663",
+        "https://huggingface.co/RampPublic/speculative-encoding",
+        "https://x.com/RampLabs/status/2125627502802653330",
         "https://x.com/harvey/status/2125259420259250209",
         "https://x.com/nikogrupen/status/2125258400866910269",
         "https://alpo.ge/remark.pdf",
@@ -290128,6 +290266,16 @@
         {
           "href": "https://x.com/tomgreenwald/status/2123875212093747663",
           "title": "Baseten and Magnitude push open-model speed from opposite ends",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
           "section": "Models & Research"
         },
         {
@@ -291130,6 +291278,8 @@
         "https://magnitude.dev/benchmarks",
         "https://x.com/tomgreenwald/status/2125348896805175791",
         "https://x.com/tomgreenwald/status/2123875212093747663",
+        "https://huggingface.co/RampPublic/speculative-encoding",
+        "https://x.com/RampLabs/status/2125627502802653330",
         "https://x.com/harvey/status/2125259420259250209",
         "https://x.com/nikogrupen/status/2125258400866910269",
         "https://alpo.ge/remark.pdf",
@@ -291850,6 +292000,16 @@
         {
           "href": "https://x.com/tomgreenwald/status/2123875212093747663",
           "title": "Tom Greenwald on SSD expert streaming",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Hugging Face: RampPublic/speculative-encoding",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs launch post",
           "section": "Models & Research"
         },
         {
@@ -310535,6 +310695,47 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Praxis brings general witness encryption down to 8 GB Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://eprint.iacr.org/2026/2971 https://x.com/dntse/status/2124858372386337089 AI Mathematics Models & Research"
+    },
+    {
+      "id": "sovereign-ai-club-november-25-2026-models-research-ramp-labs-translates-hidden-states-across-models-to-skip-re-prefill",
+      "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+      "rawTitle": "Ramp Labs translates hidden states across models to skip re-prefill",
+      "normalizedTitle": "ramp labs translates hidden states across models to skip re-prefill",
+      "section": "Models & Research",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://huggingface.co/RampPublic/speculative-encoding",
+        "https://x.com/RampLabs/status/2125627502802653330"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research"
+        }
+      ],
+      "wikiIds": [
+        "hugging-face",
+        "inference-optimization",
+        "models-research",
+        "open-models"
+      ],
+      "wikiTitles": [
+        "Hugging Face",
+        "Inference Optimization",
+        "Models & Research",
+        "Open Models"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Ramp Labs translates hidden states across models to skip re-prefill Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://huggingface.co/RampPublic/speculative-encoding https://x.com/RampLabs/status/2125627502802653330 Hugging Face Inference Optimization Models & Research Open Models"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-models-research-uncensored-models-most-are-repacks-and-plinys-10-word-hack-misfired",
@@ -335144,6 +335345,47 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Praxis brings general witness encryption down to 8 GB Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://eprint.iacr.org/2026/2971 https://x.com/dntse/status/2124858372386337089 AI Mathematics Models & Research"
+    },
+    "sovereign-ai-club-november-25-2026-models-research-ramp-labs-translates-hidden-states-across-models-to-skip-re-prefill": {
+      "id": "sovereign-ai-club-november-25-2026-models-research-ramp-labs-translates-hidden-states-across-models-to-skip-re-prefill",
+      "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+      "rawTitle": "Ramp Labs translates hidden states across models to skip re-prefill",
+      "normalizedTitle": "ramp labs translates hidden states across models to skip re-prefill",
+      "section": "Models & Research",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://huggingface.co/RampPublic/speculative-encoding",
+        "https://x.com/RampLabs/status/2125627502802653330"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://huggingface.co/RampPublic/speculative-encoding",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research"
+        },
+        {
+          "href": "https://x.com/RampLabs/status/2125627502802653330",
+          "title": "Ramp Labs translates hidden states across models to skip re-prefill",
+          "section": "Models & Research"
+        }
+      ],
+      "wikiIds": [
+        "hugging-face",
+        "inference-optimization",
+        "models-research",
+        "open-models"
+      ],
+      "wikiTitles": [
+        "Hugging Face",
+        "Inference Optimization",
+        "Models & Research",
+        "Open Models"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Ramp Labs translates hidden states across models to skip re-prefill Models & Research Sovereign AI Club - November 25, 2026 2026-11-25 https://huggingface.co/RampPublic/speculative-encoding https://x.com/RampLabs/status/2125627502802653330 Hugging Face Inference Optimization Models & Research Open Models"
     },
     "sovereign-ai-club-november-25-2026-models-research-uncensored-models-most-are-repacks-and-plinys-10-word-hack-misfired": {
       "id": "sovereign-ai-club-november-25-2026-models-research-uncensored-models-most-are-repacks-and-plinys-10-word-hack-misfired",
@@ -369600,7 +369842,7 @@
           "local-ai"
         ],
         "degree": 85,
-        "updated": "2026-11-23"
+        "updated": "2026-11-25"
       },
       {
         "id": "infernix",
@@ -384637,11 +384879,11 @@
   },
   "stats": {
     "pageCount": 217,
-    "topicCount": 391,
+    "topicCount": 392,
     "rawPageCount": 0,
     "linkCount": 2671,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 2174,
+    "sourceLinkCount": 2176,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-25"
   }

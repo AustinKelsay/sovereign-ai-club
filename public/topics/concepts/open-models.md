@@ -15,7 +15,7 @@ On Meetup boards, the biweekly open-weight launch catalog lives under the offici
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.
+- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Ramp Labs translates hidden states across models to skip re-prefill**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.
 - [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.

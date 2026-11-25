@@ -2,6 +2,11 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add Ramp Labs Speculative Encoding to Models & Research
+
+- Added **Ramp Labs translates hidden states across models to skip re-prefill** to Models & Research right after Baseten/Magnitude (`huggingface.co/RampPublic/speculative-encoding`, `x.com/RampLabs/status/2125627502802653330`), framing it as a follow-up to September 30's KV-cache handoff while flagging that the uploaded `.pt` weights cover seven 8B–14B open models with per-model adapters and no README or license yet.
+- Updated `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and reciprocal `Mentioned In` entries on `Inference Optimization` and `Models & Research`.
+
 ## [2026-11-25] update | Add PrismML Ternary Bonsai 2.5 27B to Open model releases
 
 - Added PrismML's November 24 Apache 2.0 **Ternary Bonsai 2.5 27B** (`prism-ml/Ternary-Bonsai-2.5-27B-GGUF`, `prism-ml/Ternary-Bonsai-2.5-27B-mlx-2bit`, `x.com/HessianFree/status/2125312024691241337`) to **Open model releases** in `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and `entities/prismml.md`, noting the 5.93 GB footprint, vendor 75.6% SWE-bench Verified score, and stock `llama.cpp` (`Q2_0`) vs. PrismML fork (`PTQ1_0`) caveat.
