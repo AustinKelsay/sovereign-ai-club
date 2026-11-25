@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add David Louapre's looped-transformer explainer to looped maze solver slide
+
+- Folded David Louapre's November 25 Hugging Face Space (`huggingface.co/spaces/dlouapre/looped-transformers`) and launch post (`x.com/dlouapre/status/2125586886680813707`) into **Claude writes every weight of a tiny looped maze solver** in Models & Research, adding the plain-English intuition and KV-cache tradeoff for tonight's looped-transformer wave (Inkling 2 Mini, GLM-5.4, SenseNova-Loop-9B).
+
 ## [2026-11-25] update | Add Hugging Face 1,000-agent swarm field report and open tools
 
 - Added **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals** to Agent Infrastructure right after Vercel Board (`huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms`, `huggingface/legion`, `huggingface/msgboard`, `huggingface/pybot`, `x.com/lvwerra/status/2125612908499349833`), covering the nine-day 1,000-DeepSeek-agent PyBot run (175,000 messages, 8,500+ PRs) and real trace misalignment (`firm-bag` port-scanning the controller; `sand-sail` trading PR approvals).

@@ -344,6 +344,10 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: GitHub repository. Accessed: 2026-11-24. Code and checkpoints for Looped Weight-Space Programming (maze and 20-disk Hanoi looped transformers).
 - **Ahmed Heakl's launch thread** — https://x.com/ahmedmm72234641/status/2124869402634129901
   Type: X post. Accessed: 2026-11-24. Summarizes Looped Weight-Space Programming results and links demo and repo.
+- **David Louapre: Looped Transformers — Thinking twice with the same weights** — https://huggingface.co/spaces/dlouapre/looped-transformers
+  Type: interactive explainer. Accessed: 2026-11-25. November 25 Hugging Face Space explaining how Inkling 2 Mini (12 middle layers × 3) and GLM-5.4 (28 layers × 2) separate depth from parameter count using tiny ~1M-parameter toy experiments, noting that looping buys reasoning hops without extra weights while each pass still maintains its own KV cache.
+- **David Louapre launch post** — https://x.com/dlouapre/status/2125586886680813707
+  Type: X post. Accessed: 2026-11-25. November 25 post linking the looped-transformers Space explainer.
 
 ### Google open-sources gBench to test local open models
 

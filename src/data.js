@@ -394,11 +394,13 @@ export const meetups = [
             href: "https://mbzuai-oryx.github.io/LoopedWSP/",
             linkPair: [
               "https://github.com/mbzuai-oryx/LoopedWSP",
+              "https://huggingface.co/spaces/dlouapre/looped-transformers",
             ],
             embeds: [
               { type: "tweet", href: "https://x.com/ahmedmm72234641/status/2124869402634129901" },
+              { type: "tweet", href: "https://x.com/dlouapre/status/2125586886680813707" },
             ],
-            notes: "Built in one Claude Code session (~$19 list); a 928-weight variant also hit 100%, and a 3,686-weight Hanoi net ran 1,048,575 moves error-free (authors' 0% GD baseline used only ~5 PFLOPs). Completes tonight's looped-transformer thread alongside GLM-5.4, Inkling 2 Mini, and SenseNova-Loop-9B.",
+            notes: "Built in one Claude Code session (~$19 list); a 928-weight variant also hit 100%, and a 3,686-weight Hanoi net ran 1,048,575 moves error-free (~5 PFLOPs GD baseline). David Louapre's companion HF Space explains tonight's looped-transformer wave (Inkling 2 Mini, GLM-5.4, SenseNova-Loop-9B): repeating middle layers buys more reasoning hops without extra weights, though each pass still keeps its own KV cache.",
           },
           {
             title: "Google open-sources gBench to test local open models",
