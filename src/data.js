@@ -534,6 +534,7 @@ export const meetups = [
             linkPair: [
               "https://github.com/pingdotgg/t3code/blob/main/docs/user/telemetry.md",
               "https://github.com/pingdotgg/t3code/issues/4123",
+              "https://github.com/MiaAI-Lab/m3code",
             ],
             embeds: [
               { type: "tweet", href: "https://x.com/zrymiller/status/2125497546772812061" },
@@ -541,8 +542,9 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/MiaAI_lab/status/2125224970959605857" },
               { type: "tweet", href: "https://x.com/theo/status/2125186071357251715" },
               { type: "tweet", href: "https://x.com/theo/status/2125700717935841479" },
+              { type: "tweet", href: "https://x.com/jullerino/status/2125435907725754671" },
             ],
-            notes: "T3 Code landed 12+ privacy PRs overnight (#42299 dropped auth-file reads; #42465 masked custom model names; #42629 added DO_NOT_TRACK; #42630 disabled CI telemetry), rising from F to D in the audit—though product events stay default-on with no UI toggle and hosted app.t3.codes has no opt-out. Theo's Nov 25 \"Final statement\" stresses T3 Code has never sold data or uploaded files, prompts, responses, emails, or paths (and cuts off mid-sentence at the 280-char cap). Six Fs: Kilo Code, Paradev, AionUi, Opcode, Gemini CLI, Cline. Cleanest As: Aether, Hermes, archived Roo Code. Sets up Maple AI next.",
+            notes: "T3 Code landed 12+ privacy PRs overnight (#42299 dropped auth-file reads; #42465 masked custom model names; #42629 added DO_NOT_TRACK; #42630 disabled CI telemetry), rising from F to D in the audit—though product events stay default-on with no UI toggle and hosted app.t3.codes has no opt-out. Theo's Nov 25 \"Final statement\" stresses T3 Code has never sold data or uploaded files, prompts, responses, emails, or paths (and cuts off mid-sentence at the 280-char cap). Meanwhile, @MiaAI_lab launched zero-telemetry local-AI fork M3 Code with an opt-in \"E2EE\" toggle—drawing pushback from T3 Code maintainer @jullerino because its own fine print still lets the official mobile app connect unencrypted. Six Fs: Kilo Code, Paradev, AionUi, Opcode, Gemini CLI, Cline. Cleanest As: Aether, Hermes, archived Roo Code. Sets up Maple AI next.",
           },
           {
             title: "Maple AI raises $5.3M for verifiable, encrypted private AI",

@@ -506,6 +506,10 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: X post. Accessed: 2026-11-24. Defended T3 Code's managed-policy opt-out over a single-machine settings toggle.
 - **Theo's Nov 25 "Final statement" on T3 Code telemetry** — https://x.com/theo/status/2125700717935841479
   Type: X post. Accessed: 2026-11-25. November 25 post (`21:18 UTC`, 804 likes / 26.8k views) stating T3 Code has never sold data or uploaded files, prompts, responses, emails, user IDs, file paths, or inputs/outputs (cutting off mid-sentence at the 280-char cap); follows Nov 25 PRs `#42629` (`DO_NOT_TRACK`) and `#42630` (CI opt-out).
+- **MiaAI-Lab/m3code** — https://github.com/MiaAI-Lab/m3code
+  Type: GitHub repository. Accessed: 2026-11-25. Zero-telemetry, local-AI-focused fork of T3 Code launched by `@MiaAI_lab` amid the telemetry backlash (adds local inference registry for llama.cpp/LM Studio/Ollama/TensorFold, gateway queues, and an opt-in E2EE toggle).
+- **Julius Marminge (@jullerino) on M3 Code's E2EE claim** — https://x.com/jullerino/status/2125435907725754671
+  Type: X post. Accessed: 2026-11-25. November 25 reply by T3 Code maintainer pushing back on `@MiaAI_lab`'s M3 Code E2EE announcement (`x.com/MiaAI_lab/status/2125334111141429365`), where M3 Code's own settings screenshot notes *"The official mobile app still connects without it"* — arguing claiming E2EE when unencrypted clients still connect is worse than not offering the toggle.
 
 ### Maple AI raises $5.3M for verifiable, encrypted private AI
 

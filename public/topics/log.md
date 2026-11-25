@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Fold M3 Code fork & Julius Marminge E2EE pushback into T3 Code slide
+
+- Added `MiaAI-Lab/m3code` and T3 Code maintainer Julius Marminge's (`@jullerino`) November 25 reply (`x.com/jullerino/status/2125435907725754671`) pushing back on M3 Code's opt-in "E2EE" toggle (whose own UI fine print notes the official mobile app still connects without encryption) to **T3 Code's telemetry backlash sparks a 25-tool privacy audit** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
+
 ## [2026-11-25] update | Add Theo's Nov 25 "Final statement" to T3 Code telemetry slide
 
 - Added Theo's November 25 "Final statement" post (`x.com/theo/status/2125700717935841479`) and noted T3 Code's follow-up November 25 PRs (`#42629` honoring `DO_NOT_TRACK`, `#42630` disabling CI telemetry) on **T3 Code's telemetry backlash sparks a 25-tool privacy audit** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
