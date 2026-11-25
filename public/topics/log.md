@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Fold Gemma 4 fine-tuning hub into Google gBench slide
+
+- Added Google Gemma's November 25 fine-tuning hub (`gemma.ai/tuning/`, `x.com/googlegemma/status/2125631619692429690` — 17 guides and 40+ illustrations covering continued pre-training, custom chat templates, QLoRA, and GRPO) to **Google open-sources gBench to test local open models** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
+
 ## [2026-11-25] update | Add Ramp Labs Speculative Encoding to Models & Research
 
 - Added **Ramp Labs translates hidden states across models to skip re-prefill** to Models & Research right after Baseten/Magnitude (`huggingface.co/RampPublic/speculative-encoding`, `x.com/RampLabs/status/2125627502802653330`), framing it as a follow-up to September 30's KV-cache handoff while flagging that the uploaded `.pt` weights cover seven 8B–14B open models with per-model adapters and no README or license yet.

@@ -421,11 +421,13 @@ export const meetups = [
             href: "https://github.com/google-deepmind/gbench",
             linkPair: [
               "https://pypi.org/project/gbench/",
+              "https://gemma.ai/tuning/",
             ],
             embeds: [
               { type: "tweet", href: "https://x.com/googlegemma/status/2124935724999073902" },
+              { type: "tweet", href: "https://x.com/googlegemma/status/2125631619692429690" },
             ],
-            notes: "Installable from PyPI (gbench). Splits runs into academic suites, 16 deterministic Golden Set smoke tests, and 60 Dockerized GemmaClaw/OpenClaw QA scenarios. Connects neatly to Pliny's GGUF template slip two slides later—bad templates quietly ruin evals.",
+            notes: "Installable from PyPI (gbench), splitting runs into academic suites, 16 Golden Set smoke tests, and 60 Dockerized GemmaClaw/OpenClaw scenarios. Today Google Gemma also launched its fine-tuning hub at gemma.ai/tuning/ (17 guides and 40+ illustrations from continued pre-training and custom chat templates to QLoRA and GRPO). Connects to Pliny's GGUF template slip two slides later.",
           },
           {
             title: "Vals launches a public ledger of models caught cheating",

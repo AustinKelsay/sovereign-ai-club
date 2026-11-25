@@ -370,6 +370,10 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: package page. Accessed: 2026-11-23. Python package distribution for Google DeepMind's gBench.
 - **Google Gemma launch post** — https://x.com/googlegemma/status/2124935724999073902
   Type: X post. Accessed: 2026-11-23. November 23 announcement of gBench with OpenAI-compatible local endpoint support.
+- **Google Gemma: Fine-tune Gemma 4 models** — https://gemma.ai/tuning/
+  Type: official docs. Accessed: 2026-11-25. November 25 Gemma 4 fine-tuning hub with 17 guides and 40+ illustrations covering continued pre-training, custom chat templates, full/MoE fine-tuning, (Q)LoRA, and GRPO across text, audio, receipts, and reasoning tasks.
+- **Google Gemma fine-tuning hub launch post** — https://x.com/googlegemma/status/2125631619692429690
+  Type: X post. Accessed: 2026-11-25. November 25 announcement of the Gemma 4 fine-tuning hub on `gemma.ai`.
 
 ### Vals launches a public ledger of models caught cheating
 
