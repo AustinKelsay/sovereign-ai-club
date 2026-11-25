@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Expand X embeds on Riemann Hypothesis slide
+
+- Added three high-signal X embeds to **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**: Lean FRO/Mathlib's official certification (`x.com/leanprover/status/2124159121645801562`), Levent Alpöge's own 7.6M-view reflection (`x.com/__alpoge__/status/2124987173439209561`), and mathematician Daniel Litt's four-point summary (`x.com/littmath/status/2124573924528681263`), updating `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
+
 ## [2026-11-25] update | Remove Harvey post-training slide from November 25 board
 
 - Removed **Harvey post-trains four US open models past Kimi K3** from Models & Research in `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and reciprocal `Mentioned In` entries on `Open Models`, `Models & Research`, `AI Benchmarks & Evals`, `Beam`, `Meta Muse`, `Inkling`, and `Nemotron`.

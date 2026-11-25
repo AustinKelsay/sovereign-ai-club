@@ -297,6 +297,12 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: GitHub repository. Accessed: 2026-11-23. Public Lean verification repository for Alpöge's proof.
 - **Ravi Vakil: Hurried Announcement (Alessandro Masullo GRH)** — https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/
   Type: blog post. Accessed: 2026-11-23. November 20 announcement of Masullo's ~940-page "all human" GRH draft, updated eight hours later to walk back endorsement after AI-assisted readers flagged problems.
+- **Lean FRO & Mathlib certification post** — https://x.com/leanprover/status/2124159121645801562
+  Type: X post. Accessed: 2026-11-25. Official November 21 announcement (~29.5k likes, 3.8M views) certifying Alpöge's 17M-line Lean proof of the Riemann Hypothesis.
+- **Levent Alpöge ("Stupid things I did")** — https://x.com/__alpoge__/status/2124987173439209561
+  Type: X post. Accessed: 2026-11-25. Viral November 23 thread (~23.4k likes, 7.6M views) clarifying the "250,000+ pages" footnote joke, acknowledging rough Lean code that compiles, and reflecting on proofs as raw inputs for better mathematical definitions.
+- **Daniel Litt's four-point mathematician summary** — https://x.com/littmath/status/2124573924528681263
+  Type: X post. Accessed: 2026-11-25. November 22 thread (~2.1k likes, 138k views) by U of Toronto / visiting Harvard mathematician Daniel Litt: exceedingly likely correct, no human understands it yet, debunkings aren't credible, and much broader generalized RH work remains.
 - **Yifan Zhang's post** — https://x.com/yifanzhang_/status/2123789252756414577
   Type: X post. Accessed: 2026-11-23. Viral November 20 post linking `alpo.ge/remark.pdf`.
 - **MTS on Vakil's Masullo release** — https://x.com/MTSlive/status/2123852228092195283

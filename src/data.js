@@ -335,10 +335,13 @@ export const meetups = [
               "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
             ],
             embeds: [
+              { type: "tweet", href: "https://x.com/leanprover/status/2124159121645801562" },
+              { type: "tweet", href: "https://x.com/__alpoge__/status/2124987173439209561" },
+              { type: "tweet", href: "https://x.com/littmath/status/2124573924528681263" },
               { type: "tweet", href: "https://x.com/yifanzhang_/status/2123789252756414577" },
               { type: "tweet", href: "https://x.com/MTSlive/status/2123852228092195283" },
             ],
-            notes: "Certification covers the classical zeta-function statement across 175,187 files using independent Lean kernels; Clay hasn't moved. The argument uses Langlands and arithmetic geometry, and mathematicians are still writing human-readable reconstructions—formal proof landed ahead of human understanding. Vakil admitted he hadn't read Masullo's 940-page draft.",
+            notes: "Certification covers the classical zeta-function statement across 175,187 files using independent Lean kernels; Clay hasn't moved. Alpöge later clarified the viral \"250,000+ pages\" footnote was a joke while defending the verified Lean proof, and Daniel Litt sums up the moment: exceedingly likely correct, yet no human understands it yet. Vakil admitted he hadn't read Masullo's 940-page draft.",
             topStory: true,
           },
           {
