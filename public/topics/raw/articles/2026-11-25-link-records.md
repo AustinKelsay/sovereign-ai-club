@@ -298,6 +298,8 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: blog comment. Accessed: 2026-11-25. November 24 reply on "I've been drinking wine in my kitchen" where UT Austin's Scott Aaronson reports hearing "many, many rumors that one or both labs are sitting on Factoring in P" and says he is "virtually certain" labs hold cryptography bombshells, while cautioning the details may be distorted by a game of Telephone (later commenters pointed to Google's deterministic factoring commit).
 - **Anthony Leverrier (@letonyo) post on Aaronson's Factoring in P comment** — https://x.com/letonyo/status/2125500340833534056
   Type: X post. Accessed: 2026-11-25. Viral November 25 post (~285k views) by quantum error-correction researcher Anthony Leverrier highlighting Scott Aaronson's Factoring in P and cryptography-rumor comments.
+- **Chubby (@kimmonismus) quoting Andrew Curran on Factoring in P rumors** — https://x.com/kimmonismus/status/2125602411540566221
+  Type: X post. Accessed: 2026-11-25. Viral November 25 post (~200k views) quoting `@AndrewCurran_` (who says he has heard the same Anthropic/OpenAI Factoring in P rumor for ~10 days) and summarizing the RSA migration stakes if a polynomial-time factoring algorithm works at practical key sizes.
 - **Chubby (@kimmonismus) post on Cogentic** — https://x.com/kimmonismus/status/2125574747882704951
   Type: X post. Accessed: 2026-11-25. Viral summary highlighting Google's six Cogentic / Gemini 4 math papers.
 

@@ -345,9 +345,10 @@ export const meetups = [
             ],
             embeds: [
               { type: "tweet", href: "https://x.com/letonyo/status/2125500340833534056" },
+              { type: "tweet", href: "https://x.com/kimmonismus/status/2125602411540566221" },
               { type: "tweet", href: "https://x.com/kimmonismus/status/2125574747882704951" },
             ],
-            notes: "Aaronson wrote he's \"virtually certain\" labs have cryptography bombshells, while commenters asked if Telephone distorted Google's deterministic subexponential and L_N[1/3, 105] factoring papers (huge constant 105—not an RSA break). Commit 4a7bc8a also covers fixed-characteristic discrete logs, log-rank, edge reconstruction, and Nash equilibria, completing the certified → Lean-unchecked → PDFs-only math ladder.",
+            notes: "Aaronson wrote he's \"virtually certain\" labs hold cryptography bombshells (and Andrew Curran says he's heard the same Anthropic/OpenAI rumor for ~10 days), though even Factoring in P needs practical exponents to break real RSA keys—and commenters asked if Telephone distorted Google's deterministic subexponential and L_N[1/3, 105] factoring papers. Commit 4a7bc8a also covers discrete logs, log-rank, edge reconstruction, and Nash equilibria.",
           },
           {
             title: "Praxis brings general witness encryption down to 8 GB",
