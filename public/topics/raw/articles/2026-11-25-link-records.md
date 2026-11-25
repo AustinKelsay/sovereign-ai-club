@@ -1,7 +1,7 @@
 ---
 title: Sovereign AI Club - November 25, 2026 - Link Records
 created: 2026-11-16
-updated: 2026-11-24
+updated: 2026-11-25
 type: summary
 tags: [source-record]
 sources: []
@@ -226,11 +226,20 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Baseten launch post** — https://x.com/baseten/status/2121373358717862213
   Type: X post. Accessed: 2026-11-23. November 13 announcement of Baseten's Rust+CUDA DeepSeek V4.1-Flash engine.
 - **magnitudedev/magnitude** — https://github.com/magnitudedev/magnitude
-  Type: GitHub repository. Accessed: 2026-11-23. Apache 2.0 auto-tuned local inference engine across Apple Silicon, NVIDIA, AMD, Intel, and CPU.
+  Type: GitHub repository. Accessed: 2026-11-25. Apache 2.0 inference engine streaming MoE experts across GPU VRAM, system RAM, and NVMe SSD across Apple Silicon, NVIDIA, AMD, Intel, and CPU.
+- **Magnitude benchmarks** — https://magnitude.dev/benchmarks
+  Type: vendor benchmarks. Accessed: 2026-11-25. Vendor 2-bit 64k context decode numbers across Mac mini M5 Pro, RTX 3090, DGX Spark, and RTX 5090.
+- **Tom Greenwald Magnitude launch post** — https://x.com/tomgreenwald/status/2125348896805175791
+  Type: X post. Accessed: 2026-11-25. November 24 launch reporting 54 tok/s Qwen 3.8 Flash Next on Mac mini M5 Pro (48 GB), 41 tok/s on RTX 3090, 28 tok/s GLM 5.3 Flash on DGX Spark, and 17 tok/s DeepSeek V4.1-Flash on RTX 5090 + 128 GB RAM + PCIe 4.0 SSD.
 - **Tom Greenwald on SSD expert streaming** — https://x.com/tomgreenwald/status/2123875212093747663
-  Type: X post. Accessed: 2026-11-23. Argues SSD streaming is the next frontier for ultra-sparse MoEs and teases DeepSeek V4.1-Flash at ~40+ tok/s on one gaming GPU.
-- **Tom Greenwald schedule update** — https://x.com/tomgreenwald/status/2124890020263727264
-  Type: X post. Accessed: 2026-11-23. Clarifies Monday's build lacked full SSD expert streaming and moves the release and benchmarks to Tuesday, November 24.
+  Type: X post. Accessed: 2026-11-23. Earlier teaser pitching DeepSeek V4.1-Flash at 40+ tok/s on one gaming GPU via SSD streaming.
+
+### Harvey post-trains four US open models past Kimi K3
+
+- **Harvey announcement post** — https://x.com/harvey/status/2125259420259250209
+  Type: X post. Accessed: 2026-11-25. November 24 announcement reporting that post-trained Muse Spark Open, Nemotron 3.5 Super VL, Beam 1.0, and Inkling 2 Small all beat Harvey's earlier Kimi K3 mark on Legal Agent Bench, with Muse Spark Open first past 30% all-pass.
+- **Niko Grupen: Pushing the US open-weight frontier** — https://x.com/nikogrupen/status/2125258400866910269
+  Type: X article. Accessed: 2026-11-25. Technical writeup detailing rank-64 LoRA RL (CISPO/Dr. GRPO on Baseten Loops / Tinker), Muse Spark Open reaching 30.3% all-pass with 36% fewer output tokens than base at max effort, no regression on SWE-bench Pro, flat GRM style win rates on Muse/Inkling, and experimental non-production status (checkpoints kept private).
 
 ### Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof
 
@@ -255,6 +264,15 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: X post. Accessed: 2026-11-24. Amplifies `@TheCoinCollect8`'s bank/exchange warning while admitting in the same post the result does not directly threaten Bitcoin's cryptography.
 - **TheCoinCollect8 post** — https://x.com/TheCoinCollect8/status/2125039784301306319
   Type: X post. Accessed: 2026-11-24. Anonymous account jumping from an algebraic circuit lower bound (`VP ≠ VNP`) to warning banks and exchanges that "encryption isn't safe."
+
+### Google's Cogentic agent drops six unverified math papers
+
+- **google-research: cogentic_research_papers** — https://github.com/google-research/google-research/tree/master/cogentic_research_papers
+  Type: GitHub directory. Accessed: 2026-11-25. Apache 2.0 collection of papers produced by Google's Cogentic agent harness; disclaimer notes "not an official Google product."
+- **google-research commit 4a7bc8a (six Cogentic papers)** — https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a
+  Type: GitHub commit. Accessed: 2026-11-25. November 25 commit adding six unreviewed PDF preprints (unconditional $L_N[1/3, O(1)]$ integer factoring with constant 105, deterministic subexponential factoring, log-rank barrier improvement, linear-density edge reconstruction, fixed-characteristic discrete logs, and 1/5-approximate bimatrix Nash equilibria); Lean 4 formalizations withheld for a companion submission.
+- **Chubby (@kimmonismus) post on Cogentic** — https://x.com/kimmonismus/status/2125574747882704951
+  Type: X post. Accessed: 2026-11-25. Viral summary highlighting Google's six Cogentic / Gemini 4 math papers.
 
 ### Praxis brings general witness encryption down to 8 GB
 
@@ -304,6 +322,10 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: X post. Accessed: 2026-11-23. November 20 announcement of Vals Misalignment Incidents.
 - **Nikil Ravi's thread** — https://x.com/nikilravi/status/2123917585381265719
   Type: X post. Accessed: 2026-11-23. Author context and call for outside misalignment incident reports.
+- **Pietro Schirano (@skirano) on Claude research sabotage** — https://x.com/skirano/status/2125371115979641188
+  Type: X post. Accessed: 2026-11-25. Viral November 24 allegation (~6.4k likes) that Claude models sabotage research and claim he built a `"DoNotSabotage"` skill routing work to Astra/Neon; no traces or code published.
+- **Myko (@mykomarci) quote-post on Schirano** — https://x.com/mykomarci/status/2125544874568998954
+  Type: X post. Accessed: 2026-11-25. Amplifies Schirano's unverified Claude research-sabotage claim.
 
 ### Uncensored models: most are repacks, and Pliny's 10-word hack misfired
 
@@ -382,20 +404,29 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Unicorn's viral retelling of the NH Claude story** — https://x.com/ohayou792/status/2124151555452719456
   Type: X post. Accessed: 2026-11-23. Chinese-language retelling of Morrissey's Substack post (~850k views).
 
-### T3 Code's default-on telemetry hashes local Codex and Claude IDs
+### T3 Code's telemetry backlash sparks a 25-tool privacy audit
 
+- **millZach/ai-agent-telemetry-audit** — https://github.com/millZach/ai-agent-telemetry-audit
+  Type: GitHub repository. Accessed: 2026-11-25. Line-by-line static forensic audit across 25 open-source AI coding GUIs and agent harnesses pinned to Nov 24–25 commits: 1/25 honors `DO_NOT_TRACK`, 2/25 disable PostHog GeoIP, 4/25 ship without active default-on tracking, 6 earn F (Kilo Code, Paradev/Superset, AionUi, Opcode, Gemini CLI, Cline); documents T3 Code moving from F (`4c2e2b37`) to D (`2b84f486`) after 12+ overnight PRs (`#42299`, `#42465`).
 - **pingdotgg/t3code: Telemetry documentation** — https://github.com/pingdotgg/t3code/blob/main/docs/user/telemetry.md
-  Type: official docs. Accessed: 2026-11-24. Confirms default-on telemetry via `ingest.t3.codes` (keeping a copy + forwarding to PostHog), env-var opt-out (`T3CODE_TELEMETRY_ENABLED=false`) without a settings UI toggle, and separate browser/mobile Axiom traces; states prompts, responses, file contents, and raw auth tokens are excluded.
-- **pingdotgg/t3code: Identify.ts** — https://github.com/pingdotgg/t3code/blob/main/apps/server/src/telemetry/Identify.ts
-  Type: source code. Accessed: 2026-11-24. Reads `~/.codex/auth.json` and `~/.claude.json` account IDs and passes them through unsalted SHA-256 (`packages/shared/src/telemetryId.ts`) to link installs across machines (PR #21506).
+  Type: official docs. Accessed: 2026-11-24. Confirms default-on telemetry via `ingest.t3.codes` (keeping a copy + forwarding to PostHog) and env-var opt-out (`T3CODE_TELEMETRY_ENABLED=false`) without a settings UI toggle.
 - **pingdotgg/t3code: Issue #4123** — https://github.com/pingdotgg/t3code/issues/4123
   Type: GitHub issue. Accessed: 2026-11-24. Tracks removal of the May 2026 homepage promise ("No telemetry / Unless you opt in. Full stop.") in commit `3bdaa6e`.
+- **Zach Miller's 25-tool audit thread** — https://x.com/zrymiller/status/2125497546772812061
+  Type: X post. Accessed: 2026-11-25. Summarizes the 25-tool open-source coding harness privacy audit triggered by the T3 Code backlash.
 - **realchendahuang's telemetry investigation** — https://x.com/realchendahuang/status/2125153472450527440
   Type: X post. Accessed: 2026-11-24. Viral November 24 breakdown (~1.34M views) of T3 Code's default-on telemetry, closed opt-out toggle PRs, and `ingest.t3.codes`.
 - **MiaAI_lab on auth-file hashing** — https://x.com/MiaAI_lab/status/2125224970959605857
-  Type: X post. Accessed: 2026-11-24. Highlights `Identify.ts` reading `~/.codex/auth.json` and `~/.claude.json` and unsalted SHA-256 hashing; later announced zero-telemetry fork M3 Code.
+  Type: X post. Accessed: 2026-11-24. Highlighted `Identify.ts` reading `~/.codex/auth.json` and `~/.claude.json` before PR `#42299` stripped those reads overnight.
 - **Theo's Nov 24 telemetry defense** — https://x.com/theo/status/2125186071357251715
-  Type: X post. Accessed: 2026-11-24. Defends T3 Code's managed-policy opt-out over a single-machine settings toggle; no apology or revert issued.
+  Type: X post. Accessed: 2026-11-24. Defended T3 Code's managed-policy opt-out over a single-machine settings toggle.
+
+### Maple AI raises $5.3M for verifiable, encrypted private AI
+
+- **TechCrunch: Maple raises $5.3M to build AI products that protect your data, even from itself** — https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/
+  Type: news report. Accessed: 2026-11-25. November 24 report on Maple AI's oversubscribed $5.3M seed round led by EPIC Ventures with Draper Associates, Planetary VC, and Epoch VC to build TEE-encrypted Maple Work and always-on cloud agents.
+- **Maple AI seed announcement** — https://x.com/TryMapleAI/status/2125377545709248916
+  Type: X post. Accessed: 2026-11-25. Founders Mark and Anthony announce the $5.3M seed round for verifiable private-by-default AI.
 
 ### FBI warns on ARTEX while defenders build AI decoy mazes
 
@@ -467,6 +498,13 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Andrew Howard's 30-day outage tally** — https://x.com/Andrew_J_Howard/status/2123457666525679979
   Type: X post. Accessed: 2026-11-23. Lists mid-October to mid-November outages across Google Cloud, hospitals, NYSE, Microsoft, Workday, FAA, AWS, Chase, NSA, and Apple.
 
+### Hackers breach an unclassified CIA and ODNI intelligence network
+
+- **CyberScoop: Unclassified intel system hit by hackers, affecting CIA, ODNI** — https://cyberscoop.com/cia-odni-osint-data-breach/
+  Type: news report. Accessed: 2026-11-25. Summarizes New York Times reporting on the breach of an unclassified OSINT analysis network shared by the CIA and ODNI (with possible exposure across other agencies); ODNI reports no classified systems or critical capabilities disrupted.
+- **Dark Web Informer post** — https://x.com/darkwebinformer/status/2125322584212279633
+  Type: X post. Accessed: 2026-11-25. November 24 alert summarizing the CIA / ODNI unclassified OSINT network breach.
+
 ### OpenAI and Cisco launch Shirudo for agent-written Linux shields
 
 - **OpenAI: OpenAI and Cisco introduce Shirudo** — https://openai.com/index/introducing-shirudo/
@@ -486,14 +524,20 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: official press release. Accessed: 2026-11-23. November 23 unanimous board reinstatement following senior US government input; independent foreign-intelligence probe continues and NVIDIA creates a National Security and Export Control Committee.
 - **NVIDIA Announces CEO Transition** — https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
   Type: official press release. Accessed: 2026-11-23. November 12 announcement of Huang's resignation and CFO Colette Kress stepping in as interim CEO.
+- **Bloomberg Opinion: Jensen Huang's NVIDIA Return Is Terrible News for Anthropic and Dario Amodei** — https://www.bloomberg.com/opinion/articles/2026-11-24/jensen-huang-nvidia-return-is-terrible-news-for-anthropic-and-dario-amodei
+  Type: opinion column (paywalled; verified via secondary coverage and Bloomberg X post). Accessed: 2026-11-25. Parmy Olson argues Huang's reinstatement strengthens NVIDIA's open-weight push and opposition to export curbs against Anthropic's closed-model business model.
 - **Bret Kerr: The Table** — https://bretkerr.substack.com/p/the-table
   Type: Substack analysis. Accessed: 2026-11-24. Fact-checks the viral Coefficient Giving / Tarbell grant chart, confirming real funding ($5.29M to Tarbell) while noting 0 of 51 Tarbell fellows work at NYT, FT, WSJ, or Reuters.
+- **Bloomberg Opinion X post** — https://x.com/opinion/status/2125220447721558319
+  Type: X post. Accessed: 2026-11-25. Summarizes Parmy Olson's November 24 column on Jensen Huang's open-weight stance versus Dario Amodei.
 - **Tobi Lütke's quote-post ("It was an op")** — https://x.com/tobi/status/2125199405234213032
   Type: X post. Accessed: 2026-11-24. Shopify CEO amplifying Kevin Bass's claim that EA-funded media drove the campaign against Huang.
 - **Kevin Bass on Coefficient Giving and Jensen Huang** — https://x.com/kevinnbass/status/2125098838587330898
   Type: X post. Accessed: 2026-11-24. Argues Dustin Moskovitz / Good Ventures / Coefficient Giving funding created an incentive to push Huang out; orchestration of breaking newsrooms remains unproven.
 - **Travis Kling on EA and Jensen Huang** — https://x.com/travis_kling/status/2124976927937057060
   Type: X post. Accessed: 2026-11-24. Highlights the viral EA / Coefficient Giving funding table around the Huang resignation debate.
+- **Spencer Pratt post on Anthropic, Lutnick, and NVIDIA** — https://x.com/spencerpratt/status/2125268258852835739
+  Type: X post. Accessed: 2026-11-25. Viral (~20.7k likes) speculative post alleging a coordinated lobbying/media campaign against Lutnick and NVIDIA ahead of Anthropic's IPO; orchestration claims remain unverified.
 
 ### Will DePue's weight forensics claim Chinese labs used Blackwell GPUs
 

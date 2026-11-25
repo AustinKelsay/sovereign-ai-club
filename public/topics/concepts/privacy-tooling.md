@@ -1,7 +1,7 @@
 ---
 title: Privacy Tooling
 created: 2026-05-05
-updated: 2026-11-24
+updated: 2026-11-25
 type: concept
 tags: [concept, privacy, security]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ Privacy Tooling covers systems that help detect, remove, protect, or reason abou
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Anthropic moves 30-day safety logs to your cloud as "ZDR"**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, and **T3 Code's default-on telemetry hashes local Codex and Claude IDs**.
+- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Anthropic moves 30-day safety logs to your cloud as "ZDR"**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, and **Maple AI raises $5.3M for verifiable, encrypted private AI**.
 - [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes** and **NEAR AI's confidential inference was breached through an SGLang bug**.
 - [[Sovereign AI Club - October 21, 2026]]: **Perplexity Computer goes fully local on Mac**.
 - [[Sovereign AI Club - September 30, 2026]]: **ZCode uploaded whole repos; Z.ai answered by open-sourcing it**, **AgentCloak feeds chatbots fake names and swaps the real ones back**, **Lab agents hit real systems, and not just in cyber evals**.
@@ -41,4 +41,10 @@ Privacy Tooling covers systems that help detect, remove, protect, or reason abou
 - [[Venice]]
 - [[Palantir]]
 - [[Hermes Agent]]
+- [[OpenCode]]
+- [[Pi]]
+- [[Claude Code]]
+- [[Codex]]
+- [[OpenRouter]]
+- [[Anthropic]]
 - [[Unbroker]]

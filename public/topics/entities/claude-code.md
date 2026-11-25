@@ -1,7 +1,7 @@
 ---
 title: Claude Code
 created: 2026-07-08
-updated: 2026-11-24
+updated: 2026-11-25
 type: entity
 tags: [entity, product, coding-agents, agent-infrastructure, security]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -9,11 +9,11 @@ sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-
 
 # Claude Code
 
-Claude Code is Anthropic's coding-agent product, recurring in the wiki as a practical surface for agent workflows, cost controls, security boundaries, and vendor trust. Session logs that include encrypted thinking blocks were a public leak surface in August 2026, after researchers showed weaker sibling models could transcribe hidden chain-of-thought.
+Claude Code is Anthropic's coding-agent product, recurring in the wiki as a practical surface for agent workflows, cost controls, security boundaries, and vendor trust. Session logs that include encrypted thinking blocks were a public leak surface in August 2026, after researchers showed weaker sibling models could transcribe hidden chain-of-thought. In November 2026, a Fireworks AI breach cascaded into an 11-hour poisoned Claude Code build inside [[Cursor]]'s marketplace cache (Anthropic's real extension was untouched), MBZUAI researchers used Claude Code to hand-write all 19,936 weights of a looped maze-solving transformer in 39 minutes, and T3 Code stripped telemetry reads of `~/.claude.json` overnight after community backlash.
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Claude writes every weight of a tiny looped maze solver**, and **T3 Code's default-on telemetry hashes local Codex and Claude IDs**.
+- [[Sovereign AI Club - November 25, 2026]]: **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Claude writes every weight of a tiny looped maze solver**, and **T3 Code's telemetry backlash sparks a 25-tool privacy audit**.
 - [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.
 - [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.
 - [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, and **Encrypted reasoning blobs decrypt via weaker sibling models**.
@@ -32,6 +32,8 @@ Claude Code is Anthropic's coding-agent product, recurring in the wiki as a prac
 - [[Agent Infrastructure]]
 - [[Agent Security]]
 - [[Agent Cost Controls]]
+- [[Privacy Tooling]]
+- [[Cursor]]
 - [[Codex]]
 - [[Omarchy]]
 - [[Berd]]

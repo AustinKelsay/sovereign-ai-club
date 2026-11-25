@@ -1,7 +1,7 @@
 ---
 title: Cursor
 created: 2026-05-27
-updated: 2026-11-23
+updated: 2026-11-25
 type: entity
 tags: [entity, company, coding-agents, agent-infrastructure]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md]
@@ -10,6 +10,8 @@ sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-09-09-link-
 # Cursor
 
 Cursor is a recurring Sovereign AI Club entity for coding agents, Composer models, and agent infrastructure.
+
+In November 2026, Cursor traced an 11-hour marketplace-cache poisoning of [[Anthropic]]'s [[Claude Code]] extension (up to 5,000 users exposed) back to a Cursor access key stolen in a Fireworks AI breach, prompting Cursor to move off Fireworks. That same week, parent company Anysphere told US House committees it is exploring phasing out Chinese [[Open Models|open-weight models]].
 
 ## Mentioned In
 
@@ -26,7 +28,10 @@ Cursor is a recurring Sovereign AI Club entity for coding agents, Composer model
 - [[Coding Agents]]
 - [[Agent Infrastructure]]
 - [[Agent Cost Controls]]
+- [[AI SaaS Supply Chain]]
+- [[Claude Code]]
 - [[Compute Strategy]]
+- [[Open Models]]
 - [[SpaceX]]
 - [[Security]]
 - [[Cursor Origin]]

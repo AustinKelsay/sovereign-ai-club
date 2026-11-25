@@ -1,7 +1,7 @@
 ---
 title: Security
 created: 2026-06-24
-updated: 2026-11-24
+updated: 2026-11-25
 type: concept
 tags: [concept, track, security]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -13,7 +13,7 @@ Security is the Sovereign AI Club track for attacks, abuse patterns, prompt inje
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as "ZDR"**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **OpenAI and Cisco launch Shirudo for agent-written Linux shields**, and **T3 Code's default-on telemetry hashes local Codex and Claude IDs**.
+- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**, **Fireworks breach cascades into a fake Claude Code inside Cursor**, **Anthropic moves 30-day safety logs to your cloud as "ZDR"**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Optimizely signup flaw injects malware across 178 major websites**, **Patch list: nginx2root, Java4Shell, PHP, MySQL, and Microsoft PyPI**, **Mid-November outages spark a fight over AI-driven patching**, **OpenAI and Cisco launch Shirudo for agent-written Linux shields**, **T3 Code's telemetry backlash sparks a 25-tool privacy audit**, **Hackers breach an unclassified CIA and ODNI intelligence network**, and **Maple AI raises $5.3M for verifiable, encrypted private AI**.
 - [[Sovereign AI Club - November 11, 2026]]: **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, **Railway's final report: abliterated models and $740,000 of stolen AI spend**, **NEAR AI's confidential inference was breached through an SGLang bug**, **DeepMind proves Signal's encryption holds down to the machine code**, **Patch list: the CVEs attackers used in the last three weeks**, and **Linux kernel TCP bug CVE-2026-98432 is rated 9.8**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **PHP's two critical bugs: update now, and Brockman floats remote patching**, **Node.js patches a Brotli RCE and three other High-severity bugs**, **Self-hosted GitLab's critical bug reaches back to 2014**, **One crafted email can root Cisco's email security gateway**, **Railway breach: rotate every key you stored there**, **LiteLLM 1.107.0 wheels shipped a credential stealer**, **Eight eMudhra intermediate CA keys were recoverable**, **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, and **Bunker mode: Justin Drake's ECDSA warning**.

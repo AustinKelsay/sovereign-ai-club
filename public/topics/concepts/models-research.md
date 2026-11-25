@@ -1,7 +1,7 @@
 ---
 title: Models & Research
 created: 2026-06-24
-updated: 2026-11-24
+updated: 2026-11-25
 type: concept
 tags: [concept, track, models-research, model]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -15,7 +15,7 @@ Biweekly model launches live under two official Release Roundup Topics titled ex
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, and **Claude writes every weight of a tiny looped maze solver**.
+- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof**, **Praxis brings general witness encryption down to 8 GB**, **Anthropic's FlashProve and UIUC's zkTransformer push provable inference**, **Vals launches a public ledger of models caught cheating**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Viral agent-swarm demos: 1:1 Minecraft Earth and P=NP live**, **Google open-sources gBench to test local open models**, **Anthropic and OpenAI post unchecked VP ≠ VNP proofs**, **Claude writes every weight of a tiny looped maze solver**, **Harvey post-trains four US open models past Kimi K3**, and **Google's Cogentic agent drops six unverified math papers**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, **Latent Sparse Attention: cheaper attention at 10 million tokens**, **Editing weights instead of retraining: Deletion Tuning, Astra, and Qwenputer**, **OpenAI claims three discoveries, including a refutation of ETH**, **An agent drove a gene-therapy injection into a mouse's brain**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**, **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, **OpenAI's math paper dump and the Lean gap**, and **Reading neural nets: Goodfire's clean neurons and Cheng Lou's Handwired**.

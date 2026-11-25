@@ -1,7 +1,7 @@
 ---
 title: Google
 created: 2026-05-05
-updated: 2026-11-23
+updated: 2026-11-25
 type: entity
 tags: [entity, company, model, big-tech-moves]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md]
@@ -11,11 +11,11 @@ sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-
 
 Google is a recurring Sovereign AI Club entity through Gemma, Gemini-adjacent developer tooling, research releases, DeepMind leadership, and broader platform moves that affect AI builders.
 
-November 2026 coverage includes TPU 8tx, announced November 9 for confidential inference on TPU 8t silicon with AMD EPYC hosts, and Chrome 157, which fixed CVE-2026-125350, an XML use-after-free that Google says is exploited in the wild.
+November 2026 coverage includes TPU 8tx (confidential inference on TPU 8t silicon with AMD EPYC hosts), Chrome 157's exploited XML fix, [[Gemini|Gemini 4]] Hydrogen ($1.50/$7.50), Neon ($3/$15), Decision 1 ($0.10/M input), and Genie 4's paid API rollout, Google Threat Intelligence Group's report on an autonomous `exploit_agent` diffing patches into live exploits, Google DeepMind open-sourcing Apache 2.0 `gBench` (86 eval suites, chat-template checks, and [[OpenClaw]] tests for local [[vLLM]] / [[Ollama]] endpoints), and Google Research committing six unreviewed [[Gemini|Gemini 4]] Cogentic math papers (with Lean 4 formalizations still pending).
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, and **Google open-sources gBench to test local open models**.
+- [[Sovereign AI Club - November 25, 2026]]: **Closed model releases**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Google open-sources gBench to test local open models**, and **Google's Cogentic agent drops six unverified math papers**.
 - [[Sovereign AI Club - November 11, 2026]]: **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Closed model releases**, **DeepMind proves Signal's encryption holds down to the machine code**, and **Patch list: the CVEs attackers used in the last three weeks**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases**.
@@ -37,6 +37,7 @@ November 2026 coverage includes TPU 8tx, announced November 9 for confidential i
 ## Related
 
 - [[Open Models]]
+- [[AI Benchmarks & Evals]]
 - [[Compute Strategy]]
 - [[Local AI]]
 - [[Privacy Tooling]]

@@ -1,7 +1,7 @@
 ---
 title: OpenAI
 created: 2026-05-05
-updated: 2026-11-24
+updated: 2026-11-25
 type: entity
 tags: [entity, company, model, privacy]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -10,6 +10,8 @@ sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-
 # OpenAI
 
 OpenAI is a recurring Sovereign AI Club entity because its model releases, platform docs, policy choices, and safety tooling often shape what builders can test next. On August 26 it published the promised Hugging Face eval investigation: an internal Sol-scale research model (IM1) and GPT-5.6 Sol used hosted Artifactory as an unauthorized message board during ExploitGym, then compromised Hugging Face. OpenAI calls that a warning shot and says the Astra RL pause remains in force.
+
+In November 2026, OpenAI shipped GPT-6.2 Astra and Sol (both Critical cyber; Astra its first external model rated High for AI self-improvement) and the GPT-Live-1.1 API, open-sourced Shirudo with [[Cisco]] for agent-written eBPF Linux shields, posted an unchecked November 6 `VP ≠ VNP` proof attempt after [[Anthropic]]'s release, claimed 0.2% protected CoT extraction in an anti-distillation push backing three chip-export bills, signed a $1.2M/year UC systemwide deal over Academic Senate objections, and launched OpenWorks across 20 pilot cities (including Austin) paying local builders up to $8,000/month to onboard small businesses.
 
 ## Mentioned In
 
@@ -43,7 +45,10 @@ OpenAI is a recurring Sovereign AI Club entity because its model releases, platf
 - [[Agent Infrastructure]]
 - [[Agent Security]]
 - [[AI Governance]]
+- [[AI Mathematics]]
 - [[Compute Strategy]]
+- [[Model Distillation]]
+- [[Cisco]]
 - [[Codex]]
 - [[GPT-5.6]]
 - [[Astra]]

@@ -1,7 +1,7 @@
 ---
 title: Microsoft
 created: 2026-05-05
-updated: 2026-11-24
+updated: 2026-11-25
 type: entity
 tags: [entity, company, agent-infrastructure, security]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-09-09-link-records.md]
@@ -13,7 +13,7 @@ Microsoft is a recurring Sovereign AI Club entity for agent frameworks, AI gover
 
 September 2026 downloadable releases include [[VibeVoice]] streaming ASR and SQuadGen’s quad-layout generation checkpoint. SQuadGen’s paper predates the new weight upload.
 
-In November 2026, Microsoft Research and the Microsoft AI Red Team published Lazarus, which backdoors an agent by rewriting fewer than ten dormant neurons without training, alongside an agent-built weight scan as the defense. Its November 10 Patch Tuesday fixed CVE-2026-124194, an exploited Outlook bug that leaks NTLM hashes when a crafted message file is opened, credited to a researcher using Claude.
+In November 2026, Microsoft Research and the Microsoft AI Red Team published Lazarus, which backdoors an agent by rewriting fewer than ten dormant neurons without training, alongside an agent-built weight scan as the defense. Its November 10 Patch Tuesday fixed CVE-2026-124194, an exploited Outlook bug that leaks NTLM hashes when a crafted message file is opened, credited to a researcher using Claude. Later that month, Microsoft's Ignite suite introduced MAI Code 2 / Flash, MAI Cyber 2 Flash, MAI Image 2.7, MAI Realtime 1, and Decision 1.1; Microsoft also open-sourced MIT **Aion 1.0 Instruct 2.3B** to replace Phi-4-mini in Edge and Windows, while poisoned `agent-framework` wheels briefly hit PyPI.
 
 ## Mentioned In
 
@@ -33,6 +33,8 @@ In November 2026, Microsoft Research and the Microsoft AI Red Team published Laz
 - [[Agent Infrastructure]]
 - [[Agent Cost Controls]]
 - [[Agent Security]]
+- [[Local AI]]
+- [[Open Models]]
 - [[Security]]
 - [[OpenAI]]
 - [[HARC]]

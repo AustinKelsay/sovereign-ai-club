@@ -21,3 +21,8 @@ AI SaaS Supply Chain describes the security and operational risk created when AI
 
 - [[Vercel]]
 - [[Agent Infrastructure]]
+- [[OpenRouter]]
+- [[Cursor]]
+- [[Claude Code]]
+- [[Privacy Tooling]]
+- [[Supply Chain Security]]

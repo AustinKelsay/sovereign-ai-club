@@ -256,17 +256,30 @@ export const meetups = [
           },
           {
             title: "Baseten and Magnitude push open-model speed from opposite ends",
-            description: "Baseten built a from-scratch Rust and CUDA engine for DeepSeek V4.1-Flash hitting 2,060 tok/s on eight B300s, while Magnitude is pitching SSD expert streaming to run it on one gaming GPU at 40+ tok/s. Both carry asterisks: Baseten's license bars hosted use, and Magnitude's streaming slipped to Tuesday with no outside benchmarks.",
+            description: "Baseten built a Rust and CUDA engine hitting 2,060 tok/s on DeepSeek V4.1-Flash across eight B300s, while Magnitude shipped Apache 2.0 SSD expert streaming for everyday Macs and PCs. Watch the caveats: Baseten's license bars hosted use, and Magnitude's 2-bit DeepSeek speed landed at 17 tok/s, not the teased 40+.",
             href: "https://github.com/basetenlabs/deepseek-ultrafast",
             linkPair: [
               "https://github.com/magnitudedev/magnitude",
+              "https://magnitude.dev/benchmarks",
             ],
             embeds: [
               { type: "tweet", href: "https://x.com/baseten/status/2121373358717862213" },
+              { type: "tweet", href: "https://x.com/tomgreenwald/status/2125348896805175791" },
               { type: "tweet", href: "https://x.com/tomgreenwald/status/2123875212093747663" },
-              { type: "tweet", href: "https://x.com/tomgreenwald/status/2124890020263727264" },
             ],
-            notes: "Baseten's repo uses Elastic License 2.0 (not Apache/MIT), requires Blackwell GPUs, and its 2,060 tok/s is one Tetris prompt with speculative decoding. Magnitude's core engine is Apache 2.0; Tom Greenwald pushed the SSD streaming launch from Monday to Tuesday morning, November 24.",
+            notes: "Baseten uses Elastic License 2.0 on Blackwell (one Tetris prompt with speculative decoding). Magnitude's Nov 24 launch claims 2-bit 64k decode at 54 tok/s Qwen 3.8 Flash Next on M5 Pro 48 GB, 41 tok/s on RTX 3090, 28 tok/s GLM 5.3 Flash on DGX Spark, and 17 tok/s DeepSeek V4.1-Flash on RTX 5090.",
+          },
+          {
+            title: "Harvey post-trains four US open models past Kimi K3",
+            description: "Harvey and Baseten ran RL post-training on four US open models—Muse Spark Open, Nemotron 3.5 Super VL, Beam 1.0, and Inkling 2 Small—pushing Muse past 30% on Legal Agent Bench. The catch: Harvey kept the checkpoints private, and rubric wins didn't lift style ratings on Muse or Inkling.",
+            href: "https://x.com/harvey/status/2125259420259250209",
+            linkPair: [
+              "https://x.com/nikogrupen/status/2125258400866910269",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/harvey/status/2125259420259250209" },
+            ],
+            notes: "Rank-64 LoRA with CISPO/Dr. GRPO on Baseten Loops (Tinker for Inkling 2 Small); all four topped 20% all-pass (beating Kimi K3) without regressing on SWE-bench Pro, and Muse hit 30.3% with 36% fewer output tokens. Sets up Big Tech Moves: US open weights just crossed the line where enterprises can drop Chinese bases.",
           },
           {
             title: "Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof",
@@ -293,7 +306,19 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/BitcoinNewsCom/status/2125063678596698613" },
               { type: "tweet", href: "https://x.com/TheCoinCollect8/status/2125039784301306319" },
             ],
-            notes: "Anthropic's README explicitly notes this does not settle P vs NP and no machine checks whether Statement.lean matches the mathematical claim. @BitcoinNewsCom amplified an anonymous account (@TheCoinCollect8) warning banks and exchanges while admitting in the same post it doesn't directly threaten Bitcoin's cryptography.",
+            notes: "Anthropic's README explicitly notes this does not settle P vs NP and no machine checks whether Statement.lean matches the mathematical claim—a sharp contrast with Alpöge's community-certified Riemann proof right above. @BitcoinNewsCom amplified anon @TheCoinCollect8 while admitting it doesn't threaten Bitcoin.",
+          },
+          {
+            title: "Google's Cogentic agent drops six unverified math papers",
+            description: "Google Research quietly committed six Gemini 4 Cogentic math papers today—claiming an unconditional L_N[1/3] factoring bound, deterministic subexponential factoring, and progress on log-rank and edge reconstruction. Unlike Alpöge's certified proof, none are peer-reviewed and Google held back the Lean 4 files for later.",
+            href: "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+            linkPair: [
+              "https://github.com/google-research/google-research/commit/4a7bc8ab0bc770e71a259b7966c500496b99010a",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/kimmonismus/status/2125574747882704951" },
+            ],
+            notes: "Also includes sub-quasi-polynomial discrete logs in fixed characteristic and 1/5-approximate bimatrix Nash equilibria (commit 4a7bc8a). Don't panic on RSA: the L_N[1/3, 105] bound proves asymptotic complexity with a huge constant (105), not a practical cipher break. Completes the 5-day three-lab math ladder: certified (Alpöge) → Lean-checked/human-unchecked (VP ≠ VNP) → PDFs-only (Cogentic).",
           },
           {
             title: "Praxis brings general witness encryption down to 8 GB",
@@ -317,7 +342,7 @@ export const meetups = [
             embeds: [
               { type: "tweet", href: "https://x.com/ddkang/status/2123445796188443051" },
             ],
-            notes: "FlashProve is marked \"not maintained\" on GitHub, runs post-hoc on Llama 4 Maverick 4-bit (~19 MB proof, ~17s verify), and doesn't cover the floating-point sampled model customers actually hit. zkTransformer hits ~1.7s/token on GPT-2 over 112 tokens.",
+            notes: "FlashProve is marked \"not maintained\" on GitHub, runs post-hoc on Llama 4 Maverick 4-bit (~19 MB proof, ~17s verify), and doesn't cover floating-point sampling; zkTransformer hits ~1.7s/token on GPT-2. Direct technical answer to Security's Prime Intellect 53-hour weight-swap incident.",
           },
           {
             title: "Claude writes every weight of a tiny looped maze solver",
@@ -329,7 +354,7 @@ export const meetups = [
             embeds: [
               { type: "tweet", href: "https://x.com/ahmedmm72234641/status/2124869402634129901" },
             ],
-            notes: "Built in one Claude Code session (~$19 at API list prices); a 928-weight variant also hit 100%, and a 3,686-weight Hanoi net ran 1,048,575 moves error-free. Authors note their 0% gradient-descent baseline used only ~5 PFLOPs (230–2,000x less compute than prior papers), so it doesn't prove training can't learn it.",
+            notes: "Built in one Claude Code session (~$19 list); a 928-weight variant also hit 100%, and a 3,686-weight Hanoi net ran 1,048,575 moves error-free (authors' 0% GD baseline used only ~5 PFLOPs). Completes tonight's looped-transformer thread alongside GLM-5.4, Inkling 2 Mini, and SenseNova-Loop-9B.",
           },
           {
             title: "Google open-sources gBench to test local open models",
@@ -353,8 +378,10 @@ export const meetups = [
             embeds: [
               { type: "tweet", href: "https://x.com/ValsAI/status/2123897329011085381" },
               { type: "tweet", href: "https://x.com/nikilravi/status/2123917585381265719" },
+              { type: "tweet", href: "https://x.com/skirano/status/2125371115979641188" },
+              { type: "tweet", href: "https://x.com/mykomarci/status/2125544874568998954" },
             ],
-            notes: "Built by screening recent public-benchmark traces with Mercury Decide and GPT-6.1 Sol. Also logs frontier models complying with military targeting prompts and Grok training during an untimed warmup. Open to outside incident reports.",
+            notes: "Built by screening public-benchmark traces with Mercury Decide and GPT-6.1 Sol; also logs Grok training during untimed warmup and models complying with targeting prompts. Pairs with Pietro Schirano's (@skirano) viral Nov 24 claim that Claude sabotages research (routing it to Astra/Neon via a \"DoNotSabotage\" skill)—note he hasn't published traces or code.",
           },
           {
             title: "Uncensored models: most are repacks, and Pliny's 10-word hack misfired",
@@ -379,7 +406,7 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/cdngdev/status/2122416145517117463" },
               { type: "tweet", href: "https://x.com/amihai/status/2124634001381933448" },
             ],
-            notes: "Worldcraft's creator clarified it's \"program learning\" by 250 agents rather than deep learning, and typing your home address on a public server links it to your username. pequalnp.com is Brilliant CEO Amichai Mantinband's agent-hub showcase.",
+            notes: "Worldcraft's creator clarified it's \"program learning\" by 250 agents rather than deep learning, and typing your home address on a public server links it to your username. pequalnp.com rides the same Lean-proof surge as Alpöge and VP ≠ VNP as Brilliant CEO Amichai Mantinband's agent-hub stress test.",
           },
         ],
       },
@@ -407,7 +434,7 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/michael_chomsky/status/2124326400803152021" },
               { type: "tweet", href: "https://x.com/vikramcantsingh/status/2124303418282086569" },
             ],
-            notes: "Don't collapse these into one hack: Prime Intellect had an intruder swap DeepSeek V4.1-Flash for abliterated weights for 53 hours; Together AI's own coding agent committed a Hugging Face key exposing stored summer prompts; Atlas Cloud, Novita, and StreamLake forwarded MiniMax traffic to MiniMax where canary URLs were fetched days later; Phala reported a host breach; GMI Cloud's incident is customer-reported only.",
+            notes: "Don't collapse these into one hack: Prime Intellect had an intruder swap DeepSeek V4.1-Flash weights for 53 hours (directly motivating FlashProve earlier); Together AI's agent leaked a Hugging Face key exposing summer prompts; Atlas Cloud, Novita, and StreamLake forwarded MiniMax traffic where canaries fired days later; Phala had a host breach.",
             topStory: true,
           },
           {
@@ -438,19 +465,30 @@ export const meetups = [
             notes: "You pay for the bucket and hold the IAM keys, though customer keys can't hide plaintext from the monitor reading it. A viral Substack claiming the FBI visited a user over a Claude incognito joke remains unverified, though Anthropic's real consumer policy does retain incognito chats ~30 days.",
           },
           {
-            title: "T3 Code's default-on telemetry hashes local Codex and Claude IDs",
-            description: "Developers caught T3 Code reading `~/.codex/auth.json` and `~/.claude.json` to upload unsalted SHA-256 Codex and Claude account hashes to `ingest.t3.codes`—months after its homepage promised \"no telemetry unless you opt in.\" Docs say prompts and raw tokens aren't sent, yet there's no settings toggle and Theo hasn't reverted it.",
-            href: "https://github.com/pingdotgg/t3code/blob/main/docs/user/telemetry.md",
+            title: "T3 Code's telemetry backlash sparks a 25-tool privacy audit",
+            description: "After developers caught T3 Code hashing local Codex and Claude auth files, T3 stripped those reads overnight—still leaving default-on tracking with no UI toggle. The backlash sparked a line-by-line audit of 25 open-source coding harnesses: only one honors `DO_NOT_TRACK`, and six failed for opt-out bypasses or silent uploads.",
+            href: "https://github.com/millZach/ai-agent-telemetry-audit",
             linkPair: [
-              "https://github.com/pingdotgg/t3code/blob/main/apps/server/src/telemetry/Identify.ts",
+              "https://github.com/pingdotgg/t3code/blob/main/docs/user/telemetry.md",
               "https://github.com/pingdotgg/t3code/issues/4123",
             ],
             embeds: [
+              { type: "tweet", href: "https://x.com/zrymiller/status/2125497546772812061" },
               { type: "tweet", href: "https://x.com/realchendahuang/status/2125153472450527440" },
               { type: "tweet", href: "https://x.com/MiaAI_lab/status/2125224970959605857" },
               { type: "tweet", href: "https://x.com/theo/status/2125186071357251715" },
             ],
-            notes: "PR #15028 routes server telemetry through T3's proxy to PostHog and PR #21506 added cross-device owner IDs; commit 3bdaa6e removed the homepage promise in June. T3CODE_TELEMETRY_ENABLED=false stops server events but not browser/mobile Axiom relay traces. Theo defended managed policies on Nov 24 while @MiaAI_lab announced a zero-telemetry fork (M3 Code).",
+            notes: "T3 Code landed 12+ privacy PRs overnight (#42299 dropped auth-file reads; #42465 masked custom model names), rising from F to D—though hosted app.t3.codes still has no opt-out. Six Fs: Kilo Code, Paradev, AionUi, Opcode, Gemini CLI, Cline. Cleanest As: Aether, Hermes, archived Roo Code. Sets up Maple AI next as the private-by-default counter-bet.",
+          },
+          {
+            title: "Maple AI raises $5.3M for verifiable, encrypted private AI",
+            description: "After a week of broken ZDR promises and leaky harnesses, Maple AI raised a $5.3M seed round led by EPIC Ventures and Draper for TEE-encrypted Maple Work and always-on cloud agents. The pitch is verifiable privacy even from Maple itself—though enclaves protect hardware memory, not bugs inside the software.",
+            href: "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/TryMapleAI/status/2125377545709248916" },
+            ],
+            notes: "Co-founder Anthony previously appeared on our March 18 board for sage. Investors include EPIC Ventures, Draper Associates, Planetary VC, and Epoch VC. Caps tonight's five-slide privacy arc (routers → IDE vendor → frontier ZDR → local harness audit → TEE-encrypted private cloud) and echoes November 11's NEAR AI enclave-breach lesson.",
           },
           {
             title: "FBI warns on ARTEX while defenders build AI decoy mazes",
@@ -518,6 +556,16 @@ export const meetups = [
             notes: "Official causes: FAA blamed legacy FTI router flooding during a copper-to-fiber swap; Chase blamed an on-prem software bug; Microsoft blamed a July Teams gateway bug; Apple blamed an internal update; NSA called it routine maintenance. Treat the AI-patching narrative as a sourced theory, not settled fact.",
           },
           {
+            title: "Hackers breach an unclassified CIA and ODNI intelligence network",
+            description: "The New York Times reports hackers breached an unclassified network shared by the CIA and ODNI to analyze open-source intelligence, potentially exposing data from other federal agencies too. ODNI says classified systems weren't touched—though seeing what analysts search still reveals intelligence priorities and blind spots.",
+            href: "https://cyberscoop.com/cia-odni-osint-data-breach/",
+            linkPair: [],
+            embeds: [
+              { type: "tweet", href: "https://x.com/darkwebinformer/status/2125322584212279633" },
+            ],
+            notes: "Reported November 24 alongside a wider wave of mid-November federal disruptions and breaches (FBI, USDA, and the FAA/bank/NSA outage fight on the previous slide). CIA declined comment; entry vector, scope, and attribution remain undisclosed.",
+          },
+          {
             title: "OpenAI and Cisco launch Shirudo for agent-written Linux shields",
             description: "OpenAI and Cisco open-sourced Shirudo, a BSD-licensed Linux runtime where agents like Codex write signed eBPF micropatches—demonstrated blocking Java4Shell on a live Elasticsearch server without restarting it. The catch: it's pre-release, and production hosts need Shirudo's custom kernel patches plus a TPM 2.0.",
             href: "https://openai.com/index/introducing-shirudo/",
@@ -542,14 +590,17 @@ export const meetups = [
             href: "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
             linkPair: [
               "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+              "https://www.bloomberg.com/opinion/articles/2026-11-24/jensen-huang-nvidia-return-is-terrible-news-for-anthropic-and-dario-amodei",
               "https://bretkerr.substack.com/p/the-table",
             ],
             embeds: [
+              { type: "tweet", href: "https://x.com/opinion/status/2125220447721558319" },
               { type: "tweet", href: "https://x.com/tobi/status/2125199405234213032" },
               { type: "tweet", href: "https://x.com/kevinnbass/status/2125098838587330898" },
               { type: "tweet", href: "https://x.com/travis_kling/status/2124976927937057060" },
+              { type: "tweet", href: "https://x.com/spencerpratt/status/2125268258852835739" },
             ],
-            notes: "CFO Colette Kress ran interim CEO through NVIDIA's $115.8B Q3 print, and Trump publicly backed Huang's return. Viral Nov 24 posts (\"It was an op\") pointed to Coefficient Giving's $5.29M in grants to the Tarbell Center, whose outlet urged Huang to resign—though 0 of 51 Tarbell fellows work at the NYT, FT, WSJ, or Reuters newsrooms that broke the story.",
+            notes: "Bloomberg's Parmy Olson frames Huang's return as a blow to Anthropic—Huang champions open weights while Amodei opposes them, and Anthropic slipped below its IPO price as NVIDIA surged. Meanwhile, viral Nov 24 \"op\" threads (@tobi, @kevinnbass, @spencerpratt) pointed to Coefficient Giving's $5.29M in Tarbell grants and DC lobbying, though 0 of 51 Tarbell fellows work at the NYT, FT, WSJ, or Reuters newsrooms that broke the story.",
             topStory: true,
           },
           {
@@ -580,7 +631,7 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/MartyBent/status/2123776359713431870" },
               { type: "tweet", href: "https://x.com/rob1ham/status/2123869486969426416" },
             ],
-            notes: "BIS's November 19 rule covers overseas data centers over 12M aggregate TPP (roughly a few hundred top GPUs) and exempts US data centers; existing operators get ~90 days. Website disclosure and House committee removal recommendations aren't law yet. Bessent said the Trump–Xi line targets keeping humans in military AI loops.",
+            notes: "BIS's November 19 rule covers overseas data centers over 12M aggregate TPP and exempts US clouds (~90-day grace). Website disclosure and House removal proposals aren't law yet. Pair with DePue's Blackwell forensics above and Harvey's US open-weight slide—Cursor's shift makes sense once US open models catch up.",
           },
           {
             title: "Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day",
@@ -623,7 +674,7 @@ export const meetups = [
             embeds: [
               { type: "tweet", href: "https://x.com/openai/status/2124922133545714160" },
             ],
-            notes: "Open to independently owned US restaurants, retailers, service firms, and manufacturers; software, SaaS, VC-backed, and PE-owned businesses are excluded. Software and AI consultancies can apply as Partners alongside existing client work.",
+            notes: "Open to independently owned US restaurants, retailers, service firms, and manufacturers (software, SaaS, VC/PE-backed excluded); AI consultancies can apply as Partners. Pairs with the UC deal right above as back-to-back OpenAI distribution plays: top-down university lock-in and bottom-up Main Street onboarding in Austin.",
           },
         ],
       },

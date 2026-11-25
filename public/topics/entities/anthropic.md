@@ -1,7 +1,7 @@
 ---
 title: Anthropic
 created: 2026-05-05
-updated: 2026-11-24
+updated: 2026-11-25
 type: entity
 tags: [entity, company, big-tech-moves, compute]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-08-05-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-27-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -10,6 +10,8 @@ sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-
 # Anthropic
 
 Anthropic is a recurring Sovereign AI Club entity for Claude, agent tooling, safety releases, and compute strategy.
+
+In November 2026, Anthropic priced an $81.3B IPO (`ANT` at $83) the same day ~90 AI figures signed the CAIS-backed "MisAnthropic" letter, and later dipped below its IPO price as [[NVIDIA]] reinstated Jensen Huang. On the research and trust side that same week, Anthropic researcher [[Levent Alpöge]] and Claude produced a Lean-certified Riemann Hypothesis proof, Anthropic posted an unchecked 73,000-line Claude Lean proof of `VP ≠ VNP`, open-sourced Apache 2.0 FlashProve for provable 400B inference (70–95x slower than [[vLLM]]), and launched its Enterprise Frontier Safeguards beta moving 30-day [[Claude Fable/Mythos|Fable and Mythos]] safety logs into customer S3/GCS buckets while keeping automated cross-session scanning.
 
 ## Mentioned In
 
@@ -36,9 +38,13 @@ Anthropic is a recurring Sovereign AI Club entity for Claude, agent tooling, saf
 
 - [[Compute Strategy]]
 - [[AI Governance]]
+- [[AI Mathematics]]
 - [[Agent Cost Controls]]
 - [[Agent Security]]
+- [[Privacy Tooling]]
 - [[Claude Code]]
 - [[Claude Fable/Mythos]]
 - [[Claude Sonnet 5]]
+- [[Levent Alpöge]]
+- [[NVIDIA]]
 - [[Salesforce]]

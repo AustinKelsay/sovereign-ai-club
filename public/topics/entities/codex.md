@@ -1,7 +1,7 @@
 ---
 title: Codex
 created: 2026-07-08
-updated: 2026-11-24
+updated: 2026-11-25
 type: entity
 tags: [entity, product, coding-agents, agent-infrastructure, local-builds, security]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-10-21-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -11,11 +11,11 @@ sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-
 
 Codex is OpenAI's coding-agent product. In August 2026 OpenAI started pitching the App, CLI, and IDE as front doors on one open-source harness (`codex exec`, SDK, and app-server) that a host product can embed with its own tools and approvals. Session logs that include encrypted thinking blocks were also a public leak surface that month.
 
-At September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for tasks that continue while a user's local computer is asleep, alongside a refreshed CLI for voice and parallel agent work.
+At September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for tasks that continue while a user's local computer is asleep, alongside a refreshed CLI for voice and parallel agent work. In November 2026, the University of California signed a $1.2M/year deal for systemwide ChatGPT Edu and Codex access over faculty objections, OpenAI and [[Cisco]] demonstrated Codex writing live signed eBPF Java4Shell shields via Shirudo, T3 Code stripped telemetry reads of `~/.codex/auth.json` after backlash, and Zach Miller's 25-tool privacy audit rated OpenAI Codex CLI `D` for default-on app-server analytics.
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **UC pays OpenAI $1.2M a year over faculty objections**, **OpenAI and Cisco launch Shirudo for agent-written Linux shields**, and **T3 Code's default-on telemetry hashes local Codex and Claude IDs**.
+- [[Sovereign AI Club - November 25, 2026]]: **UC pays OpenAI $1.2M a year over faculty objections**, **OpenAI and Cisco launch Shirudo for agent-written Linux shields**, and **T3 Code's telemetry backlash sparks a 25-tool privacy audit**.
 - [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**.
 - [[Sovereign AI Club - October 21, 2026]]: **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.
 - [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.
@@ -33,6 +33,8 @@ At September 29 DevDay, OpenAI introduced reusable Codex Cloud environments for 
 - [[Coding Agents]]
 - [[Agent Infrastructure]]
 - [[Agent Security]]
+- [[Privacy Tooling]]
+- [[Cisco]]
 - [[Claude Code]]
 - [[Omarchy]]
 - [[Berd]]

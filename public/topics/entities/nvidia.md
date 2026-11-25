@@ -1,7 +1,7 @@
 ---
 title: NVIDIA
 created: 2026-05-05
-updated: 2026-11-23
+updated: 2026-11-25
 type: entity
 tags: [entity, company, compute, model, agent-infrastructure]
 sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-records.md, raw/articles/2026-09-30-link-records.md, raw/articles/2026-09-09-link-records.md, raw/articles/2026-08-26-link-records.md, raw/articles/2026-07-22-link-records.md, raw/articles/2026-07-08-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-05-13-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-04-01-link-records.md, raw/articles/2026-03-18-link-records.md]
@@ -9,7 +9,7 @@ sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-11-11-link-
 
 # NVIDIA
 
-NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; the board said it had no reason to believe national security or company secrets were compromised. On November 10 the independent directors retained Joon H. Kim and Wachtell, Lipton, Rosen & Katz to run the investigation, and on November 11 the New York Times reported Huang also had a relationship with an Nvidia executive who reports to him. Huang resigned on November 12, 2026 while CFO Colette Kress served as interim CEO, and the board unanimously reinstated him on November 23 after senior US government input while the independent investigation continued and NVIDIA formed a National Security and Export Control Committee.
+NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory infrastructure, open model releases, robotics tooling, and agent-stack expansion. On August 26 it reported Q2 FY27 revenue of $96.2B and guided Q3 to $108.0B ±2% with no China Data Center compute in the outlook, then beat with a $115.8B Q3 print on November 17 while CFO Colette Kress served as interim CEO. On November 8, 2026 its board opened an independent investigation after CEO Jensen Huang admitted an affair and news reports said he had been the target of a foreign intelligence effort; Huang resigned on November 12 and was unanimously reinstated on November 23 after senior US government input while the investigation stayed open and NVIDIA added a National Security and Export Control Committee. Analysts noted Huang's return strengthens NVIDIA's open-weight push against [[Anthropic]], even as Will DePue's November 12 weight forensics sparked export-control scrutiny over alleged Blackwell initialization patterns in Chinese open weights.
 
 ## Mentioned In
 
@@ -32,6 +32,8 @@ NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory 
 ## Related
 
 - [[Compute Strategy]]
+- [[AI Governance]]
+- [[Anthropic]]
 - [[Agent Infrastructure]]
 - [[Open Models]]
 - [[Privacy Tooling]]
