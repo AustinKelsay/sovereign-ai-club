@@ -461,6 +461,8 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: X post. Accessed: 2026-11-23. Shares customer-reported notice of GMI Cloud's three-day retention compromise (unconfirmed publicly by GMI).
 - **Vikram Singh's four-incident roundup** — https://x.com/vikramcantsingh/status/2124303418282086569
   Type: X post. Accessed: 2026-11-23. Lists Together AI, GMI Cloud, MiniMax resellers, and Prime Intellect across one week.
+- **Thibault Jaigu (@ThibaultJaigu) on Blackfuel proxying OpenRouter** — https://x.com/ThibaultJaigu/status/2125553651590844828
+  Type: X post. Accessed: 2026-11-25. November 25 post by Requesty co-founder sharing a November 24 `curl -i` trace to Paris inference neocloud Blackfuel (`api.blackfuel.ai`, emerged from stealth Sept 30 claiming $250M+ in contracts) for `moonshotai/Kimi-K3` returning `Domain=openrouter.ai` cookies, `x-openrouter-release`, `x-generation-id`, and OpenRouter's response schema.
 
 ### Fireworks breach cascades into a fake Claude Code inside Cursor
 

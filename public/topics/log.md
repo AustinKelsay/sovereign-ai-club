@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Fold Blackfuel OpenRouter-proxy trace into ZDR/routers slide
+
+- Added Requesty co-founder Thibault Jaigu's November 25 post (`x.com/ThibaultJaigu/status/2125553651590844828`) showing a `curl` to Paris neocloud Blackfuel (`api.blackfuel.ai`) for Kimi-K3 returning `Domain=openrouter.ai` cookies and `x-openrouter-release` headers to **Canary prompts expose broken Zero Data Retention across AI routers** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.
+
 ## [2026-11-25] update | Add NVIDIA Nemotron-Labs-Image-30B-A3B to Open model releases
 
 - Added NVIDIA's 30B/3B-active autoregressive MoE image generator (`nvidia/Nemotron-Labs-Image-30B-A3B`, `arxiv.org/abs/2611.31358`, `x.com/ItsmeAjayKV/status/2125582581827805542`) to **Open model releases** in `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and `entities/nemotron.md`, noting its NVIDIA One-Way Noncommercial License and that the VisualCreation harness and VisionCode models remain held back pending legal clearance.

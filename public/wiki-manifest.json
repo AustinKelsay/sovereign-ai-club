@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:11:46.130Z",
+  "generatedAt": "2026-11-25T21:51:26.906Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -8951,6 +8951,13 @@
         },
         {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
           "title": "Canary prompts expose broken Zero Data Retention across AI routers",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -103740,6 +103747,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://openrouter.ai/blog/announcements/fusion-beats-frontier/",
           "title": "One API, many models becomes the frontier wrapper",
           "section": "Agent Infrastructure",
@@ -109730,6 +109744,13 @@
         },
         {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
           "title": "Canary prompts expose broken Zero Data Retention across AI routers",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -117459,6 +117480,13 @@
         },
         {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
           "title": "Canary prompts expose broken Zero Data Retention across AI routers",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -136205,6 +136233,7 @@
         "https://x.com/michael_chomsky/status/2124008002571428224",
         "https://x.com/michael_chomsky/status/2124326400803152021",
         "https://x.com/vikramcantsingh/status/2124303418282086569",
+        "https://x.com/ThibaultJaigu/status/2125553651590844828",
         "https://cursor.com/blog/security-incident-update",
         "https://fireworks.ai/security-bulletins",
         "https://x.com/hrkrshnn/status/2121428647152095333",
@@ -137240,6 +137269,11 @@
           "section": "Security"
         },
         {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security"
+        },
+        {
           "href": "https://cursor.com/blog/security-incident-update",
           "title": "Fireworks breach cascades into a fake Claude Code inside Cursor",
           "section": "Security"
@@ -138021,6 +138055,7 @@
         "https://x.com/michael_chomsky/status/2124008002571428224",
         "https://x.com/michael_chomsky/status/2124326400803152021",
         "https://x.com/vikramcantsingh/status/2124303418282086569",
+        "https://x.com/ThibaultJaigu/status/2125553651590844828",
         "https://cursor.com/blog/security-incident-update",
         "https://fireworks.ai/security-bulletins",
         "https://x.com/hrkrshnn/status/2121428647152095333",
@@ -139053,6 +139088,11 @@
         {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
           "title": "Vikram Singh's four-incident roundup",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
+          "title": "Thibault Jaigu (@ThibaultJaigu) on Blackfuel proxying OpenRouter",
           "section": "Security"
         },
         {
@@ -164589,6 +164629,13 @@
         },
         {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
           "title": "Canary prompts expose broken Zero Data Retention across AI routers",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -259378,6 +259425,13 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://openrouter.ai/blog/announcements/fusion-beats-frontier/",
           "title": "One API, many models becomes the frontier wrapper",
           "section": "Agent Infrastructure",
@@ -265368,6 +265422,13 @@
         },
         {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
           "title": "Canary prompts expose broken Zero Data Retention across AI routers",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -273097,6 +273158,13 @@
         },
         {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
           "title": "Canary prompts expose broken Zero Data Retention across AI routers",
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-november-25-2026",
@@ -291843,6 +291911,7 @@
         "https://x.com/michael_chomsky/status/2124008002571428224",
         "https://x.com/michael_chomsky/status/2124326400803152021",
         "https://x.com/vikramcantsingh/status/2124303418282086569",
+        "https://x.com/ThibaultJaigu/status/2125553651590844828",
         "https://cursor.com/blog/security-incident-update",
         "https://fireworks.ai/security-bulletins",
         "https://x.com/hrkrshnn/status/2121428647152095333",
@@ -292878,6 +292947,11 @@
           "section": "Security"
         },
         {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security"
+        },
+        {
           "href": "https://cursor.com/blog/security-incident-update",
           "title": "Fireworks breach cascades into a fake Claude Code inside Cursor",
           "section": "Security"
@@ -293659,6 +293733,7 @@
         "https://x.com/michael_chomsky/status/2124008002571428224",
         "https://x.com/michael_chomsky/status/2124326400803152021",
         "https://x.com/vikramcantsingh/status/2124303418282086569",
+        "https://x.com/ThibaultJaigu/status/2125553651590844828",
         "https://cursor.com/blog/security-incident-update",
         "https://fireworks.ai/security-bulletins",
         "https://x.com/hrkrshnn/status/2121428647152095333",
@@ -294691,6 +294766,11 @@
         {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
           "title": "Vikram Singh's four-incident roundup",
+          "section": "Security"
+        },
+        {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
+          "title": "Thibault Jaigu (@ThibaultJaigu) on Blackfuel proxying OpenRouter",
           "section": "Security"
         },
         {
@@ -313587,7 +313667,8 @@
         "https://x.com/jsrailton/status/2123443503963267279",
         "https://x.com/michael_chomsky/status/2124008002571428224",
         "https://x.com/michael_chomsky/status/2124326400803152021",
-        "https://x.com/vikramcantsingh/status/2124303418282086569"
+        "https://x.com/vikramcantsingh/status/2124303418282086569",
+        "https://x.com/ThibaultJaigu/status/2125553651590844828"
       ],
       "sourceReferences": [
         {
@@ -313651,6 +313732,11 @@
           "section": "Security"
         },
         {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security"
+        },
+        {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
           "title": "Canary prompts expose broken Zero Data Retention across AI routers",
           "section": "Security"
@@ -313669,7 +313755,7 @@
         "Security"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "Canary prompts expose broken Zero Data Retention across AI routers Security Sovereign AI Club - November 25, 2026 2026-11-25 https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ https://www.primeintellect.ai/security/advisories/deepseek-v4-1-flash-model-substitution https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 https://www.axios.com/2026/11/23/openrouter-minimax-china-customer-data https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html https://x.com/hdmoore/status/2123451306685661416 https://x.com/thehackersnews/status/2124369776827097236 https://x.com/theo/status/2123430257697157587 https://x.com/jsrailton/status/2123443503963267279 https://x.com/michael_chomsky/status/2124008002571428224 https://x.com/michael_chomsky/status/2124326400803152021 https://x.com/vikramcantsingh/status/2124303418282086569 AI SaaS Supply Chain OpenRouter Privacy Tooling Security"
+      "searchText": "Canary prompts expose broken Zero Data Retention across AI routers Security Sovereign AI Club - November 25, 2026 2026-11-25 https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ https://www.primeintellect.ai/security/advisories/deepseek-v4-1-flash-model-substitution https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 https://www.axios.com/2026/11/23/openrouter-minimax-china-customer-data https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html https://x.com/hdmoore/status/2123451306685661416 https://x.com/thehackersnews/status/2124369776827097236 https://x.com/theo/status/2123430257697157587 https://x.com/jsrailton/status/2123443503963267279 https://x.com/michael_chomsky/status/2124008002571428224 https://x.com/michael_chomsky/status/2124326400803152021 https://x.com/vikramcantsingh/status/2124303418282086569 https://x.com/ThibaultJaigu/status/2125553651590844828 AI SaaS Supply Chain OpenRouter Privacy Tooling Security"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-security-fbi-warns-on-artex-while-defenders-build-ai-decoy-mazes",
@@ -338313,7 +338399,8 @@
         "https://x.com/jsrailton/status/2123443503963267279",
         "https://x.com/michael_chomsky/status/2124008002571428224",
         "https://x.com/michael_chomsky/status/2124326400803152021",
-        "https://x.com/vikramcantsingh/status/2124303418282086569"
+        "https://x.com/vikramcantsingh/status/2124303418282086569",
+        "https://x.com/ThibaultJaigu/status/2125553651590844828"
       ],
       "sourceReferences": [
         {
@@ -338377,6 +338464,11 @@
           "section": "Security"
         },
         {
+          "href": "https://x.com/ThibaultJaigu/status/2125553651590844828",
+          "title": "Canary prompts expose broken Zero Data Retention across AI routers",
+          "section": "Security"
+        },
+        {
           "href": "https://x.com/vikramcantsingh/status/2124303418282086569",
           "title": "Canary prompts expose broken Zero Data Retention across AI routers",
           "section": "Security"
@@ -338395,7 +338487,7 @@
         "Security"
       ],
       "unresolvedWikiLinks": [],
-      "searchText": "Canary prompts expose broken Zero Data Retention across AI routers Security Sovereign AI Club - November 25, 2026 2026-11-25 https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ https://www.primeintellect.ai/security/advisories/deepseek-v4-1-flash-model-substitution https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 https://www.axios.com/2026/11/23/openrouter-minimax-china-customer-data https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html https://x.com/hdmoore/status/2123451306685661416 https://x.com/thehackersnews/status/2124369776827097236 https://x.com/theo/status/2123430257697157587 https://x.com/jsrailton/status/2123443503963267279 https://x.com/michael_chomsky/status/2124008002571428224 https://x.com/michael_chomsky/status/2124326400803152021 https://x.com/vikramcantsingh/status/2124303418282086569 AI SaaS Supply Chain OpenRouter Privacy Tooling Security"
+      "searchText": "Canary prompts expose broken Zero Data Retention across AI routers Security Sovereign AI Club - November 25, 2026 2026-11-25 https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ https://www.primeintellect.ai/security/advisories/deepseek-v4-1-flash-model-substitution https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 https://www.axios.com/2026/11/23/openrouter-minimax-china-customer-data https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html https://x.com/hdmoore/status/2123451306685661416 https://x.com/thehackersnews/status/2124369776827097236 https://x.com/theo/status/2123430257697157587 https://x.com/jsrailton/status/2123443503963267279 https://x.com/michael_chomsky/status/2124008002571428224 https://x.com/michael_chomsky/status/2124326400803152021 https://x.com/vikramcantsingh/status/2124303418282086569 https://x.com/ThibaultJaigu/status/2125553651590844828 AI SaaS Supply Chain OpenRouter Privacy Tooling Security"
     },
     "sovereign-ai-club-november-25-2026-security-fbi-warns-on-artex-while-defenders-build-ai-decoy-mazes": {
       "id": "sovereign-ai-club-november-25-2026-security-fbi-warns-on-artex-while-defenders-build-ai-decoy-mazes",
@@ -387499,7 +387591,7 @@
     "rawPageCount": 0,
     "linkCount": 2669,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 2190,
+    "sourceLinkCount": 2191,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-25"
   }

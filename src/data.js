@@ -495,8 +495,9 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/michael_chomsky/status/2124008002571428224" },
               { type: "tweet", href: "https://x.com/michael_chomsky/status/2124326400803152021" },
               { type: "tweet", href: "https://x.com/vikramcantsingh/status/2124303418282086569" },
+              { type: "tweet", href: "https://x.com/ThibaultJaigu/status/2125553651590844828" },
             ],
-            notes: "Don't collapse these into one hack: Prime Intellect had an intruder swap DeepSeek V4.1-Flash weights for 53 hours (directly motivating FlashProve earlier); Together AI's agent leaked a Hugging Face key exposing summer prompts; Atlas Cloud, Novita, and StreamLake forwarded MiniMax traffic where canaries fired days later; Phala had a host breach.",
+            notes: "Don't collapse these into one hack: Prime Intellect had an intruder swap DeepSeek V4.1-Flash weights for 53 hours (directly motivating FlashProve earlier); Together AI's agent leaked a Hugging Face key exposing summer prompts; Atlas Cloud, Novita, and StreamLake forwarded MiniMax traffic where canaries fired days later; Phala had a host breach. Plus today's kicker: while onboarding \"sovereign\" Paris inference cloud Blackfuel ($250M+ claimed contracts), Requesty co-founder Thibault Jaigu shared a Nov 24 curl trace to api.blackfuel.ai for Kimi-K3 returning Domain=openrouter.ai cookies and x-openrouter-release headers—another reminder that \"neocloud\" APIs can quietly proxy upstream.",
             topStory: true,
           },
           {
