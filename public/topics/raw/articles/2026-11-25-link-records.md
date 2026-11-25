@@ -188,6 +188,12 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: X post. Accessed: 2026-11-23. Announces Inkling 2 Mini with vendor 20.1 AA Index score.
 - **Unsloth Inkling 2 Mini day-0 post** — https://x.com/UnslothAI/status/2123873656069877899
   Type: X post. Accessed: 2026-11-24. Launches day-0 Inkling 2 Mini GGUF quants and local run guide.
+- **Hugging Face: prism-ml/Ternary-Bonsai-2.5-27B-GGUF** — https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF
+  Type: model card. Accessed: 2026-11-25. November 24 Apache 2.0 ternary Qwen3.8-27B agentic build (1.76 bpw / 5.93 GB PTQ1_0 with MTP variants; vendor reports 75.6% SWE-bench Verified, 73.9 tau3-bench, and 77.2 vs 77.7 FP16 across five tool-calling suites; Q2_0 runs on stock llama.cpp while PTQ1_0 is under upstream review).
+- **Hugging Face: prism-ml/Ternary-Bonsai-2.5-27B-mlx-2bit** — https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-mlx-2bit
+  Type: model card. Accessed: 2026-11-25. Apache 2.0 Apple Silicon MLX 2-bit build of Ternary Bonsai 2.5 27B.
+- **Omead Pooladzandi (@HessianFree) on Ternary Bonsai 2.5 27B** — https://x.com/HessianFree/status/2125312024691241337
+  Type: X post. Accessed: 2026-11-25. November 24 post by PrismML co-founder quoting `@PrismML`'s launch announcement (289k views) and benchmark chart.
 - **Hugging Face: tencent/Hy4** — https://huggingface.co/tencent/Hy4
   Type: model card. Accessed: 2026-11-24. November 20 weight release for 770B/49B-active flagship plus vision encoder and DFly2 drafter; uses Tencent Hy License 1.0 (separate license required above $50M MaaS revenue or 100M MAU).
 - **Hugging Face: tencent/Hy4-flash** — https://huggingface.co/tencent/Hy4-flash

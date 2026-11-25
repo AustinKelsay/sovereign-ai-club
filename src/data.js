@@ -241,7 +241,7 @@ export const meetups = [
           },
           {
             title: "Open model releases",
-            description: "Both promised big-model drops landed under Apache 2.0—Thinking Machines' Inkling 2 Small and Baidu's 280B ERNIE 5.5 Flash Preview—while Tencent released 770B Hy4 and Hy4 flash alongside Ant's MIT Ling-3.2-air. On local hardware, Inkling 2 Mini, Kolibri 1.1, Microsoft's Aion 2.3B, SenseNova U1.6, and a wave of open decision and extraction models shipped. Check the licenses: Tencent's Hy4 isn't Apache above $50M MaaS revenue, and Apple's FastFrames stays research-only.",
+            description: "Both promised big-model drops landed under Apache 2.0—Thinking Machines' Inkling 2 Small and Baidu's 280B ERNIE 5.5 Flash Preview—while Tencent released 770B Hy4 and Hy4 flash alongside Ant's MIT Ling-3.2-air. On local hardware, Inkling 2 Mini, PrismML's 5.9 GB Ternary Bonsai 2.5 27B, Kolibri 1.1, Microsoft's Aion 2.3B, SenseNova U1.6, and a wave of open decision models shipped. Check the licenses: Tencent's Hy4 isn't Apache above $50M MaaS revenue, and Apple's FastFrames stays research-only.",
             href: "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
             linkPair: [
               "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
@@ -251,6 +251,8 @@ export const meetups = [
               "https://thinkingmachines.ai/news/inkling-2-mini/",
               "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
               "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+              "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+              "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-mlx-2bit",
               "https://huggingface.co/tencent/Hy4",
               "https://huggingface.co/tencent/Hy4-flash",
               "https://huggingface.co/tencent/Hy-MT3-30B-A3B",
@@ -288,11 +290,12 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/thinkymachines/status/2120982625582195011" },
               { type: "tweet", href: "https://x.com/thinkymachines/status/2123871643797995872" },
               { type: "tweet", href: "https://x.com/UnslothAI/status/2123873656069877899" },
+              { type: "tweet", href: "https://x.com/HessianFree/status/2125312024691241337" },
               { type: "tweet", href: "https://x.com/radixark/status/2123115052127633536" },
               { type: "tweet", href: "https://x.com/llama_index/status/2124952874316632394" },
               { type: "tweet", href: "https://x.com/victormustar/status/2122818132704124984" },
             ],
-            notes: "ERNIE 5.5 Flash Preview (280B/14B active) beats Baidu's Nov 25 target with day-0 vLLM/SGLang; don't confuse it with the custom-licensed Nov 5 Base. Inkling 2 Mini (26.4B/3.4B active, middle layers looped 3x) runs on a 32 GB Mac via Ollama or Unsloth GGUF. Also on the scroll: RadixArk DaisyRose-27B (trailed base Qwen3.8-27B on Plotly's bench), Cloudflare Clairic, AWS Strands Decider v2, NVIDIA Nemotron-Labs-Sigma continuous diffusion, IBM Granite LLMON, Tencent Hy-MT3, Sarvam-105B-1711, AMD Nitro-P, and Salesforce SOV-Transcribe-1.",
+            notes: "ERNIE 5.5 Flash Preview (280B/14B active) beats Baidu's Nov 25 target with day-0 vLLM/SGLang; don't confuse it with custom-licensed Nov 5 Base. Inkling 2 Mini (26.4B/3.4B active, middle layers looped 3x) runs on 32 GB Macs, while PrismML's Apache 2.0 Ternary Bonsai 2.5 27B packs Qwen3.8-27B into 5.93 GB (vendor 75.6% SWE-bench Verified; 1.76-bit PTQ1_0 needs PrismML's llama.cpp fork while Q2_0 runs stock). Also on the scroll: DaisyRose-27B, Cloudflare Clairic, Strands Decider v2, Nemotron-Labs-Sigma, Granite LLMON, Hy-MT3, Sarvam-105B, AMD Nitro-P, and SOV-Transcribe-1.",
             releaseRoundup: true,
           },
           {

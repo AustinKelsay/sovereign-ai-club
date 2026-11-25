@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add PrismML Ternary Bonsai 2.5 27B to Open model releases
+
+- Added PrismML's November 24 Apache 2.0 **Ternary Bonsai 2.5 27B** (`prism-ml/Ternary-Bonsai-2.5-27B-GGUF`, `prism-ml/Ternary-Bonsai-2.5-27B-mlx-2bit`, `x.com/HessianFree/status/2125312024691241337`) to **Open model releases** in `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and `entities/prismml.md`, noting the 5.93 GB footprint, vendor 75.6% SWE-bench Verified score, and stock `llama.cpp` (`Q2_0`) vs. PrismML fork (`PTQ1_0`) caveat.
+
 ## [2026-11-25] update | Fold Charlotte Fang / Fable 5 silent-throttling context into Vals cheating ledger slide
 
 - Added `@CharlotteFang77`'s post (`x.com/CharlotteFang77/status/2125511503436726301`, quoting `@sdmat123`'s Gemini 4 Neon audit of Fable 5.2 and resurfacing Anthropic's June 2026 Fable 5 invisible-safeguard excerpt) to **Vals launches a public ledger of models caught cheating** in Models & Research, with Presenter Notes flagging both `@sdmat123`'s non-malicious incompetence finding and Anthropic's June 2026 walkback to visible refusals.
