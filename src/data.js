@@ -125,8 +125,8 @@ export const meetups = [
             notes: "Install via cargo install firecrawl-local on localhost:3002. Cloud search and Alexandria find-tools can be turned off. Networked services built on it carry AGPL obligations.",
           },
           {
-            title: "Google and NVIDIA donate the open agent-sandbox stack to CNCF",
-            description: "Google donated Agent Substrate 1.0, gVisor, and OpenRL to the CNCF, and NVIDIA donated OpenShell—an open Kubernetes stack that snapshots idle agents and wakes them in under 500 ms. It breaks hosted-sandbox lock-in and keeps raw API keys outside the pod, though you still have to run Kubernetes.",
+            title: "Google and NVIDIA hand open agent sandboxes to CNCF",
+            description: "Google moved Agent Substrate 1.0, gVisor, and OpenRL under the vendor-neutral nonprofit behind Kubernetes, and NVIDIA followed with OpenShell—an open stack that snapshots idle agents and wakes them in under 500 ms. It breaks hosted-sandbox lock-in and keeps raw API keys outside the pod, though you still have to run Kubernetes.",
             href: "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
             linkPair: [
               "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",

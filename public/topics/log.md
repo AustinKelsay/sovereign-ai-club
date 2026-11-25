@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Clarify CNCF agent-sandbox slide copy in plain English
+
+- Retitled and reworded **Google and NVIDIA donate the open agent-sandbox stack to CNCF** to **Google and NVIDIA hand open agent sandboxes to CNCF** in `2026-11-25.md`, `src/data.js`, source link records, and reciprocal wiki `Mentioned In` entries, replacing "donated" jargon with plain-English "vendor-neutral nonprofit behind Kubernetes" phrasing.
+
 ## [2026-11-25] update | Add Greg Brockman / Second Security same-day Shirudo shield proof point
 
 - Folded Greg Brockman's November 25 post (`x.com/gdb/status/2125525157464973661`) and Second Security's writeup (`second.security/shirudo/`) into **OpenAI and Cisco launch Shirudo for agent-written Linux shields** in Security, adding the 12-hour Elasticsearch pre-auth `CVE-2026-82303` exploit-and-shield timeline to `src/data.js` Presenter Notes and `raw/articles/2026-11-25-link-records.md`.

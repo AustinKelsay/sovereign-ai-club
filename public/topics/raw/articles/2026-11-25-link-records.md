@@ -50,7 +50,7 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Firecrawl announcement** — https://x.com/firecrawl/status/2123096169630912637
   Type: X post. Accessed: 2026-11-23. Launch post for Firecrawl Local.
 
-### Google and NVIDIA donate the open agent-sandbox stack to CNCF
+### Google and NVIDIA hand open agent sandboxes to CNCF
 
 - **Google Cloud: Open infrastructure for autonomous agents comes to CNCF** — https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf
   Type: official blog. Accessed: 2026-11-25. November 5 KubeCon NA announcement donating Agent Substrate, gVisor, and OpenRL to CNCF Sandbox and declaring Agent Substrate 1.0 GA on GKE (<500 ms suspend/resume, 10x density, Policy Gateways keeping secrets out of sandboxes, Nous Research building Hermes Enterprise on it).

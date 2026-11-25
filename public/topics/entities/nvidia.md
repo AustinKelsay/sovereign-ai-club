@@ -13,7 +13,7 @@ NVIDIA is a recurring Sovereign AI Club entity for compute strategy, AI factory 
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, **NVIDIA's board reinstates Jensen Huang eleven days after he resigned**, and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.
+- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA hand open agent sandboxes to CNCF**, **NVIDIA's board reinstates Jensen Huang eleven days after he resigned**, and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.
 - [[Sovereign AI Club - November 11, 2026]]: **Jensen Huang admits an affair as Nvidia's board investigates spy allegations**.
 - [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.
 - [[Sovereign AI Club - September 30, 2026]]: **Models hand off KV cache instead of text**, **NVIDIA puts the agent kill switch in the DPU**, **NVIDIA's Hugging Face deal revives the torrent exit**.
