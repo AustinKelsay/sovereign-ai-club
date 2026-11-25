@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:08:34.263Z",
+  "generatedAt": "2026-11-25T16:11:26.130Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -16209,36 +16209,41 @@
         "local-ai"
       ],
       "sources": [
+        "raw/articles/2026-11-25-link-records.md",
         "raw/articles/2026-09-30-link-records.md",
         "raw/articles/2026-06-24-link-records.md",
         "raw/articles/2026-06-10-link-records.md"
       ],
-      "sourceCount": 3,
+      "sourceCount": 4,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-06-23",
-      "updated": "2026-09-29",
-      "excerpt": "Ben Carman is a recurring Sovereign AI Club local-builder source for tweet-archive tooling, personal-model experiments, and local AI workflows.",
+      "updated": "2026-11-25",
+      "excerpt": "Ben Carman is a recurring Sovereign AI Club local-builder source for tweet-archive tooling, personal-model experiments, local quantization, and open-model post-training. In November 2026 he released Apache 2.0 `benthecarman/Inkling-2-Mini-uncensored` (plus GGUF and W4A16 builds) with Maple AI-sponsored compute, editing only the 120 BF16 attention layers so all 1,124 other tensors stay byte-identical to upstream Inkling 2 Mini.",
       "rawHref": "/topics/entities/ben-carman.md",
       "relativePath": "entities/ben-carman.md",
       "outgoingIds": [
         "coding-agents",
+        "inkling",
         "local-ai",
         "open-models",
         "qwenstradamus",
         "sovereign-ai-club-june-10-2026",
         "sovereign-ai-club-june-24-2026",
+        "sovereign-ai-club-november-25-2026",
         "sovereign-ai-club-september-30-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
         "coding-agents",
+        "inkling",
         "local-ai",
         "local-builds-projects",
         "open-models",
         "qwenstradamus",
         "sovereign-ai-club-june-10-2026",
         "sovereign-ai-club-june-24-2026",
+        "sovereign-ai-club-november-25-2026",
         "sovereign-ai-club-september-30-2026"
       ],
       "referencedTopicSources": [
@@ -16285,6 +16290,34 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         },
         {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://huggingface.co/benthecarman/MiMo-V2.6-Flash-RL-exl3",
           "title": "Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark",
           "section": "Local Builds & Projects",
@@ -16306,7 +16339,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 30, 2026"
         }
       ],
-      "bodyMarkdown": "# Ben Carman\n\nBen Carman is a recurring Sovereign AI Club local-builder source for tweet-archive tooling, personal-model experiments, and local AI workflows.\n\n## Mentioned In\n\n- [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**.\n- [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.\n\n## Related\n\n- [[Local AI]]\n- [[Open Models]]\n- [[Coding Agents]]\n- [[Qwenstradamus]]"
+      "bodyMarkdown": "# Ben Carman\n\nBen Carman is a recurring Sovereign AI Club local-builder source for tweet-archive tooling, personal-model experiments, local quantization, and open-model post-training. In November 2026 he released Apache 2.0 `benthecarman/Inkling-2-Mini-uncensored` (plus GGUF and W4A16 builds) with Maple AI-sponsored compute, editing only the 120 BF16 attention layers so all 1,124 other tensors stay byte-identical to upstream [[Inkling|Inkling 2 Mini]].\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**.\n- [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**.\n- [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.\n\n## Related\n\n- [[Local AI]]\n- [[Open Models]]\n- [[Coding Agents]]\n- [[Inkling]]\n- [[Qwenstradamus]]"
     },
     {
       "id": "bend-2",
@@ -50688,11 +50721,12 @@
       "sourceReferences": [],
       "created": "2026-07-22",
       "updated": "2026-11-25",
-      "excerpt": "Inkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts family, starting with the original 975B/41B-active release (1M context). On November 12, 2026, Thinking Machines followed through on its November 5 Tinker launch by releasing Apache 2.0 NVFP4/MXFP8 weights for **Inkling 2 Small** (594B total, 17B active, trained in native 4-bit forward / 8-bit backward), which Harvey later post-trained past 20% all-pass on Legal Agent Bench. On November 20, 2026, it released **Inkling 2 Mini** (26.4B total, 3.4B active, middle 12 layers looped 3x) under Apache 2.0 for 32 GB Macs via Ollama and day-0 Unsloth GGUFs; Pliny's viral \"Vocab Surgery\" on Inkling 2 Mini turned out to rely largely on a baked-in GGUF chat-template prefill.",
+      "excerpt": "Inkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts family, starting with the original 975B/41B-active release (1M context). On November 12, 2026, Thinking Machines followed through on its November 5 Tinker launch by releasing Apache 2.0 NVFP4/MXFP8 weights for **Inkling 2 Small** (594B total, 17B active, trained in native 4-bit forward / 8-bit backward), which Harvey later post-trained past 20% all-pass on Legal Agent Bench. On November 20, 2026, it released **Inkling 2 Mini** (26.4B total, 3.4B active, middle 12 layers looped 3x) under Apache 2.0 for 32 GB Macs via Ollama and day-0 Unsloth GGUFs; Pliny's viral \"Vocab Surgery\" on Inkling 2 Mini turned out to rely largely on a baked-in GGUF chat-template prefill, whereas Sovereign AI Club member Ben Carman released an attention-only on-policy uncensored checkpoint (`benthecarman/Inkling-2-Mini-uncensored`) leaving all 1,124 other tensors byte-identical.",
       "rawHref": "/topics/entities/inkling.md",
       "relativePath": "entities/inkling.md",
       "outgoingIds": [
         "ai-benchmarks-evals",
+        "ben-carman",
         "local-ai",
         "models-research",
         "ollama",
@@ -50704,6 +50738,7 @@
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
+        "ben-carman",
         "models-research",
         "open-models",
         "sovereign-ai-club-july-22-2026",
@@ -51489,6 +51524,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
           "title": "Open model releases",
           "section": "Models & Research",
@@ -51881,7 +51944,7 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         }
       ],
-      "bodyMarkdown": "# Inkling\n\nInkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts family, starting with the original 975B/41B-active release (1M context). On November 12, 2026, Thinking Machines followed through on its November 5 Tinker launch by releasing Apache 2.0 NVFP4/MXFP8 weights for **Inkling 2 Small** (594B total, 17B active, trained in native 4-bit forward / 8-bit backward), which Harvey later post-trained past 20% all-pass on Legal Agent Bench. On November 20, 2026, it released **Inkling 2 Mini** (26.4B total, 3.4B active, middle 12 layers looped 3x) under Apache 2.0 for 32 GB Macs via [[Ollama]] and day-0 [[Unsloth]] GGUFs; Pliny's viral \"Vocab Surgery\" on Inkling 2 Mini turned out to rely largely on a baked-in GGUF chat-template prefill.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.\n\n## Related\n\n- [[Open Models]]\n- [[Models & Research]]\n- [[AI Benchmarks & Evals]]\n- [[Local AI]]\n- [[Ollama]]\n- [[Unsloth]]"
+      "bodyMarkdown": "# Inkling\n\nInkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts family, starting with the original 975B/41B-active release (1M context). On November 12, 2026, Thinking Machines followed through on its November 5 Tinker launch by releasing Apache 2.0 NVFP4/MXFP8 weights for **Inkling 2 Small** (594B total, 17B active, trained in native 4-bit forward / 8-bit backward), which Harvey later post-trained past 20% all-pass on Legal Agent Bench. On November 20, 2026, it released **Inkling 2 Mini** (26.4B total, 3.4B active, middle 12 layers looped 3x) under Apache 2.0 for 32 GB Macs via [[Ollama]] and day-0 [[Unsloth]] GGUFs; Pliny's viral \"Vocab Surgery\" on Inkling 2 Mini turned out to rely largely on a baked-in GGUF chat-template prefill, whereas Sovereign AI Club member [[Ben Carman]] released an attention-only on-policy uncensored checkpoint (`benthecarman/Inkling-2-Mini-uncensored`) leaving all 1,124 other tensors byte-identical.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.\n\n## Related\n\n- [[Open Models]]\n- [[Models & Research]]\n- [[AI Benchmarks & Evals]]\n- [[Local AI]]\n- [[Ben Carman]]\n- [[Ollama]]\n- [[Unsloth]]"
     },
     {
       "id": "intel",
@@ -59730,7 +59793,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-05-05",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Local AI covers models, tools, laptops, desktop apps, and privacy-preserving workflows that run close to the user instead of depending entirely on hosted inference.",
       "rawHref": "/topics/concepts/local-ai.md",
       "relativePath": "concepts/local-ai.md",
@@ -60549,6 +60612,34 @@
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-may-27-2026",
           "sourcePageTitle": "Sovereign AI Club - May 27, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://www.firecrawl.dev/changelog/firecrawl-local",
@@ -63960,7 +64051,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# Local AI\n\nLocal AI covers models, tools, laptops, desktop apps, and privacy-preserving workflows that run close to the user instead of depending entirely on hosted inference.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Lastbook packs an offline survival library with local LLM chat**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **UC pays OpenAI $1.2M a year over faculty objections**, and **Google open-sources gBench to test local open models**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers** and **Open model releases**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **Perplexity Computer goes fully local on Mac**, **dax's OpenTunnel keeps TLS on your machine**, and **Open model releases**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases** (Phonon-2).\n- [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**, **Splash vs mlx-serve: rival benchmarks, real fixes**.\n- [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, and **Archiving open-source models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases**, **AirLLM streams giant MoEs onto hobbyist VRAM**, and **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Should chat route local by default?**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream** and **Open model releases**.\n- [[Sovereign AI Club - May 13, 2026]]: **Amnesic personal OS** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Osaurus local AI suite**, **Ollama launches Pi**, **Local models getting glazed**, and **DISTILL**.\n- [[Sovereign AI Club - March 18, 2026]]: **MacBook Pro M5 Max as a local inference laptop**, **LMfit**, **plebdev-bench**, **sage**, and **visibible**.\n\n## Related\n\n- [[AirLLM]]\n- [[Ornith]]\n- [[TurboFieldfare]]\n- [[Liquid AI]]\n- [[Privacy Tooling]]\n- [[Open Models]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Compute Strategy]]\n- [[Inference Optimization]]\n- [[Physical AI]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[Cohere Transcribe Arabic]]\n- [[vLLM]]\n- [[Gemma]]\n- [[DiffusionGemma]]\n- [[Ollama]]\n- [[MiniMax M3]]\n- [[React Native ExecuTorch]]\n- [[Qwenstradamus]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]"
+      "bodyMarkdown": "# Local AI\n\nLocal AI covers models, tools, laptops, desktop apps, and privacy-preserving workflows that run close to the user instead of depending entirely on hosted inference.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Lastbook packs an offline survival library with local LLM chat**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **UC pays OpenAI $1.2M a year over faculty objections**, and **Google open-sources gBench to test local open models**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers** and **Open model releases**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **Perplexity Computer goes fully local on Mac**, **dax's OpenTunnel keeps TLS on your machine**, and **Open model releases**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases** (Phonon-2).\n- [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**, **Splash vs mlx-serve: rival benchmarks, real fixes**.\n- [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, and **Archiving open-source models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases**, **AirLLM streams giant MoEs onto hobbyist VRAM**, and **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Should chat route local by default?**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream** and **Open model releases**.\n- [[Sovereign AI Club - May 13, 2026]]: **Amnesic personal OS** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Osaurus local AI suite**, **Ollama launches Pi**, **Local models getting glazed**, and **DISTILL**.\n- [[Sovereign AI Club - March 18, 2026]]: **MacBook Pro M5 Max as a local inference laptop**, **LMfit**, **plebdev-bench**, **sage**, and **visibible**.\n\n## Related\n\n- [[AirLLM]]\n- [[Ornith]]\n- [[TurboFieldfare]]\n- [[Liquid AI]]\n- [[Privacy Tooling]]\n- [[Open Models]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Compute Strategy]]\n- [[Inference Optimization]]\n- [[Physical AI]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[Cohere Transcribe Arabic]]\n- [[vLLM]]\n- [[Gemma]]\n- [[DiffusionGemma]]\n- [[Ollama]]\n- [[MiniMax M3]]\n- [[React Native ExecuTorch]]\n- [[Qwenstradamus]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]"
     },
     {
       "id": "local-builds-projects",
@@ -63972,16 +64063,17 @@
         "local-builds"
       ],
       "sources": [
+        "raw/articles/2026-11-25-link-records.md",
         "raw/articles/2026-06-24-link-records.md",
         "raw/articles/2026-06-10-link-records.md",
         "raw/articles/2026-04-15-link-records.md",
         "raw/articles/2026-03-18-link-records.md"
       ],
-      "sourceCount": 4,
+      "sourceCount": 5,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-06-24",
-      "updated": "2026-07-08",
+      "updated": "2026-11-25",
       "excerpt": "Local Builds & Projects is the Sovereign AI Club track for Austin/member/community-orbit demos, prototypes, launches, dashboards, repos, and tools people can inspect or run.",
       "rawHref": "/topics/concepts/local-builds-projects.md",
       "relativePath": "concepts/local-builds-projects.md",
@@ -63996,7 +64088,8 @@
         "sovereign-ai-club-april-15-2026",
         "sovereign-ai-club-june-10-2026",
         "sovereign-ai-club-june-24-2026",
-        "sovereign-ai-club-march-18-2026"
+        "sovereign-ai-club-march-18-2026",
+        "sovereign-ai-club-november-25-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
@@ -64005,7 +64098,8 @@
         "sovereign-ai-club-april-15-2026",
         "sovereign-ai-club-june-10-2026",
         "sovereign-ai-club-june-24-2026",
-        "sovereign-ai-club-march-18-2026"
+        "sovereign-ai-club-march-18-2026",
+        "sovereign-ai-club-november-25-2026"
       ],
       "referencedTopicSources": [
         {
@@ -64212,6 +64306,34 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         },
         {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://huggingface.co/benthecarman/MiMo-V2.6-Flash-RL-exl3",
           "title": "Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark",
           "section": "Local Builds & Projects",
@@ -64261,7 +64383,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 30, 2026"
         }
       ],
-      "bodyMarkdown": "# Local Builds & Projects\n\nLocal Builds & Projects is the Sovereign AI Club track for Austin/member/community-orbit demos, prototypes, launches, dashboards, repos, and tools people can inspect or run.\n\n## Mentioned In\n\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**, **OpenAgents pays the training run in sats**, and **HRF turns AI hackathons into an activist training pipeline**.\n- [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAgents: Pylon + Autopilot**.\n- [[Sovereign AI Club - March 18, 2026]]: **pika chat**, **plebdev-bench**, **sage**, **visibible**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Local AI]]\n- [[Coding Agents]]\n- [[OpenAgents]]\n- [[Pylon]]\n- [[Ben Carman]]\n- [[Human Rights Foundation]]"
+      "bodyMarkdown": "# Local Builds & Projects\n\nLocal Builds & Projects is the Sovereign AI Club track for Austin/member/community-orbit demos, prototypes, launches, dashboards, repos, and tools people can inspect or run.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**, **OpenAgents pays the training run in sats**, and **HRF turns AI hackathons into an activist training pipeline**.\n- [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAgents: Pylon + Autopilot**.\n- [[Sovereign AI Club - March 18, 2026]]: **pika chat**, **plebdev-bench**, **sage**, **visibible**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Local AI]]\n- [[Coding Agents]]\n- [[OpenAgents]]\n- [[Pylon]]\n- [[Ben Carman]]\n- [[Human Rights Foundation]]"
     },
     {
       "id": "malecns",
@@ -93846,6 +93968,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
           "title": "Open model releases",
           "section": "Models & Research",
@@ -97941,7 +98091,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# Open Models\n\nOpen Models covers open-weight and open-source model releases, their deployment surfaces, and the practical question of whether builders can run, inspect, fine-tune, or compare them outside a single hosted API.\n\nOn Meetup boards, the biweekly open-weight launch catalog lives under the official Models & Research Topic **Open model releases**. That Release Roundup is the durable place to look back through open launches; specialist research and packaging debates may still appear as separate Topics after it.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, **fal's H3 Max leads AA's with-audio video boards**, **Archiving open-source models**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases** and **Trump advisers say open-weight models skip federal safety tests**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Open model releases** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases** and **Local AI becomes bandwidth math**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases** and **Multi-token prediction goes mainstream**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **Attune patches the open-model tool-call boundary**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **Distillation hesitation**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **LMfit**.\n\n## Related\n\n- [[Models & Research]]\n- [[AI Governance]]\n- [[Local AI]]\n- [[AI Signal Discovery]]\n- [[World Models]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[FLUX 3]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Liquid AI]]\n- [[Mellum]]\n- [[Clef]]\n- [[Prime Agent]]\n- [[Qwen]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[Ornith]]\n- [[Tencent]]\n- [[Hy3]]\n- [[Moonshot AI]]\n- [[Kimi]]\n- [[GLM]]\n- [[DeepSeek]]\n- [[NVIDIA]]\n- [[Nemotron]]\n- [[Microsoft]]\n- [[Meta]]\n- [[vLLM]]\n- [[Gemma]]\n- [[Mistral]]\n- [[TMax]]\n- [[Qwenstradamus]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[DeepSpec]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
+      "bodyMarkdown": "# Open Models\n\nOpen Models covers open-weight and open-source model releases, their deployment surfaces, and the practical question of whether builders can run, inspect, fine-tune, or compare them outside a single hosted API.\n\nOn Meetup boards, the biweekly open-weight launch catalog lives under the official Models & Research Topic **Open model releases**. That Release Roundup is the durable place to look back through open launches; specialist research and packaging debates may still appear as separate Topics after it.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, **fal's H3 Max leads AA's with-audio video boards**, **Archiving open-source models**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases** and **Trump advisers say open-weight models skip federal safety tests**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Open model releases** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases** and **Local AI becomes bandwidth math**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases** and **Multi-token prediction goes mainstream**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **Attune patches the open-model tool-call boundary**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **Distillation hesitation**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **LMfit**.\n\n## Related\n\n- [[Models & Research]]\n- [[AI Governance]]\n- [[Local AI]]\n- [[AI Signal Discovery]]\n- [[World Models]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[FLUX 3]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Liquid AI]]\n- [[Mellum]]\n- [[Clef]]\n- [[Prime Agent]]\n- [[Qwen]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[Ornith]]\n- [[Tencent]]\n- [[Hy3]]\n- [[Moonshot AI]]\n- [[Kimi]]\n- [[GLM]]\n- [[DeepSeek]]\n- [[NVIDIA]]\n- [[Nemotron]]\n- [[Microsoft]]\n- [[Meta]]\n- [[vLLM]]\n- [[Gemma]]\n- [[Mistral]]\n- [[TMax]]\n- [[Qwenstradamus]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[DeepSpec]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
     },
     {
       "id": "openagents",
@@ -133857,6 +134007,10 @@
         "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
         "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
         "https://www.meetup.com/austin-computer-club/events/317462120/",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+        "https://x.com/benthecarman/status/2125360428989517991",
         "https://vercel.com/blog/introducing-vercel-board",
         "https://github.com/vercel/board",
         "https://x.com/rauchg/status/2123237505810178434",
@@ -134111,6 +134265,26 @@
           "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
           "title": "www.meetup.com/austin-computer-club/events/317462120/",
           "section": ""
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
         },
         {
           "href": "https://vercel.com/blog/introducing-vercel-board",
@@ -135318,6 +135492,7 @@
         "anthropic",
         "apple",
         "beam",
+        "ben-carman",
         "big-tech-moves",
         "cisco",
         "claude-code",
@@ -135339,6 +135514,7 @@
         "kolibri",
         "levent-alpge",
         "local-ai",
+        "local-builds-projects",
         "meta-muse",
         "microsoft",
         "minimax",
@@ -135374,6 +135550,7 @@
         "anthropic",
         "apple",
         "beam",
+        "ben-carman",
         "big-tech-moves",
         "cisco",
         "claude-code",
@@ -135395,6 +135572,7 @@
         "kolibri",
         "levent-alpge",
         "local-ai",
+        "local-builds-projects",
         "meta-muse",
         "microsoft",
         "minimax",
@@ -135435,6 +135613,10 @@
         "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
         "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
         "https://www.meetup.com/austin-computer-club/events/317462120/",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+        "https://x.com/benthecarman/status/2125360428989517991",
         "https://vercel.com/blog/introducing-vercel-board",
         "https://github.com/vercel/board",
         "https://x.com/rauchg/status/2123237505810178434",
@@ -135689,6 +135871,26 @@
           "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
           "title": "www.meetup.com/austin-computer-club/events/317462120/",
           "section": ""
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Hugging Face: benthecarman/Inkling-2-Mini-uncensored",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Hugging Face: benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Hugging Face: benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman launch post",
+          "section": "Local Builds & Projects"
         },
         {
           "href": "https://vercel.com/blog/introducing-vercel-board",
@@ -169100,36 +169302,41 @@
         "local-ai"
       ],
       "sources": [
+        "raw/articles/2026-11-25-link-records.md",
         "raw/articles/2026-09-30-link-records.md",
         "raw/articles/2026-06-24-link-records.md",
         "raw/articles/2026-06-10-link-records.md"
       ],
-      "sourceCount": 3,
+      "sourceCount": 4,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-06-23",
-      "updated": "2026-09-29",
-      "excerpt": "Ben Carman is a recurring Sovereign AI Club local-builder source for tweet-archive tooling, personal-model experiments, and local AI workflows.",
+      "updated": "2026-11-25",
+      "excerpt": "Ben Carman is a recurring Sovereign AI Club local-builder source for tweet-archive tooling, personal-model experiments, local quantization, and open-model post-training. In November 2026 he released Apache 2.0 `benthecarman/Inkling-2-Mini-uncensored` (plus GGUF and W4A16 builds) with Maple AI-sponsored compute, editing only the 120 BF16 attention layers so all 1,124 other tensors stay byte-identical to upstream Inkling 2 Mini.",
       "rawHref": "/topics/entities/ben-carman.md",
       "relativePath": "entities/ben-carman.md",
       "outgoingIds": [
         "coding-agents",
+        "inkling",
         "local-ai",
         "open-models",
         "qwenstradamus",
         "sovereign-ai-club-june-10-2026",
         "sovereign-ai-club-june-24-2026",
+        "sovereign-ai-club-november-25-2026",
         "sovereign-ai-club-september-30-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
         "coding-agents",
+        "inkling",
         "local-ai",
         "local-builds-projects",
         "open-models",
         "qwenstradamus",
         "sovereign-ai-club-june-10-2026",
         "sovereign-ai-club-june-24-2026",
+        "sovereign-ai-club-november-25-2026",
         "sovereign-ai-club-september-30-2026"
       ],
       "referencedTopicSources": [
@@ -169176,6 +169383,34 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         },
         {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://huggingface.co/benthecarman/MiMo-V2.6-Flash-RL-exl3",
           "title": "Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark",
           "section": "Local Builds & Projects",
@@ -169197,7 +169432,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 30, 2026"
         }
       ],
-      "bodyMarkdown": "# Ben Carman\n\nBen Carman is a recurring Sovereign AI Club local-builder source for tweet-archive tooling, personal-model experiments, and local AI workflows.\n\n## Mentioned In\n\n- [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**.\n- [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.\n\n## Related\n\n- [[Local AI]]\n- [[Open Models]]\n- [[Coding Agents]]\n- [[Qwenstradamus]]"
+      "bodyMarkdown": "# Ben Carman\n\nBen Carman is a recurring Sovereign AI Club local-builder source for tweet-archive tooling, personal-model experiments, local quantization, and open-model post-training. In November 2026 he released Apache 2.0 `benthecarman/Inkling-2-Mini-uncensored` (plus GGUF and W4A16 builds) with Maple AI-sponsored compute, editing only the 120 BF16 attention layers so all 1,124 other tensors stay byte-identical to upstream [[Inkling|Inkling 2 Mini]].\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**.\n- [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**.\n- [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.\n\n## Related\n\n- [[Local AI]]\n- [[Open Models]]\n- [[Coding Agents]]\n- [[Inkling]]\n- [[Qwenstradamus]]"
     },
     "bend-2": {
       "id": "bend-2",
@@ -203579,11 +203814,12 @@
       "sourceReferences": [],
       "created": "2026-07-22",
       "updated": "2026-11-25",
-      "excerpt": "Inkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts family, starting with the original 975B/41B-active release (1M context). On November 12, 2026, Thinking Machines followed through on its November 5 Tinker launch by releasing Apache 2.0 NVFP4/MXFP8 weights for **Inkling 2 Small** (594B total, 17B active, trained in native 4-bit forward / 8-bit backward), which Harvey later post-trained past 20% all-pass on Legal Agent Bench. On November 20, 2026, it released **Inkling 2 Mini** (26.4B total, 3.4B active, middle 12 layers looped 3x) under Apache 2.0 for 32 GB Macs via Ollama and day-0 Unsloth GGUFs; Pliny's viral \"Vocab Surgery\" on Inkling 2 Mini turned out to rely largely on a baked-in GGUF chat-template prefill.",
+      "excerpt": "Inkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts family, starting with the original 975B/41B-active release (1M context). On November 12, 2026, Thinking Machines followed through on its November 5 Tinker launch by releasing Apache 2.0 NVFP4/MXFP8 weights for **Inkling 2 Small** (594B total, 17B active, trained in native 4-bit forward / 8-bit backward), which Harvey later post-trained past 20% all-pass on Legal Agent Bench. On November 20, 2026, it released **Inkling 2 Mini** (26.4B total, 3.4B active, middle 12 layers looped 3x) under Apache 2.0 for 32 GB Macs via Ollama and day-0 Unsloth GGUFs; Pliny's viral \"Vocab Surgery\" on Inkling 2 Mini turned out to rely largely on a baked-in GGUF chat-template prefill, whereas Sovereign AI Club member Ben Carman released an attention-only on-policy uncensored checkpoint (`benthecarman/Inkling-2-Mini-uncensored`) leaving all 1,124 other tensors byte-identical.",
       "rawHref": "/topics/entities/inkling.md",
       "relativePath": "entities/inkling.md",
       "outgoingIds": [
         "ai-benchmarks-evals",
+        "ben-carman",
         "local-ai",
         "models-research",
         "ollama",
@@ -203595,6 +203831,7 @@
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
+        "ben-carman",
         "models-research",
         "open-models",
         "sovereign-ai-club-july-22-2026",
@@ -204380,6 +204617,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         },
         {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
           "title": "Open model releases",
           "section": "Models & Research",
@@ -204772,7 +205037,7 @@
           "sourcePageTitle": "Sovereign AI Club - November 11, 2026"
         }
       ],
-      "bodyMarkdown": "# Inkling\n\nInkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts family, starting with the original 975B/41B-active release (1M context). On November 12, 2026, Thinking Machines followed through on its November 5 Tinker launch by releasing Apache 2.0 NVFP4/MXFP8 weights for **Inkling 2 Small** (594B total, 17B active, trained in native 4-bit forward / 8-bit backward), which Harvey later post-trained past 20% all-pass on Legal Agent Bench. On November 20, 2026, it released **Inkling 2 Mini** (26.4B total, 3.4B active, middle 12 layers looped 3x) under Apache 2.0 for 32 GB Macs via [[Ollama]] and day-0 [[Unsloth]] GGUFs; Pliny's viral \"Vocab Surgery\" on Inkling 2 Mini turned out to rely largely on a baked-in GGUF chat-template prefill.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.\n\n## Related\n\n- [[Open Models]]\n- [[Models & Research]]\n- [[AI Benchmarks & Evals]]\n- [[Local AI]]\n- [[Ollama]]\n- [[Unsloth]]"
+      "bodyMarkdown": "# Inkling\n\nInkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts family, starting with the original 975B/41B-active release (1M context). On November 12, 2026, Thinking Machines followed through on its November 5 Tinker launch by releasing Apache 2.0 NVFP4/MXFP8 weights for **Inkling 2 Small** (594B total, 17B active, trained in native 4-bit forward / 8-bit backward), which Harvey later post-trained past 20% all-pass on Legal Agent Bench. On November 20, 2026, it released **Inkling 2 Mini** (26.4B total, 3.4B active, middle 12 layers looped 3x) under Apache 2.0 for 32 GB Macs via [[Ollama]] and day-0 [[Unsloth]] GGUFs; Pliny's viral \"Vocab Surgery\" on Inkling 2 Mini turned out to rely largely on a baked-in GGUF chat-template prefill, whereas Sovereign AI Club member [[Ben Carman]] released an attention-only on-policy uncensored checkpoint (`benthecarman/Inkling-2-Mini-uncensored`) leaving all 1,124 other tensors byte-identical.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.\n\n## Related\n\n- [[Open Models]]\n- [[Models & Research]]\n- [[AI Benchmarks & Evals]]\n- [[Local AI]]\n- [[Ben Carman]]\n- [[Ollama]]\n- [[Unsloth]]"
     },
     "intel": {
       "id": "intel",
@@ -212621,7 +212886,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-05-05",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "Local AI covers models, tools, laptops, desktop apps, and privacy-preserving workflows that run close to the user instead of depending entirely on hosted inference.",
       "rawHref": "/topics/concepts/local-ai.md",
       "relativePath": "concepts/local-ai.md",
@@ -213440,6 +213705,34 @@
           "section": "Models & Research",
           "sourcePageId": "sovereign-ai-club-may-27-2026",
           "sourcePageTitle": "Sovereign AI Club - May 27, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://www.firecrawl.dev/changelog/firecrawl-local",
@@ -216851,7 +217144,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# Local AI\n\nLocal AI covers models, tools, laptops, desktop apps, and privacy-preserving workflows that run close to the user instead of depending entirely on hosted inference.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Lastbook packs an offline survival library with local LLM chat**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **UC pays OpenAI $1.2M a year over faculty objections**, and **Google open-sources gBench to test local open models**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers** and **Open model releases**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **Perplexity Computer goes fully local on Mac**, **dax's OpenTunnel keeps TLS on your machine**, and **Open model releases**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases** (Phonon-2).\n- [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**, **Splash vs mlx-serve: rival benchmarks, real fixes**.\n- [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, and **Archiving open-source models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases**, **AirLLM streams giant MoEs onto hobbyist VRAM**, and **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Should chat route local by default?**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream** and **Open model releases**.\n- [[Sovereign AI Club - May 13, 2026]]: **Amnesic personal OS** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Osaurus local AI suite**, **Ollama launches Pi**, **Local models getting glazed**, and **DISTILL**.\n- [[Sovereign AI Club - March 18, 2026]]: **MacBook Pro M5 Max as a local inference laptop**, **LMfit**, **plebdev-bench**, **sage**, and **visibible**.\n\n## Related\n\n- [[AirLLM]]\n- [[Ornith]]\n- [[TurboFieldfare]]\n- [[Liquid AI]]\n- [[Privacy Tooling]]\n- [[Open Models]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Compute Strategy]]\n- [[Inference Optimization]]\n- [[Physical AI]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[Cohere Transcribe Arabic]]\n- [[vLLM]]\n- [[Gemma]]\n- [[DiffusionGemma]]\n- [[Ollama]]\n- [[MiniMax M3]]\n- [[React Native ExecuTorch]]\n- [[Qwenstradamus]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]"
+      "bodyMarkdown": "# Local AI\n\nLocal AI covers models, tools, laptops, desktop apps, and privacy-preserving workflows that run close to the user instead of depending entirely on hosted inference.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Lastbook packs an offline survival library with local LLM chat**, **Open model releases**, **Baseten and Magnitude push open-model speed from opposite ends**, **UC pays OpenAI $1.2M a year over faculty objections**, and **Google open-sources gBench to test local open models**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers** and **Open model releases**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **Perplexity Computer goes fully local on Mac**, **dax's OpenTunnel keeps TLS on your machine**, and **Open model releases**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases** (Phonon-2).\n- [[Sovereign AI Club - September 30, 2026]]: **Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark**, **Splash vs mlx-serve: rival benchmarks, real fixes**.\n- [[Sovereign AI Club - September 9, 2026]]: **GLM-5.3 Flash gets a four-Spark recipe and DwarfStar support**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Omarchy Quattro makes coding agents an OS default**, **Berd sits above goose, Claude Code, and Codex**, **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, and **Archiving open-source models**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases**, **AirLLM streams giant MoEs onto hobbyist VRAM**, and **TurboFieldfare runs Gemma 4 26B-A4B in ~2 GB on Apple Silicon**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Gemma 4 gives React Native an offline agent loop** and **Should chat route local by default?**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 27, 2026]]: **Multi-token prediction goes mainstream** and **Open model releases**.\n- [[Sovereign AI Club - May 13, 2026]]: **Amnesic personal OS** and **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Osaurus local AI suite**, **Ollama launches Pi**, **Local models getting glazed**, and **DISTILL**.\n- [[Sovereign AI Club - March 18, 2026]]: **MacBook Pro M5 Max as a local inference laptop**, **LMfit**, **plebdev-bench**, **sage**, and **visibible**.\n\n## Related\n\n- [[AirLLM]]\n- [[Ornith]]\n- [[TurboFieldfare]]\n- [[Liquid AI]]\n- [[Privacy Tooling]]\n- [[Open Models]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Compute Strategy]]\n- [[Inference Optimization]]\n- [[Physical AI]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[Cohere Transcribe Arabic]]\n- [[vLLM]]\n- [[Gemma]]\n- [[DiffusionGemma]]\n- [[Ollama]]\n- [[MiniMax M3]]\n- [[React Native ExecuTorch]]\n- [[Qwenstradamus]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]"
     },
     "local-builds-projects": {
       "id": "local-builds-projects",
@@ -216863,16 +217156,17 @@
         "local-builds"
       ],
       "sources": [
+        "raw/articles/2026-11-25-link-records.md",
         "raw/articles/2026-06-24-link-records.md",
         "raw/articles/2026-06-10-link-records.md",
         "raw/articles/2026-04-15-link-records.md",
         "raw/articles/2026-03-18-link-records.md"
       ],
-      "sourceCount": 4,
+      "sourceCount": 5,
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-06-24",
-      "updated": "2026-07-08",
+      "updated": "2026-11-25",
       "excerpt": "Local Builds & Projects is the Sovereign AI Club track for Austin/member/community-orbit demos, prototypes, launches, dashboards, repos, and tools people can inspect or run.",
       "rawHref": "/topics/concepts/local-builds-projects.md",
       "relativePath": "concepts/local-builds-projects.md",
@@ -216887,7 +217181,8 @@
         "sovereign-ai-club-april-15-2026",
         "sovereign-ai-club-june-10-2026",
         "sovereign-ai-club-june-24-2026",
-        "sovereign-ai-club-march-18-2026"
+        "sovereign-ai-club-march-18-2026",
+        "sovereign-ai-club-november-25-2026"
       ],
       "unresolvedLinks": [],
       "backlinkIds": [
@@ -216896,7 +217191,8 @@
         "sovereign-ai-club-april-15-2026",
         "sovereign-ai-club-june-10-2026",
         "sovereign-ai-club-june-24-2026",
-        "sovereign-ai-club-march-18-2026"
+        "sovereign-ai-club-march-18-2026",
+        "sovereign-ai-club-november-25-2026"
       ],
       "referencedTopicSources": [
         {
@@ -217103,6 +217399,34 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         },
         {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://huggingface.co/benthecarman/MiMo-V2.6-Flash-RL-exl3",
           "title": "Ben Carman fits 309B MiMo-V2.6-Flash on one DGX Spark",
           "section": "Local Builds & Projects",
@@ -217152,7 +217476,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 30, 2026"
         }
       ],
-      "bodyMarkdown": "# Local Builds & Projects\n\nLocal Builds & Projects is the Sovereign AI Club track for Austin/member/community-orbit demos, prototypes, launches, dashboards, repos, and tools people can inspect or run.\n\n## Mentioned In\n\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**, **OpenAgents pays the training run in sats**, and **HRF turns AI hackathons into an activist training pipeline**.\n- [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAgents: Pylon + Autopilot**.\n- [[Sovereign AI Club - March 18, 2026]]: **pika chat**, **plebdev-bench**, **sage**, **visibible**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Local AI]]\n- [[Coding Agents]]\n- [[OpenAgents]]\n- [[Pylon]]\n- [[Ben Carman]]\n- [[Human Rights Foundation]]"
+      "bodyMarkdown": "# Local Builds & Projects\n\nLocal Builds & Projects is the Sovereign AI Club track for Austin/member/community-orbit demos, prototypes, launches, dashboards, repos, and tools people can inspect or run.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**.\n- [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**, **OpenAgents pays the training run in sats**, and **HRF turns AI hackathons into an activist training pipeline**.\n- [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.\n- [[Sovereign AI Club - April 15, 2026]]: **OpenAgents: Pylon + Autopilot**.\n- [[Sovereign AI Club - March 18, 2026]]: **pika chat**, **plebdev-bench**, **sage**, **visibible**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Local AI]]\n- [[Coding Agents]]\n- [[OpenAgents]]\n- [[Pylon]]\n- [[Ben Carman]]\n- [[Human Rights Foundation]]"
     },
     "malecns": {
       "id": "malecns",
@@ -246737,6 +247061,34 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
           "title": "Open model releases",
           "section": "Models & Research",
@@ -250832,7 +251184,7 @@
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
         }
       ],
-      "bodyMarkdown": "# Open Models\n\nOpen Models covers open-weight and open-source model releases, their deployment surfaces, and the practical question of whether builders can run, inspect, fine-tune, or compare them outside a single hosted API.\n\nOn Meetup boards, the biweekly open-weight launch catalog lives under the official Models & Research Topic **Open model releases**. That Release Roundup is the durable place to look back through open launches; specialist research and packaging debates may still appear as separate Topics after it.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, **fal's H3 Max leads AA's with-audio video boards**, **Archiving open-source models**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases** and **Trump advisers say open-weight models skip federal safety tests**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Open model releases** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases** and **Local AI becomes bandwidth math**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases** and **Multi-token prediction goes mainstream**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **Attune patches the open-model tool-call boundary**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **Distillation hesitation**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **LMfit**.\n\n## Related\n\n- [[Models & Research]]\n- [[AI Governance]]\n- [[Local AI]]\n- [[AI Signal Discovery]]\n- [[World Models]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[FLUX 3]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Liquid AI]]\n- [[Mellum]]\n- [[Clef]]\n- [[Prime Agent]]\n- [[Qwen]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[Ornith]]\n- [[Tencent]]\n- [[Hy3]]\n- [[Moonshot AI]]\n- [[Kimi]]\n- [[GLM]]\n- [[DeepSeek]]\n- [[NVIDIA]]\n- [[Nemotron]]\n- [[Microsoft]]\n- [[Meta]]\n- [[vLLM]]\n- [[Gemma]]\n- [[Mistral]]\n- [[TMax]]\n- [[Qwenstradamus]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[DeepSpec]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
+      "bodyMarkdown": "# Open Models\n\nOpen Models covers open-weight and open-source model releases, their deployment surfaces, and the practical question of whether builders can run, inspect, fine-tune, or compare them outside a single hosted API.\n\nOn Meetup boards, the biweekly open-weight launch catalog lives under the official Models & Research Topic **Open model releases**. That Release Roundup is the durable place to look back through open launches; specialist research and packaging debates may still appear as separate Topics after it.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Pirate Face ships a CLI to torrent open models**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, **Washington squeezes Chinese open weights and overseas GPU rentals**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **Open model releases**, **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**, and **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Specialized engines and recipes run Qwen and DeepSeek at home**, **Open model releases**, **Closed model releases**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**, **NVIDIA agrees to acquire Hugging Face**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases**, **Adaptive DFlash hits 65.6 tps on Qwen3.8-27B Strix Halo**, **Flash-Next 125B does 250k context on a 24GB 4090**, **Chinese frontier models converged on linear and sparse attention**, **Open-model hype and adoption barely overlap**, **fal's H3 Max leads AA's with-audio video boards**, **Archiving open-source models**, **Gemma 4 31B hits 3,431 tok/s on Groq 3 LPX**, and **Abliterlitics measures what abliteration actually changed**.\n- [[Sovereign AI Club - August 5, 2026]]: **Open model releases** and **Trump advisers say open-weight models skip federal safety tests**.\n- [[Sovereign AI Club - July 22, 2026]]: **Open model releases** and **llama.garden makes model distribution a protocol**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - June 24, 2026]]: **Open model releases** and **vLLM turns weird open models into runnable systems**.\n- [[Sovereign AI Club - June 10, 2026]]: **Open model releases** and **Local AI becomes bandwidth math**.\n- [[Sovereign AI Club - May 27, 2026]]: **Open model releases** and **Multi-token prediction goes mainstream**.\n- [[Sovereign AI Club - May 13, 2026]]: **Open model releases** and **Attune patches the open-model tool-call boundary**.\n- [[Sovereign AI Club - April 15, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Open model releases** and **Distillation hesitation**.\n- [[Sovereign AI Club - March 18, 2026]]: **Open model releases** and **LMfit**.\n\n## Related\n\n- [[Models & Research]]\n- [[AI Governance]]\n- [[Local AI]]\n- [[AI Signal Discovery]]\n- [[World Models]]\n- [[AI Benchmarks & Evals]]\n- [[Inference Optimization]]\n- [[Speculative Decoding]]\n- [[Physical AI]]\n- [[Model Distillation]]\n- [[Ling-3.0-flash]]\n- [[Laguna S 2.1]]\n- [[BTL-3]]\n- [[Inkling]]\n- [[FLUX 3]]\n- [[Ben Carman]]\n- [[Cohere]]\n- [[MiniMax]]\n- [[AMD]]\n- [[Liquid AI]]\n- [[Mellum]]\n- [[Clef]]\n- [[Prime Agent]]\n- [[Qwen]]\n- [[Unsloth]]\n- [[Strata]]\n- [[NInfer]]\n- [[Infernix]]\n- [[Gufo]]\n- [[Ornith]]\n- [[Tencent]]\n- [[Hy3]]\n- [[Moonshot AI]]\n- [[Kimi]]\n- [[GLM]]\n- [[DeepSeek]]\n- [[NVIDIA]]\n- [[Nemotron]]\n- [[Microsoft]]\n- [[Meta]]\n- [[vLLM]]\n- [[Gemma]]\n- [[Mistral]]\n- [[TMax]]\n- [[Qwenstradamus]]\n- [[MiniMax M3]]\n- [[Qwen-AgentWorld]]\n- [[Leanstral]]\n- [[Cohere Transcribe Arabic]]\n- [[HARC]]\n- [[Abliterlitics]]\n- [[DeepSpec]]\n- [[DiffusionGemma]]\n- [[Nemotron Puzzle]]"
     },
     "openagents": {
       "id": "openagents",
@@ -286748,6 +287100,10 @@
         "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
         "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
         "https://www.meetup.com/austin-computer-club/events/317462120/",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+        "https://x.com/benthecarman/status/2125360428989517991",
         "https://vercel.com/blog/introducing-vercel-board",
         "https://github.com/vercel/board",
         "https://x.com/rauchg/status/2123237505810178434",
@@ -287002,6 +287358,26 @@
           "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
           "title": "www.meetup.com/austin-computer-club/events/317462120/",
           "section": ""
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
         },
         {
           "href": "https://vercel.com/blog/introducing-vercel-board",
@@ -288209,6 +288585,7 @@
         "anthropic",
         "apple",
         "beam",
+        "ben-carman",
         "big-tech-moves",
         "cisco",
         "claude-code",
@@ -288230,6 +288607,7 @@
         "kolibri",
         "levent-alpge",
         "local-ai",
+        "local-builds-projects",
         "meta-muse",
         "microsoft",
         "minimax",
@@ -288265,6 +288643,7 @@
         "anthropic",
         "apple",
         "beam",
+        "ben-carman",
         "big-tech-moves",
         "cisco",
         "claude-code",
@@ -288286,6 +288665,7 @@
         "kolibri",
         "levent-alpge",
         "local-ai",
+        "local-builds-projects",
         "meta-muse",
         "microsoft",
         "minimax",
@@ -288326,6 +288706,10 @@
         "https://signal.group/#CjQKIIM2H4OE6vOvrGqi5aMPOgQWPRU6boBJvVhJVhbb2N-pEhC1hNgAqbQ9Tc_7g5KeE3XR",
         "https://www.meetup.com/bitcoin-park-austin/events/317149461/",
         "https://www.meetup.com/austin-computer-club/events/317462120/",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+        "https://x.com/benthecarman/status/2125360428989517991",
         "https://vercel.com/blog/introducing-vercel-board",
         "https://github.com/vercel/board",
         "https://x.com/rauchg/status/2123237505810178434",
@@ -288580,6 +288964,26 @@
           "href": "https://www.meetup.com/austin-computer-club/events/317462120/",
           "title": "www.meetup.com/austin-computer-club/events/317462120/",
           "section": ""
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Hugging Face: benthecarman/Inkling-2-Mini-uncensored",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Hugging Face: benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Hugging Face: benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman launch post",
+          "section": "Local Builds & Projects"
         },
         {
           "href": "https://vercel.com/blog/introducing-vercel-board",
@@ -306544,6 +306948,61 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Will DePue's weight forensics claim Chinese labs used Blackwell GPUs Big Tech Moves Sovereign AI Club - November 25, 2026 2026-11-25 https://unemploymentlabs.com/checkpoint-forensics https://github.com/macrogrants/checkpoint-forensics https://x.com/willdepue/status/2120992457630326841 https://x.com/MyDaebakCafe/status/2121031084653637728 Big Tech Moves Compute Strategy DeepSeek Kimi MiniMax NVIDIA"
+    },
+    {
+      "id": "sovereign-ai-club-november-25-2026-local-builds-projects-ben-carman-uncensors-inkling-2-mini-without-breaking-tool-calling",
+      "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+      "rawTitle": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+      "normalizedTitle": "ben carman uncensors inkling 2 mini without breaking tool calling",
+      "section": "Local Builds & Projects",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+        "https://x.com/benthecarman/status/2125360428989517991"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        }
+      ],
+      "wikiIds": [
+        "ben-carman",
+        "inkling",
+        "local-ai",
+        "local-builds-projects",
+        "open-models"
+      ],
+      "wikiTitles": [
+        "Ben Carman",
+        "Inkling",
+        "Local AI",
+        "Local Builds & Projects",
+        "Open Models"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling Local Builds & Projects Sovereign AI Club - November 25, 2026 2026-11-25 https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16 https://x.com/benthecarman/status/2125360428989517991 Ben Carman Inkling Local AI Local Builds & Projects Open Models"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-models-research-anthropic-and-openai-post-unchecked-vp-vnp-proofs",
@@ -330928,6 +331387,61 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Will DePue's weight forensics claim Chinese labs used Blackwell GPUs Big Tech Moves Sovereign AI Club - November 25, 2026 2026-11-25 https://unemploymentlabs.com/checkpoint-forensics https://github.com/macrogrants/checkpoint-forensics https://x.com/willdepue/status/2120992457630326841 https://x.com/MyDaebakCafe/status/2121031084653637728 Big Tech Moves Compute Strategy DeepSeek Kimi MiniMax NVIDIA"
+    },
+    "sovereign-ai-club-november-25-2026-local-builds-projects-ben-carman-uncensors-inkling-2-mini-without-breaking-tool-calling": {
+      "id": "sovereign-ai-club-november-25-2026-local-builds-projects-ben-carman-uncensors-inkling-2-mini-without-breaking-tool-calling",
+      "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+      "rawTitle": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+      "normalizedTitle": "ben carman uncensors inkling 2 mini without breaking tool calling",
+      "section": "Local Builds & Projects",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+        "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+        "https://x.com/benthecarman/status/2125360428989517991"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        },
+        {
+          "href": "https://x.com/benthecarman/status/2125360428989517991",
+          "title": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+          "section": "Local Builds & Projects"
+        }
+      ],
+      "wikiIds": [
+        "ben-carman",
+        "inkling",
+        "local-ai",
+        "local-builds-projects",
+        "open-models"
+      ],
+      "wikiTitles": [
+        "Ben Carman",
+        "Inkling",
+        "Local AI",
+        "Local Builds & Projects",
+        "Open Models"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Ben Carman uncensors Inkling 2 Mini without breaking tool calling Local Builds & Projects Sovereign AI Club - November 25, 2026 2026-11-25 https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16 https://x.com/benthecarman/status/2125360428989517991 Ben Carman Inkling Local AI Local Builds & Projects Open Models"
     },
     "sovereign-ai-club-november-25-2026-models-research-anthropic-and-openai-post-unchecked-vp-vnp-proofs": {
       "id": "sovereign-ai-club-november-25-2026-models-research-anthropic-and-openai-post-unchecked-vp-vnp-proofs",
@@ -355782,6 +356296,14 @@
     },
     {
       "source": "ben-carman",
+      "target": "inkling"
+    },
+    {
+      "source": "ben-carman",
+      "target": "sovereign-ai-club-november-25-2026"
+    },
+    {
+      "source": "ben-carman",
       "target": "sovereign-ai-club-september-30-2026"
     },
     {
@@ -358290,6 +358812,10 @@
     },
     {
       "source": "inkling",
+      "target": "ben-carman"
+    },
+    {
+      "source": "inkling",
       "target": "sovereign-ai-club-november-25-2026"
     },
     {
@@ -358855,6 +359381,10 @@
     {
       "source": "local-ai",
       "target": "gufo"
+    },
+    {
+      "source": "local-builds-projects",
+      "target": "sovereign-ai-club-november-25-2026"
     },
     {
       "source": "local-builds-projects",
@@ -363570,6 +364100,10 @@
     },
     {
       "source": "sovereign-ai-club-november-25-2026",
+      "target": "local-builds-projects"
+    },
+    {
+      "source": "sovereign-ai-club-november-25-2026",
       "target": "agent-infrastructure"
     },
     {
@@ -363615,6 +364149,10 @@
     {
       "source": "sovereign-ai-club-november-25-2026",
       "target": "beam"
+    },
+    {
+      "source": "sovereign-ai-club-november-25-2026",
+      "target": "ben-carman"
     },
     {
       "source": "sovereign-ai-club-november-25-2026",
@@ -365508,8 +366046,8 @@
           "local-builds",
           "local-ai"
         ],
-        "degree": 15,
-        "updated": "2026-09-29"
+        "degree": 19,
+        "updated": "2026-11-25"
       },
       {
         "id": "bend-2",
@@ -366284,7 +366822,7 @@
           "models-research",
           "open-source"
         ],
-        "degree": 14,
+        "degree": 16,
         "updated": "2026-11-25"
       },
       {
@@ -366488,7 +367026,7 @@
           "privacy"
         ],
         "degree": 103,
-        "updated": "2026-11-23"
+        "updated": "2026-11-25"
       },
       {
         "id": "local-builds-projects",
@@ -366499,8 +367037,8 @@
           "track",
           "local-builds"
         ],
-        "degree": 17,
-        "updated": "2026-07-08"
+        "degree": 19,
+        "updated": "2026-11-25"
       },
       {
         "id": "malecns",
@@ -367560,7 +368098,7 @@
           "meetup",
           "topic-board"
         ],
-        "degree": 107,
+        "degree": 111,
         "updated": "2026-11-25"
       },
       {
@@ -369470,6 +370008,16 @@
         "source": "beam",
         "target": "local-ai",
         "kind": "wiki"
+      },
+      {
+        "source": "ben-carman",
+        "target": "inkling",
+        "kind": "wiki"
+      },
+      {
+        "source": "ben-carman",
+        "target": "sovereign-ai-club-november-25-2026",
+        "kind": "topic"
       },
       {
         "source": "ben-carman",
@@ -372608,6 +373156,11 @@
       },
       {
         "source": "inkling",
+        "target": "ben-carman",
+        "kind": "wiki"
+      },
+      {
+        "source": "inkling",
         "target": "sovereign-ai-club-november-25-2026",
         "kind": "topic"
       },
@@ -373315,6 +373868,11 @@
         "source": "local-ai",
         "target": "gufo",
         "kind": "wiki"
+      },
+      {
+        "source": "local-builds-projects",
+        "target": "sovereign-ai-club-november-25-2026",
+        "kind": "topic"
       },
       {
         "source": "local-builds-projects",
@@ -379208,6 +379766,11 @@
       },
       {
         "source": "sovereign-ai-club-november-25-2026",
+        "target": "local-builds-projects",
+        "kind": "topic"
+      },
+      {
+        "source": "sovereign-ai-club-november-25-2026",
         "target": "agent-infrastructure",
         "kind": "topic"
       },
@@ -379264,6 +379827,11 @@
       {
         "source": "sovereign-ai-club-november-25-2026",
         "target": "beam",
+        "kind": "topic"
+      },
+      {
+        "source": "sovereign-ai-club-november-25-2026",
+        "target": "ben-carman",
         "kind": "topic"
       },
       {
@@ -381245,11 +381813,11 @@
   },
   "stats": {
     "pageCount": 217,
-    "topicCount": 388,
+    "topicCount": 389,
     "rawPageCount": 0,
-    "linkCount": 2661,
+    "linkCount": 2667,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 2151,
+    "sourceLinkCount": 2155,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-25"
   }

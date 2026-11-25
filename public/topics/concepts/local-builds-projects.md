@@ -1,10 +1,10 @@
 ---
 title: Local Builds & Projects
 created: 2026-06-24
-updated: 2026-07-08
+updated: 2026-11-25
 type: concept
 tags: [concept, track, local-builds]
-sources: [raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-03-18-link-records.md]
+sources: [raw/articles/2026-11-25-link-records.md, raw/articles/2026-06-24-link-records.md, raw/articles/2026-06-10-link-records.md, raw/articles/2026-04-15-link-records.md, raw/articles/2026-03-18-link-records.md]
 ---
 
 # Local Builds & Projects
@@ -13,6 +13,7 @@ Local Builds & Projects is the Sovereign AI Club track for Austin/member/communi
 
 ## Mentioned In
 
+- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**.
 - [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**, **OpenAgents pays the training run in sats**, and **HRF turns AI hackathons into an activist training pipeline**.
 - [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.
 - [[Sovereign AI Club - April 15, 2026]]: **OpenAgents: Pylon + Autopilot**.

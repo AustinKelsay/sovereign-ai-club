@@ -15,6 +15,19 @@ Community: [Official public Signal group](https://signal.group/#CjQKIIM2H4OE6vOv
 
 Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitcoin-park-austin/events/317149461/) and [Austin Computer Club Meetup](https://www.meetup.com/austin-computer-club/events/317462120/), Wednesday, November 25, 2026, 5:30–7:30 PM CST, Bitcoin Park Austin.
 
+## Local Builds & Projects
+
+### Ben Carman uncensors Inkling 2 Mini without breaking tool calling
+
+- **Hugging Face: benthecarman/Inkling-2-Mini-uncensored** — https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored
+  Type: model card. Accessed: 2026-11-25. November 24–25 Apache 2.0 uncensored fine-tune of `thinkingmachines/Inkling-2-Mini` (~20 GB drop-in vLLM checkpoint, compute sponsored by Maple AI). Updates only the 120 BF16 attention linear projections via on-policy data harvesting, KL-anchored low-rank training, and DPO loop-fix while leaving all 1,124 other tensors (quantized experts, vision encoder, chat template, and DSpark MTP head) SHA-256 identical to upstream; author evals report held-out refusals dropping from 91.0% to 6.6%, BFCL v4 rising 79.5% → 80.1%, HumanEval low rising 98.2% → 99.4%, and 5-shot MMLU 76.6% → 75.3%.
+- **Hugging Face: benthecarman/Inkling-2-Mini-uncensored-GGUF** — https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF
+  Type: model card. Accessed: 2026-11-25. `llama.cpp` GGUF conversion with DSpark MTP and vision `mmproj`.
+- **Hugging Face: benthecarman/Inkling-2-Mini-uncensored-W4A16** — https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16
+  Type: model card. Accessed: 2026-11-25. W4A16 INT4 build with DSpark MTP for Ampere and non-Blackwell GPUs.
+- **Ben Carman launch post** — https://x.com/benthecarman/status/2125360428989517991
+  Type: X post. Accessed: 2026-11-25. November 24 announcement thanking `@TryMapleAI` for sponsoring compute and sharing the uncensored Inkling 2 Mini checkpoint.
+
 ## Agent Infrastructure
 
 ### Vercel ships a shared message board for agent swarms

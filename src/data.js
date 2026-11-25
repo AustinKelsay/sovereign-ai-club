@@ -72,9 +72,29 @@ export const meetups = [
         "Focus: local AI, open models, and control over the tools we use.",
         "Bring a question, a project, or a demo for the Community Slot.",
       ],
-      hostNote: "5:30 Welcome · 5:40 Agent Infrastructure · 5:55 Models & Research · 6:30 Security · 7:00 Big Tech Moves · 7:20 Community Slot · 7:30 Wrap-up",
+      hostNote: "5:30 Welcome · 5:35 Local Builds & Projects · 5:45 Agent Infrastructure · 6:00 Models & Research · 6:35 Security · 7:05 Big Tech Moves · 7:20 Community Slot · 7:30 Wrap-up",
     },
     tracks: [
+      {
+        id: "local-builds-projects",
+        title: "Local Builds & Projects",
+        items: [
+          {
+            title: "Ben Carman uncensors Inkling 2 Mini without breaking tool calling",
+            description: "Sovereign AI Club's Ben Carman released an Apache 2.0 uncensored Inkling 2 Mini on Maple AI-sponsored compute, cutting held-out refusals from 91% to 6.6% on his evals without hurting tool calling. Unlike Pliny's template misfire, he trained only the attention layers and left every quantized expert and chat template byte-identical.",
+            href: "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored",
+            linkPair: [
+              "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-GGUF",
+              "https://huggingface.co/benthecarman/Inkling-2-Mini-uncensored-W4A16",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/benthecarman/status/2125360428989517991" },
+            ],
+            notes: "Harvested on-policy answers from a throwaway abliterated copy, then ran KL-anchored attention training + DPO loop-fix on 120 BF16 layers (1,124 other tensors and DSpark MTP stay SHA-256 identical). Ben's evals: BFCL v4 79.5% → 80.1%, HumanEval low 98.2% → 99.4%, MMLU 76.6% → 75.3%. ~20 GB drop-in vLLM build plus W4A16 and GGUF; bridges directly to Uncensored Models and Maple AI tonight.",
+            topStory: true,
+          },
+        ],
+      },
       {
         id: "agent-infrastructure",
         title: "Agent Infrastructure",

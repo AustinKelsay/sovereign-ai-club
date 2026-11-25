@@ -2,6 +2,11 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Highlight Ben Carman's uncensored Inkling 2 Mini in Local Builds & Projects
+
+- Added Track 1 (**Local Builds & Projects**) to November 25 opening with **Ben Carman uncensors Inkling 2 Mini without breaking tool calling** (`topStory: true`), covering Sovereign AI Club member Ben Carman's Apache 2.0 `benthecarman/Inkling-2-Mini-uncensored` (plus GGUF and W4A16 builds) trained on Maple AI-sponsored compute via attention-only on-policy updates + DPO loop-fix (91.0% → 6.6% held-out refusals, BFCL v4 79.5% → 80.1%, 1,124 other tensors byte-identical).
+- Updated `src/data.js` (including the `presentationIntro.hostNote` pacing cue), `raw/articles/2026-11-25-link-records.md`, and reciprocal `Mentioned In` entries on `Ben Carman`, `Local Builds & Projects`, `Inkling`, `Local AI`, and `Open Models`.
+
 ## [2026-11-25] update | Replace Energy GKE slide with CNCF agent-sandbox stack and add Anthropic Siren
 
 - Replaced **Energy cuts agent sandbox bills 88% by moving to GKE** in Agent Infrastructure with **Google and NVIDIA donate the open agent-sandbox stack to CNCF**, covering Google's CNCF Sandbox donation of Agent Substrate 1.0, gVisor, and OpenRL alongside NVIDIA's OpenShell donation and integration, while keeping Emil Ahlbäck's GKE cost benchmark (`16.6¢ → 1.9¢/hr`) as the concrete builder embed and note.
