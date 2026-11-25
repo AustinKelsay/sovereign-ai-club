@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Fold Daebak Tarbell/media-funding post into Jensen Huang slide
+
+- Added `@MyDaebakCafe`'s November 24 post (`x.com/MyDaebakCafe/status/2125163565329899645`, 4.4k likes / 260k views) charting Tarbell Center's $10M journalism grant program, Tarbell fellows' follow-up pieces, and The Midas Project's role in WaPo's bot piece to **NVIDIA's board reinstates Jensen Huang eleven days after he resigned** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`, keeping the editorial-independence and original-scoop attribution caveats in Presenter Notes.
+
 ## [2026-11-25] update | Fold Blackfuel OpenRouter-proxy trace into ZDR/routers slide
 
 - Added Requesty co-founder Thibault Jaigu's November 25 post (`x.com/ThibaultJaigu/status/2125553651590844828`) showing a `curl` to Paris neocloud Blackfuel (`api.blackfuel.ai`) for Kimi-K3 returning `Domain=openrouter.ai` cookies and `x-openrouter-release` headers to **Canary prompts expose broken Zero Data Retention across AI routers** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.

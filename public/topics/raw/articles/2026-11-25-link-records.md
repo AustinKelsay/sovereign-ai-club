@@ -647,6 +647,8 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
   Type: X post. Accessed: 2026-11-24. Highlights the viral EA / Coefficient Giving funding table around the Huang resignation debate.
 - **Spencer Pratt post on Anthropic, Lutnick, and NVIDIA** — https://x.com/spencerpratt/status/2125268258852835739
   Type: X post. Accessed: 2026-11-25. Viral (~20.7k likes) speculative post alleging a coordinated lobbying/media campaign against Lutnick and NVIDIA ahead of Anthropic's IPO; orchestration claims remain unverified.
+- **Daebak (@MyDaebakCafe) on Tarbell journalism grants and Huang coverage** — https://x.com/MyDaebakCafe/status/2125163565329899645
+  Type: X post. Accessed: 2026-11-25. Viral November 24 post (4.4k likes, 260k views) sharing a ChatGPT-compiled chart of Tarbell Center's Oct 5 $10M grant program ($480K to Casey Newton/Kevin Roose's *Machine Gods*, $250K to NPR), Tarbell fellows' follow-up pieces across The Verge, The Guardian, NBC News, USA Today, The Dispatch, and Transformer, and WaPo's bot report citing The Midas Project; the attached chart itself notes Tarbell bars donor editorial control and credits the NYT for the original investigative scoops.
 
 ### Will DePue's weight forensics claim Chinese labs used Blackwell GPUs
 

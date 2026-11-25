@@ -693,8 +693,9 @@ export const meetups = [
               { type: "tweet", href: "https://x.com/kevinnbass/status/2125098838587330898" },
               { type: "tweet", href: "https://x.com/travis_kling/status/2124976927937057060" },
               { type: "tweet", href: "https://x.com/spencerpratt/status/2125268258852835739" },
+              { type: "tweet", href: "https://x.com/MyDaebakCafe/status/2125163565329899645" },
             ],
-            notes: "Bloomberg's Parmy Olson frames Huang's return as a blow to Anthropic—Huang champions open weights while Amodei opposes them, and Anthropic slipped below its IPO price as NVIDIA surged. Meanwhile, viral Nov 24 \"op\" threads (@tobi, @kevinnbass, @spencerpratt) pointed to Coefficient Giving's $5.29M in Tarbell grants and DC lobbying, though 0 of 51 Tarbell fellows work at the NYT, FT, WSJ, or Reuters newsrooms that broke the story.",
+            notes: "Bloomberg's Parmy Olson frames Huang's return as a blow to Anthropic—Huang champions open weights while Amodei opposes them, and Anthropic slipped below its IPO price as NVIDIA surged. Meanwhile, viral Nov 24 \"op\" threads (@tobi, @kevinnbass, @spencerpratt, @MyDaebakCafe) highlighted Tarbell's Oct 5 $10M journalism grants ($480K to Newton/Roose's Machine Gods, $250K to NPR), Tarbell fellows' follow-up pieces, and WaPo citing The Midas Project—though Tarbell bars donor editorial control and 0 of 51 fellows work at the NYT, FT, WSJ, or Reuters newsrooms that broke the original stories.",
             topStory: true,
           },
           {
