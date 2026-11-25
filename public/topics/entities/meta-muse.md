@@ -21,7 +21,7 @@ Meta released Muse Ember on November 9, 2026, as its smallest and cheapest Muse 
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Vals launches a public ledger of models caught cheating** and **Harvey post-trains four US open models past Kimi K3**.
+- [[Sovereign AI Club - November 25, 2026]]: **Vals launches a public ledger of models caught cheating**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**.
 - [[Sovereign AI Club - October 21, 2026]]: **Closed model releases** and **Open model releases**.
 

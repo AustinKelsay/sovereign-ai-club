@@ -13,7 +13,7 @@ AI Benchmarks & Evals covers recurring Sovereign AI Club references to leaderboa
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Open model releases**, **Vals launches a public ledger of models caught cheating**, **Google open-sources gBench to test local open models**, and **Harvey post-trains four US open models past Kimi K3**.
+- [[Sovereign AI Club - November 25, 2026]]: **Open model releases**, **Vals launches a public ledger of models caught cheating**, and **Google open-sources gBench to test local open models**.
 - [[Sovereign AI Club - October 21, 2026]]: **Same model, different harness: 8090's DeepSWE run** and **Hugging Face trains open models inside Claude Code and Codex**.
 
 - [[Sovereign AI Club - August 26, 2026]]: **OpenAI writes up the Hugging Face eval as a warning shot**, **Abliterlitics measures what abliteration actually changed**, and **fal's H3 Max leads AA's with-audio video boards**.

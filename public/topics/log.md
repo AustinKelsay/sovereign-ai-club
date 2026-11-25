@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Remove Harvey post-training slide from November 25 board
+
+- Removed **Harvey post-trains four US open models past Kimi K3** from Models & Research in `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and reciprocal `Mentioned In` entries on `Open Models`, `Models & Research`, `AI Benchmarks & Evals`, `Beam`, `Meta Muse`, `Inkling`, and `Nemotron`.
+
 ## [2026-11-25] update | Add AtomicChat 1-bit Inkling 2 Mini iPhone 16 Pro demo to Open model releases
 
 - Added AtomicChat's 1-bit `Inkling-2-Mini` GGUF (`AtomicChat/Inkling-2-Mini-GGUF`) and iPhone 16 Pro flash-offloading video demo (`x.com/atomic_chat_hq/status/2125673484076593218`) to **Open model releases** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.

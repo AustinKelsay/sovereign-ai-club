@@ -13,7 +13,7 @@ Inkling is Thinking Machines' Apache-2.0 multimodal mixture-of-experts family, s
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Open model releases**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Harvey post-trains four US open models past Kimi K3**.
+- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**, **Open model releases**, and **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**.
 - [[Sovereign AI Club - November 11, 2026]]: **Closed model releases**, **Open model releases**, and **Nous's Arete-27B strips CCP talking points from Qwen3.8-27B**.
 - [[Sovereign AI Club - July 22, 2026]]: **Open model releases**.
 

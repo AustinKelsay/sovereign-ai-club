@@ -326,18 +326,6 @@ export const meetups = [
             notes: "Ramp reports 96.9% base accuracy across seven adapters in RampPublic/speculative-encoding (~9.8 GB): Qwen3.5-9B, Qwen3-14B, Llama 3.1 8B, Gemma 3/4 12B, and Ministral 3 8B/14B (8-expert top-2 MoE plus a 128× compressor checkpoint). Still research .pt files rather than drop-in vLLM serving—and revives September 30's question: if swarms trade hidden states instead of text, what can you log?",
           },
           {
-            title: "Harvey post-trains four US open models past Kimi K3",
-            description: "Harvey and Baseten ran RL post-training on four US open models—Muse Spark Open, Nemotron 3.5 Super VL, Beam 1.0, and Inkling 2 Small—pushing Muse past 30% on Legal Agent Bench. The catch: Harvey kept the checkpoints private, and rubric wins didn't lift style ratings on Muse or Inkling.",
-            href: "https://x.com/harvey/status/2125259420259250209",
-            linkPair: [
-              "https://x.com/nikogrupen/status/2125258400866910269",
-            ],
-            embeds: [
-              { type: "tweet", href: "https://x.com/harvey/status/2125259420259250209" },
-            ],
-            notes: "Rank-64 LoRA with CISPO/Dr. GRPO on Baseten Loops (Tinker for Inkling 2 Small); all four topped 20% all-pass (beating Kimi K3) without regressing on SWE-bench Pro, and Muse hit 30.3% with 36% fewer output tokens. Sets up Big Tech Moves: US open weights just crossed the line where enterprises can drop Chinese bases.",
-          },
-          {
             title: "Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof",
             description: "Anthropic's Levent Alpöge posted a 17.4-million-line Lean proof of the Riemann Hypothesis built with Claude, and the Lean and Mathlib communities certified it the next day. Hours earlier, AMS president Ravi Vakil rushed out an unfinished \"all human\" GRH draft—then walked it back after AI-assisted readers flagged flaws.",
             href: "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",

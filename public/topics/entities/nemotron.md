@@ -13,7 +13,7 @@ Nemotron is NVIDIA's open model family, recurring in Sovereign AI Club through o
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Open model releases** and **Harvey post-trains four US open models past Kimi K3**.
+- [[Sovereign AI Club - November 25, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - November 11, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - October 21, 2026]]: **Open model releases**.
 - [[Sovereign AI Club - September 30, 2026]]: **Open model releases**.

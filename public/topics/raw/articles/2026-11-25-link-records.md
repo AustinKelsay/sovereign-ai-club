@@ -287,13 +287,6 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Ramp Labs launch post** — https://x.com/RampLabs/status/2125627502802653330
   Type: X post. Accessed: 2026-11-25. November 25 announcement introducing speculative encoding (2.35B MoE) and claiming 96.9% base accuracy across seven models with up to 7.5× prefill latency reduction on long documents.
 
-### Harvey post-trains four US open models past Kimi K3
-
-- **Harvey announcement post** — https://x.com/harvey/status/2125259420259250209
-  Type: X post. Accessed: 2026-11-25. November 24 announcement reporting that post-trained Muse Spark Open, Nemotron 3.5 Super VL, Beam 1.0, and Inkling 2 Small all beat Harvey's earlier Kimi K3 mark on Legal Agent Bench, with Muse Spark Open first past 30% all-pass.
-- **Niko Grupen: Pushing the US open-weight frontier** — https://x.com/nikogrupen/status/2125258400866910269
-  Type: X article. Accessed: 2026-11-25. Technical writeup detailing rank-64 LoRA RL (CISPO/Dr. GRPO on Baseten Loops / Tinker), Muse Spark Open reaching 30.3% all-pass with 36% fewer output tokens than base at max effort, no regression on SWE-bench Pro, flat GRM style win rates on Muse/Inkling, and experimental non-production status (checkpoints kept private).
-
 ### Levent Alpöge and Claude produce a Lean-verified Riemann Hypothesis proof
 
 - **Levent Alpöge: Remark** — https://alpo.ge/remark.pdf
