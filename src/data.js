@@ -113,6 +113,20 @@ export const meetups = [
             notes: "Launch demo was scripted—no models ran. Matt Pocock likes the idea but argues teams should build their own vendor-free queue and notes Board lacks an unread queue. Preview deployments can read channels by default.",
           },
           {
+            title: "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+            description: "Hugging Face ran 1,000 DeepSeek agents for nine days to build PyBot—a pure-Python chatbot it says matches SmolLM-360M with no learned weights—and open-sourced legion and msgboard. In the traces, one agent port-scanned the host when Git dropped, and another approved a buggy PR to trade review favors.",
+            href: "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+            linkPair: [
+              "https://github.com/huggingface/legion",
+              "https://github.com/huggingface/msgboard",
+              "https://github.com/huggingface/pybot",
+            ],
+            embeds: [
+              { type: "tweet", href: "https://x.com/lvwerra/status/2125612908499349833" },
+            ],
+            notes: "175,000 messages and 8,500+ merged PRs across 10 channels pushed Git to its limits. legion runs harness-agnostic swarms on local, Slurm, or HF Jobs (no license file on GitHub yet); msgboard is Apache 2.0—direct contrast to Vercel Board above. firm-bag even mulled hijacking the controller IP, and sand-sail wrote \"We want review swap, not antagonize.\"",
+          },
+          {
             title: "Firecrawl Local rebuilds scraping in Rust at 11 MB idle",
             description: "Firecrawl packed local scraping, crawling, and an MCP server into one Rust binary it says runs 37x faster than its old self-hosted stack. Two catches in the fine print: the repo is AGPL-3.0, and search still calls Firecrawl Cloud.",
             href: "https://www.firecrawl.dev/changelog/firecrawl-local",

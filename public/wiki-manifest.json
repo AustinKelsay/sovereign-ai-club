@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:05:07.672Z",
+  "generatedAt": "2026-11-25T17:08:12.951Z",
   "pages": [
     {
       "id": "abliterlitics",
@@ -607,6 +607,7 @@
         "gigatoken",
         "gpt-56",
         "hermes-agent",
+        "hugging-face",
         "human-rights-foundation",
         "humanoid-robotics",
         "jev",
@@ -2176,6 +2177,41 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.firecrawl.dev/changelog/firecrawl-local",
           "title": "Firecrawl Local rebuilds scraping in Rust at 11 MB idle",
           "section": "Agent Infrastructure",
@@ -3415,7 +3451,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Google and NVIDIA hand open agent sandboxes to CNCF**, **Vercel Labs' screen-relay streams desktops to agents at 120 fps**, **Pirate Face ships a CLI to torrent open models**, and **Lastbook packs an offline survival library with local LLM chat**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
+      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Google and NVIDIA hand open agent sandboxes to CNCF**, **Vercel Labs' screen-relay streams desktops to agents at 120 fps**, **Pirate Face ships a CLI to torrent open models**, and **Lastbook packs an offline survival library with local LLM chat**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
     },
     {
       "id": "agent-payments",
@@ -3858,6 +3894,41 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-may-13-2026",
           "sourcePageTitle": "Sovereign AI Club - May 13, 2026"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
@@ -4987,7 +5058,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA hand open agent sandboxes to CNCF**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
+      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Google and NVIDIA hand open agent sandboxes to CNCF**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
     },
     {
       "id": "ai-benchmarks-evals",
@@ -30890,7 +30961,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-07-08",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "DeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competition, distillation controversy, and fast inference research around speculative decoding.",
       "rawHref": "/topics/entities/deepseek.md",
       "relativePath": "entities/deepseek.md",
@@ -30925,6 +30996,7 @@
         "dwarfstar",
         "glm",
         "gufo",
+        "hugging-face",
         "inference-optimization",
         "model-distillation",
         "models-research",
@@ -31418,6 +31490,41 @@
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-march-18-2026",
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/basetenlabs/deepseek-ultrafast",
@@ -33184,7 +33291,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# DeepSeek\n\nDeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competition, distillation controversy, and fast inference research around speculative decoding.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Baseten and Magnitude push open-model speed from opposite ends**, **Vals launches a public ledger of models caught cheating**, and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.\n- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases** and **Chinese frontier models converged on linear and sparse attention**.\n- [[Sovereign AI Club - August 5, 2026]]: **DeepSeek V4 Flash 0731 is absurd for 13B active** and **AirLLM streams giant MoEs onto hobbyist VRAM**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Zai launches AutoClaw**.\n- [[Sovereign AI Club - March 18, 2026]]: **Claude distillation claims**.\n\n## Related\n\n- [[Open Models]]\n- [[Model Distillation]]\n- [[Speculative Decoding]]\n- [[DeepSpec]]\n- [[AI Benchmarks & Evals]]\n- [[Agent Cost Controls]]\n- [[Z.ai]]\n- [[Moonshot AI]]\n- [[MiniMax]]\n- [[vLLM]]\n- [[Unsloth]]\n- [[Strata]]\n- [[Gufo]]"
+      "bodyMarkdown": "# DeepSeek\n\nDeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competition, distillation controversy, and fast inference research around speculative decoding.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Baseten and Magnitude push open-model speed from opposite ends**, **Vals launches a public ledger of models caught cheating**, and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.\n- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases** and **Chinese frontier models converged on linear and sparse attention**.\n- [[Sovereign AI Club - August 5, 2026]]: **DeepSeek V4 Flash 0731 is absurd for 13B active** and **AirLLM streams giant MoEs onto hobbyist VRAM**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Zai launches AutoClaw**.\n- [[Sovereign AI Club - March 18, 2026]]: **Claude distillation claims**.\n\n## Related\n\n- [[Open Models]]\n- [[Model Distillation]]\n- [[Speculative Decoding]]\n- [[DeepSpec]]\n- [[AI Benchmarks & Evals]]\n- [[Agent Cost Controls]]\n- [[Z.ai]]\n- [[Moonshot AI]]\n- [[MiniMax]]\n- [[vLLM]]\n- [[Unsloth]]\n- [[Strata]]\n- [[Gufo]]"
     },
     {
       "id": "deepspec",
@@ -46697,12 +46804,14 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-09-08",
-      "updated": "2026-11-23",
-      "excerpt": "Hugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice.",
+      "updated": "2026-11-25",
+      "excerpt": "Hugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice. On November 25, 2026, Hugging Face research published a 1,000-agent DeepSeek swarm field report (`PyBot`, 175,000 messages, 8,500+ PRs) and open-sourced `legion` and Apache 2.0 `msgboard`.",
       "rawHref": "/topics/entities/hugging-face.md",
       "relativePath": "entities/hugging-face.md",
       "outgoingIds": [
+        "agent-infrastructure",
         "big-tech-moves",
+        "deepseek",
         "nvidia",
         "open-models",
         "sovereign-ai-club-november-25-2026",
@@ -46718,6 +46827,41 @@
         "sovereign-ai-club-september-9-2026"
       ],
       "referencedTopicSources": [
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
         {
           "href": "https://pirateface.co",
           "title": "Pirate Face ships a CLI to torrent open models",
@@ -47034,7 +47178,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Hugging Face\n\nHugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**.\n- [[Sovereign AI Club - October 21, 2026]]: **Hugging Face trains open models inside Claude Code and Codex**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA agrees to acquire Hugging Face**.\n\n## Related\n\n- [[Open Models]]\n- [[NVIDIA]]\n- [[Big Tech Moves]]"
+      "bodyMarkdown": "# Hugging Face\n\nHugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice. On November 25, 2026, Hugging Face research published a 1,000-agent [[DeepSeek]] swarm field report (`PyBot`, 175,000 messages, 8,500+ PRs) and open-sourced `legion` and Apache 2.0 `msgboard`.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**.\n- [[Sovereign AI Club - October 21, 2026]]: **Hugging Face trains open models inside Claude Code and Codex**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA agrees to acquire Hugging Face**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[NVIDIA]]\n- [[Big Tech Moves]]"
     },
     {
       "id": "human-rights-foundation",
@@ -134169,6 +134313,11 @@
         "https://github.com/vercel/board",
         "https://x.com/rauchg/status/2123237505810178434",
         "https://x.com/mattpocockuk/status/2124797717834543167",
+        "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+        "https://github.com/huggingface/legion",
+        "https://github.com/huggingface/msgboard",
+        "https://github.com/huggingface/pybot",
+        "https://x.com/lvwerra/status/2125612908499349833",
         "https://www.firecrawl.dev/changelog/firecrawl-local",
         "https://github.com/firecrawl/firecrawl",
         "https://x.com/firecrawl/status/2123096169630912637",
@@ -134463,6 +134612,31 @@
         {
           "href": "https://x.com/mattpocockuk/status/2124797717834543167",
           "title": "Vercel ships a shared message board for agent swarms",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
           "section": "Agent Infrastructure"
         },
         {
@@ -135805,6 +135979,11 @@
         "https://github.com/vercel/board",
         "https://x.com/rauchg/status/2123237505810178434",
         "https://x.com/mattpocockuk/status/2124797717834543167",
+        "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+        "https://github.com/huggingface/legion",
+        "https://github.com/huggingface/msgboard",
+        "https://github.com/huggingface/pybot",
+        "https://x.com/lvwerra/status/2125612908499349833",
         "https://www.firecrawl.dev/changelog/firecrawl-local",
         "https://github.com/firecrawl/firecrawl",
         "https://x.com/firecrawl/status/2123096169630912637",
@@ -136099,6 +136278,31 @@
         {
           "href": "https://x.com/mattpocockuk/status/2124797717834543167",
           "title": "Matt Pocock's critique",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face Swarms: Scaling Swarms to Thousands of Agents",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "huggingface/legion",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "huggingface/msgboard",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "huggingface/pybot",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Leandro von Werra launch post",
           "section": "Agent Infrastructure"
         },
         {
@@ -153914,6 +154118,7 @@
         "gigatoken",
         "gpt-56",
         "hermes-agent",
+        "hugging-face",
         "human-rights-foundation",
         "humanoid-robotics",
         "jev",
@@ -155483,6 +155688,41 @@
           "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
           "href": "https://www.firecrawl.dev/changelog/firecrawl-local",
           "title": "Firecrawl Local rebuilds scraping in Rust at 11 MB idle",
           "section": "Agent Infrastructure",
@@ -156722,7 +156962,7 @@
           "sourcePageTitle": "Sovereign AI Club - June 24, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Google and NVIDIA hand open agent sandboxes to CNCF**, **Vercel Labs' screen-relay streams desktops to agents at 120 fps**, **Pirate Face ships a CLI to torrent open models**, and **Lastbook packs an offline survival library with local LLM chat**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
+      "bodyMarkdown": "# Agent Infrastructure\n\nAgent Infrastructure is the Sovereign AI Club track for runtimes, protocols, interfaces, orchestration layers, tool-calling systems, and deployment plumbing.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Vercel ships a shared message board for agent swarms**, **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Firecrawl Local rebuilds scraping in Rust at 11 MB idle**, **Google and NVIDIA hand open agent sandboxes to CNCF**, **Vercel Labs' screen-relay streams desktops to agents at 120 fps**, **Pirate Face ships a CLI to torrent open models**, and **Lastbook packs an offline survival library with local LLM chat**.\n- [[Sovereign AI Club - November 11, 2026]]: **Revolut makes self-hosted GLM the default for 2,000 engineers**, **FlashState more than doubles vLLM throughput on hybrid models**, **1Password for Agents signs agents in without handing over the password**, and **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **Agents decompile games and mash them together**, **ArtCraft's Rust apps stand in for seven Adobe tools**, **Reverse Engineer Anything passes Linux in GitHub stars**, **Same model, different harness: 8090's DeepSWE run**, **Hugging Face trains open models inside Claude Code and Codex**, **flow-1, a model for checking agent traces**, **Agent swarms: Prime Agent's Rust port and GPT-Rosalind's brain atlas**, **Earendil's Pi 1.0 and Pi Durable**, **dax's OpenTunnel keeps TLS on your machine**, **Reason Network lets your agents message your teammates' agents**, **Cua Spaces lets any agent bring its own computer**, **TensorFold vs. oMLX on an M5 Ultra Studio**, **EAGLE-4 drafts Qwen3.8-27B 3.40× faster on four B300s**, and **Perplexity Computer goes fully local on Mac**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Bend 2 makes coding agents prove their rules** and **Mitchell Hashimoto's whiteboard defense for AI-written code**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Jev ships closed; open clones follow within days**.\n- [[Sovereign AI Club - September 30, 2026]]: **OpenAI DevDay: dots, Codex Cloud and a bigger platform**.\n- [[Sovereign AI Club - September 9, 2026]]: **Tailcat connects agent sandboxes without a Tailscale account**, **NVIDIA PAIR routes inference across your local PCs**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI opens the Codex harness as a product platform**, **Omarchy Quattro makes coding agents an OS default**, and **Berd sits above goose, Claude Code, and Codex**.\n- [[Sovereign AI Club - August 5, 2026]]: **Uncle Bob's senior job is constraints, not reading agent code**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, **Prime Agent is an open RLM coding harness that can rewrite itself**, and **Meta ships Muse Code with co-trained Muse Spark 1.2**.\n- [[Sovereign AI Club - July 22, 2026]]: **Bun's Rust rewrite makes agent cost impossible to ignore**, **GPT-5.6 ships the multi-agent runtime, not just the model**, **AlphaEvolve turns algorithm discovery into a cloud product**, **OpenAI Presence productizes the agent contact center**, **Gigatoken pushes tokenization into GB/s**, and **Buzz puts humans and agents on one signed event log**.\n- [[Sovereign AI Club - July 8, 2026]]: **Hermes Agent gets model panels as a provider**, **Gemma 4 gives React Native an offline agent loop**, and **Fable 5 becomes the advisor, not the worker**.\n- [[Sovereign AI Club - June 24, 2026]]: **OpenAgents pays the training run in sats**, **HRF turns AI hackathons into an activist training pipeline**, **Hermes Agent gets a Stripe wallet**, **Apple makes Mac agent sandboxes native**, **vLLM turns weird open models into runnable systems**, and **One API, many models becomes the frontier wrapper**.\n- [[Sovereign AI Club - June 10, 2026]]: **Microsoft wants the whole agent stack**, **Claude gets its cloud-bill moment**, **AI Twitter advice has a six-month half-life**, **Stop prompting agents, start designing loops**, **Local AI becomes bandwidth math**, and **Vector compression hits 10x without the quality tax**.\n- [[Sovereign AI Club - May 13, 2026]]: **Claude as bitcoin wallet forensics**, **Matt Pocock, prompts better than me.**, **Sandcastle**, **The agent harness belongs outside the sandbox**, **Dumb AI loops die in production**, **Amnesic personal OS**, **Agents as fields**, **YC wants a company brain**, **Isaac Sim for beginners**, **Attune patches the open-model tool-call boundary**, and **Claude Managed Agents learn between runs**.\n- [[Sovereign AI Club - April 15, 2026]]: **mesh-llm pools compute for open models**, **Karpathy's LLM wiki idea**, and **Everybody wants an agent story now**.\n- [[Sovereign AI Club - April 1, 2026]]: **NVIDIA wants a place in the agent stack too**, **Chrome DevTools MCP**, **402 Index paid API loop demo**, **Zai launches AutoClaw**, **Ollama launches Pi**, and **Claude Code gets computer use**.\n- [[Sovereign AI Club - March 18, 2026]]: **Agent Overload**, **CLI vs MCP**, **OpenAI WebSockets**, **Frontier lab agent frameworks**, **Claude Code + Codex updates roundup**, and **sage**.\n\n## Related\n\n- [[REA]]\n- [[Bend 2]]\n- [[Whiteboard Defense]]\n\n- [[Jev]]\n\n- [[AlphaEvolve]]\n- [[OpenAI Presence]]\n- [[Cloudflare OS]]\n- [[Omarchy]]\n- [[Berd]]\n- [[Block]]\n- [[Buzz]]\n- [[Prime Agent]]\n- [[Recursive Language Models]]\n- [[Meta Muse]]\n- [[OpenAI]]\n- [[Microsoft]]\n- [[Fish Audio]]\n- [[Agent Payments]]\n- [[OpenAgents]]\n- [[OpenRouter]]\n- [[OpenRouter Fusion]]\n- [[Sakana AI]]\n- [[Sakana Fugu]]\n- [[Apple]]\n- [[Human Rights Foundation]]\n- [[Agent Cost Controls]]\n- [[Local AI]]\n- [[vLLM]]\n- [[Vercel]]\n- [[Company Brain]]\n- [[Claude Code]]\n- [[Codex]]\n- [[Cognition]]\n- [[React Native ExecuTorch]]\n- [[Hermes Agent]]\n- [[Qwen-AgentWorld]]\n- [[Cursor Origin]]\n- [[Pylon]]\n- [[Apple Container]]"
     },
     "agent-payments": {
       "id": "agent-payments",
@@ -157165,6 +157405,41 @@
           "section": "Security",
           "sourcePageId": "sovereign-ai-club-may-13-2026",
           "sourcePageTitle": "Sovereign AI Club - May 13, 2026"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf",
@@ -158294,7 +158569,7 @@
           "sourcePageTitle": "Sovereign AI Club - April 15, 2026"
         }
       ],
-      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Google and NVIDIA hand open agent sandboxes to CNCF**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
+      "bodyMarkdown": "# Agent Security\n\nAgent Security covers the security controls, trust boundaries, governance tooling, and attack surfaces created when AI agents use tools, credentials, browsers, codebases, and enterprise systems.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Google and NVIDIA hand open agent sandboxes to CNCF**, **Anthropic's Siren catches Claude stepping out of leaky sandboxes**, **FBI warns on ARTEX while defenders build AI decoy mazes**, **Vals launches a public ledger of models caught cheating**, and **OpenAI and Cisco launch Shirudo for agent-written Linux shields**.\n- [[Sovereign AI Club - November 11, 2026]]: **1Password for Agents signs agents in without handing over the password**, **AWS Nitro Sandboxes and Google's TPU 8tx put agents in hardware-isolated boxes**, **Cohere says Qwen3.8-Flash-Next tried to upload to a Beijing bucket**, **Lazarus and encrypted lockers hide backdoors in model weights**, and **NEAR AI's confidential inference was breached through an SGLang bug**.\n\n- [[Sovereign AI Club - October 21, 2026]]: **ProjectDiscovery's $50 LoRA backdoor**, **Cantina's apex-flash-1**, **Anthropic's IoT self-replication eval**, **OpenCode distillation attack**, **Reason Network lets your agents message your teammates' agents**, and **Cua Spaces lets any agent bring its own computer**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **OpenClaw Enterprise puts persistent agents on your own infrastructure**.\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **Mythos 5 kept telling itself the internet was fake**, **NVIDIA puts the agent kill switch in the DPU**.\n- [[Sovereign AI Club - September 9, 2026]]: **Anthropic deliberately trains a reward-hacking Opus**, **OpenAI’s wiki incident forces a disclosure question**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **OpenAI pauses frontier training after Astra approaches critical cyber**, **OpenAI writes up the Hugging Face eval as a warning shot**, **Encrypted reasoning blobs decrypt via weaker sibling models**, **CoSnitch turns Copilot memory into persistent attacker state**, and **Google ships a runnable zero-trust agent failure lab**.\n- [[Sovereign AI Club - August 5, 2026]]: **AISI: Mythos 5 tried a live supply-chain attack in cyber testing**, **Microsoft pitches MAI-Cyber-1-Flash as half-cost cyber agents**, **Cloudflare OS turns Sandstorm's grain model into agent-safe Gadgets**, and **Hugging Face turns the July agent intrusion into a playable timeline**.\n- [[Sovereign AI Club - May 27, 2026]]: **TrapDoor supply chain attack hijacks AI coding assistants**.\n- [[Sovereign AI Club - May 13, 2026]]: **Dumb AI loops die in production**, **GPT-5.5-Cyber opens the trust gate**, **Loupe scans Bitcoin open source before attackers do**, and **Cursor + Claude deletes PocketOS production data**.\n- [[Sovereign AI Club - April 15, 2026]]: **Microsoft Agent Governance Toolkit**, **OWASP Secure Agent Playbook**, **AI Trust Commons governance framework**, and **Anthropic launches Project Glasswing with Claude Mythos Preview**.\n- [[Sovereign AI Club - April 1, 2026]]: **Black-hat LLMs**.\n- [[Sovereign AI Club - March 18, 2026]]: **Security nightmare thread**, **SEO Injection**, **KeepAI**, and **plebdev's adversarial AI course**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Supply Chain Security]]\n- [[AI SaaS Supply Chain]]\n- [[Cloudflare OS]]\n- [[Codex]]\n- [[Claude Code]]\n- [[Microsoft]]\n- [[Security]]"
     },
     "ai-benchmarks-evals": {
       "id": "ai-benchmarks-evals",
@@ -184197,7 +184472,7 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-07-08",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "excerpt": "DeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competition, distillation controversy, and fast inference research around speculative decoding.",
       "rawHref": "/topics/entities/deepseek.md",
       "relativePath": "entities/deepseek.md",
@@ -184232,6 +184507,7 @@
         "dwarfstar",
         "glm",
         "gufo",
+        "hugging-face",
         "inference-optimization",
         "model-distillation",
         "models-research",
@@ -184725,6 +185001,41 @@
           "section": "Agent Infrastructure",
           "sourcePageId": "sovereign-ai-club-march-18-2026",
           "sourcePageTitle": "Sovereign AI Club - March 18, 2026"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
         },
         {
           "href": "https://github.com/basetenlabs/deepseek-ultrafast",
@@ -186491,7 +186802,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# DeepSeek\n\nDeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competition, distillation controversy, and fast inference research around speculative decoding.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Baseten and Magnitude push open-model speed from opposite ends**, **Vals launches a public ledger of models caught cheating**, and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.\n- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases** and **Chinese frontier models converged on linear and sparse attention**.\n- [[Sovereign AI Club - August 5, 2026]]: **DeepSeek V4 Flash 0731 is absurd for 13B active** and **AirLLM streams giant MoEs onto hobbyist VRAM**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Zai launches AutoClaw**.\n- [[Sovereign AI Club - March 18, 2026]]: **Claude distillation claims**.\n\n## Related\n\n- [[Open Models]]\n- [[Model Distillation]]\n- [[Speculative Decoding]]\n- [[DeepSpec]]\n- [[AI Benchmarks & Evals]]\n- [[Agent Cost Controls]]\n- [[Z.ai]]\n- [[Moonshot AI]]\n- [[MiniMax]]\n- [[vLLM]]\n- [[Unsloth]]\n- [[Strata]]\n- [[Gufo]]"
+      "bodyMarkdown": "# DeepSeek\n\nDeepSeek is a recurring Sovereign AI Club entity for Chinese open-model competition, distillation controversy, and fast inference research around speculative decoding.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Baseten and Magnitude push open-model speed from opposite ends**, **Vals launches a public ledger of models caught cheating**, and **Will DePue's weight forensics claim Chinese labs used Blackwell GPUs**.\n- [[Sovereign AI Club - October 21, 2026]]: **Open model releases**, **Specialized engines and recipes run Qwen and DeepSeek at home**, and **DHS orders DeepSeek out of federal civilian IT**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Open model releases**, **Anthropic says DeepSeek and Kimi quietly served Claude**.\n- [[Sovereign AI Club - September 9, 2026]]: **DeepSeek Harness could bypass its own sandbox controls**.\n\n- [[Sovereign AI Club - September 9, 2026]]: **Open model releases**.\n\n- [[Sovereign AI Club - August 26, 2026]]: **Open model releases** and **Chinese frontier models converged on linear and sparse attention**.\n- [[Sovereign AI Club - August 5, 2026]]: **DeepSeek V4 Flash 0731 is absurd for 13B active** and **AirLLM streams giant MoEs onto hobbyist VRAM**.\n- [[Sovereign AI Club - July 8, 2026]]: **Open model releases**.\n- [[Sovereign AI Club - April 1, 2026]]: **Zai launches AutoClaw**.\n- [[Sovereign AI Club - March 18, 2026]]: **Claude distillation claims**.\n\n## Related\n\n- [[Open Models]]\n- [[Model Distillation]]\n- [[Speculative Decoding]]\n- [[DeepSpec]]\n- [[AI Benchmarks & Evals]]\n- [[Agent Cost Controls]]\n- [[Z.ai]]\n- [[Moonshot AI]]\n- [[MiniMax]]\n- [[vLLM]]\n- [[Unsloth]]\n- [[Strata]]\n- [[Gufo]]"
     },
     "deepspec": {
       "id": "deepspec",
@@ -200004,12 +200315,14 @@
       "sourceLinks": [],
       "sourceReferences": [],
       "created": "2026-09-08",
-      "updated": "2026-11-23",
-      "excerpt": "Hugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice.",
+      "updated": "2026-11-25",
+      "excerpt": "Hugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice. On November 25, 2026, Hugging Face research published a 1,000-agent DeepSeek swarm field report (`PyBot`, 175,000 messages, 8,500+ PRs) and open-sourced `legion` and Apache 2.0 `msgboard`.",
       "rawHref": "/topics/entities/hugging-face.md",
       "relativePath": "entities/hugging-face.md",
       "outgoingIds": [
+        "agent-infrastructure",
         "big-tech-moves",
+        "deepseek",
         "nvidia",
         "open-models",
         "sovereign-ai-club-november-25-2026",
@@ -200025,6 +200338,41 @@
         "sovereign-ai-club-september-9-2026"
       ],
       "referencedTopicSources": [
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure",
+          "sourcePageId": "sovereign-ai-club-november-25-2026",
+          "sourcePageTitle": "Sovereign AI Club - November 25, 2026"
+        },
         {
           "href": "https://pirateface.co",
           "title": "Pirate Face ships a CLI to torrent open models",
@@ -200341,7 +200689,7 @@
           "sourcePageTitle": "Sovereign AI Club - September 9, 2026"
         }
       ],
-      "bodyMarkdown": "# Hugging Face\n\nHugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**.\n- [[Sovereign AI Club - October 21, 2026]]: **Hugging Face trains open models inside Claude Code and Codex**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA agrees to acquire Hugging Face**.\n\n## Related\n\n- [[Open Models]]\n- [[NVIDIA]]\n- [[Big Tech Moves]]"
+      "bodyMarkdown": "# Hugging Face\n\nHugging Face hosts models, datasets, and applications and supports model discovery and distribution. NVIDIA announced an agreement to acquire the company on September 3, 2026, with stated commitments to hardware and cloud choice. On November 25, 2026, Hugging Face research published a 1,000-agent [[DeepSeek]] swarm field report (`PyBot`, 175,000 messages, 8,500+ PRs) and open-sourced `legion` and Apache 2.0 `msgboard`.\n\n## Mentioned In\n\n- [[Sovereign AI Club - November 25, 2026]]: **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals**, **Pirate Face ships a CLI to torrent open models**, **Uncensored models: most are repacks, and Pliny's 10-word hack misfired**, and **Ninety AI figures sign \"MisAnthropic\" letter on Anthropic's IPO day**.\n- [[Sovereign AI Club - October 21, 2026]]: **Hugging Face trains open models inside Claude Code and Codex**.\n\n- [[Sovereign AI Club - September 30, 2026]]: **Lab agents hit real systems, and not just in cyber evals**, **NVIDIA's Hugging Face deal revives the torrent exit**.\n- [[Sovereign AI Club - September 9, 2026]]: **NVIDIA agrees to acquire Hugging Face**.\n\n## Related\n\n- [[Agent Infrastructure]]\n- [[Open Models]]\n- [[NVIDIA]]\n- [[Big Tech Moves]]"
     },
     "human-rights-foundation": {
       "id": "human-rights-foundation",
@@ -287476,6 +287824,11 @@
         "https://github.com/vercel/board",
         "https://x.com/rauchg/status/2123237505810178434",
         "https://x.com/mattpocockuk/status/2124797717834543167",
+        "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+        "https://github.com/huggingface/legion",
+        "https://github.com/huggingface/msgboard",
+        "https://github.com/huggingface/pybot",
+        "https://x.com/lvwerra/status/2125612908499349833",
         "https://www.firecrawl.dev/changelog/firecrawl-local",
         "https://github.com/firecrawl/firecrawl",
         "https://x.com/firecrawl/status/2123096169630912637",
@@ -287770,6 +288123,31 @@
         {
           "href": "https://x.com/mattpocockuk/status/2124797717834543167",
           "title": "Vercel ships a shared message board for agent swarms",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
           "section": "Agent Infrastructure"
         },
         {
@@ -289112,6 +289490,11 @@
         "https://github.com/vercel/board",
         "https://x.com/rauchg/status/2123237505810178434",
         "https://x.com/mattpocockuk/status/2124797717834543167",
+        "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+        "https://github.com/huggingface/legion",
+        "https://github.com/huggingface/msgboard",
+        "https://github.com/huggingface/pybot",
+        "https://x.com/lvwerra/status/2125612908499349833",
         "https://www.firecrawl.dev/changelog/firecrawl-local",
         "https://github.com/firecrawl/firecrawl",
         "https://x.com/firecrawl/status/2123096169630912637",
@@ -289406,6 +289789,31 @@
         {
           "href": "https://x.com/mattpocockuk/status/2124797717834543167",
           "title": "Matt Pocock's critique",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face Swarms: Scaling Swarms to Thousands of Agents",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "huggingface/legion",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "huggingface/msgboard",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "huggingface/pybot",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Leandro von Werra launch post",
           "section": "Agent Infrastructure"
         },
         {
@@ -306803,6 +307211,65 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Google and NVIDIA hand open agent sandboxes to CNCF Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html https://github.com/agent-substrate/substrate https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/ https://github.com/NVIDIA/OpenShell https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/ https://x.com/emilahlback/status/2123112073517228286 Agent Infrastructure Agent Security Google NVIDIA"
+    },
+    {
+      "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-hugging-face-opens-its-1000-agent-swarm-stackafter-agents-traded-approvals",
+      "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+      "rawTitle": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+      "normalizedTitle": "hugging face opens its 1,000-agent swarm stack—after agents traded approvals",
+      "section": "Agent Infrastructure",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+        "https://github.com/huggingface/legion",
+        "https://github.com/huggingface/msgboard",
+        "https://github.com/huggingface/pybot",
+        "https://x.com/lvwerra/status/2125612908499349833"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        }
+      ],
+      "wikiIds": [
+        "agent-infrastructure",
+        "agent-security",
+        "deepseek",
+        "hugging-face"
+      ],
+      "wikiTitles": [
+        "Agent Infrastructure",
+        "Agent Security",
+        "DeepSeek",
+        "Hugging Face"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms https://github.com/huggingface/legion https://github.com/huggingface/msgboard https://github.com/huggingface/pybot https://x.com/lvwerra/status/2125612908499349833 Agent Infrastructure Agent Security DeepSeek Hugging Face"
     },
     {
       "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-lastbook-packs-an-offline-survival-library-with-local-llm-chat",
@@ -331272,6 +331739,65 @@
       ],
       "unresolvedWikiLinks": [],
       "searchText": "Google and NVIDIA hand open agent sandboxes to CNCF Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html https://github.com/agent-substrate/substrate https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/ https://github.com/NVIDIA/OpenShell https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/ https://x.com/emilahlback/status/2123112073517228286 Agent Infrastructure Agent Security Google NVIDIA"
+    },
+    "sovereign-ai-club-november-25-2026-agent-infrastructure-hugging-face-opens-its-1000-agent-swarm-stackafter-agents-traded-approvals": {
+      "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-hugging-face-opens-its-1000-agent-swarm-stackafter-agents-traded-approvals",
+      "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+      "rawTitle": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+      "normalizedTitle": "hugging face opens its 1,000-agent swarm stack—after agents traded approvals",
+      "section": "Agent Infrastructure",
+      "meetupId": "sovereign-ai-club-november-25-2026",
+      "meetupTitle": "Sovereign AI Club - November 25, 2026",
+      "meetupSlug": "2026-11-25",
+      "meetupHref": "/topics/2026-11-25.md",
+      "sourceLinks": [
+        "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+        "https://github.com/huggingface/legion",
+        "https://github.com/huggingface/msgboard",
+        "https://github.com/huggingface/pybot",
+        "https://x.com/lvwerra/status/2125612908499349833"
+      ],
+      "sourceReferences": [
+        {
+          "href": "https://github.com/huggingface/legion",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/msgboard",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://github.com/huggingface/pybot",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        },
+        {
+          "href": "https://x.com/lvwerra/status/2125612908499349833",
+          "title": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals",
+          "section": "Agent Infrastructure"
+        }
+      ],
+      "wikiIds": [
+        "agent-infrastructure",
+        "agent-security",
+        "deepseek",
+        "hugging-face"
+      ],
+      "wikiTitles": [
+        "Agent Infrastructure",
+        "Agent Security",
+        "DeepSeek",
+        "Hugging Face"
+      ],
+      "unresolvedWikiLinks": [],
+      "searchText": "Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals Agent Infrastructure Sovereign AI Club - November 25, 2026 2026-11-25 https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms https://github.com/huggingface/legion https://github.com/huggingface/msgboard https://github.com/huggingface/pybot https://x.com/lvwerra/status/2125612908499349833 Agent Infrastructure Agent Security DeepSeek Hugging Face"
     },
     "sovereign-ai-club-november-25-2026-agent-infrastructure-lastbook-packs-an-offline-survival-library-with-local-llm-chat": {
       "id": "sovereign-ai-club-november-25-2026-agent-infrastructure-lastbook-packs-an-offline-survival-library-with-local-llm-chat",
@@ -359000,6 +359526,10 @@
     },
     {
       "source": "hugging-face",
+      "target": "deepseek"
+    },
+    {
+      "source": "hugging-face",
       "target": "sovereign-ai-club-november-25-2026"
     },
     {
@@ -359013,6 +359543,10 @@
     {
       "source": "hugging-face",
       "target": "sovereign-ai-club-september-9-2026"
+    },
+    {
+      "source": "hugging-face",
+      "target": "agent-infrastructure"
     },
     {
       "source": "hugging-face",
@@ -366261,7 +366795,7 @@
           "track",
           "agent-infrastructure"
         ],
-        "degree": 139,
+        "degree": 140,
         "updated": "2026-11-25"
       },
       {
@@ -366907,8 +367441,8 @@
           "model",
           "open-source"
         ],
-        "degree": 43,
-        "updated": "2026-11-23"
+        "degree": 44,
+        "updated": "2026-11-25"
       },
       {
         "id": "deepspec",
@@ -367221,8 +367755,8 @@
           "entity",
           "big-tech-moves"
         ],
-        "degree": 11,
-        "updated": "2026-11-23"
+        "degree": 13,
+        "updated": "2026-11-25"
       },
       {
         "id": "human-rights-foundation",
@@ -373269,6 +373803,11 @@
       },
       {
         "source": "hugging-face",
+        "target": "deepseek",
+        "kind": "wiki"
+      },
+      {
+        "source": "hugging-face",
         "target": "sovereign-ai-club-november-25-2026",
         "kind": "topic"
       },
@@ -373286,6 +373825,11 @@
         "source": "hugging-face",
         "target": "sovereign-ai-club-september-9-2026",
         "kind": "topic"
+      },
+      {
+        "source": "hugging-face",
+        "target": "agent-infrastructure",
+        "kind": "wiki"
       },
       {
         "source": "hugging-face",
@@ -382301,11 +382845,11 @@
   },
   "stats": {
     "pageCount": 217,
-    "topicCount": 389,
+    "topicCount": 390,
     "rawPageCount": 0,
-    "linkCount": 2667,
+    "linkCount": 2669,
     "sourceRecordCount": 16,
-    "sourceLinkCount": 2160,
+    "sourceLinkCount": 2165,
     "unresolvedLinkCount": 0,
     "lastUpdatedAt": "2026-11-25"
   }

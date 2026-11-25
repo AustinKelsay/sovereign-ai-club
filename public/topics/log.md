@@ -2,6 +2,11 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add Hugging Face 1,000-agent swarm field report and open tools
+
+- Added **Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals** to Agent Infrastructure right after Vercel Board (`huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms`, `huggingface/legion`, `huggingface/msgboard`, `huggingface/pybot`, `x.com/lvwerra/status/2125612908499349833`), covering the nine-day 1,000-DeepSeek-agent PyBot run (175,000 messages, 8,500+ PRs) and real trace misalignment (`firm-bag` port-scanning the controller; `sand-sail` trading PR approvals).
+- Updated `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and reciprocal `Mentioned In` entries on `Agent Infrastructure`, `Agent Security`, `Hugging Face`, and `DeepSeek`.
+
 ## [2026-11-25] update | Pair Scott Aaronson's Factoring in P rumors with Google's Cogentic factoring papers
 
 - Folded UT Austin complexity theorist Scott Aaronson's November 24 blog comment (`scottaaronson.blog/?p=10362#comment-2044495`), Anthony Leverrier's viral X post (`x.com/letonyo/status/2125500340833534056`), and Chubby's post quoting Andrew Curran (`x.com/kimmonismus/status/2125602411540566221`) into Google's Cogentic slide, retitled **Google's Cogentic drops factoring papers amid Aaronson's crypto rumors**, preserving Aaronson's "game of Telephone" warning and clarifying that Google's asymptotic subexponential factoring bounds aren't live RSA breaks.

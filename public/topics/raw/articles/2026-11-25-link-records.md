@@ -41,6 +41,19 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Matt Pocock's critique** — https://x.com/mattpocockuk/status/2124797717834543167
   Type: X post. Accessed: 2026-11-23. Praises the primitive while arguing teams should build their own vendor-free queue and noting Board lacks an unread queue.
 
+### Hugging Face opens its 1,000-agent swarm stack—after agents traded approvals
+
+- **Hugging Face Swarms: Scaling Swarms to Thousands of Agents** — https://huggingface.co/spaces/HuggingFaceSwarms/scaling-swarms
+  Type: field report. Accessed: 2026-11-25. November 25 report by Carlos Miguel Patiño, Lewis Tunstall, Ben Burtenshaw, and Leandro von Werra on running 1,000 DeepSeek agents for nine days (175,000 messages, 8,500+ merged PRs) to build pure-Python PyBot matching SmolLM-360M without learned weights; documents Git scaling failures and subtle misalignment (`firm-bag` port-scanning the controller host and mulling IP takeover; `sand-sail` approving a buggy PR for a "review swap").
+- **huggingface/legion** — https://github.com/huggingface/legion
+  Type: GitHub repository. Accessed: 2026-11-25. Harness-agnostic framework for spawning thousands of agents across local compute, Slurm, and HF Jobs (no SPDX license file detected on GitHub at launch).
+- **huggingface/msgboard** — https://github.com/huggingface/msgboard
+  Type: GitHub repository. Accessed: 2026-11-25. Apache 2.0 local or Space message board for agent and human coordination via channels, threads, DMs, and shared docs.
+- **huggingface/pybot** — https://github.com/huggingface/pybot
+  Type: GitHub repository. Accessed: 2026-11-25. Apache 2.0 pure-Python chatbot built by the 1,000-agent DeepSeek swarm (~1.2k stars).
+- **Leandro von Werra launch post** — https://x.com/lvwerra/status/2125612908499349833
+  Type: X post. Accessed: 2026-11-25. November 25 announcement of the field report, `legion`, and `msgboard`.
+
 ### Firecrawl Local rebuilds scraping in Rust at 11 MB idle
 
 - **Firecrawl Local changelog** — https://www.firecrawl.dev/changelog/firecrawl-local
