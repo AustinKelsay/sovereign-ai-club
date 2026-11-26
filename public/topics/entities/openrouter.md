@@ -15,7 +15,7 @@ In November 2026, after Dragos seeded two million canary prompts and caught infe
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Canary prompts expose broken Zero Data Retention across AI routers**.
+- [[Sovereign AI Club - November 25, 2026]]: **Ted replaces Claude with free cloud credits and local Qwen** and **Canary prompts expose broken Zero Data Retention across AI routers**.
 - [[Sovereign AI Club - June 24, 2026]]: **One API, many models becomes the frontier wrapper**.
 
 ## Related

@@ -13,7 +13,7 @@ OpenCode is the coding-agent harness from the Anomaly team. On October 17, 2026 
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **T3 Code's telemetry backlash sparks a 25-tool privacy audit**.
+- [[Sovereign AI Club - November 25, 2026]]: **Ted replaces Claude with free cloud credits and local Qwen** and **T3 Code's telemetry backlash sparks a 25-tool privacy audit**.
 
 - [[Sovereign AI Club - October 21, 2026]]: **OpenCode distillation attack**.
 

@@ -13,7 +13,7 @@ Local Builds & Projects is the Sovereign AI Club track for Austin/member/communi
 
 ## Mentioned In
 
-- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling**.
+- [[Sovereign AI Club - November 25, 2026]]: **Ben Carman uncensors Inkling 2 Mini without breaking tool calling** and **Ted replaces Claude with free cloud credits and local Qwen**.
 - [[Sovereign AI Club - June 24, 2026]]: **Ben turns Bwen into Qwenstradamus**, **OpenAgents pays the training run in sats**, and **HRF turns AI hackathons into an activist training pipeline**.
 - [[Sovereign AI Club - June 10, 2026]]: **Ben's twitter export to dataset**.
 - [[Sovereign AI Club - April 15, 2026]]: **OpenAgents: Pylon + Autopilot**.

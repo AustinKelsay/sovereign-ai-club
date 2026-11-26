@@ -93,6 +93,21 @@ export const meetups = [
             notes: "Harvested on-policy answers from a throwaway abliterated copy, then ran KL-anchored attention training + DPO loop-fix on 120 BF16 layers (1,124 other tensors and DSpark MTP stay SHA-256 identical). Ben's evals: BFCL v4 79.5% → 80.1%, HumanEval low 98.2% → 99.4%, MMLU 76.6% → 75.3%. ~20 GB drop-in vLLM build plus W4A16 and GGUF; bridges directly to Uncensored Models and Maple AI tonight.",
             topStory: true,
           },
+          {
+            title: "Ted replaces Claude with free cloud credits and local Qwen",
+            description: "Sovereign AI Club's Ted built a Claude-free coding setup pairing parallel OpenCode agents on Cloudflare Workers AI's GLM-5.3 with Exa search and local Qwen3.8-27B vision on an RTX 3090 over Tailscale SSH. His interactive slide also maps startup credit programs—from Azure and AWS to OpenRouter and Cloudflare.",
+            href: "https://sovereignai.club/slides/2026-11-25/ai-coding-capacity.html",
+            linkPair: [
+              "https://github.com/AustinKelsay/sovereign-ai-club/issues/64",
+            ],
+            image: {
+              src: "/images/ted-ai-coding-capacity.png",
+              href: "/slides/2026-11-25/ai-coding-capacity.html",
+              alt: "Ted's slide: replacing Claude with free Cloud Credits — OpenCode parallel agents on Cloudflare Workers AI GLM-5.3, local RTX 3090 Qwen3.8-27B vision over Tailscale SSH, Exa web search, and startup credit links.",
+              caption: "Ted's slide (click for interactive HTML with clickable credit links + Cloudflare QR)",
+            },
+            notes: "Stack from Ted's slide (#64): OpenCode Build + parallel subagents on Cloudflare Workers AI GLM-5.3 (266.5 tok/s shown in screenshot); local BOS RTX 3090 24 GB running Qwen3.8-27B via NInfer (7-token DFlash2, RK4V4 KV, 4K cuBLAS prefill, 123 tok/s) with an image queue over Tailscale SSH; Exa for websearch/webfetch. Startup credit programs listed on the slide: Azure ($200), AWS Activate ($1k), Google Cloud ($2k), OpenRouter ($3k), ElevenLabs ($5.5k), Mercury Perks ($10k), and Cloudflare for Startups ($10k + QR).",
+          },
         ],
       },
       {

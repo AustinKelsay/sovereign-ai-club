@@ -2,6 +2,10 @@
 
 > Chronological record of Sovereign AI Club wiki actions.
 
+## [2026-11-25] update | Add Ted's free cloud credits & local Qwen slide to Local Builds & Projects
+
+- Added **Ted replaces Claude with free cloud credits and local Qwen** from GitHub issue #64 (`tedthizzy`) to Local Builds & Projects in `2026-11-25.md`, `src/data.js`, `raw/articles/2026-11-25-link-records.md`, and `concepts/local-builds-projects.md`, hosting the interactive HTML slide at `public/slides/2026-11-25/ai-coding-capacity.html` and embedding a 1600×900@2x preview image at `public/images/ted-ai-coding-capacity.png`.
+
 ## [2026-11-25] update | Fold M3 Code fork & Julius Marminge E2EE pushback into T3 Code slide
 
 - Added `MiaAI-Lab/m3code` and T3 Code maintainer Julius Marminge's (`@jullerino`) November 25 reply (`x.com/jullerino/status/2125435907725754671`) pushing back on M3 Code's opt-in "E2EE" toggle (whose own UI fine print notes the official mobile app still connects without encryption) to **T3 Code's telemetry backlash sparks a 25-tool privacy audit** in `2026-11-25.md`, `src/data.js`, and `raw/articles/2026-11-25-link-records.md`.

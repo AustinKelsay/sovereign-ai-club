@@ -28,6 +28,13 @@ Listings verified November 16: [Bitcoin Park Meetup](https://www.meetup.com/bitc
 - **Ben Carman launch post** — https://x.com/benthecarman/status/2125360428989517991
   Type: X post. Accessed: 2026-11-25. November 24 announcement thanking `@TryMapleAI` for sponsoring compute and sharing the uncensored Inkling 2 Mini checkpoint.
 
+### Ted replaces Claude with free cloud credits and local Qwen
+
+- **Ted's interactive slide: replacing Claude with free Cloud Credits** — https://sovereignai.club/slides/2026-11-25/ai-coding-capacity.html
+  Type: community slide. Accessed: 2026-11-25. Self-contained HTML slide hosted from GitHub issue #64 detailing Ted's Claude-free coding stack: OpenCode running parallel agents against GLM-5.3 on Cloudflare Workers AI, local Qwen3.8-27B vision on an RTX 3090 24 GB via NInfer (7-token DFlash2, RK4V4 KV, 4K cuBLAS prefill, 123 tok/s) with an image queue over Tailscale SSH, Exa `websearch`/`webfetch`, and startup credit application links ($200 Azure, $1k AWS Activate, $2k Google Cloud, $3k OpenRouter, $5.5k ElevenLabs, $10k Mercury Perks, $10k Cloudflare for Startups + QR).
+- **GitHub Issue #64 (`tedthizzy`)** — https://github.com/AustinKelsay/sovereign-ai-club/issues/64
+  Type: community submission. Accessed: 2026-11-25. Member submission attaching `ai-coding-capacity.html` for the November 25, 2026 Local Builds & Projects track.
+
 ## Agent Infrastructure
 
 ### Vercel ships a shared message board for agent swarms
